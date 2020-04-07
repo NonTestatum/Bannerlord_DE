@@ -134,7 +134,7 @@
     <string id="4hNArhst" text="{s12} besagt, dass Sie bereits an einen anderen Herrscher gebunden sind."/>
     <string id="4i88rUhN" text="Sie können reingehen, nachdem Sie Ihre Waffen bei mir gelassen haben. Niemand darf Waffen in den Saal des Fürsten tragen."/>
     <string id="4kQHaxCA" text="Als Marschall wünsche ich, dass Sie eine Botschaft an die Vasallen des Reiches senden"/>
-    <string id="4KSGrUUM" text="Sie wollen, dass ich mein Blut vor einer Festung vergieße, während andere zusehen? Ich glaube nicht."/>
+    <string id="4KSGrUUM" text="Sie wollen, dass ich mein Blut vor einer Burg vergieße, während andere zusehen? Ich glaube nicht."/>
     <string id="4LuiyPVS" text="Sehr gut - sprechen Sie mir nach:^ Sie sind der Erste und der Letzte^ der Äußere und der Innere^ Wenn ich aus dem Kelch der Liebe trinke^ entfliehe ich dem Lauf der Zeit^ Ein Moment in Einsamkeit mit Ihnen^ Hätte keinen Anfang und kein Ende"/>
     <string id="4m0ZP6X5" text="Du Dummkopf! Hören Sie auf mit den Spielchen und geben Sie uns das Geld! "/>
     <string id="4MGIQ0aD" text="{s6}"/>
@@ -171,7 +171,7 @@
     <string id="61pkEUO6" text="Hast du noch weitere Fragen?"/>
     <string id="62Swreyg" text="Ach, Sie sind es. Klären Sie mich auf, wie genau verliert man einen einfachen Kampf gegen einen schäbigen, niederträchtigen Händler? Wenn ich jemals eine Lektion von meinen Gardisten brauche, wie man sich hinlegt und stirbt, werde ich sicher zu Ihnen kommen. Lasst mich einfach in Ruhe, {PLAYER.LINK}, ich habe Dinge zu erledigen."/>
     <string id="68RRwc05" text="Ich dachte, wir könnten vielleicht ein Fest veranstalten"/>
-    <string id="69X8QbBL" text="Logen und Vasallen beobachten sich immer noch genau. Wenn ein König glaubt, dass sein Vasall die Seite wechseln oder rebellieren wird, kann er den Vasall wegen Verrats anklagen und seinen Besitz beschlagnahmen. Wenn ein Vasall befürchtet, dass er angeklagt wird, kann er sich auch auflehnen. In der Regel kann derjenige, der den ersten Schritt macht, die Festungen des Vasallen kontrollieren."/>
+    <string id="69X8QbBL" text="Logen und Vasallen beobachten sich immer noch genau. Wenn ein König glaubt, dass sein Vasall die Seite wechseln oder rebellieren wird, kann er den Vasall wegen Verrats anklagen und seinen Besitz beschlagnahmen. Wenn ein Vasall befürchtet, dass er angeklagt wird, kann er sich auch auflehnen. In der Regel kann derjenige, der den ersten Schritt macht, die Burgen des Vasallen kontrollieren."/>
     <string id="6BepfADB" text="Ich bin gekommen, um dich von hier herauszuholen"/>
     <string id="6cehZIdT" text="Ich habe einige vertrauenswürdige Männer in meiner Band, die Ihnen von Nutzen sein könnten. Was wollen Sie mit ihnen machen?"/>
     <string id="6cupscqe" text="Machen Sie weiter, was Sie gemacht haben. Ich komme später nach."/>
@@ -326,7 +326,7 @@
     <string id="aTHSnH6p" text="Ah! Sie sind ein Romantiker, wie ich sehe! Nun, abgesehen von den offensichtlichen Vorteilen der Liebe, der Kameradschaft und anderer, em, häuslicher Angelegenheiten, bringt eine Heirat unter dem Adel große Vorteile. Sie haben vielleicht Zugang zu den Schlössern und Besitztümern des Bräutigams und können mit ihm zusammenarbeiten, um Ihre beiden Positionen im Reich voranzubringen."/>
     <string id="ATTAbbXH" text="Ja, natürlich. Ich werde tun, was Sie sagen."/>
     <string id="au6mAuzE" text="Sie haben zu viele Kontroversen hervorgerufen, als dass Sie jetzt ein geeigneter Kandidat sein könnten. Ich würde Ihnen raten, noch etwas zu warten, bevor Sie sich um weitere Auszeichnungen bemühen."/>
-    <string id="aUaBhSYE" text="Gut {PLAYER.LINK} -- Ich bin die Härten des Wahlkampfes nicht so gewohnt wie Sie. Ich möchte ein Zuhause, das ich mein Eigen nennen kann. Wenn Sie Herr eines Schlosses oder einer Stadt mit einem großen Saal wären, würde ich gerne als Ihre Frau dorthin gehen, um die Herrin des Hauses zu sein. Aber ich möchte nicht wie ein gejagtes Tier leben."/>
+    <string id="aUaBhSYE" text="Gut {PLAYER.LINK} -- Ich bin die Härten des Wahlkampfes nicht so gewohnt wie Sie. Ich möchte ein Zuhause, das ich mein Eigen nennen kann. Wenn Sie Herr einer Burg oder Stadt mit einem großen Saal wären, würde ich gerne als Ihre Frau dorthin gehen, um die Herrin des Hauses zu sein. Aber ich möchte nicht wie ein gejagtes Tier leben."/>
     <string id="auT2HmzC" text="Werde ich bezahlt?"/>
     <string id="auXuK95p" text="Nichts. Danke."/>
     <string id="auzKC0mO" text="Oh, ich fürchte, ich werde meine {s17}, {s13}, nie wieder sehen,... Er ist ein Gefangener im Kerker von {s14}. Wir haben versucht, über sein Lösegeld zu verhandeln, aber es wurde zu hoch angesetzt. Wir können niemals hoffen, so viel Geld aufzubringen, ohne alles zu verkaufen, was wir besitzen, und Gott weiß, {s13} würde lieber sein Leben im Gefängnis verbringen, als uns mittellos zu machen. Stattdessen habe ich mir einen Plan ausgedacht, um ihn da rauszuholen, aber dazu muss jemand ein großes Opfer bringen, und bisher sind meine Bitten auf taube Ohren gestoßen..."/>
@@ -452,7 +452,7 @@
     <string id="cPbDAUjP" text="Was haben Sie dazu zu sagen?"/>
     <string id="cqhDtosk" text="{PLAYER.LINK} Sie sind bereits eidesstattlich verpflichtet, {s15} zu dienen. Als solcher kann ich nicht zulassen, dass Sie sich meiner Sache annehmen, und meine Feinde behaupten lassen, ich sei nur eine Marionette {s16}. Nein, wenn ich den Thron von {s17} haben will, muß ich es allein aufgrund der Gerechtigkeit meiner Sache und der Unterstützung meiner Untertanen tun. Wenn Sie mir helfen wollen, müssen Sie sich zunächst von Ihrem Eid {s15} befreien."/>
     <string id="crRbyuMn" text="Mir fällt im Moment nichts ein, aber wir werden in Zukunft einige Punkte von gemeinsamem Interesse haben."/>
-    <string id="CSkVpVnY" text="Mein Herr {s2} ist jetzt nicht in der Festung. Aber ich denke, er wäre damit einverstanden, dass Ihr hier Schutz sucht. Kommt rein. Ich öffne die Tore für Euch."/>
+    <string id="CSkVpVnY" text="Mein Herr {s2} ist jetzt nicht in der Burg. Aber ich denke, er wäre damit einverstanden, dass Ihr hier Schutz sucht. Kommt rein. Ich öffne die Tore für Euch."/>
     <string id="CsQGa7pj" text="Und wer sollte sie erhalten?"/>
     <string id="CSsbHO6W" text="Danke, ich werde es mir merken."/>
     <string id="cstqhovw" text="Vielleicht kann ich Sie dazu überreden..."/>
@@ -645,7 +645,7 @@
     <string id="gICeNfJE" text="{s1}{s12}"/>
     <string id="giicBgYU" text="Ah, na ja. Dann sind Sie wohl im Recht."/>
     <string id="gIiGPicm" text="Nun, {PLAYER.LINK} -- Sie haben Ihr Duell mit {s10} gewonnen. Er war meiner Zuneigung eindeutig nicht würdig."/>
-    <string id="giinyWN6" text="Ich möchte die Garnison der Festung überprüfen."/>
+    <string id="giinyWN6" text="Ich möchte die Garnison der Burg überprüfen."/>
     <string id="Gj8VNbPX" text="Eine Ölpresse, um Öl aus Oliven herzustellen"/>
     <string id="GJQFxqMt" text="Em, {PLAYER.LINK}, du bist vielleicht nicht an unsere Hochzeitsbräuche gewöhnt, aber ich hatte gehofft, dass dir jemand sagen würde... Sprechen Sie zuerst mit meinem {s11}, {s4}."/>
     <string id="gkCZoJUb" text="Bislang kein Wort..."/>
@@ -791,7 +791,7 @@
     <string id="JC77OXiD" text="Sehr gut - lassen Sie diesen Waffenstillstand mit dem {s4} zu Ende gehen."/>
     <string id="jdClJbA4" text="Erinnern Sie sich, wie ich Ihnen sagte, dass die Banditen einen Verbündeten innerhalb der Mauern hatten? Ich glaube, ich weiß, wer es ist - der Hauptmann der Wache, nicht weniger. Vor einigen Monaten beschloss dieser Kapitän, als er sah, wie viel Gewinn wir Händler aus dem Handel über die Grenzen hinweg machten, etwas Geld zu leihen, um eine Karawane zu sponsern. Leider hat er, wie viele, die neu im Handel sind, nicht erkannt, dass großer Profit nur mit großem Risiko verbunden ist. Also versenkte er sein ganzes Geld in die teuersten Waren, und natürlich wurde seine Karawane gefangen genommen und geplündert, und er verlor alles."/>
     <string id="jdmQfhM4" text="Und wen werden Sie wählen, um das Lehen zu erhalten?{s12}"/>
-    <string id="jE4kKD6w" text="Sie haben mein Wort. Sie werden nicht angegriffen, wenn Sie die Festung verlassen."/>
+    <string id="jE4kKD6w" text="Sie haben mein Wort. Sie werden nicht angegriffen, wenn Sie die Burg verlassen."/>
     <string id="jFPW20zD" text="Sehr gut..."/>
     <string id="jfTaNBAu" text="Warten wir noch etwas länger."/>
     <string id="Jh9KDXn1" text="Angesichts Ihrer Beziehung zu {s4} glaube ich nicht, dass er Ihre Unterstützung begrüßen würde."/>
@@ -801,7 +801,7 @@
     <string id="JiYNAWij" text="Ich hatte vor, mich für eine Weile zurückzuziehen, aber vielleicht haben wir später noch Gelegenheit, mehr zu sprechen..."/>
     <string id="JJapttRL" text="Ah . . . . Sehr gut, {PLAYER.LINK}. So ungern ich gute Männer verliere, die Entscheidung liegt bei Ihnen. Ich werde meine Truppen auflösen und mich Ihnen anschließen."/>
     <string id="jkH4bGw4" text="{s10} der {s11}{s14}"/>
-    <string id="Jl5JDSFR" text="Wir sind bereit, Ihnen dieses Festung zu überlassen und davon zu marschieren, wenn Sie mir Ihr Ehrenwort geben, dass Sie uns unbehelligt gehen lassen."/>
+    <string id="Jl5JDSFR" text="Wir sind bereit, Ihnen dieses Burg zu überlassen und davon zu marschieren, wenn Sie mir Ihr Ehrenwort geben, dass Sie uns unbehelligt gehen lassen."/>
     <string id="JLbWu9Cf" text="Was ist der Grund für all diese Kriege in Calradia?"/>
     <string id="JLE78q66" text="Ich nehme an, dass Sie mit {s11} sprechen sollten, um zu sehen, ob er dasselbe für mich tun wird."/>
     <string id="JlMQfcQf" text="Ich warte..."/>

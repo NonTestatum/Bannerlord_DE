@@ -294,7 +294,7 @@
     <string id="5p8xk0mE" text="RogueSkills Beschreibung"/>
     <string id="5RjvnQ3d" text="Ich wette, sogar eine Gruppe von {ALTERNATIVE_COUNT} richtig ausgebildeten Männern in Begleitung eines Ihrer Leutnants kann es leicht mit ihnen aufnehmen. Die Männer könnten dann nach einigen Tagen wieder zu Ihrer Gruppe stoßen"/>
     <string id="5rKNbZbW" text="{LEAVE_TEXT}."/>
-    <string id="5RMWpLJA" text="Stellt einen Schlosswärter zur Verfügung, der die Disziplin und das Gesetz aufrechterhält, damit Rebellionen schwerer zu formieren sind, einen Schlosskastellan, der effektiv der Hauptmann der Miliz ist, einen Schlossverwalter, der die Schlossinhibitoren beaufsichtigt."/>
+    <string id="5RMWpLJA" text="Stellt einen Aufseher für die Burg zur Verfügung, der die Disziplin und das Gesetz aufrechterhält, damit Rebellionen schwerer zu formieren sind, einen Kastellan, der effektiv der Hauptmann der Miliz ist, einen Verwalter, der die Einwohner der Burg beaufsichtigt."/>
     <string id="5sMBbn7y" text="Berechnen"/>
     <string id="5Trq1mQL" text="Bestechender"/>
     <string id="5Uo6uApT" text="IsEquipmentTemplate Beschreibung"/>
@@ -928,7 +928,7 @@
     <string id="DGOgsMfx" text="{PRISONER.NAME} wurde freigelassen, nachdem {?PRISONER.GENDER}ihr{?}sein{\?} Lösegeld bezahlt wurde"/>
     <string id="DGONdmFg" text=" {PARTY_NAME} Gewinn"/>
     <string id="dhbkT2Il" text="Erhöhen Sie den Wohlstand der Siedlung um 1 jeden Tag."/>
-    <string id="DHm1MBsj" text="Logging für die Garnisonstruppen. Jede Stufe erhöht die Garnisonskapazität der Festung."/>
+    <string id="DHm1MBsj" text="Unterkunft für die Garnisonstruppen. Jede Stufe erhöht die Garnisonskapazität der Festung."/>
     <string id="dI1AOyqh" text="Packtiere"/>
     <string id="Di2Qbaae" text="Eine hohe Moral erhöht die Heilungsrate um 10%."/>
     <string id="dicpCcb2" text="Party-Kultur:"/>
@@ -987,7 +987,7 @@
     <string id="DUB6zfSe" text="Ich habe ein bisschen Streit mit {TARGET_SETTLEMENT}. Vor kurzem kaufte ich das Recht, Vieh auf den nahe gelegenen Weiden von einem Grundbesitzer dort zu weiden. Aber jetzt machen einige Dorfbewohner Probleme."/>
     <string id="dUhV0ZxZ" text="Du musst eine engere Freundschaft mit der anderen Person entwickeln"/>
     <string id="DujErRpM" text="Tarnung"/>
-    <string id="dv2ZNazN" text="Gehen Sie in den Saal des Fürsten"/>
+    <string id="dv2ZNazN" text="Gehe in die Halle des Burgherren"/>
     <string id="dvEkfaab" text="die Anerkennung des einfachen Volkes im Reich als vollwertige Bürger"/>
     <string id="DVI4RDVq" text="Zurückschieben"/>
     <string id="dVNqCZMl" text="Wenn jemand ein paar - sagen wir {TOTAL_COUNT} Gruppen von{BRIGAND_TYPE} jagt und das Wort sich herumspricht, dann würde Diebstahl nicht so lukrativ erscheinen, dass Möchtegern-Räuber zögern würden. Was denken Sie, {?PLAYER.GENDER}lady{?}sir{\?}, glauben Sie, dass Sie uns helfen können?"/>
@@ -1730,7 +1730,7 @@
     <string id="Lkf3sB9I" text="Vielleicht…"/>
     <string id="lKoaSWLf" text="{DUEL_RESULT}"/>
     <string id="lKWflUid" text="Während Sie in {DEFENDER} warten, startete {ATTACKER} einen Angriff auf ihn."/>
-    <string id="Ll1EJHXF" text="Schloss verwalten"/>
+    <string id="Ll1EJHXF" text="Burg verwalten"/>
     <string id="LLj618tA" text="Bestechung wird 50% günstiger."/>
     <string id="lMIi4CXO" text="Sturgianische Schneegeschicklichkeit"/>
     <string id="lmJYF6pQ" text="Sagen Sie mir, wie ich helfen kann."/>
@@ -2250,13 +2250,13 @@
     <string id="r2y3n7dR" text="Besuchte Siedlungen"/>
     <string id="r46NWboa" text="Ich gehe auch auf den Markt. Welche Art von Produkten haben Sie?"/>
     <string id="r58brs0T" text="10% erhöhter Moralgewinn durch Überfälle auf Dörfer."/>
-    <string id="R5ObSaUN" text="Machen Sie einen Spaziergang durch das Stadtzentrum"/>
-    <string id="R60kenU3" text="Machen Sie einen Spaziergang durch das Stadtzentrum"/>
+    <string id="R5ObSaUN" text="Spaziergang durch das Stadtzentrum"/>
+    <string id="R60kenU3" text="Verbessertes Mauerwerk"/>
     <string id="R6V2Jv3a" text="Sie haben die Waffen wie versprochen an den {QUEST_GIVER.LINK} geliefert."/>
     <string id="r77ZrSUJ" text="Du bist unkompliziert. Das mag ich."/>
     <string id="R8dqZlqB" text="Die Miliz hat eine Chance von %20, mit erfahreneren Truppen zu laichen."/>
     <string id="R8SrBKW1" text="Ja, meine {?PLAYER.GENDER}lady{?}lord{\?}... Alle Handwerker hier kämpfen heute dank eines Gesetzes, das besagt, dass wir nur an lokale Händler verkaufen können und zu einem festen Tarif auch. Auch wenn andere Preise hoch sind, bin ich immer noch gleich. Du kannst dieses Gesetz ändern. Alle von uns wären dankbar, und wir sind bereit, {REWARD}{GOLD_ICON} zu spenden, um unseren Dank zu zeigen..."/>
-    <string id="R92XzKXE" text="Machen Sie einen Rundgang durch das Schloss"/>
+    <string id="R92XzKXE" text="Rundgang durch die Burg"/>
     <string id="r9F1W4KZ" text="Ja? Konnten Sie meine Männer ausbilden?"/>
     <string id="R9R6imnU" text="Späher, die für {QUEST_GIVER.NAME} arbeiten, haben das Versteck auf Ihrer Karte markiert"/>
     <string id="ra9VRabB" text="Alle 5 Fertigkeiten nach 250 gibt Ihnen +1 Einflusspunkt pro Tag"/>
@@ -2632,7 +2632,7 @@
     <string id="uyvxafSw" text=" {PARTY_NAME} übersteigt Gold"/>
     <string id="UZ0mPm8b" text="Jeder nennenswerte pro Tag 1 Einfluss auf den Clan des Siedlung Besitzers Die Produktion der täglichen Milizen wird pro nennenswerter Siedlung um 1 gesteigert"/>
     <string id="uziyUBHK" text="Erhöhte Genauigkeit der Wurfwaffe"/>
-    <string id="UzMYZgoE" text="Belagern Sie das Schloss."/>
+    <string id="UzMYZgoE" text="Belagere die Burg."/>
     <string id="uZOBwhEx" text="{LORD_RESPONDS_TO_PLAYER_REFUSAL_TO_SURRENDER}"/>
     <string id="v1hC6Aem" text="Meine Dame, ich möchte mich zu Ihrem glühendsten Verehrer bekennen"/>
     <string id="V2czbgW3" text="{NUMBER_OF_BANDITS} {BANDIT_FACTION_NAME}"/>

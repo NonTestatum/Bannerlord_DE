@@ -52,7 +52,7 @@
     <string id="FxTlch69" text="Sie müssen mich für einen wahrhaft wehmütigen Mann halten, der meine Karawanen überfällt, und erwarten, dass ich das nicht merke. Ich gehe davon aus, dass Ihre Handlungen als Kompliment gemeint waren und dass Sie andere Einnahmequellen finden werden."/>
     <string id="g3a9dmzu" text="Diese Banditen machen uns nie viel Ärger, aber ich nehme an, es ist eine gute Praxis."/>
     <string id="gaHeS3qu" text="Ich werde unseren Sieg über {DEFEATED_PARTY_LEADER} nicht vergessen. Lasst uns noch einmal dem Himmel danken und beten, dass wir nicht zu stolz werden."/>
-    <string id="gQcyHNVT" text="Wie ich höre, haben Sie die Festung {SETTLEMENT_NAME} eingenommen. Zweifellos habt Ihr einen Verräter gefunden, der Euch durch die Tore lässt."/>
+    <string id="gQcyHNVT" text="Wie ich höre, haben Sie die Burg {SETTLEMENT_NAME} eingenommen. Zweifellos habt Ihr einen Verräter gefunden, der Euch durch die Tore lässt."/>
     <string id="GXR9KGBn" text="Solche Banditen zu jagen... Ich nehme an, es muss getan werden."/>
     <string id="H1t6YIMv" text="Ich werde die Erinnerung an unseren Kampf gegen {DEFEATED_PARTY_LEADER} immer in Ehren halten. Mögen alle unsere Schlachten gleichermaßen glorreich sein."/>
     <string id="hjcjbEYn" text="Wie ich höre, haben Sie {SETTLEMENT_NAME} angenommen. Ich hoffe, du hast sie bluten lassen für das, was sie uns angetan haben."/>
@@ -109,7 +109,7 @@
     <string id="VcXpFIrT" text="Erinnern Sie sich, wie wir {DEFEATED_PARTY_LEADER} ausgepeitscht und aus seinen Männern ein Krähenfest gemacht haben? Das ist eine süße Erinnerung."/>
     <string id="VSyOVMge" text="Anstatt Sie als Verräter zu brandmarken, nehme ich an, dass Sie zu niederträchtig und dumm waren, um zu erkennen, dass es MEINE Karawane war, die Sie angriff, und nicht ein Feind."/>
     <string id="vxkoCCuc" text="Wie ich höre, werden Sie uns im Dienste von {FIRST_NAME}"/>
-    <string id="W3F2HgTN" text="Wie ich höre, haben Sie die Festung {SETTLEMENT_NAME} eingenommen. Ein gut getroffener Schlag!"/>
+    <string id="W3F2HgTN" text="Wie ich höre, haben Sie die Burg {SETTLEMENT_NAME} eingenommen. Ein gut getroffener Schlag!"/>
     <string id="WROObSl4" text="{SIDE1TROOP} beleidigt {SIDE2TROOP}."/>
     <string id="WZ2K83Z4" text="Sie haben rebelliert und Ihren Treueeid mir gegenüber gebrochen, {PLAYER.LINK}, aber jetzt hat der Himmel Sie an mich ausgeliefert."/>
     <string id="WzMjUSGv" text="Ich höre, Sie haben {DEFEATED_LEADER_RELATIONSHIP} besiegt. Du bist ein gerissener Feind, aber ich habe dich zu Boden gebracht und werde dich jetzt erledigen."/>

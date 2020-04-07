@@ -566,8 +566,8 @@
     <string id="f6gSyvnC" text="Schießen Sie mit Pfeil und Bogen auf Ihre Feinde. Führen Sie schwierige Schüsse aus großer Entfernung aus."/>
     <string id="f6pjlKdz" text="Gestern"/>
     <string id="f7t4saJu" text="Wert"/>
-    <string id="F8g1TzoX" text="Sie befinden sich außerhalb {SETTLEMENT_NAME}. Sie sehen das Banner von {LORD.LINK} über dem Festungstor wehen."/>
-    <string id="Fa16r8MN" text="Häftling hinrichten"/>
+    <string id="F8g1TzoX" text="Sie befinden sich außerhalb {SETTLEMENT_NAME}. Sie sehen das Banner von {LORD.LINK} über dem Burgtor wehen."/>
+    <string id="Fa16r8MN" text="Gefangen hinrichten"/>
     <string id="Fa2nKXxI" text="Gouverneur"/>
     <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} und {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}sind{?}ist{\?} bewegen sich in Reserve."/>
     <string id="FbcC2loc" text="Sie sind bewusstlos geschlagen worden, und Ihrem Gegner wird der Sieg zugesprochen!"/>
