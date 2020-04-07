@@ -8,5 +8,8 @@
   },
   "author": "NonTestatum",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "adm-zip": "^0.4.14"
+  }
 }
