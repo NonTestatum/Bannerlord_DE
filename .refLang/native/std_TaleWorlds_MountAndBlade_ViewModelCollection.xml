@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="German" />
+    <tag language="English" />
   </tags>
   <strings>
     <string id="0647tsif" text="Profile" />
+    <string id="06V7fEV4" text="Press ESC to go back" />
     <string id="2Q6Mm9Jo" text="Gamepad Options" />
     <string id="2zcrC0h1" text="Gameplay" />
     <string id="3CpNUnVl" text="Cancel" />
@@ -60,7 +61,7 @@
     <string id="F7dBjl83" text="Custom Battle feature is currently disabled" />
     <string id="FD7EQDmW" text="Looking for game" />
     <string id="ffjTMejn" text="Stats" />
-    <string id="fM9E7frB" text="Grafikeinstellungen" />
+    <string id="fM9E7frB" text="Performance" />
     <string id="FRSGOfUJ" text="Toggle include Combat Log" />
     <string id="ftoSCQ0x" text="Length" />
     <string id="g1lgiwn1" text="Not Logged In" />
@@ -109,7 +110,7 @@
     <string id="nFvVw68B" text="Invite to Party" />
     <string id="NJolh9ye" text="Recent Games" />
     <string id="NLKmdNbt" text="Search" />
-    <string id="NqarFr4P" text="Einstellungen" />
+    <string id="NqarFr4P" text="Options" />
     <string id="NUSH5bJu" text="{EXPERIENCE} xp to next level" />
     <string id="oBbiVeKE" text="Hit Points" />
     <string id="oHaWR73d" text="Ok" />
