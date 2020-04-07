@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="8AHT9pt5" text="Ausbilder"/>
+    <string id="daOtjNZp" text="Arzagos"/>
+    <string id="IMwAoSax" text="Radagos' Plünderer"/>
+    <string id="kfhY01a7" text="Truppe des Oberbefehlshabers"/>
+    <string id="MrpOJn2h" text="Flüchtling"/>
+    <string id="No2HgX5E" text="Radagos"/>
+    <string id="O8QblvbQ" text="Tacteos"/>
+    <string id="uCmEaWOI" text="Istania"/>
+  </strings>
+</base>

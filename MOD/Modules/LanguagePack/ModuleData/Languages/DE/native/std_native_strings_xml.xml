@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="01zQKaF3" text="Augenform"/>
+    <string id="034LYlKi" text="Gesichtswände"/>
+    <string id="05w8Tl7n" text="Steppe"/>
+    <string id="0cpbEvsG" text="Altes Gesicht"/>
+    <string id="0DBQGaka" text="Verursachter Lanzenschaden!"/>
+    <string id="0nRbr6Z9" text="Nordamerika"/>
+    <string id="0P89VyAQ" text="Gesichts Asymmetrie"/>
+    <string id="0WHQKap4" text="Ausrüstungszeitlimit (Sekunden)"/>
+    <string id="0xJ3qIlJ" text="Kieferpartie"/>
+    <string id="1fFnE9Vk" text="Europa"/>
+    <string id="1GFrsDRm" text="Grenzwert für Umfragen"/>
+    <string id="1gU5rDws" text="Erlaube Umfragen zum Bann von Spielern"/>
+    <string id="1Ndyb5I1" text="Markierung Entfernungszeit (Sekunden)"/>
+    <string id="1siBGYlP" text="Wangenknochen Breite"/>
+    <string id="1zveWQFg" text="Gehe zum Matchmaking-Tab und wähle eine Region aus, um eine Warteschlange beizutreten"/>
+    <string id="22MOa4Fc" text="Äußere Augenhöhe"/>
+    <string id="23INS6nf" text="Passwort erforderlich"/>
+    <string id="26SJhCRD" text="Ersetzen durch"/>
+    <string id="2blpQ3OQ" text="Markierungen"/>
+    <string id="2d0H47C8" text="Augen Distanz"/>
+    <string id="2G3QpSDk" text="Lippen Konkave/Konvexe"/>
+    <string id="2QzgefNF" text="Wangenbreite"/>
+    <string id="2Rf2ChRD" text="Augenbrauentiefe"/>
+    <string id="2uynGJbP" text="Truppen übertragen"/>
+    <string id="39kMNdA5" text="Markierung entfernen"/>
+    <string id="3AInGztr" text="Körper"/>
+    <string id="3APdsKEi" text="Wurfmesser"/>
+    <string id="3aX5gXmJ" text="Hautfarbe"/>
+    <string id="3Kkya96j" text="Bein"/>
+    <string id="3kqFHkZz" text="Lippendicke"/>
+    <string id="3syV6ymi" text="Stumpf"/>
+    <string id="3ydKbDmI" text="{PLAY_TIME} Minuten"/>
+    <string id="3ZzxddkE" text="Spiel Passwort"/>
+    <string id="43L45sjx" text="Anzahl der Bots pro Formation"/>
+    <string id="4DcNDein" text="Kartenzeitlimit (Minuten)"/>
+    <string id="4Dd2xgPm" text="Gewicht"/>
+    <string id="4PrfimcK" text="Abzeichen"/>
+    <string id="4wLU6s4S" text="Unterleib"/>
+    <string id="5anoN5EJ" text="Verfeinere deine Kampffähigkeit in diesem chaotischen und Team-basierten Spielmodus gegen andere Spieler."/>
+    <string id="5LpufKs7" text="Folge mir"/>
+    <string id="5mSKBidd" text="Nasenform"/>
+    <string id="5odwu8qB" text="Rangliste"/>
+    <string id="5rj7xQE4" text="Bogen"/>
+    <string id="5tbWdY1j" text="Avatar"/>
+    <string id="5vZW8IJ5" text="Tausche mit {ITEM_NAME}"/>
+    <string id="621DbiOw" text="Nasen Asymmetrie"/>
+    <string id="64n3piBf" text="Gesamte Spiele"/>
+    <string id="6DBVzw9r" text="Bauen"/>
+    <string id="6yZnboe6" text="Augenhöhlengröße"/>
+    <string id="74tYdiOb" text="Wähle deine Truppen weise entsprechend den Bedürfnissen deines Teams. Die Anzahl der Truppen wird durch Truppenstärke bestimmt."/>
+    <string id="77arWi0m" text="Augeninnenhöhle"/>
+    <string id="7BlOJvyo" text="Mundbreite"/>
+    <string id="7lvexPjZ" text="Einfache"/>
+    <string id="7MkoLtWC" text="Axt"/>
+    <string id="7qySRF2T" text="Ping"/>
+    <string id="7snGCl6z" text="Belagerungseinheiten auf Distanz"/>
+    <string id="880uOrte" text="Terrain"/>
+    <string id="8o1lZcjR" text="Augenbrauen Außenhöhe"/>
+    <string id="8sG5bTtK" text="Respawn-Zeit"/>
+    <string id="9aboazgu" text="Linie"/>
+    <string id="9TGLirQf" text="Kreis"/>
+    <string id="9Ts5zKIj" text="Augen"/>
+    <string id="a2xfNmqa" text="In der Lobby"/>
+    <string id="a8nb5HVc" text="Mittlere Augenbrauen Höhe"/>
+    <string id="aAD1iOuH" text="Obere Mundgröße"/>
+    <string id="AbEh2y8o" text="Speichern und Beenden"/>
+    <string id="aDA9PWFT" text="Vorrücken"/>
+    <string id="aDabgVpn" text="Charakteranpassung"/>
+    <string id="adyGICWc" text="Kammer blockiert!"/>
+    <string id="AEcTBnkz" text="Kleidung wechseln"/>
+    <string id="aGTgzoqW" text="Erlaube Umfragen zum Kicken von Spielern"/>
+    <string id="ahiBhAqU" text="Rüstung"/>
+    <string id="aM3TlRIy" text="{SHORTCUT} Übertragen"/>
+    <string id="AmbKQ7LT" text="Übertragen"/>
+    <string id="auDOtbza" text="Kultur Team 1"/>
+    <string id="Ayrvf5yp" text="Töten"/>
+    <string id="aZVxHbwH" text="Getötet von {TROOP_NAME}"/>
+    <string id="b0L0jbIa" text="Augenposition"/>
+    <string id="b74zosgq" text="Nasengröße"/>
+    <string id="bAPQFzcW" text="Projektilschaden"/>
+    <string id="bbYwqrvo" text="Kieferform"/>
+    <string id="bc4MrqLA" text="{SHORTCUT} Pferde"/>
+    <string id="BFWD0pCE" text="Eigenbeschuss durch Fernkampfwaffen"/>
+    <string id="bjcixGIE" text="Team"/>
+    <string id="bjJkW9dO" text="Profil anzeigen"/>
+    <string id="BJMPBcDn" text="Zweiter Assistent"/>
+    <string id="bkysJj7F" text="Belagerungswaffe"/>
+    <string id="BMPrnHpK" text="Größe der Nasenflügel"/>
+    <string id="bnfUdx3O" text="Gesichtshöhe"/>
+    <string id="BQzP1ivS" text="Gesichtsverhältnis"/>
+    <string id="BrjpmaJH" text="Spiele verloren"/>
+    <string id="brk0f05B" text="Kopfskalierung"/>
+    <string id="bTpn4bZ8" text="Innere Brauen Höhe"/>
+    <string id="BuLdsBpQ" text="Frei für alle"/>
+    <string id="bV75iwKa" text="Speichern"/>
+    <string id="bXIrqxKc" text="Benötigte Spieleranzahl zum Starten des Spiels"/>
+    <string id="bY9U7w1Q" text="Schwert"/>
+    <string id="bYCfMbYk" text="Team wechseln"/>
+    <string id="c1zu1b3M" text="Du wurdest aus der Party entfernt."/>
+    <string id="c2tGH5II" text="Aufwärm Zeit (Minuten)"/>
+    <string id="cBZ6OlKW" text="Wurfspeer"/>
+    <string id="ccROnOY3" text="Erhaltener Lanzenschaden!"/>
+    <string id="CFI2aDtg" text="Reitrüstung"/>
+    <string id="cJ5emwNF" text="Unterstützung"/>
+    <string id="CjPiabbn" text="Feuer frei"/>
+    <string id="CJr1T7jh" text="Admin Passwort"/>
+    <string id="cK5DE88I" text="N/A"/>
+    <string id="CKtZ7bES" text="Erreicht die maximalen Punkte oder hab mehr Punkte als das gegnerische Team, bevor die Zeit endet."/>
+    <string id="Cl3TziQE" text="Dein Reittier hat {DAMAGE} Sturzschaden erhalten."/>
+    <string id="CoxEyDa8" text="Fehdehandschuh"/>
+    <string id="cPbHqGrI" text="Spieler kicken"/>
+    <string id="d3RJm2zW" text="Kieferhöhe"/>
+    <string id="DdOgvhsV" text="Kicken"/>
+    <string id="DHlVSaZW" text="Relative Bewegungsgeschwindigkeit: {SPEED} m/s"/>
+    <string id="DKqLY1aJ" text="Ausrüsten"/>
+    <string id="dojUqbv8" text="Nasenlänge"/>
+    <string id="dRlTmdKR" text="System"/>
+    <string id="DU9SofaW" text="Schnitt"/>
+    <string id="dxlkHhw5" text="Spiele gewonnen"/>
+    <string id="Dxmq32qW" text="Stürme"/>
+    <string id="dZ4xp6Lu" text="Kopfumfang"/>
+    <string id="e0KdfaNe" text="Speichern unter"/>
+    <string id="E3tCWX7w" text="Quadrat"/>
+    <string id="ecUwABe2" text="Wüste"/>
+    <string id="eEf7hE4r" text="Verteilen"/>
+    <string id="EmVbbIUc" text="Zurück"/>
+    <string id="EUHaR98k" text="Bericht"/>
+    <string id="EX4bKRbV" text="Tote"/>
+    <string id="F09emT1k" text="Belagerungswaffe drehen"/>
+    <string id="f4ZeGAJi" text="Projektilgeschwindigkeit: {SPEED} m/s"/>
+    <string id="f5y9qyDb" text="Arm"/>
+    <string id="F6dUDgg3" text="Niederlage"/>
+    <string id="F70rOpkK" text="Hauptmann"/>
+    <string id="fFLBT9wb" text="Truhe"/>
+    <string id="FFNJTsDL" text="Einen Spieler kicken"/>
+    <string id="fFULSlYb" text="Bonus Schaden von Perks: {EXTRA_DAMAGE}"/>
+    <string id="fGFMqlGz" text="Geschlecht"/>
+    <string id="FgJpTBp1" text="Eigenbeschuss durch Fernkampfwaffen"/>
+    <string id="fjD2tRXW" text="Abstehendes Kinn"/>
+    <string id="fJqJiJvl" text="Realistisches Blocken verwenden"/>
+    <string id="fnJQO5Os" text="Nasenspitzenhöhe"/>
+    <string id="FoSTFipC" text="{PLAYER_NAME} ist nicht mehr stumm."/>
+    <string id="FzJnNNam" text="Nasen Asymmetrie"/>
+    <string id="G1HobbjU" text="Hauptmann Kampf"/>
+    <string id="g6cHDWJF" text="Kopf"/>
+    <string id="GaF4CvmX" text="Gesichtsschärfe"/>
+    <string id="gFmkNiTo" text="zur Position"/>
+    <string id="GnKCsV44" text="Kinnlänge"/>
+    <string id="GoEo27il" text="Respawnperiode der Angreifer"/>
+    <string id="Gr994CTR" text="Fernkampfwaffen verbieten"/>
+    <string id="GY4NaieE" text="Rein"/>
+    <string id="h5OsTOFM" text="Lippen Konkave/Konvexe"/>
+    <string id="H7YWqwq6" text="Runden Start dauer"/>
+    <string id="HgpdpYuK" text="Körper"/>
+    <string id="HjqcmY6X" text="Bann"/>
+    <string id="HL3EONMe" text="Eigenes Spiel"/>
+    <string id="HLhT64IP" text="Privat"/>
+    <string id="hwC3OiIJ" text="Zu Truppen drehen"/>
+    <string id="hY9cfdZy" text="Breit"/>
+    <string id="HyG3eUFN" text="Entmuten"/>
+    <string id="I4wnvBGd" text="Erlebe die Brutalität mittelalterlicher Belagerungen als Verteidiger oder Angreifer. Verwende verschiedene Belagerungswaffen, um die gegnerischen Truppen zurückzudrängen oder in die Burg zu gelangen. Während du versuchst, den Burgfried zu verteidigen oder einzunehmen."/>
+    <string id="IaaVNwwb" text="BattlEye aktivieren"/>
+    <string id="iDMBz55E" text="Im Mehrspieler"/>
+    <string id="ig0lsiwY" text="Soldaten"/>
+    <string id="iJXH3841" text="Verloren"/>
+    <string id="IKn1YxU2" text="Goldgewinnung Prozentsatz Angreifer"/>
+    <string id="imTtoHqW" text="Koop registrieren"/>
+    <string id="ImWyFyld" text="Mundposition"/>
+    <string id="irGCyJaY" text="Kill Anzahl"/>
+    <string id="iTau5cxh" text="Durchschnittlich"/>
+    <string id="jaaQijQs" text="Alter"/>
+    <string id="JCcbydcJ" text="({KEY}) {ACTION}"/>
+    <string id="JceqNdWx" text="Befehl ausschalten"/>
+    <string id="Jd0Kq9lD" text="Schild"/>
+    <string id="jEh6EdF9" text="Beste von {ROUND_COUNT}"/>
+    <string id="JetpbYv9" text="Taine"/>
+    <string id="JPimShCw" text="Spieltyp"/>
+    <string id="jsqyGWGu" text="Goldgewinnung Prozentsatz Verteidiger"/>
+    <string id="jUsEkEBt" text="Kiefer Asymmetrie"/>
+    <string id="jvOYgHOe" text="Benutzerdefiniert"/>
+    <string id="JW2nEe4X" text="Teamschaden durch Nahkampfwaffen"/>
+    <string id="JwnoxhKI" text="Gesichtstiefe"/>
+    <string id="k4cMrbVf" text="Erste Nahkampf Tötung"/>
+    <string id="kCMGJl1W" text="Brücke"/>
+    <string id="KHx75GnA" text="Wasser"/>
+    <string id="koX9okuG" text="Keine"/>
+    <string id="kVwwG63i" text="Umfragen zum Ändern von Karten erlauben"/>
+    <string id="kW4c2liv" text="Verwende Animationsfortschrittsabhängiges Blocken"/>
+    <string id="L0lGQWt5" text="Anzahl Bots Team 2"/>
+    <string id="L3tY2kTE" text="Teamschaden!"/>
+    <string id="L9xEQ5b2" text="Element zum ersetzen auswählen"/>
+    <string id="LaaA8U4W" text="Nasenwinkel"/>
+    <string id="laIfauZH" text="Augenhöhe"/>
+    <string id="lauXoy6d" text="Anzahl Bots pro Formation"/>
+    <string id="lclQSt39" text="Rundenzeitlimit (Sekunden)"/>
+    <string id="lDPQa5gc" text="Grenzwert für Teamausgleich"/>
+    <string id="likop0am" text="Eine Umfrage starten"/>
+    <string id="LkiQDpi5" text="Ohrengröße"/>
+    <string id="LmkYgWnF" text="Augengröße"/>
+    <string id="M1RCJ9DM" text="Dritter Assistent"/>
+    <string id="m3zVR2UH" text="Maus anzeigen: [{KEY_NAME}]"/>
+    <string id="m5UdbzHr" text="Keine Region ausgewählt"/>
+    <string id="MciIqod6" text="Gestreckte Lanze"/>
+    <string id="MH9Pi3ao" text="Gesichtsrichtung"/>
+    <string id="mjhOYJWg" text="Der Köcher ist leer."/>
+    <string id="MnM0L4AV" text="Nicht im Multiplayer"/>
+    <string id="MQqaKRtn" text="{SHORTCUT} Bewegung"/>
+    <string id="MS795wWa" text="Erster Assist"/>
+    <string id="MW8rlyfL" text="Geworfen"/>
+    <string id="NE7PmH7n" text="Konditionen"/>
+    <string id="NqarFr4P" text="Optionen"/>
+    <string id="nt5MOuwo" text="Düne"/>
+    <string id="nXE6eV8W" text="See"/>
+    <string id="NxeQasMb" text="{SHORTCUT} Feuer"/>
+    <string id="o5Ead68n" text="Beenden ohne Speichern"/>
+    <string id="O9F9q1zx" text="Wangentiefe"/>
+    <string id="obB483C5" text="Körperteil getroffen: {BODY_PART}"/>
+    <string id="oBbiVeKE" text="Trefferpunkte"/>
+    <string id="Oud3W58w" text="Halten ({KEY}) {ACTION}"/>
+    <string id="OVcoYxj1" text="Servername"/>
+    <string id="ox8XcxfR" text="Abstehende Ohren"/>
+    <string id="OZHFucP5" text="Stirnrunzeln/Lächeln"/>
+    <string id="pa4yXyDa" text="{PLAYER_COUNT} gegen {PLAYER_COUNT}"/>
+    <string id="pagmdsCK" text="Augenlid Höhe"/>
+    <string id="PbLuHcJg" text="Absorbierter Schaden: {ABSORBED_DAMAGE}"/>
+    <string id="pbp0GQdO" text="Spieler bannen"/>
+    <string id="pCRwBpzd" text="Nase"/>
+    <string id="PDdh1sBj" text="Name"/>
+    <string id="Ph6PhUwX" text="Entfernung: {DISTANCE} m"/>
+    <string id="pHaRIFa8" text="Erste Fernkampf Tötung"/>
+    <string id="PiHpR4QL" text="Einhändig"/>
+    <string id="PiLml6Nl" text="Angreifer halten die Flagge für 90 Sekunden, bevor die Moral oder die Zeit abläuft. Die Eroberung von Flaggen erhöht die Moral.{newline}Verteidiger verteidigen die Burg, bis die feindliche Moral ausläuft."/>
+    <string id="Pkw17hO0" text="Kampfgeschwindigkeit"/>
+    <string id="pnUSAxzf" text="Offizielle Spielserverliste hinzufügen"/>
+    <string id="pQibMlbA" text="Nasenhöcker"/>
+    <string id="PuX1G0h3" text="Reitfertigkeit nicht hoch genug"/>
+    <string id="PY6VznGu" text="Gesichtsbreite"/>
+    <string id="Q2EmU0TA" text="Team Punkte Limit"/>
+    <string id="Q2yjFlC9" text="Feuer einstellen"/>
+    <string id="q8lsn0U6" text="Führe in diesem Spielmodus deine Truppenart in die Schlacht. Bestimme das Schlachtfeld, um das gegnerische Team zu demoralisieren, oder vernichte ihre Kräfte, um siegreich zu sein."/>
+    <string id="QDU03vOW" text="Verursacht {DAMAGE} {DAMAGE_TYPE} Schaden an Objekt."/>
+    <string id="qeSbaPWi" text="Anzahl Bots Team 1"/>
+    <string id="qF5pJt7e" text="Augen Asymmetrie"/>
+    <string id="Qhl77Oki" text="Unterstützt beim Töten von {TROOP_NAME}"/>
+    <string id="qKPSlF9L" text="{SHORTCUT} Befehl"/>
+    <string id="qNga6uPw" text="Schaden verursacht"/>
+    <string id="qNRc3pXu" text="Füllen"/>
+    <string id="qnxJYAs7" text="Gruppe"/>
+    <string id="QTr6UDAa" text="Stop"/>
+    <string id="R3BwLVmT" text="Verursacht {DAMAGE} {DAMAGE_TYPE} Schaden."/>
+    <string id="R4Gqskgq" text="Sieg"/>
+    <string id="rbYITcao" text="Mund"/>
+    <string id="rbz1Bwbv" text="Inventar"/>
+    <string id="RlDVtPpB" text="Augentiefe"/>
+    <string id="rTFaZCdY" text="Wald"/>
+    <string id="rTPnyeJ3" text="Schildwall"/>
+    <string id="Rvr1bcu8" text="Weiter"/>
+    <string id="Sbna6UGb" text="Kindergesicht"/>
+    <string id="sBU9vyF1" text="Kopfschuss!"/>
+    <string id="SdxEH6b1" text="Untere Lippenform"/>
+    <string id="SfJgnzdq" text="Stumm"/>
+    <string id="SN2ojCFr" text="Volle Haut"/>
+    <string id="SNLShTzq" text="Punktzahl"/>
+    <string id="SVAmzGRM" text="Spieler bannen"/>
+    <string id="SVeIOaab" text="Minimaler Punktestand für Siege"/>
+    <string id="SVnbZdJq" text="Ohren verstecken"/>
+    <string id="Svtb9MQv" text="Duell"/>
+    <string id="sZxSeeXp" text="Anzahl der Spieler, um das Warmup zu beenden"/>
+    <string id="t2Oh6uty" text="Willkommensnachricht"/>
+    <string id="t78atYqH" text="Zweihändig"/>
+    <string id="tAeflOpj" text="{DAMAGE} {DAMAGE_TYPE} Schaden erhalten."/>
+    <string id="tAyw51tM" text="Individuelle Banner erlauben"/>
+    <string id="TDy1GZHv" text="Scharmützel"/>
+    <string id="tE1VwKTZ" text="Wurfaxt"/>
+    <string id="tewykKdc" text="Blockrichtung steuern"/>
+    <string id="TGaU0hQi" text="Berg"/>
+    <string id="tJaRH9he" text="Anhängen"/>
+    <string id="TlP31w8l" text="Bricole"/>
+    <string id="tnCNPJMO" text="Sumpf"/>
+    <string id="tp6B2QGw" text="Ostasien"/>
+    <string id="TTWL7RLe" text="Armbrust"/>
+    <string id="TuAP5xXV" text="Nasenflügelhöhe"/>
+    <string id="tUETZiIp" text="Schutzhelm"/>
+    <string id="tvDuF1vU" text="Belagerungsturm Geschwindigkeit (Prozent)"/>
+    <string id="tvHQcaC1" text="Wangenknochenhöhe"/>
+    <string id="Twdbmure" text="{SHORTCUT} Gegenüberstehen"/>
+    <string id="tYuSNFuD" text="Abzeichen"/>
+    <string id="U1em3vrJ" text="Schulter"/>
+    <string id="U3LxBtL0" text="Passwort eingeben"/>
+    <string id="U4xlUBHg" text="Nasenbreite"/>
+    <string id="U6h8eatq" text="Team Deathmatch"/>
+    <string id="u8j8nN5U" text="Dem Feind gegenüberstehen"/>
+    <string id="UbMCCh8L" text="Nasenrücken"/>
+    <string id="uCyQNvq1" text="Strang"/>
+    <string id="uGM8DWrm" text="Reittier"/>
+    <string id="UHIZLFBn" text="Getötet von {TROOP_NAME}"/>
+    <string id="Umb8XsZH" text="Durchbohren"/>
+    <string id="umhwsoqb" text="Wähle deine Truppe am anfang der Rund und bei künftigen respawns mit Gold."/>
+    <string id="uPLRkTZr" text="Nutze Denars aus der Belagerung, um mit besseren Truppen zu spawnen."/>
+    <string id="UQabkhbG" text="Reittier verursacht {DAMAGE} {DAMAGE_TYPE} schaden."/>
+    <string id="UrZvjCfE" text="Dein Reittier erleidet {DAMAGE} {DAMAGE_TYPE} schaden."/>
+    <string id="UUKzc88q" text="Zuschauerkamera"/>
+    <string id="UvIsHvrt" text="Fluss"/>
+    <string id="UwXP9UAR" text="Gut"/>
+    <string id="UY79LYHf" text="Arm"/>
+    <string id="V4iU0wRv" text="Gold"/>
+    <string id="V6BAHTnv" text="Kultur Team 2"/>
+    <string id="VbeHEAsa" text="Zurückziehen"/>
+    <string id="VI4gQt8Q" text="Streitkolben"/>
+    <string id="vkEzdL3k" text="Spieltyp oder Ort ändern"/>
+    <string id="vLjgcdgB" text="Schnee"/>
+    <string id="vo5NpcUS" text="Obere Lippenform"/>
+    <string id="vqao3Z2N" text="Rammgeschwindigkeit (Prozent)"/>
+    <string id="VRdy76RQ" text="Scharmützel"/>
+    <string id="VRtg9zFZ" text="{SHORTCUT} Breite"/>
+    <string id="VwyBNTs3" text="Gesicht"/>
+    <string id="W1nzgCTY" text="Abstehender Mund"/>
+    <string id="W3OXv9Tx" text="Minimale Rüstung erzwingen"/>
+    <string id="W73My5KO" text="Tod"/>
+    <string id="w9m11T1y" text="Karte"/>
+    <string id="wBn6eVGS" text="Seichter Fluss"/>
+    <string id="WfwkVjTA" text="Arbeitet mit deinem Team in diesem Spielmodus. Nutze dein Gold weise, um Klassen und Respawns zu kaufen, während du versuchst, die Moral des gegnerischen Teams zu brechen oder ihre Truppen vollständig zu zerstören."/>
+    <string id="WhUoF9Mw" text="Zurückfallen"/>
+    <string id="wIgbfqQR" text="Haare"/>
+    <string id="wk4bgkCt" text="Absteigen"/>
+    <string id="Wl5xazIU" text="Kartenleiste erweitern/verkleinern"/>
+    <string id="WlVa7XwJ" text="{DAMAGE} Sturzschaden erlitten."/>
+    <string id="WLztEbPL" text="Höhe"/>
+    <string id="WnN8Ul7A" text="Anzahl der Runden"/>
+    <string id="WsbShtMt" text="Zehnter Kill"/>
+    <string id="WsmZzaOq" text="Spalte"/>
+    <string id="WXAaWZVf" text="Vorherige"/>
+    <string id="Wxlhg1f1" text="Stiefel"/>
+    <string id="wxzhtvZR" text="Respawn Zeit der Verteidiger"/>
+    <string id="x1QEJna0" text="Größer"/>
+    <string id="xILeUbY3" text="Adminbereich"/>
+    <string id="Xj2FCkQl" text="Benutzerdefinierte Serverliste"/>
+    <string id="XpVARRTW" text="Tief"/>
+    <string id="xq9Vxpyc" text="&lt;a style=&quot;HeadshotTitle.Text&quot; &gt;&lt;b&gt;{TITLE}&lt;/b&gt;&lt;/a&gt;"/>
+    <string id="XQndveFG" text="Teamschaden durch Nahkampfwaffen"/>
+    <string id="XUKRrgOr" text="{DAMAGE} {DAMAGE_TYPE} verursachter schaden am Reittier."/>
+    <string id="xXQN7Go6" text="Monolid Augen"/>
+    <string id="XZU9SyQW" text="Schnelles Spielen"/>
+    <string id="XzZFhRwr" text="Zurück zum Spiel"/>
+    <string id="Ybvu10zM" text="Belagerung"/>
+    <string id="ycCmfxhJ" text="Fünfter Kill"/>
+    <string id="yClOSxT8" text="Nasendefinition"/>
+    <string id="yfa7tpbK" text="Alle"/>
+    <string id="YhDDXj0I" text="Schlucht"/>
+    <string id="YoNYyLba" text="Speer"/>
+    <string id="yQtzabbe" text="Schließen"/>
+    <string id="YRymCbaa" text="Wurde durchbrochen!"/>
+    <string id="Yvjap05b" text="Bewegungsgeschwindigkeit"/>
+    <string id="yyJejJbO" text="Kinnform"/>
+    <string id="zatDiaEI" text="Befehl an delegieren"/>
+    <string id="Zc2f5bhh" text="Töte alle Gegner, erschöpfe die Moral des gegnerischen Teams oder habe mehr Moral am ende der Runde."/>
+    <string id="zHKHwHMr" text="Ländlicher Raum"/>
+    <string id="zlYydYn8" text="{SHORTCUT} Formular"/>
+    <string id="zmlCRb1M" text="Max. Anzahl der Spieler"/>
+    <string id="ZMmrpMPk" text="Nacken"/>
+    <string id="zpNSyauI" text="Nutze dein durch Erfolg auf dem Schlachfeld erhaltenes Gold, um mit besseren Truppen zu spawnen."/>
+    <string id="ZYChhMrO" text="Unentschieden"/>
+    <string id="ZZMbAjSU" text="Zerquetscht durch!"/>
+  </strings>
+</base>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="171fTtIN" text="Sandkasten"/>
+    <string id="9NuttOBC" text="Laden"/>
+    <string id="A7349NHy" text="Kritische Entscheidung des Königreichs"/>
+    <string id="AbEh2y8o" text="Speichern und Beenden"/>
+    <string id="bFzZwwjT" text="Untersuchen"/>
+    <string id="bV75iwKa" text="Speichern"/>
+    <string id="d4ud8l9b" text="Spiel fortsetzen"/>
+    <string id="e0KdfaNe" text="Speichern als"/>
+    <string id="NqarFr4P" text="Optionen"/>
+    <string id="PXT6aA4J" text="Kampagnen Optionen"/>
+    <string id="RamV6yLM" text="Zurück zum Haupmenü"/>
+    <string id="VHjIJGja" text="Du musst in einem Königreich sein"/>
+    <string id="XzZFhRwr" text="Zurück zum Spiel"/>
+  </strings>
+</base>

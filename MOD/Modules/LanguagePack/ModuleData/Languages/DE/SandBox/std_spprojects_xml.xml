@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="2NR2E663" text="Palmengarten"/>
+    <string id="3aOIY6wl" text="Salzmine"/>
+    <string id="6WbkldyD" text="Holzfäller"/>
+    <string id="7dW5m6Xa" text="Viehzucht"/>
+    <string id="BPPG2XF7" text="Weizenfarm"/>
+    <string id="dIBuwAhe" text="Gewürzpflanze"/>
+    <string id="EBO1FIC9" text="Schaffarm"/>
+    <string id="ewrkbwI9" text="Olivenbäume"/>
+    <string id="hopZmzBi" text="Steppen-Stall"/>
+    <string id="hPq4vD4Z" text="Projekt stoppen"/>
+    <string id="koX9okuG" text="Keine"/>
+    <string id="NWUTYDQ0" text="Tempel"/>
+    <string id="OSron4OZ" text="Fischerei"/>
+    <string id="pYY1UNgS" text="Lehmgrube"/>
+    <string id="rHcVKSbA" text="Eisenmine"/>
+    <string id="vPt1OF30" text="Wüstenstall"/>
+    <string id="Xj8gsFrW" text="Seidenpflanze"/>
+    <string id="Z8ntYx0Y" text="Flachs Feld"/>
+    <string id="ZtxWTS9V" text="Weinberg"/>
+    <string id="zzQdNpXw" text="Stall"/>
+  </strings>
+</base>

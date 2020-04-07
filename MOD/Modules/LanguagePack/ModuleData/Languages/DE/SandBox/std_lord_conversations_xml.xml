@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="3WjKtaS0" text="Im Moment habe ich keine Männer unter meinem Komando."/>
+    <string id="5uCebOUD" text="Wir ruhen bis {s1} aus. {s14}{s15}"/>
+    <string id="5ypRJiWZ" text="Danke für die Informationen"/>
+    <string id="62AkUCOw" text="Warum verteidigt du dich nicht..."/>
+    <string id="6rTxjBWe" text="Wir rekrutieren neue Soldaten von {s1}. {s14}{s15}"/>
+    <string id="7TIRUaPi" text="Wir reisen nach {s1}. {s14}{s15}"/>
+    <string id="8SUpFvJD" text="Wir ziehen uns nach {s1} zurück. {s14}{s15}"/>
+    <string id="8VsbaDHu" text="Wir kämpfen gegen {s1}. {s14}{s15}"/>
+    <string id="8xvSu9fX" text="Verzeiht mir {?NPC.GENDER}Madame{?}Sir{\?}. Ich weiß nicht, was ich mir dabei dachte."/>
+    <string id="9BblWBGo" text="Wenn Ihr nach Maßnahmen gegen unsere Feinde sucht, können Ihr euch an {s4} zu versuchen. Wir erhielten die Nachricht, dass sich Truppen der {s5} in dem Gebiet befindet, und werden selbst dorthin marschieren. Ich kann euch natürlich nicht garantieren, dass unsere Feinde bei eurer Ankunft noch dort sind."/>
+    <string id="b9iOMo1O" text="Ich führe die Armee des Reiches an."/>
+    <string id="DyQ18GAX" text="Ich beobachte {s1}'s vordringen. {s14}{s15}"/>
+    <string id="fbM7drKO" text="Warum belagert Ihr nicht..."/>
+    <string id="fBt8X6Tw" text="Eh? Was wollen Ihr?"/>
+    <string id="gBbIWuDW" text="TODO_OZAN_1 s43"/>
+    <string id="GnxvoJ38" text="Wenn Ihr auf einen Kampf mit dem Feind aus seit, schließt euch unserem Angriff auf {s4} an. Der Feind wird mit Gewalt gegen uns vorgehen, deshalb können wir jeden Mann gebrauchen."/>
+    <string id="GUIwjFKP" text="Ok, befolgen wir vorerst euren Rat."/>
+    <string id="gZSdus34" text="Ihr habt eine Chance euch zu ergeben oder sterbt."/>
+    <string id="HEJOdRwi" text="Verzeiht mir {?NPC.GENDER}Madame{?}Sir{\?}. Ich weiß nicht, was ich mir dabei dachte."/>
+    <string id="hjZkoJbc" text="Ich denke {ACTION}{SETTLEMENT} derzeit logischer ist, werdet Ihr mir dabei helfen? {AMOUNT}{GOLD_ICON}"/>
+    <string id="HKMdHYb7" text="Ich stehe meinen Mann. Bereitet euch auf den Kampf vor!"/>
+    <string id="JbWJ7Rxl" text="{POSSIBLE_TARGET}"/>
+    <string id="JLXPDR9K" text="Ich weiß nicht: {reg1} {s1} (FEHLER)"/>
+    <string id="ltS8zmH8" text="Seid Ihr verrückt? Ich bin nicht Euer Feind."/>
+    <string id="M7O3AItb" text="Verzeiht mir. Es ist nichts."/>
+    <string id="mjoxaNQz" text="Wenn Ihr nach Maßnahmen gegen unsere Feinde sucht, können Ihr euch an {s4} versuchen. Wir erhielten die Nachricht, dass sich Truppen der {s5} in dem Gebiet befindet. Wir sind derzeit nicht auf dem Weg dorthin, aber andere könnten es sein. Ich kann euch natürlich nicht garantieren, dass unsere Feinde bei Eurer Ankunft noch dort sind."/>
+    <string id="RFkvMoMU" text="Wir werden das Dorf {s1} verwüsten. {s14}{s15}"/>
+    <string id="RJbrrM0K" text="{REASON}"/>
+    <string id="s61RscYw" text="Wo?"/>
+    <string id="sSrP56d2" text="Wir suchen nach dem Feind in der Nähe von {s1}. {s14}{s15}"/>
+    <string id="UUKIk0WP" text="Wir begleiten {s1}. {s14}{s15}"/>
+    <string id="vsxVIDqT" text="Dann, seid verschwunden."/>
+    <string id="WzipKNWN" text="{s43}"/>
+    <string id="x6qI4aBP" text="Was ich hier mache? Wonach sieht es denn aus?! Ich bin ein Gefangener!"/>
+    <string id="YLPPnLMu" text="Ich bin auf dem Weg in die Nähe von {s1}. {s14}{s15}"/>
+    <string id="ztuhSo8h" text="Warum überfallen Ihr nicht..."/>
+  </strings>
+</base>

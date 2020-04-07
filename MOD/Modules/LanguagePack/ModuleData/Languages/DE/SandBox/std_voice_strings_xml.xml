@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="03Q47XnC" text="Nun gut. Ich möchte immer ein wenig über Menschen wissen, bevor ich sie töte. Wollen Sie mir Ihren guten Namen sagen?"/>
+    <string id="1BZmK6EP" text="Nun, jetzt... Ich schätze, wir werden uns bald gegenseitig Blut vergießen. Haben Sie noch etwas auf dem Herzen, bevor wir anfangen?"/>
+    <string id="2V0eF42T" text="{STR_SALUTATION}... Schön, Sie zu sehen. Es ist zu lange her."/>
+    <string id="3bW5jWJ1" text="{STR_SALUTATION}... Wie sehr man sich auch als unwürdig erweisen mag, man sollte immer eine weitere Chance zur Wiedergutmachung haben. In diesem Sinne werde ich mir anhören, was immer Sie zu sagen haben."/>
+    <string id="3WtZ4AKa" text="Ich kenne Sie nicht... Wenn Sie etwas zu sagen haben, sagen Sie es schnell. Die Raben sind hungrig und ich würde sie nicht warten lassen."/>
+    <string id="43KLZl7D" text="{STR_SALUTATION}... Wenn es zu einem Kampf zwischen dir und mir kommt, nun... dann werde ich keine Freude daran haben."/>
+    <string id="4Lfz6ux4" text="{STR_SALUTATION} Es ist schon eine Weile her.."/>
+    <string id="4RbOYBQb" text="Halt! Wollen Sie mir sagen, wer Sie sind, oder sollen wir einfach loslegen?"/>
+    <string id="4RMGcBuj" text="{STR_SALUTATION}... Friede sei mit Ihnen... Ich freue mich, Sie zu sehen."/>
+    <string id="5C1seeEM" text="Halt! Haben Sie noch etwas zu sagen, bevor ich den Angriffsbefehl gebe?"/>
+    <string id="5RpfV389" text="{STR_SALUTATION}... Mein Schwert steht dir zur Verfügung."/>
+    <string id="7dqD89gR" text="Halten Sie hier an. Sie können mir sagen, wer Sie sind, oder sich den Atem für den Nächsten sparen."/>
+    <string id="7eDCl1nd" text="{STR_SALUTATION}... Ich habe dich. Du gehst nirgendwo hin."/>
+    <string id="8i2Z7jJa" text="Bleiben Sie dort stehen. Also, sag mir, gegen wen ich kämpfe?"/>
+    <string id="8kCCsahd" text="{STR_SALUTATION}... Ich kenne Ihre Tricks, und Sie kennen meine. Also, Kampf oder Unterredung, fangen wir an..."/>
+    <string id="97bAooa5" text="Gott... Der Wein hier schmeckt wie Pisse. Ja... Also, wer bist du?"/>
+    <string id="9emUaMsx" text="{STR_SALUTATION}... Ich stehe zu Ihren Diensten."/>
+    <string id="9MZ1SaXt" text="Nun... Ich glaube, wir kennen uns noch nicht. Möchten Sie mir Ihren guten Namen sagen?"/>
+    <string id="A3eeOUZH" text="Sie wissen, was ich von Ihnen halte. Hoffentlich ist das wichtig."/>
+    <string id="a67lBQad" text="Wer sind Sie? Antworten Sie schnell, bevor ich den Befehl zum Angriff gebe."/>
+    <string id="AoBIFXZH" text="{STR_SALUTATION}... Sieh mal einer an. Ich bin sehr gespannt, was Sie zu sagen haben."/>
+    <string id="aOkilS3H" text="Richtig. Wer sind Sie denn?"/>
+    <string id="axO6JCWt" text="Wenn Sie bitte... Bleiben Sie dort stehen. Ich möchte Sie nach Ihrem Namen fragen."/>
+    <string id="ay0tHozl" text="Aye? Und wer sind Sie?"/>
+    <string id="AYeRBAxA" text="Nun denn. Kommen Sie nicht näher. Verzeihen Sie mir, aber man kann nicht zu vorsichtig sein. Ich möchte Sie nach Ihrem Namen fragen."/>
+    <string id="B05S6Fw4" text="Wer sind Sie, und was wollen Sie?"/>
+    <string id="b9DEXqta" text="Bleiben Sie dort stehen. Gut... So können wir ein bisschen parlieren. Aber wenn Sie etwas Trickreiches versuchen, werden meine Jungs Sie umbringen."/>
+    <string id="bI4IbX25" text="{STR_SALUTATION}... Nun... Ist schon eine Weile her, seit ich Sie das letzte Mal gesehen habe. Ich kann nicht sagen, dass es mir viel ausmachte."/>
+    <string id="BXpMYumQ" text="Nun... Verzeihen Sie mir, wenn ich Ihnen nicht 'Frieden' wünschen kann, alter Freund. Das Schicksal tut, was es will."/>
+    <string id="CcPZbyiv" text="Bleib stehen, Kumpel. Also, Sie sollten mir vielleicht Ihren Namen sagen, bevor wir die Schwerter kreuzen."/>
+    <string id="CdHlFmue" text="Sagen Sie mir Ihren Namen. Verzeihen Sie mir, wenn ich Ihnen schon einmal begegnet bin und mich nicht an den Anlass erinnere, denn ich habe viele Krieger in dieses Land kommen und schnell in flache Gräber gehen sehen."/>
+    <string id="CEKlT71P" text="So, da wären wir. Geben Sie mir ein anständiges Begräbnis, wenn ich in Ihr Schwert falle, und ich werde dasselbe für Sie tun. Habt Ihr noch etwas zu sagen?"/>
+    <string id="CiquaIVy" text="Es sieht so aus, als hätten Ihre Sünden Sie noch nicht eingeholt. Aber das werden sie, glauben Sie mir, das werden sie.."/>
+    <string id="cXQm4Wba" text="Halt... Wenn Sie sich an die Bedingungen der Unterredung halten, werde ich zuhören."/>
+    <string id="d6LHL0Fj" text="Sieht aus, als hätte man Sie erwischt, und ich bin froh, dass ich derjenige bin, der Sie erwischt hat."/>
+    <string id="DwqTbXhg" text="Nun... Wenn ich die Chancen nicht falsch einschätze, würde ich sagen, dass Sie eine sehr gute Chance haben, mit Ihren Vorfahren zu schlemmen, bevor dieser Tag vorbei ist."/>
+    <string id="DXYVZbcz" text="{STR_SALUTATION}.. Bereit, mir einen guten Kampf zu liefern?"/>
+    <string id="F1KEe2XG" text="Bitte fassen Sie sich kurz. Ich stehe unter Zeitdruck."/>
+    <string id="fQRGVkTL" text="Nun, wenn es auf Sie und mich ankommt, machen wir es zu einem Kampf, über den die Barden singen werden, ja?"/>
+    <string id="G0qCtfK2" text="{STR_SALUTATION}... Es ist schade, dass wir uns so treffen."/>
+    <string id="g9Gav4yj" text="{STR_SALUTATION}.. Also... Eine Schlange ist in mein Ohr gekommen, um zu zischen."/>
+    <string id="GCTtfyGS" text="Ich weiß nicht, was wir uns gegenseitig zu sagen haben."/>
+    <string id="GgERkyDL" text="Meine Herrin..."/>
+    <string id="gGjqzb5j" text="Was ist es, Fremder? Wer sind Sie?"/>
+    <string id="gLWgcDUN" text="Ah, die Götter sind gütig. Was für einen Tod willst du, Hund?"/>
+    <string id="gMyAYyEX" text="{STR_SALUTATION}.. Es ist schon eine Weile her."/>
+    <string id="h6g4OQqT" text="Bleiben Sie stehen. Nun denn... Sagt mir Euren Namen, bevor wir die Schwerter kreuzen."/>
+    <string id="hAbpAkIw" text="{STR_SALUTATION}.. Ich glaube, Ihr Glück hat sich erschöpft."/>
+    <string id="hbvuSLB0" text="So, da wären wir. Ich dachte einmal, Freundschaft sei heilig, aber am Ende werden alle heiligen Dinge entweiht. Glauben Sie nicht, dass ich Sie nicht töten würde, wenn es nötig wäre."/>
+    <string id="iNYLG9P1" text="Ich bin sehr wütend auf Sie. Seit Ihrem letzten Besuch ist zu viel Zeit vergangen."/>
+    <string id="IU3KjVbT" text="Das ist nah genug. Wer sind Sie?"/>
+    <string id="j6p0K0s6" text="{STR_SALUTATION}. Ich stehe Ihnen zur Verfügung."/>
+    <string id="jljaKTRo" text="{STR_SALUTATION}... Ich stehe im Moment etwas unter Zeitdruck. Worum geht es?"/>
+    <string id="k8gI5Ix3" text="Verzeihung - ich habe Ihren Namen nicht verstanden."/>
+    <string id="KJsVOyUE" text="{STR_SALUTATION}... Ich freue mich so sehr, Sie zu sehen."/>
+    <string id="KnJoVOEk" text="{STR_SALUTATION}... Ich stehe Ihnen zur Verfügung."/>
+    <string id="Kp0Mc35d" text="Halt! Wer sind Sie?"/>
+    <string id="l03Kxell" text="Halt... Bevor wir kämpfen, möchte ich deinen Namen wissen."/>
+    <string id="l0Bmbgqg" text="Kommen Sie nicht näher. Bevor wir uns prügeln, möchte ich Sie nach Ihrem Namen fragen."/>
+    <string id="laroTh3e" text="Haben Sie noch etwas zu sagen, bevor ich den Angriffsbefehl gebe?"/>
+    <string id="lbH0Fw9s" text="Ich habe lange auf diesen Tag gewartet. Schauen Sie sich gut um, denn bald werden Ihre Augen nur noch das Innere eines Rabenbauches zu sehen bekommen."/>
+    <string id="lK32NXY8" text="Ich vertraue darauf, dass Sie sich gut gehalten haben, Ihrem Namen Ehre gemacht und blutige Schwaden durch Ihre Feinde gezogen haben."/>
+    <string id="LNhUaIoB" text="Richtig, Sie. Bereiten Sie sich auf das vor, was auf Sie zukommt."/>
+    <string id="LRpsEe3F" text="{STR_SALUTATION}... Gut dich zu sehen."/>
+    <string id="lvScVM9T" text="Bitte fassen Sie sich kurz. Ich stehe unter Zeitdruck."/>
+    <string id="M5HVzG5S" text="{STR_SALUTATION}... Ist schon eine Weile her."/>
+    <string id="mcNlccCF" text="Aye? Ich glaube nicht, dass ich Sie kenne. Friede sei mit dir, Fremder."/>
+    <string id="mHjnRrLk" text="Nun, ich werde es nicht leugnen. Es wird mir ein Vergnügen sein, Ihnen zuzusehen, wie Sie sich im Staub winden und bluten."/>
+    <string id="mkFfE4Pm" text="Das ist jetzt nahe genug. Wer sind Sie?"/>
+    <string id="n5Va4JVo" text="Ah, gut. Die Justiz scheint mich heute zu ihrem Henker ernannt zu haben. Sind Sie für das Schwert oder die Schlinge?"/>
+    <string id="nESnaBbx" text="Meine Herrin... Ihr seid reizend wie immer."/>
+    <string id="nOMhLR63" text="{STR_SALUTATION}... Du bist schön wie immer."/>
+    <string id="Ny7o14yZ" text="Sagen Sie mir Ihren Namen. Ich ziehe es immer vor, zu wissen, wen ich töte."/>
+    <string id="NZ9E0KVb" text="Du weißt, dass ich mich nicht um dich kümmere. Was wollen Sie sagen?"/>
+    <string id="nzSUfX5b" text="Bereiten Sie sich darauf vor, die Belohnung eines Schurken zu ernten, Schurke!"/>
+    <string id="oqSF8Ueu" text="Nun, Fremder. Friede sei mit dir. Wie ist Ihr Name?"/>
+    <string id="oYskGouF" text="{STR_SALUTATION}... Mein Herz ist froh, dich zu sehen."/>
+    <string id="p1CHHIFb" text="Verzeihen Sie mir, was vielleicht als eine Fülle von Vorsicht erscheinen mag, aber bitte halten Sie Abstand. Etwas mehr als die Schwertlänge ist in Ordnung. Also, wer mögen Sie sein?"/>
+    <string id="PCLD3G3s" text="{STR_SALUTATION}... Ich würde Ihnen Frieden und Wohlstand wünschen, aber das will ich natürlich nicht."/>
+    <string id="pf3LDFVp" text="Lassen Sie Ihr Schwert noch einen Moment länger in seiner Scheide, Fremder. Wer sind Sie?"/>
+    <string id="PiaaXapn" text="{STR_SALUTATION}... Es ist sehr schön, Sie zu sehen."/>
+    <string id="PihQGbui" text="{STR_SALUTATION}... Es macht mir keine Freude, gegen Sie zu kämpfen, aber glauben Sie mir, ich werde es tun, wenn es nötig ist."/>
+    <string id="pm786w3d" text="Es war eine so angenehme Überraschung, Sie zu sehen. Ich hoffe, meine Männer finden ein paar Fesseln aus Silber oder Gold, die Ihres Ranges würdig sind, denn es scheint, als würden Sie uns heute Abend mit Ihrer Anwesenheit beehren."/>
+    <string id="PvxtpJaY" text="Ihr Gesicht ist mir nicht bekannt. Wie ist Ihr Name, Fremder?"/>
+    <string id="Q3kWez4P" text="Halten Sie hier an. Wer sind Sie? Es ist besser, wenn wir die Namen der anderen kennen, auch wenn wir uns streiten."/>
+    <string id="q3WvWFD1" text="{STR_SALUTATION}. Es ist schon eine Weile her."/>
+    <string id="qSVbfakb" text="{STR_SALUTATION}... Ich freue mich so sehr, Sie zu sehen."/>
+    <string id="RNfnK0Vv" text="Em..... Seid gegrüßt, Mylady. Ich glaube nicht, dass wir uns schon begegnet sind."/>
+    <string id="rWuWrr2s" text="{STR_SALUTATION}... Ich werde nicht so tun, als ob ich Sie mag, aber ich werde Sie anhören."/>
+    <string id="s27yxVHY" text="Haben Sie etwas zu sagen?"/>
+    <string id="SCGyic5H" text="{STR_SALUTATION}... Vergolden Sie meine Zeit nicht sonnst, werden sie es bereuen."/>
+    <string id="SdXCOffd" text="Respektieren Sie die Bedingungen der Unterredung, und ich werde das Gleiche tun. Also, wer sind Sie?"/>
+    <string id="TCJIGLaL" text="Deine Gesundheit, Fremder! Wer sind Sie denn?"/>
+    <string id="TjrwrSH9" text="Friede sei mit dir, Fremder. Wie ist Ihr Name?"/>
+    <string id="tJVlv0TN" text="Da Sie nirgendwo hingehen, können wir uns genauso gut ein wenig unterhalten. Vielleicht möchten Sie sich vorstellen?"/>
+    <string id="TmQpdK7M" text="{STR_SALUTATION}... Deine Schönheit ist Balsam für meine Sorgen."/>
+    <string id="U2Kr8vTy" text="Ich habe Sie erwischt. Versuchen Sie keine Tricks. Haben Sie etwas zu sagen?"/>
+    <string id="uGuu5JPx" text="{STR_SALUTATION}... Beten Sie am besten, dass Ihnen eines Tages jemand im Kampf einen schnellen Tod beschert, denn wenn Sie mir jemals in die Hände fallen, werden Sie feststellen, dass ich ein langes Gedächtnis habe und nicht verzeihen kann."/>
+    <string id="uhSeQI7D" text="Sagen Sie, was immer Sie zu sagen haben. Danach sterben Sie."/>
+    <string id="uLkQmlad" text="{STR_SALUTATION}... Das Schicksal liebt es offensichtlich, alte Freunde kämpfen zu sehen... Trotzdem, glauben Sie nicht, dass ich meine Pflicht nicht erfüllen werde."/>
+    <string id="uVm44ScK" text="{STR_SALUTATION}... Friede sei mit Ihnen."/>
+    <string id="UW9Pexaq" text="{STR_SALUTATION} Ich stehe Ihnen zur Verfügung. Erlauben Sie mir, Ihr Testament in den Seiten der Geschichte in Blutbriefen niederzuschreiben. Oder was immer Sie sonst noch brauchen..."/>
+    <string id="vvkBHcAL" text="Ich kenne Sie nicht. Ich nehme an, Sie sollten mir Ihren Namen sagen."/>
+    <string id="vyeEx182" text="{STR_SALUTATION}... Ich will nicht gegen Sie kämpfen müssen. Aber das werde ich, mein Freund, das werde ich."/>
+    <string id="WAK8lSaW" text="Schönen Tag noch. Wer sind Sie denn?"/>
+    <string id="wIXmtKa5" text="Was für eine angenehme Überraschung! Ich glaube, das wird mir gefallen. Haben Sie noch etwas zu sagen, bevor ich den Angriffsbefehl gebe?"/>
+    <string id="wzhYA3XN" text="{STR_SALUTATION}... Ich weiß nicht, was wir einander zu sagen haben."/>
+    <string id="xAaxpdb3" text="{STR_SALUTATION}... Es ist sehr, sehr schön, Sie zu sehen."/>
+    <string id="xiFrtNGH" text="Ah... Das Schicksal meint es gut mit mir heute. Ich kann mir keine süßere Musik vorstellen als Ihr Todesröcheln."/>
+    <string id="XmwqrCLY" text="{STR_SALUTATION}... Wissen Sie, aufgeblasene Banditen wie Sie selbst bekommen am Ende immer das, was sie verdienen."/>
+    <string id="y41EYSBI" text="{STR_SALUTATION}. Es ist schön, Sie zu sehen."/>
+    <string id="yd0sShGW" text="Bleiben Sie dort stehen. Wer sind Sie? Ich will wissen, wen ich töte."/>
+    <string id="YGAYp0pO" text="Aye? Tut mir leid, ich glaube, ich kenne Sie nicht."/>
+    <string id="YJvvaeDq" text="{STR_SALUTATION}... Beten Sie am besten zum Himmel um Gnade, denn ich beabsichtige, Ihnen keine zu zeigen."/>
+    <string id="YubrUiab" text="{STR_SALUTATION}... Wie ich sehe, leben Sie noch. Schade."/>
+    <string id="Z2bRJhTh" text="{STR_SALUTATION}... Wenn Sie heute gut sterben, werde ich sicher sein, dass man sich an Ihren Mut erinnert."/>
+    <string id="z3zTyNru" text="Komm noch näher, Fremder, und ich steche dir ein Messer in den Bauch. Aber wenn du bleibst, wo du bist, können wir uns vielleicht angenehm genug unterhalten."/>
+    <string id="ZBjXh6cA" text="Bleiben Sie stehen, Fremder. Ich bitte dich um Frieden. Zumindest bis ich herausgefunden habe, wer du bist."/>
+    <string id="ZRUCzgxQ" text="{STR_SALUTATION}... Wenn Sie nichts Lohnenswertes zu sagen haben, schütten Sie Ihr Gift in das Ohr eines anderen."/>
+  </strings>
+</base>

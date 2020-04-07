@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0xC75dN6" text="Feindliche Gruppe"/>
+    <string id="1cnJtNTt" text="({KEY}) Ziehen"/>
+    <string id="1CPdu9K0" text="Stein"/>
+    <string id="3PP01vFv" text="Halten Sie sich von dieser Waffe fern."/>
+    <string id="4FVIuqsl" text="{ALIVE}/{TOTAL}"/>
+    <string id="4Skg9QhO" text="Trebuchet"/>
+    <string id="5oozsaIb" text="({KEY}) offen"/>
+    <string id="5wx4BF5h" text="({KEY}) Drehen"/>
+    <string id="5zGsfiMM" text="{TRAINING_TYPE}"/>
+    <string id="6wZUG0ev" text="Tor"/>
+    <string id="abbALYlp" text="Balliste"/>
+    <string id="aXjlMBiE" text="Belagerungsturm"/>
+    <string id="bNYm3K6b" text="({KEY}) Aufnehmen"/>
+    <string id="bWi4aMO9" text="Fass mit Pfeilen"/>
+    <string id="F9AQxCax" text="Gabel"/>
+    <string id="fEQAPJ2e" text="({KEY}) verwenden"/>
+    <string id="G0AWk1rX" text="Leiter"/>
+    <string id="gqQPSAQZ" text="({KEY}) Bereich verlassen"/>
+    <string id="hOSafKZ9" text="Ein neues Spiel von {GAME_TYPE} wird am {SCENE_NAME} gestartet"/>
+    <string id="hvQSOi79" text="Bot"/>
+    <string id="ibC4xPoo" text="({KEY}) Munition laden"/>
+    <string id="jfcceEoE" text="{PILE_TYPE} Stapel"/>
+    <string id="kbNcm68J" text="({KEY}) Aufzug"/>
+    <string id="L91XKoMD" text="{TEAM_LEADER}: {PLAYER_NAME}, {BEHAVIOR}"/>
+    <string id="lVfmVHbz" text="Login Fehlgeschlagen"/>
+    <string id="MaBSSg7I" text="Rammbock"/>
+    <string id="MdQJxiGz" text="({KEY}) Drücken"/>
+    <string id="Na81xuXn" text="({KEY}) Aufrüstung"/>
+    <string id="NbpcDXtJ" text="Mangonel"/>
+    <string id="pgw7LMRo" text="Server über Kapazität."/>
+    <string id="PNg2Rb4p" text="{PEER_NAME} wird gekickt{IS_BANNED}"/>
+    <string id="pzfbPbWW" text="Felsbrocken"/>
+    <string id="rwZAZSvX" text="({KEY}) Bewegung"/>
+    <string id="sSJSTe5p" text="Spielergruppe"/>
+    <string id="TJj71hPO" text="({KEY}) Schließen"/>
+    <string id="wY1qP2qj" text="({KEY}) Auswahl"/>
+  </strings>
+</base>

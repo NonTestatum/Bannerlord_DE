@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="05j6iK6w" text="Ihre Anfrage für ein Gespräch wird im Inneren weitergeleitet und schließlich erscheint {s6} im Hof, um mit Ihnen zu sprechen."/>
+    <string id="0BxE0BsX" text="50 Meter."/>
+    <string id="0cqntvyT" text="Euer Königreich besitzt kein Land mehr."/>
+    <string id="0TtOy5mm" text="Du betretest den Dhorak Keep"/>
+    <string id="0Uf6nsNI" text="Der Feind hat sich zurückgezogen."/>
+    <string id="1m7Udicr" text="Gehe zurück zum Marktplatz."/>
+    <string id="1RGsShBj" text="Sie wurden vor Jahren, in einem Land weit entfernt, geboren. Ihr Vater war..."/>
+    <string id="2C3Dhnbu" text="Preise bewerten"/>
+    <string id="2fBqfnjT" text="Im Saal des Fürsten ist ein Fest im Gange, aber Sie haben nicht genügend Status, um hinein eingeladen zu werden. Vielleicht würde eine Erhöhung Ihres Ansehens Ihnen den Zutritt verschaffen - oder Sie könnten auch versuchen, sich bei einem Turnier zu profilieren, während das Fest stattfindet..."/>
+    <string id="2g2FhKb5" text="Abschied."/>
+    <string id="2la0ukEn" text="70 Meter."/>
+    <string id="2Mu1d2ZQ" text="Kehre zurück."/>
+    <string id="2YUUGQvG" text="Weiblich"/>
+    <string id="2YYRyrOO" text="Verlassen..."/>
+    <string id="2znoZAZZ" text="Akzeptieren Sie diese Entscheidung."/>
+    <string id="3h9FB2k5" text="{!}Schnellkampf-Szene 2"/>
+    <string id="3nbuRBJK" text="Vergessen Sie es."/>
+    <string id="3nT5wWzb" text="Kapitulation."/>
+    <string id="3oh6WKbY" text="In welchem Bereich möchten Sie trainieren?"/>
+    <string id="3sRdGQou" text="Verlassen"/>
+    <string id="3y6IdEsc" text="Du hast keine Gefangenen, welche man rekrutieren kann."/>
+    <string id="3YNVPMzV" text="{!}Initialisiere ökonomische Statistiken."/>
+    <string id="3yOCGoby" text="Preise und Produktionen anzeigen."/>
+    <string id="40fBLI2g" text="Reise fortsetzen."/>
+    <string id="49qjBLr4" text="Möchtest du dieses Dorf weiter plündern?"/>
+    <string id="4a1xSAMN" text="Du bist am Tag {reg0}. Dein aktuelles Glück ist {reg1}. Bist du sicher, dass du dich zurückziehen möchtest?"/>
+    <string id="4QL21HiU" text="Liste der bekannten Fürsten nach Relation anzeigen."/>
+    <string id="4QNycK7T" text="Zurückkehren"/>
+    <string id="55UbdXeU" text="Eine Seite am Hof eines Adelsgeschlechts."/>
+    <string id="5B6WPxeu" text="{CHAR_NAME}"/>
+    <string id="5CdXHpbf" text="Du gehst in die Testszene."/>
+    <string id="5GCPSUmR" text="Sparring-Praxis."/>
+    <string id="5LiYg4tG" text="Möchten Sie an Bord gehen?"/>
+    <string id="5M4muwbC" text="Die Banditen sind gebrochen! Die wenigen, die übrig bleiben, laufen mit eingezogenem Schwanz davon, verängstigt vor den Bauern und ihrem neuen Meister. Die Dorfbewohner haben nach ihrer Tortur nur noch wenig von ihrem Reichtum übrig, aber sie bieten Ihnen alles, was sie finden können, um ihre Dankbarkeit zu zeigen."/>
+    <string id="63BblDLk" text="Wählen Sie Ihren Gegner #{reg1}:"/>
+    <string id="6Fe34wbr" text=" Beantragen Sie ein Treffen mit dem Kommandanten."/>
+    <string id="6ZaCPvWP" text="Bringen Sie die Herde zum Stillstand."/>
+    <string id="7A7CF9RB" text="Bewerten Sie die lokalen Preise."/>
+    <string id="7N0IliZB" text="{!}schnelle Kampfszene 4"/>
+    <string id="7tmHbQ3N" text="Ziehen Sie sich zurück und lassen Sie einige Soldaten zurück, um Ihren Rückzug zu decken."/>
+    <string id="7VXbwTTw" text="Befehlen Sie, den Angriff zu starten."/>
+    <string id="84ivZusS" text="Sie haben es versäumt {s8}. Der Marschall geht davon aus, dass Sie anderweitig engagiert waren, hätte sich aber über Ihre Unterstützung gefreut."/>
+    <string id="8jXXrQU0" text="Eingabe."/>
+    <string id="8k6AXNW8" text="Du bist erfolgreich entkommen."/>
+    <string id="8X4oJYqT" text="{!}Feld 3"/>
+    <string id="90Lr6obc" text="Wählen Sie eine Aktion aus:"/>
+    <string id="98BDrwI2" text="Eingabe 6."/>
+    <string id="9eRQJ6sa" text="{!}CHEAT! - Ehre erhöhen"/>
+    <string id="9gvnRugm" text="{s11}{s12}"/>
+    <string id="9jnQy7OY" text="Angriff auf den Feind."/>
+    <string id="9Js83EQM" text="20 Meter."/>
+    <string id="9OaaK18j" text="Kleine Fraktionsbasis"/>
+    <string id="a4humJtw" text="Möge {s15} erfahren, dass Sie bereit sind, als Marschall zu dienen."/>
+    <string id="a67bJTfc" text="Ein Student der Universität."/>
+    <string id="aajVEjSP" text="Ein fahrender Händler."/>
+    <string id="abgZKbqF" text="Ihre Truppen bereiten sich darauf vor, den Feind anzugreifen."/>
+    <string id="AbNe5BCm" text="{!}schnelle Kampfszene 1"/>
+    <string id="afFGi7fF" text="In einer stimmungsvollen Schlacht vertreiben Sie und Ihre Männer die Banditen aus dem Dorf und machen es wieder sicher. Die Dorfbewohner haben nach ihrer Tortur nur noch wenig vom Reichtum übrig, aber sie bieten Ihnen alles, was sie finden können."/>
+    <string id="AFJ3BvTH" text="Sie sind schnell von Wachen umgeben, die Ihnen die Waffen abnehmen. Mit Flüchen und Beleidigungen werfen sie dich in den Kerker, wo du die elenden Tage deiner Gefangenschaft verbringen musst."/>
+    <string id="AGb8AlNE" text="{!}Kräfte sammeln Armee."/>
+    <string id="AhPUGsGD" text="Ruhen Sie sich von den Abenteuern aus."/>
+    <string id="aJ6Uug2m" text="{!}Feld 2"/>
+    <string id="Aj9fzfHJ" text="Reise fortsetzen."/>
+    <string id="aLwhz53W" text="{!}Ein Umdenken erzwingen."/>
+    <string id="AnQprbjP" text="Mit welcher Art von Waffe wollen Sie trainieren?"/>
+    <string id="aojoJWYT" text="Der Minnesänger."/>
+    <string id="aOPmkVJo" text="{!}CHEAT! - Alternative Ai deaktivieren"/>
+    <string id="AORQ2aCD" text="Bogen."/>
+    <string id="aTMyvtBl" text="Wie viele Tiere wollen Sie schlachten?"/>
+    <string id="aVNFN0u6" text="Willkommen, Abenteurer, bei Mount and Blade: Warband. Bevor Sie das Spiel beginnen, müssen Sie Ihren Charakter erstellen. Denken Sie daran, dass in der traditionellen mittelalterlichen Gesellschaft, die im Spiel dargestellt wird, Krieg und Politik in der Regel von männlichen Mitgliedern des Adels dominiert werden. Das bedeutet jedoch nicht, dass Sie sich nicht dafür entscheiden sollten, einen weiblichen Charakter zu spielen oder einen, der nicht von adliger Herkunft ist. Männliche Adelige haben vielleicht einen etwas leichteren Start, aber Frauen und Bürgerliche können alle die gleichen Ziele erreichen - und haben vielleicht sogar ein viel interessanteres, wenn auch anspruchsvolleres frühes Spiel."/>
+    <string id="aWDAHf77" text="Die Verteidiger stürmen auf die Angreiffer zu."/>
+    <string id="AwWSyXbX" text="{BATTLE_CONDITION}^^Ihre Verluste: {YOUR_CASUALTIES}^^Verluste der Verbündeten: {ALLIES_CASUALTIES}^^Feindliche Verluste: {ENEMY_CASUALTIES}"/>
+    <string id="b0JJCYNC" text="Eingabe 2."/>
+    <string id="B10lcpMz" text="Als Sie sich auf die Fortsetzung der Ausbildung vorbereiten, kommt ein Wächter aus dem Dorf auf Sie zu und ruft Alarm. Die Banditen sind am Horizont gesichtet worden und sie reiten schnell {s3}. Der Älteste fleht Sie an, Ihre neu ausgebildete Miliz zu organisieren und sich ihnen zu stellen."/>
+    <string id="b88WoLBl" text="Plötzlich wird die ganze Welt um Sie herum schwarz. Viele Stunden später erlangen Sie Ihr Bewusstsein wieder und finden sich an der Stelle wieder, an der Sie gefallen sind. Ihre Feinde müssen Sie für tot gehalten und dort zurückgelassen haben. Es scheint jedoch, dass keine Ihrer Wunden tödlich war, und obwohl Sie sich schrecklich fühlen, stellen Sie fest, dass Sie immer noch gehen können. Sie stehen auf und versuchen, nach weiteren Überlebenden aus Ihrer Gruppe zu suchen."/>
+    <string id="bBvWHdj8" text="Befehlen Sie Ihren Männern, sich ohne Sie an der Schlacht zu beteiligen."/>
+    <string id="bDTahEHG" text="{s13}"/>
+    <string id="BfrQNKa8" text="{s4}^^Ihre Verluste: {s8}^^Verluste der Verbündeten: {s9}^^Feindliche Verluste: {s10}"/>
+    <string id="bgiowuXu" text="{!}Erhöht die letzte Angriffszeit um 24 Stunden."/>
+    <string id="biib5HTx" text="Erneuern Sie Ihren Vertrag mit {FACTION_OWNER} for another month."/>
+    <string id="bLNocKd1" text="Fortsetzen.."/>
+    <string id="bMbAmTRM" text="Rufen Sie Ihre Soldaten zurück."/>
+    <string id="BNVi52PU" text="Nehmen wir sie."/>
+    <string id="bOGVkOtG" text="Eine Dame in Erwartung."/>
+    <string id="bOzdqafw" text="Antrag, dass {TOWN_NAME} werden an Ihre {?PLAYER.GENDER}ehemann{?}ehefrau{\?}."/>
+    <string id="bPzCuf2H" text="{!}Feld 5"/>
+    <string id="buKXELE3" text="Das Angebot annehmen."/>
+    <string id="bZ8Ebzqh" text="Stummel"/>
+    <string id="bZmbrrvX" text="Verzichten Sie auf Ihren Eid und geben Sie Ihren Besitz auf."/>
+    <string id="c4z2OXgJ" text="Die Belagerer lassen Sie ohne Herausforderung an die Tore herankommen."/>
+    <string id="c5hBaWn2" text="{!}{s11}"/>
+    <string id="Cd4weMNM" text="{s15} wird bald einen neuer Feldmarschall für {s23} ausgewählt. Einige Firsten haben deinen Namen als wahrscheinlicher Kandidat vorgeschlagen."/>
+    <string id="cmSvwyeA" text="Rekrutiere einige deiner Gefangenen für deine Gruppe."/>
+    <string id="CRPQKyZN" text="Befehlen Sie Ihren Truppen, mit Ihren Verbündeten anzugreifen, während Sie sich zurückhalten."/>
+    <string id="CRukOyi9" text="Ablehnen. Du hast kein Interesse am Halten von {TOWN_NAME}."/>
+    <string id="CtXukTUO" text="Um ein Vasall zu werden, musst du einen Ehreneid an {s3} schwören. Du musst ihn finden und ihm deinen Eid persönlich geben. {s5}"/>
+    <string id="czt21qqg" text="Wurfmesser."/>
+    <string id="D7WhZ2IN" text="Feindseligkeit: Feinde wurden außerhalb der Mauern von {s4} gesichtet, {s5} und andere bereiten sich auf eine Angriff vor. Du kannst ihnen beitreten, wenn du willst."/>
+    <string id="D9WJXQ9Z" text="Ablehnen"/>
+    <string id="dB8iP1e4" text="{!}Gehe zurück."/>
+    <string id="def7LZeh" text="{TOWN_NAME} ist durch deine Truppen gefallen, und du hast nun die volle Kontrolle über die Burg. Es ist an der Zeit, {KING.LINK} über deinen Sieg zu Informieren. {s5}"/>
+    <string id="dejauJEv" text="Lust auf Geld und Macht."/>
+    <string id="DiaGRBai" text="Handel mit dem Warenhändler."/>
+    <string id="DM6luo3c" text="Fortsetzen"/>
+    <string id="DOsjwiLG" text="Begleiter-Missionsbericht anzeigen."/>
+    <string id="dTMSNlRl" text="Gegen wie viele Gegner wirst du antreten?"/>
+    <string id="DvcmnLFs" text="{!}Verteidigung erzwingen."/>
+    <string id="dziMGFUB" text="Die Entscheidung wird getroffen, und Sie beschließen, das Leben Ihres Abenteurers aufzugeben und sich zu beruhigen. Du verkaufst deine Waffen und Rüstung, sammelst dein ganzes Geld und reitest in den Sonnenuntergang...."/>
+    <string id="E05uLqqx" text="30 Meter."/>
+    <string id="e0bDqIIN" text="Stadtname: {s1}^Mieteinnahmen: {reg1} denars^Tariffeinnahmen: {reg2}{GOLD_ICON}^Lebensmittelvorrat: für {reg3} Tage"/>
+    <string id="e2aJDBxU" text="{s0}"/>
+    <string id="e8pv4Xub" text="Sie kommen am Four Ways Inn an."/>
+    <string id="Ee3uXAox" text="{s1}."/>
+    <string id="EjWE9YO5" text="Durchqueren Sie die Belagerungslinien und betreten {s1}."/>
+    <string id="Ekkd0wZ5" text="Produziere {4}."/>
+    <string id="EMduOQ7S" text="Drei."/>
+    <string id="emlCtX0B" text="Werden sie frei von ihren Verpflichtungen."/>
+    <string id="eO1bDbmw" text="Vier."/>
+    <string id="eOOrzq4Y" text="{s4}^^Deine Opfer:{s8}^^Feinde wurden getötet: {s9}"/>
+    <string id="eVYtO8uU" text="Start."/>
+    <string id="F3Bi3R6J" text="Mit Mut und Entschlossenheit kämpfen die Dorfbewohner gemeinsam und vertreiben ihre Streitkräfte."/>
+    <string id="Faf9KgRu" text="Ein Steppenkind."/>
+    <string id="FDuNN0jy" text="Ein Warenhändler."/>
+    <string id="fF4OgEm3" text="Geprüfte Preise:"/>
+    <string id="fktjXAhN" text="Sie hatten einen Vertrag mit {FACTION_OWNER}, um ihm für eine bestimmte Dauer zu dienen. Ihr Vertrag ist jetzt abgelaufen. Was werden Sie tun?"/>
+    <string id="FM0PSaFP" text="Verlassen."/>
+    <string id="FSkWAHxV" text="Schlachten Sie einige der Tiere."/>
+    <string id="ft5EI4KF" text="{!}Dieses Menü kehrt automatisch zum Anrufer zurück."/>
+    <string id="Fw9c0oTK" text="Ablehnen."/>
+    <string id="FzSYztM1" text="{!}Wähle ein Feld..."/>
+    <string id="g2LSSzth" text="Zurückgehen"/>
+    <string id="G8ybKBKr" text="{SETTLEMENT_TAKEN_TEXT}"/>
+    <string id="gaWqFqes" text="Verzichten Sie auf Ihren Eid und regieren Sie Ihre Länder, einschließlich {s2}, in Ihrem eigenen Namen."/>
+    <string id="GfUvDcUl" text="Charakterbericht anzeigen."/>
+    <string id="GfW8kSay" text="Sie werden aus Ihrem Zuhause vertrieben."/>
+    <string id="GgVTuoYz" text="{s10}"/>
+    <string id="GM1tvFNX" text="Sie bleiben so lange wie möglich getarnt, bevor Sie sich offenbaren. Die Wachen sind empört und schlagen Sie wild um sich, bevor sie Sie für Gott weiß wie lange wieder in die Zelle werfen..."/>
+    <string id="GmcgoiGy" text="Handel"/>
+    <string id="gPbFPJPw" text="Nimm an der Schlacht teil."/>
+    <string id="GT2FAj5O" text="Der Verzicht auf Ihren Eid ist eine schwerwiegende Handlung. Ihr Herr kann Sie verurteilen und Ihre Ländereien und Besitztümer beschlagnahmen. Wenn Sie sie jedoch aus freiem Willen zurückgeben, kann er den Verrat kampflos auf sich beruhen lassen."/>
+    <string id="gx901scU" text="Gehen Sie zum Schmied."/>
+    <string id="gyGbu5ev" text="{!}CHEAT! - Überzeugungskraft erhöhen"/>
+    <string id="h6blabDI" text=" "/>
+    <string id="HbBdQLKZ" text="{s2} Sie haben {reg10} Truppen, die für den Kampf gegen ihre {reg11} geeignet sind."/>
+    <string id="hdriPBxD" text="Ein Veteranenkrieger."/>
+    <string id="hIjkJtll" text="Benenne dein Königreich um."/>
+    <string id="hKdbHeZk" text="Mit welcher Fernkampfwaffe möchtest du trainieren?"/>
+    <string id="hm4FQCE1" text="Sprechen Sie mit dem Anführer."/>
+    <string id="HOuwCM5Y" text="Die Produktionen sind:^(Anmerkung: Basis/Modifikation durch Rohstoffe/Modifikation durch Materialien plus Wohlstand)^{s1}^^^Preisfaktoren sind:^{s2}"/>
+    <string id="hskGr3v2" text="Charakter Renommee: {reg5}^Honorierung: {reg6}^Party EffectiveMorale: {reg8}^Partygrößenbeschränkung: {reg7}^"/>
+    <string id="HyVkLlEB" text="{!}Wähle die nächste Fraktion aus."/>
+    <string id="i1zayKeW" text="{s7}{s1}"/>
+    <string id="i8vsf7Nn" text="(NO TRANS)"/>
+    <string id="iC8Cme9U" text="40 Meter."/>
+    <string id="iHCqkBfB" text="{s1}"/>
+    <string id="IhiFTkuW" text="{!}schnelle Kampfszene 5"/>
+    <string id="iJamKTOR" text="Eingabe 4."/>
+    <string id="ioGm79B9" text="{!}CHEAT! - Alternative ai aktivieren"/>
+    <string id="IQnPqyZI" text="{INFEST_BANDITS_RESULT}"/>
+    <string id="irZRiNKV" text="STUB: Königreichs Menü"/>
+    <string id="iv56Qh0r" text="{!}Erzwinge ein Umdenken für alle Fraktionen."/>
+    <string id="IvlOdk6X" text="{ARMY_LEADER} sendet die Nachricht, dass er Ihren Beitritt wünscht {?LEADER_GENDER}ihre{?}seine{\?}neue Militärkampagne. Sie müssen mindestens {TROOP_COUNT} Truppen in die Armee bringen und sind angewiesen, mit aller gebotenen Eile mehr Männer aufzustellen, wenn Sie nicht genug haben."/>
+    <string id="iW9iKbb8" text="Nichts."/>
+    <string id="jDnXpaQv" text="Die Banditen fallen vor Ihnen wie der Weizen vor die Sense! Bald stehen Sie allein auf der Straße, während die meisten Ihrer Angreifer bewusstlos, tot oder im Sterben liegen. Bei der Durchsuchung der Leichen finden Sie eine Geldbörse, die einem früheren Opfer dieser Räuber gehört haben muss. Oder vielleicht wurde sie ihnen von jemandem gegeben, der Ihrem Leben ein angemessenes Ende bereiten wollte."/>
+    <string id="jJlVUW83" text="Wähle das Geschlecht deines Charakters."/>
+    <string id="JL7rnNjm" text="Du solltest dies nicht lesen... {s9}"/>
+    <string id="JMKefKRe" text="Handel mit dem Rüstungshändler."/>
+    <string id="JMNC9Esp" text="Befehlen Sie Ihren Truppen, ohne Sie anzugreifen."/>
+    <string id="jQQjOLWN" text="Ihr Herr bietet Ihnen an, Ihre Lehensgüter zu verlängern! {KING.LINK} sendet die Nachricht, dass er bereit ist, Ihnen {TOWN_NAME} als Bezahlung für Ihre loyalen Dienste zu gewähren und es Ihrem Bestand hinzuzufügen. Wie lautet Ihre Antwort?"/>
+    <string id="jSo7iacI" text="Möchten Sie aussteigen?"/>
+    <string id="karAn3ki" text="Fünf."/>
+    <string id="kB65SzbF" text="Ja."/>
+    <string id="KBeC23PZ" text="Ein Wilderer."/>
+    <string id="kN01nbE6" text="Die Schlacht ist vorbei. {1} Ihre Seite hat in der Schlacht {5} Feinde getötet und {6} Truppen verloren. Sie haben persönlich {7} Männer in den Kämpfen getötet."/>
+    <string id="KN6vt93e" text="{!}{s9}"/>
+    <string id="kp426Ppq" text="10 Meter."/>
+    <string id="Kt7zl3Za" text="{!}Gehe zurück"/>
+    <string id="kwVELZN1" text=""/>
+    <string id="kZWQCPHJ" text="{s4} {s5}"/>
+    <string id="l0UzjjSV" text="Sie helfen dem {ATTACKER} gegen den {DEFENDER}. Sie haben {YOUR_TROOPS} Truppen, die für den Kampf gegen die {ENEMY_TROOPS} des Feindes geeignet sind."/>
+    <string id="l2p9bsqx" text="{!}Schnellkampf-Szene 3"/>
+    <string id="l56bHLVL" text="Ein Handwerkslehrling."/>
+    <string id="l7ZWvWhP" text="Eingabe 8."/>
+    <string id="lAHqezLw" text="{s3}"/>
+    <string id="LatgwvxY" text="Befehlen Sie Ihren Soldaten, den Angriff fortzusetzen."/>
+    <string id="lcqAlGUR" text="Eingabe 9."/>
+    <string id="lFCzeMdW" text="Du wurdest falsch verstanden! Nimm deinen Eid an deine Lüge zurück!"/>
+    <string id="LGHFBwQU" text="Sie fahren von den Wachen weg und decken Ihre Spur ab, bevor Sie weglaufen, wobei Sie Ihre Verfolger im Straßengewirr leicht verlieren."/>
+    <string id="LgoEpa8R" text="Handel mit dem Pferdehändler."/>
+    <string id="Ll2TTbMs" text="Produziere {1}."/>
+    <string id="luBKaxaM" text="Zurück zum Menü."/>
+    <string id="M8tgkkVJ" text="Nähern Sie sich dem Belagerungslager."/>
+    <string id="mC9ac4c2" text="Trete dem nächsten Angriff bei."/>
+    <string id="Mg1PotzO" text="Nach kurzer Wartezeit öffnen die Wachen die Tore für dich und lassen deine Gruppe rein."/>
+    <string id="mGn05CWb" text="Weigern Sie sich und geben Sie an, dass sie diese Gegenstände mehr brauchen als Sie."/>
+    <string id="Mo9hvqPV" text="Sie bieten Ihren Gefangenen die Freiheit an, wenn sie sich bereit erklären, sich Ihnen als Soldaten anzuschließen. {s18}"/>
+    <string id="MpENoTkf" text="{!}NPC Status überprüfen."/>
+    <string id="msa49tfv" text="{!}Du solltest das nicht lesen."/>
+    <string id="muE7pa65" text="Pfeil und Bogen."/>
+    <string id="mUubYb7v" text="Zu Waffen rufen"/>
+    <string id="mwqr6B7R" text="{!}CHEAT! - Bekanntheitsgrad erhöhen"/>
+    <string id="mxlANkA6" text="Ihre Feinde nehmen Sie gefangen."/>
+    <string id="MxmOWsHj" text="Enzyklopädie"/>
+    <string id="mY6uYlbU" text="{s5}"/>
+    <string id="N0ya2sAX" text="Wähle zufällig."/>
+    <string id="N2p0yzuk" text="Zurück zum Camp-Menü."/>
+    <string id="N7jKTuUg" text="{!}Feld 4"/>
+    <string id="N7Jsdrhd" text="Rekrutieren sie ({reg6}{GOLD_ICON})."/>
+    <string id="nbrkwb5W" text="Sie und Ihr Gegner bereiten sich auf das Duell vor."/>
+    <string id="nHI8WYpc" text="Bericht über Fraktionsbeziehungen anzeigen."/>
+    <string id="NHRSzpmO" text="Sie nähern sich einem Übungsfeld, auf dem Sie Ihre Kampfkünste trainieren können. Welche Art von Training möchten Sie durchführen?"/>
+    <string id="NIYiASfR" text="{!}Cheat: Gehen Sie zum Bereich."/>
+    <string id="O0WzRhno" text="Wähle ein Buch zum Lesen:"/>
+    <string id="oa5CO6qy" text="Bereite dich auf den Kampf vor!"/>
+    <string id="oAb4NqO5" text="Mann"/>
+    <string id="obCZfO3a" text="Sprich mit dem Trainer."/>
+    <string id="oHXQm7gM" text="Befehlen Sie Ihren Soldaten, sich dem nächsten Angriff ohne Sie anzuschließen."/>
+    <string id="OimilXIv" text="Die Stadt wurde geplündert. Eine Handvoll Seelen streuen durch die verbrannten Häuser."/>
+    <string id="oK3YPvAX" text="Guten Tag, Sir. Sagen Sie mir, welche Waffe Sie wollen, die Ich herstellen soll."/>
+    <string id="ov0IJT6g" text="Treiben Sie das Vieh weiter."/>
+    <string id="P0IoWmEG" text="stummel"/>
+    <string id="p2f9TEVj" text="Gehen Sie zum Produktionszentrum für Waffen."/>
+    <string id="p5LMCu0I" text="Gehe zurück."/>
+    <string id="PaW9ATX3" text="{s1} startet einen Angriff gegen die Mauern von {s2}. Sie haben {reg10} Truppen, die für den Kampf gegen die {reg11} des Feindes geeignet sind. Sie entscheiden sich..."/>
+    <string id="pBAx7jTM" text="Mit wem möchten Sie sich treffen?"/>
+    <string id="PdlqoIgy" text="Eingabe 5."/>
+    <string id="PmmwUWI2" text="Sie betreten das Salzbergwerk."/>
+    <string id="ppPJfVBy" text="Zwei."/>
+    <string id="pSSDfAjR" text="In der Kleidung eines armen Pilgers verkleidet, täuschen Sie die Wachen und machen sich auf den Weg in die Stadt."/>
+    <string id="PuAKERn0" text="Ein Knappe."/>
+    <string id="PVsnuDkH" text="Eingabe 3."/>
+    <string id="pwbDUnJd" text="Werden Sie ein Abenteurer und reiten Sie zu Ihrem Schicksal."/>
+    <string id="Q3jydb0f" text="{s7}{s2}"/>
+    <string id="qBqkNNaN" text="Ich habe nicht genug Geld..."/>
+    <string id="QLh3voMK" text="Ein Schmied."/>
+    <string id="qOfQkZ4W" text="{s1} wurde von {s2} belagert."/>
+    <string id="QPNl8CNL" text="{s18}"/>
+    <string id="QpQQJjD6" text="Der Burgherr hat Ihnen verboten, diese Mauern zu betreten, und der Wach-Sergeant teilt Ihnen mit, dass seine Männer schießen werden, wenn Sie versuchen, noch näher zu kommen."/>
+    <string id="QtbAVqYC" text="{s5}."/>
+    <string id="QXqV3CGV" text="{s11}^^Ihre Opfer:{s8}{s10}^^^Feindliche Opfer:{s9}"/>
+    <string id="Qzm8onUR" text="Bleiben Sie loyal und akzeptieren Sie die Entscheidung."/>
+    <string id="r13Pg2vJ" text="{!}Cheat: Fraktionsaufträge."/>
+    <string id="R1Av7RNk" text="{s10}^^ Sie begannen, die Welt kennen zu lernen, fast sobald Sie laufen und sprechen konnten. Sie verbrachten Ihr frühes Leben als..."/>
+    <string id="R8rzU9sm" text="Betrug : Gehen Sie."/>
+    <string id="racnwi0x" text="{!}Du solltest dies nicht lesen..."/>
+    <string id="RbRLOyMk" text="Sie betreten die Stadt Zendar."/>
+    <string id="RK6Hz91r" text="Wen möchten Sie besuchen?"/>
+    <string id="rNuPwSsg" text="Sehen Sie sich die Freundschaftsbeziehungen an."/>
+    <string id="RrM7800A" text="Als Sie versuchen, sich einzuschleichen, erkennt Sie einer der Wächter und schlägt Alarm! Sie müssen durch die Tore fliehen, bevor alle Wachen der Stadt auf Sie herabfallen!"/>
+    <string id="rSAKB3aV" text="Sie sehen Ihr Opfer und folgen ihm, beobachten, wie er aus einer Ecke in eine dunkle Gasse einbiegt. Dies ist sicherlich Ihre beste Gelegenheit, ihn anzugreifen."/>
+    <string id="rsqxbnq5" text="Ein Steppennomade."/>
+    <string id="rugdDCI1" text="{s9}"/>
+    <string id="rVLcqpea" text="Besuche {s12}"/>
+    <string id="rVN7KaZ2" text="{s1} bleibt im Belagerungszustand. Die Fahnen von {s2} fliegen über dem Lager der Belagerer, wo Sie und Ihre Männer willkommen sind."/>
+    <string id="s774Ggbt" text="Waffenstillstand ist abgelaufen^^Der Waffenstillstand zwischen {s1} und {s2} ist ausgelaufen."/>
+    <string id="SAQoxLbI" text="Sie gehen in Richtung Marktplatz."/>
+    <string id="sbOVsaOq" text="Eingabe 1."/>
+    <string id="shbnd77b" text="Ein heftiger Schlag des Flüchtlings schickt Sie zu Boden, und Ihre Sicht dreht sich und verdunkelt sich. Die Zeit vergeht. Wenn Sie Ihre Augen wieder öffnen, finden Sie sich zerschlagen und blutig wieder, aber zum Glück scheint keine der Wunden tödlich zu sein."/>
+    <string id="skEn0V8G" text="Ein verarmter Adliger."/>
+    <string id="SqPrn3NT" text="{s8} sendet die Nachricht, dass Sie sich der Belagerung von {s9} anschließen sollen, um einen vollständigen Angriff vorzubereiten. Ihre Truppen sollen {s9} um jeden Preis einnehmen."/>
+    <string id="sQZFrhS8" text="Sie hören mehrere Diskussionen über die Preise von Handelsgütern in der Region. Sie hören genau zu und versuchen, die besten Angebote auszuarbeiten."/>
+    <string id="sS08Ixwz" text="Ein Ladenassistent."/>
+    <string id="Sv01qbaE" text="Ein Straßenkind."/>
+    <string id="syxvXpZu" text="Greife das Versteck an..."/>
+    <string id="SZrkPSic" text="Sie erhalten eine Nachricht von Ihrem Lehnsherrn, {TOWN_NAME}. ^^ {?KING.GENDER}Sie{?}Er{\?} hat beschlossen, die {TOWN_NAME} und {VILLAGES} zu Ihrem Mann, {HUSBAND.LINK}."/>
+    <string id="t0PuYZhw" text="Abbrechen."/>
+    <string id="TakHCuuH" text="Sie erhalten ein Friedensangebot^^Der {s1} bietet Ihnen einen Friedensvertrag an. Wie lautet Ihre Antwort?"/>
+    <string id="td8zXb00" text="Man hört von Calradia, einem Land, das zwischen rivalisierenden Königreichen hin- und hergerissen ist, die um die Vorherrschaft kämpfen, ein Zufluchtsort für Ritter und Söldner, Halsabschneider und Abenteurer, die alle bereit sind, ihr Leben zu riskieren, um nach Glück, Macht oder Ruhm zu streben... In diesem Land, das große Gefahren und noch größere Chancen birgt, glauben Sie, dass Sie Ihre Vergangenheit hinter sich lassen und ein neues Leben beginnen können. Sie haben das Gefühl, daß Sie endlich den Schlüssel Ihres Schicksals in den Händen halten, frei zu wählen, wie Sie wollen, und daß Sie, welchen Weg Sie auch immer einschlagen, große Abenteuer erwarten. Angezogen von den Geschichten, die Sie über Calradia und seine Königreiche hören,..."/>
+    <string id="TifFb1vR" text="Stangenwaffe."/>
+    <string id="tjjCSpDQ" text="Wahl des Eigentümers"/>
+    <string id="U8bP1TJj" text="Wählen Sie ein Buch zum Lesen aus."/>
+    <string id="Ue0iUofQ" text="{s4}^^Deine Opfer: {s8}^^Feinde wurden getötet: {s9}"/>
+    <string id="UPzJpsGB" text="fortsetzen"/>
+    <string id="UX1R6rnO" text="Ein Dieb."/>
+    <string id="V99ppYaZ" text="Eins."/>
+    <string id="VBeb5kWb" text="{!}Cheat: Ändere deinen Banner."/>
+    <string id="veWOovVv" text="Fortsetzen..."/>
+    <string id="vHNiVtja" text="Sie erhalten eine Nachricht von Ihrem Lehnsherrn, {TOWN_NAME}.^^ {?KING.GENDER}Sie{?}Er{\?} hat beschlossen, Ihnen {TOWN_NAME}{VILLAGES} mit allen fälligen Einkünften und Titeln zu gewähren, seinen Namen in {?KING_GENDER}Sie{?}Er{\?} so lange zu führen, wie Sie Ihren Huldigungseid aufrechterhaltem."/>
+    <string id="vrmiePbO" text="Produziere {5}."/>
+    <string id="Vtn7CDgR" text="Beantragen Sie, dass Ihnen {TOWN_NAME} verliehen wird."/>
+    <string id="Vty4JhAC" text="{!}Feld 1"/>
+    <string id="wbZviPzZ" text="Du stößt auf eine Herde von Rindern."/>
+    <string id="WlqnaH0D" text="60 Meter."/>
+    <string id="wTm8nRms" text="Produziere {2}."/>
+    <string id="WVkc4UgX" text="Fortsetzen."/>
+    <string id="X9dvQy1n" text="{s11}^^ Dann, als junger Erwachsener, änderte sich das Leben, wie es immer ist. Sie wurden..."/>
+    <string id="x9nQwFJp" text="Fernkampfwaffenübung."/>
+    <string id="Xbwxw6Ru" text="Bitte keine Belohnungen."/>
+    <string id="XGaT0URq" text="Handel mit dem Waffenhändler."/>
+    <string id="XGr9eoH8" text="{!}CHEAT! - Recht auf Herrschaft erhöhen"/>
+    <string id="xjyQh5TX" text="{s17}"/>
+    <string id="XMCDvnp3" text="Persönliche Rache."/>
+    <string id="xRci3NgO" text="{!}CHEAT! - Erhöhe deine Beziehung mit {s14}"/>
+    <string id="xWcAG3zs" text="Rufen Sie sie zurück."/>
+    <string id="y6FHodim" text="{s12}^^Aber schon bald änderte sich alles, und Sie beschlossen, als Abenteurer auf eigene Faust loszuziehen. Was Sie zu dieser Entscheidung veranlaßte, war..."/>
+    <string id="Y94H6XnK" text="Annehmen"/>
+    <string id="YB24mdaI" text="Gruppenmoralbericht anzeigen."/>
+    <string id="YcXViPqF" text="Hallo Sir/Dame. Was möchtest du tun?"/>
+    <string id="YKyiobOD" text="Fernweh."/>
+    <string id="YmNbQhxS" text="Was möchtest du tun?"/>
+    <string id="yp7buQea" text="Gruppengrößenbericht anzeigen."/>
+    <string id="yTgyUI9V" text="Einhandwaffe."/>
+    <string id="yUO2Vqq7" text="Charakter auswählen:"/>
+    <string id="YVbfDp5x" text="Ein Jäger."/>
+    <string id="YXeTF9Va" text="Sie weisen {reg4} Ihrer Truppen an, den Feind festzuhalten, während Sie sich mit dem Rest Ihrer Gruppe zurückziehen."/>
+    <string id="yYrC4n2U" text="{s8} sendet die Nachricht, dass er mit Ihnen über eine Aufgabe sprechen möchte, die er erfüllt werden muss. Er bittet Sie, ihn so bald wie möglich aufzusuchen."/>
+    <string id="Z0z5XbKQ" text="Der Verlust eines geliebten Menschen."/>
+    <string id="z1bYGz46" text="Nehmen Sie es als das, was Ihnen zusteht."/>
+    <string id="Z2sLYZkZ" text="Armbrust."/>
+    <string id="Z40bFgOY" text="Eingabe 7."/>
+    <string id="Za2z5swo" text="{!}Cheat: Gehen Sie auf die Spur."/>
+    <string id="zaupBMFt" text="Übung auf dem Pferderücken."/>
+    <string id="ZavkSerY" text="Wurfwaffe."/>
+    <string id="zaYwKcje" text="Produziere {3}."/>
+    <string id="zdhJi1xj" text="Verbesserte Schmiede."/>
+    <string id="zFEWSmjz" text="Sag allen, dass du in diesen Tagen zu beschäftigt bist."/>
+    <string id="zjHYjTwo" text="Sie erhalten eine Nachricht von Ihrem Monarchen, {KING.LINK}.^^ 'Ich war sehr erfreut, von Ihren tapferen Bemühungen bei der Gefangennahme von {TOWN_NAME} zu hören. Ihr Sieg hat uns alle erfreut. Sie haben mich auch gebeten, das Schloss Ihrem Ehemann zu übergeben, aber ich fürchte, diese Bitte kann ich nicht erfüllen, da er bereits bedeutende Güter in meinem Reich besitzt. Stattdessen habe ich Euch {REWARD}{GOLD_ICON} geschickt, um die Kosten Eures Feldzuges zu decken, aber {TOWN_NAME} Ich gebe an {TOWN_OWNER} "/>
+    <string id="znDzVxVJ" text="Nein."/>
+    <string id="ZPSM5DU8" text="{!}Macht erzwingen."/>
+    <string id="Zuu1RcdD" text="Sie erhalten eine Nachricht von Ihrem Monarchen, {KING.LINK}.^^ 'Ich war sehr erfreut, von Ihren tapferen Bemühungen bei der Gefangennahme von {TOWN_NAME} zu hören. Ihr Sieg hat uns alle erfreut. Ihr habt mich auch gebeten, Euch den Besitz dieser Festung zu überlassen, aber ich fürchte, dass ich Euch diesen Gefallen nicht gewähren kann, da Ihr bereits bedeutende Güter in meinem Reich besitzt. Stattdessen habe ich Euch {GOLD_ICON} geschickt, um die Kosten Eures Feldzuges zu decken, aber {REWARD}{TOWN_NAME} Ich gebe an {TOWN_OWNER} "/>
+  </strings>
+</base>

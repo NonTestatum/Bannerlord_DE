@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0e17RZrZ" text="Arbalest"/>
+    <string id="0Uvkm46I" text="Gewährt dem Schwert, effektivität bei Duellen und beim Stoßen."/>
+    <string id="0yGhTKey" text="Gewährt zusätzliche Pfeile."/>
+    <string id="14Lfo4sB" text="Stärkere Speere"/>
+    <string id="1dTipfgq" text="Ersetzt Voulge mit Militärischer Entwurf, ein Polearm."/>
+    <string id="1nZaud4o" text="Platziert Menavlion mit einen langen Menavlion, länger aber langsamer."/>
+    <string id="1xa1a0d2" text="Ersetzt Schild durch einen größeren Schild."/>
+    <string id="25f3yj3M" text="Längeres Schwert"/>
+    <string id="2bzFzemV" text="Schwerere Armbrust"/>
+    <string id="2JZakvPJ" text="Ersetzt Menavlion durch ein schweres Menavlion, das langsamer ist, aber mehr Schaden anrichtet."/>
+    <string id="3ksDHRKT" text="Gewährt das Östliche Langespeer, einen zweihändigen Langspeer."/>
+    <string id="4ckL9lJ8" text="Gewährt Pilas, länger, gut zum schikanieren, kann im Nahkampf eingesetzt werden, in geringe Quantität."/>
+    <string id="4eFFdbbh" text="Ersetzt Voulge durch ein zweihändiges Schwert, das sowohl im Duell als auch im Stoß mit zwei Händen wirksam ist."/>
+    <string id="4wdgiTta" text="Sichel"/>
+    <string id="5JQFx3EW" text="Ersetzt das Pferd durch ein schnelleres und wendigeres Pferd."/>
+    <string id="5pLEUc4t" text="Starke Pfeile"/>
+    <string id="5ydbUsFh" text="Wurfspeer"/>
+    <string id="6bdcoGI1" text="Ersetzt das Pferd durch ein schnelleres und wendigeres Pferd."/>
+    <string id="6hwZwODh" text="Glefe"/>
+    <string id="722U31od" text="Ersetzt das Reittier durch ein wendigeres, haltbares, aber langsameres Pferd, das mehr Stürmschäden verursacht."/>
+    <string id="73DALTsR" text="Ersetzt Sichel durch Hammer, wirksam gegen gepanzerte Gegner."/>
+    <string id="7lb73utt" text="Gewährt Starke Pfeile, fügt mehr Schaden zu."/>
+    <string id="7LmUe8fQ" text="Menavlion"/>
+    <string id="7MkoLtWC" text="Axt"/>
+    <string id="7sWKjye0" text="Schnelleres Pferd"/>
+    <string id="7tmdALxE" text="Schnellere Bolzen"/>
+    <string id="7xCZBa2h" text="Ersetzt den Recurve-Bogen durch den übermächtigen Kaiserlichenbogen, schneller, aber weniger genau."/>
+    <string id="8nObGQqW" text="Rhomphaia"/>
+    <string id="943pNa16" text="Leichter Schild"/>
+    <string id="9aFg4Cb4" text="Gewährt Wurfäxte, bietet Fernschaden, wirksam gegen Schilde, geringe Menge."/>
+    <string id="9kGyIb8D" text="Fernkampf Javelins"/>
+    <string id="9vYPOPbF" text="Ersetzt Hochlandspeer durch Hochlandlangspeer, der länger ist, aber weniger Schaden anrichtet."/>
+    <string id="a4Y00Bxz" text="Gewährt Lanze, länger als Speere, aber langsamer, trainierbar."/>
+    <string id="a8ycVmwU" text="Bardiche"/>
+    <string id="AAiawU42" text="Gewährt Lanze, länger als Speere, aber langsamer, trainierbar."/>
+    <string id="aJ3pbDTg" text="Ersetzt den Jagdbogen durch den übermächtigen Kaiserlichenbogen, schneller, aber weniger genau."/>
+    <string id="aVGSZhCN" text="Paviseschild"/>
+    <string id="azkl5CZk" text="Ersetzt den Recurve-Bogen durch den Composite-Bogen, verursacht mehr Schaden und ist genauer, aber langsamer."/>
+    <string id="bDCbhzoh" text="Ersetzt Speer durch Langspeer."/>
+    <string id="bDfKz5SZ" text="Schlinge"/>
+    <string id="bfyqpwbJ" text="Ersetzt das Zweihänder-Schwert durch Falx, das länger ist und mehr Schaden anrichtet, aber nicht gestoßen werden kann."/>
+    <string id="bGQ83Jtr" text="Längerer Speer"/>
+    <string id="BHXqTA0N" text="Ersetzt Flyssa durch Kaskara, länger und fügt mehr Schaden zu."/>
+    <string id="bKDoNDhC" text="Ersetzt Schwert durch einen schweren Streitkolben, wirksam gegen gepanzerte Gegner."/>
+    <string id="bn1nJlH4" text="Mehr Wurfspeere, effektiv im Nahkampf."/>
+    <string id="bsabIdYm" text="Zweihändige Axt"/>
+    <string id="bwLknWjn" text="Ersetzt Javelins durch kaiserliche Javelins, verursacht mehr Schaden, kann im Nahkampf eingesetzt werden."/>
+    <string id="bY9U7w1Q" text="Schwert"/>
+    <string id="bzCoIgk7" text="Militärischer Entwurf"/>
+    <string id="bzdCMVuG" text="Kavallerie-Streitkolben"/>
+    <string id="bzr6vtXi" text="Schwerer Menavlion"/>
+    <string id="C2XqmIAQ" text="Ersetzt den Recurve-Bogen durch einen Komposit-Bogen, der präziser ist, mehr Schaden anrichtet, aber langsamer ist."/>
+    <string id="CaEBx7NK" text="Ersetzt Tabar durch Bardiche, der langsamer ist, aber mehr Schaden anrichtet."/>
+    <string id="cfSgK0nk" text="Wendiges Pferd"/>
+    <string id="CG5D5r2w" text="Ersetzt das Schwert durch Streitkolben, wirksam gegen gepanzerte Gegner."/>
+    <string id="chOIa3PO" text="Ersetzt den Schild durch einen leichteren Schild, gut für eine schnellere Bewegung."/>
+    <string id="CJo3mNsK" text="Bietet stärkere Javelins."/>
+    <string id="cMsadGUb" text="Pilas"/>
+    <string id="CQBiJLgv" text="Kamel"/>
+    <string id="cRCkC36E" text="Kurzschwert"/>
+    <string id="d7Z3ka1m" text="Besserer Bogen"/>
+    <string id="d8oFKRxa" text="Grants Wurfspeere, länger als Speere, abwerfbar, können im Nahkampf eingesetzt werden."/>
+    <string id="D9XZcdid" text="Gewährt Franceskas, bietet Fernschäden, wirksam gegen Schilde, in geringer Menge."/>
+    <string id="DCyOFcZI" text="Gewährt Billhook eine Stangenwaffe."/>
+    <string id="Dj64aJKQ" text="Hippe"/>
+    <string id="dkSDZODz" text="Ersetzt das Schwert durch ein Kampfschwert, das schneller und effektiver im Duell und im Stich ist."/>
+    <string id="DlKYZgA3" text="Verbesserte Panzerung"/>
+    <string id="dQEa2hZa" text="Langspeer"/>
+    <string id="DZ2g8IZr" text="Ersetzt die Zweihandaxt durch eine Zweihandmulde. Wirksam gegen gepanzerte Gegner, zweihändig."/>
+    <string id="DZkbvhfq" text="Ersetzt Javelins durch Jereeds, verursacht mehr Schaden, kann im Nahkampf eingesetzt werden."/>
+    <string id="EdLIa9Ds" text="Ersetzt Pfeile durch stärkere Pfeile, verursacht mehr Schaden."/>
+    <string id="EEEFVPLP" text="Ersetzt Axt durch Schwert, effektiv im Duell und beim Hieb."/>
+    <string id="eQLORdgE" text="Extra Pfeile"/>
+    <string id="eyCVSK43" text="Schwere Lanze"/>
+    <string id="F49w1uD0" text="(TEMPORÄR) Ersetzt Axt durch schwere Axt, fügt mehr Schaden zu, aber kürzer."/>
+    <string id="FaW2RuA8" text="Extra-Wurfspeere"/>
+    <string id="FLBYsvxp" text="Langschwert"/>
+    <string id="g3EFq1ld" text="Bessere Wurfspeere"/>
+    <string id="g7DvxQYg" text="Gewährt schwere Krummsäbel, richtet mehr Schaden an, aber länger, aber langsamer."/>
+    <string id="GN3IoRlp" text="Gewährt Wurfspeere, die mehr Schaden anrichten."/>
+    <string id="gnb4493C" text="Ersetzt Schwert durch Keule, wirksam gegen gepanzerte Gegner."/>
+    <string id="gQtU8qqy" text="Gewährt Axt, wirksam gegen Schilde."/>
+    <string id="GsGJgGDE" text="Lanze"/>
+    <string id="h1aBRZRO" text="Gewährt schnellere Bolzen."/>
+    <string id="h60wQVVX" text="Spieß"/>
+    <string id="H8MYgA6i" text="Längerer Menavlion"/>
+    <string id="HE8lvLcm" text="Ersetzt Schwert durch Glefe, eine Khuzait-Stangenwaffe."/>
+    <string id="hEEebqIY" text="Ersetzt die Axt durch das Schwert, schneller, effektiver im Duell und beim Hieb."/>
+    <string id="HoVaJ0BH" text="Zweihändige Waffe"/>
+    <string id="HQ20qb3g" text="Ersetzt das Pferd durch ein schnelleres, aber weniger haltbares Pferd."/>
+    <string id="hs39bbML" text="Stärkerer Bogen"/>
+    <string id="Hy967JNj" text="Ersetzt Jagdbogen durch Jagdlangbogen, richtet mehr Schaden an, ist aber langsamer."/>
+    <string id="HZgjTUoY" text="Ersetzt Ihre Axt durch ein Schwert, schneller, effektiv im Duell und beim Hieb."/>
+    <string id="i7OWTiQc" text="Stärkeres Schild"/>
+    <string id="iNJr5HOM" text="Awl-Pike"/>
+    <string id="iSpXc3qQ" text="Grants Glefe, ein Khuzait-Stangenwaffe, tödlich zu Pferd."/>
+    <string id="IsVZwswB" text="Ersetzt Jagdbogen durch Recurve-Bogen, richtet mehr Schaden an, genau, aber langsamer."/>
+    <string id="IUsT27oV" text="Bietet +9 Rüstung."/>
+    <string id="iYauUX6r" text="Grants Wurfspeere, länger als Speere, abwerfbar, kann im Nahkampf eingesetzt werden, geringe Menge."/>
+    <string id="JbODbx5i" text="Gewährt Schild, macht das Blockieren einfacher, wirksam gegen Fernkampfeinheiten."/>
+    <string id="JBVAeXx3" text="Mistgabel"/>
+    <string id="JbWbiO6O" text="Pfeil und Bogen"/>
+    <string id="Jd0Kq9lD" text="Schild"/>
+    <string id="JfnVaE9D" text="Gewährt Pilas, länger, gut zum schikanieren, kann im Nahkampf eingesetzt werden, in geringe Quantität."/>
+    <string id="jhey75nZ" text="Ersetzt die Spitzhacke durch ein Hochlandbastard-Schwert, das im Duell und im Stoß mit zwei Händen wirksam ist."/>
+    <string id="JjRJs2Ue" text="Ersetzt die Spitzhacke durch eine Zweihandaxt, die besonders wirksam gegen Schilde ist."/>
+    <string id="jKYWiUZA" text="Ersetzt das Reittier durch ein härteres, wendigeres, aber langsameres Pferd, das mehr Stürmschäden verursacht."/>
+    <string id="K1t2X1YF" text="Ersetzt den Schild durch einen stärkeren und größeren Schild, erhöht die Haltbarkeit."/>
+    <string id="K1UFTirG" text="Leichte Armbrust"/>
+    <string id="KBrDpNxO" text="Langbogen"/>
+    <string id="KKWkfc2n" text="Gewährt stärkere Bolzen."/>
+    <string id="kS0LMJix" text="Grants Speere, die gut für schikanieren geeignet sind, können im Nahkampf eingesetzt werden."/>
+    <string id="KWCsD0vW" text="Grants Kavallerieschwert, die gut für schikanieren geeignet sind, können im Nahkampf eingesetzt werden."/>
+    <string id="kxNFecm2" text="Leichter Schild"/>
+    <string id="KXwN1PW4" text="Großaxt"/>
+    <string id="kYbMMbzD" text="Gewährt Pike, sehr effektiv gegen Kavallerie, länger als Speer, kann nicht mit Schilden verwendet werden."/>
+    <string id="L01yAZlu" text="Ersetzt Schwert durch Hammer, wirksam gegen gepanzerte Gegner, zweihändig."/>
+    <string id="l2j9CAQn" text="Bastardschwert"/>
+    <string id="l5GMT5AA" text="(TEMPORÄR) Gewährt Wurfspeere, die viel weiter gehen können."/>
+    <string id="llneOWkU" text="Schnelleres Schwert"/>
+    <string id="loPT6GUc" text="Gewährt Pavise Shield, macht das Blockieren einfacher, wirksam gegen Fernkampfeinheiten."/>
+    <string id="LstE2rEG" text="Ersetzt Kaiserliches Kriegspferd durch Kriegspferd, manövrierbarer, schneller."/>
+    <string id="mcXoarZq" text="Franceskas"/>
+    <string id="meWoLxtc" text="Ersetzt Schwert durch Axt, wirksam gegen Schilde."/>
+    <string id="n3q8k0lB" text="Bardierend"/>
+    <string id="n497RC1p" text="(TEMPORÄR) Erlaubt schnellere Pfeile."/>
+    <string id="NiaLmb1S" text="Ersetzt Jagdbogen durch Kurzbogen, verursacht mehr Schaden, aber langsamer."/>
+    <string id="nSSxEIvF" text="(TEMPORÄR) Gewährt einen leichten Schild, gut für eine schnellere Bewegung."/>
+    <string id="o6eKX9h0" text="Ersetzt Axt durch Streitkolben, wirksam gegen gepanzerte Gegner."/>
+    <string id="okGD2Dbu" text="Ersetzt Jagdbogen durch Recurve-Bogen, richtet mehr Schaden an, ist aber langsamer."/>
+    <string id="OPcPYoHu" text="Wurfaxt"/>
+    <string id="Oweratvx" text="Gewährt Speer, wirksam gegen Kavallerie und die Kontrolle der Menge."/>
+    <string id="oWv0kvwj" text="Starke Bolzen"/>
+    <string id="P4k9Lkpw" text="Ersetzt den Jagdbogen durch eine leichte Armbrust, fügt viel mehr Schaden zu, geringe Feuerrate."/>
+    <string id="p8XIZhbb" text="Ersetzt den Kurzspeer durch den Langspeer, wirksam gegen Kavallerie und die Kontrolle der Menge."/>
+    <string id="pblXb1ae" text="Gewährt Streitkolben, wirksam gegen gepanzerte Gegner."/>
+    <string id="pE1plFCL" text="Schwerer Streitkolben"/>
+    <string id="PF7sPCYq" text="Wurfspeer"/>
+    <string id="PFTzVdJg" text="Bietet +9 Rüstung."/>
+    <string id="PNZmPprx" text="Zweihandschwert"/>
+    <string id="pyupZxJK" text="Kontos"/>
+    <string id="q8n63o4y" text="Gewährt Awl Pike, sehr effektiv gegen Kavallerie, länger als Speere, zweihändig."/>
+    <string id="QLcP8bIs" text="Sichel"/>
+    <string id="QojyuDln" text="Gewährt Kontos, länger, fügt mehr Schaden zu, aber langsamer."/>
+    <string id="QqWMflbr" text="Gewährt Kaskara, ein einhändiges Schwert, das im Duell und beim Stechen wirksam ist."/>
+    <string id="Qs4VOXgE" text="Kurzspeer"/>
+    <string id="R7TAImaC" text="Großer Schild"/>
+    <string id="RV6BCPvg" text="Ersetzt Axt durch eine längere und schwerere Axt. Zusätzliche Wirkung gegen Schilde."/>
+    <string id="rzP3J3Kb" text="Ersetzt Falx durch Rhomphaia, länger aber fügt weniger Schaden und langsamer zu."/>
+    <string id="sagHGCh7" text="Ersetzt Langspeer durch Kontos, länger, richtet mehr Schaden an, aber langsamer."/>
+    <string id="sFJfF1Gb" text="Ersetzt Gladius durch Spatha, ist länger und richtet mehr Schaden an."/>
+    <string id="SjiFP0za" text="Ersetzt die Keule durch ein Schwert, das im Duell und beim Stoßen wirksam ist."/>
+    <string id="SMws1ws6" text="Großer Schild"/>
+    <string id="snQeVgCJ" text="Ersetzt die Axt durch eine schwere Axt, die länger ist und mehr Schaden anrichtet."/>
+    <string id="sOARp3Dc" text="Gewährt Schild, macht das Blockieren einfacher, wirksam gegen Fernkampfeinheiten."/>
+    <string id="SpTtirzT" text="Gewährt Streitkolben, wirksam gegen gepanzerte Gegner."/>
+    <string id="sVOdabQr" text="Gewährt Mistgabel, wirksam gegen Kavallerie."/>
+    <string id="t68bkisr" text="Hammer"/>
+    <string id="tdRSQoPT" text="Bietet stärkere Javelins."/>
+    <string id="tFWBFpji" text="Ersetzt das Reittier durch ein Kamel, verursacht mehr Stürmschäden, ist manövrierfähiger und haltbarer, aber langsamer und kann nicht springen."/>
+    <string id="TK0GvrJR" text="Ersetzt Schwert durch Hochland-Langschwert, richtet mehr Schaden an, ist länger aber langsamer."/>
+    <string id="tPtEhPzU" text="Ersetzt Armbrust durch Arbalest, die besten in Calradia."/>
+    <string id="tvIibabU" text="Gewährt zusätzliche Bolzen."/>
+    <string id="tZgHdSOX" text="Halbes Barding"/>
+    <string id="uKOn4IE6" text="Gewährt einen zusätzlichen Köcher Javelins."/>
+    <string id="uNyHSwaL" text="Schwere Axt"/>
+    <string id="uTfm0blH" text="Gewährt Kurzbogen, ermöglicht das Schießen vom Pferderücken aus."/>
+    <string id="UtJlbDuv" text="Ersetzt den Recurve-Bogen durch den einen schnelleren übermächtigen Kaiserlichenbogen."/>
+    <string id="UTrNbIbI" text="Ersetzt Langschwert durch Hochland Bastardschwert, effektiv im Duell und im Stoß, zweihändig."/>
+    <string id="uw9m5hav" text="Bessere Axt"/>
+    <string id="Uwe3VHaN" text="Schweres Kavallerieschwert"/>
+    <string id="V2SKzX1e" text="Stürmpferd"/>
+    <string id="v61Qq3SH" text="Ersetzt leichte Armbrust durch eine schwerere Armbrust, besserer Schaden."/>
+    <string id="V62I3vA5" text="Gewährt eine kürzere Version von Menavlion, einer kaiserlichen Stangenwaffe."/>
+    <string id="vBvDZCtw" text="Ersetzt Tabar durch ein zweihändiges Schwert, das sowohl im Duell als auch im Stich wirksam ist."/>
+    <string id="VI4gQt8Q" text="Streitkolben"/>
+    <string id="vjvklXQ3" text="Grants Speere, die gut für schikanieren geeignet sind, können im Nahkampf eingesetzt werden."/>
+    <string id="VL4olxdA" text="Gewährt Jagdbogen, ermöglicht das Schießen vom Pferderücken aus."/>
+    <string id="VR2SwarS" text="Zäheres Pferd"/>
+    <string id="W4iKIM2s" text="Kleiner Schild"/>
+    <string id="wAFiQYpt" text="Ersetzt Jagdbogen durch schnellen Kurzbogen, in jeder Hinsicht besser."/>
+    <string id="wdRsSuMN" text="Ersetzt den Langbogen durch den Yeow-Langbogen, richtet mehr Schaden an und ist genauer, aber langsamer."/>
+    <string id="wdSrwKFE" text="Extra-Bolzen"/>
+    <string id="wiBmTEGi" text="Ersetzt das Pferd durch ein haltbareres Pferd."/>
+    <string id="wv9g9Kyr" text="Schnellerer Bogen"/>
+    <string id="WxMGCqPw" text="Ersetzt Sichel durch Spitzhacke, wirksam gegen Schilde."/>
+    <string id="XLtAF1Km" text="Ersetzt den Kurzbogen durch den Langbogen, verursacht mehr Schaden und ist präziser, aber langsamer."/>
+    <string id="xqlMIG4I" text="Ersetzt den Schild durch einen größeren Schild, erhöht die Haltbarkeit."/>
+    <string id="XSjXLikf" text="Zusätzliche Speere"/>
+    <string id="xSz6m21N" text="Klub"/>
+    <string id="xuad1OP3" text="Ersetzt das Pferd durch das haltbarste Pferd in der Steppe."/>
+    <string id="xUSR6O0X" text="Gewährt Kavallerie Schwert, länger und schwerer."/>
+    <string id="xWFW8jXw" text="Streitaxt"/>
+    <string id="y4YWp1f1" text="Wurfspeer"/>
+    <string id="YaakrC1m" text="Kavallerieschwert"/>
+    <string id="yDU7JFH4" text="(TEMPORÄR) Gewährt Schlitten, gewährt Distanz schaden, hohe Schaden menge, geringe Schaden menge und gute Genauigkeit."/>
+    <string id="YF8DQVUT" text="Ersetzt Ihre Axt durch die nördliche Zweihandaxt, die stärker ist und besonders effektiv gegen Schilde wirkt."/>
+    <string id="YjKfKduC" text="Schnellere Pfeile"/>
+    <string id="ykaaB5gw" text="Stärkerer Langbogen"/>
+    <string id="YoNYyLba" text="Speer"/>
+    <string id="YqqhxGwH" text="Ersetzt die Keule durch eine Sichel, die in der Lage ist, anständige Schäden zu verursachen und gegen Schilde wirksam ist."/>
+    <string id="ZATaNNCu" text="Ersetzt das Reittier durch ein haltbareres Pferd, das mehr Stürmschäden verursacht."/>
+    <string id="zCqpSDcF" text="Gewährt eine kürzere Version von Menavlion."/>
+    <string id="Zh4upm1u" text="Ersetzt den Streitkolben durch ein Schwert, das im Duell und beim Stich wirksam ist."/>
+    <string id="ZJweh5Oh" text="Bastardaxt"/>
+    <string id="ZtKJgiRv" text="Gewährt Wurfpeere, die gut für schikanieren geeignet sind, können im Nahkampf eingesetzt werden."/>
+    <string id="zv9NXIZR" text="Stellt Rüstungen für Ihr Reittier zur Verfügung."/>
+    <string id="ZvMcHde3" text="Spitzhacke"/>
+    <string id="ZZ9p2E2g" text="Ersetzt den Schild durch einen stärkeren Schild, erhöht die Haltbarkeit."/>
+  </strings>
+</base>

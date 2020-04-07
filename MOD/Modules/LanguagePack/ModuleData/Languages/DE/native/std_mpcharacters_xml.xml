@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="09gOOa0h" text="Waldläufer"/>
+    <string id="1sJcKkVP" text="Wache"/>
+    <string id="4C4WiTb2" text="Varyag"/>
+    <string id="6aqDcMPr" text="Max. Rüstung (55)"/>
+    <string id="8qg72H8Z" text="Stammeskrieger"/>
+    <string id="afhXdjBU" text="Nomade"/>
+    <string id="bHx8jaeI" text="Krieger"/>
+    <string id="CAYZDsAj" text="Legionär"/>
+    <string id="cbnvgVhH" text="Plünderer"/>
+    <string id="Cp7dI87a" text="Vorhut"/>
+    <string id="DMxJJWxt" text="Rekrut"/>
+    <string id="Dq1sCO1y" text="Arbalist"/>
+    <string id="eFWJjaBC" text="Mehrspieler-Charakter"/>
+    <string id="eIk6jaOG" text="Speerinfanterie"/>
+    <string id="eM1qFKNs" text="Scharfschütze"/>
+    <string id="eU0uANvZ" text="Berittener Bogenschütze"/>
+    <string id="fS5BIf3J" text="Eidgeschworener"/>
+    <string id="ft6QaIms" text="Kataphrakt"/>
+    <string id="g9VIbA9s" text="Feldwebel"/>
+    <string id="gLlheMwd" text="Bauernabgabe"/>
+    <string id="gytrdYMU" text="Mamluke"/>
+    <string id="hchDYAKL" text="Lanzenreiter"/>
+    <string id="HCzbW0hE" text="Gildenkrieger"/>
+    <string id="ieiqOaZp" text="Bogenschütze"/>
+    <string id="ixqTFMVA" text="Berittener Krieger"/>
+    <string id="j5I7tYSd" text="Fiann"/>
+    <string id="k1Xr4rKn" text="Druschina"/>
+    <string id="lar4lfKR" text="Khans Wache"/>
+    <string id="LLKreyq7" text="Wildling"/>
+    <string id="LNfQk4MM" text="Min. Rüstung (0)"/>
+    <string id="My0a4Miq" text="Voulgier"/>
+    <string id="naBbiK9v" text="Kaninchen"/>
+    <string id="NJRUb0C1" text="Palatinwache"/>
+    <string id="nt7wUxIa" text="Beduine"/>
+    <string id="PoY2Vh7K" text="Steppenbogen"/>
+    <string id="q1tbZIR9" text="Höhere mittlere Panzerung (37)"/>
+    <string id="rdIGpLLh" text="Renner"/>
+    <string id="RjjIbn4V" text="Veteran"/>
+    <string id="RssJTUpL" text="Berserker"/>
+    <string id="s9oED1IR" text="Scharmützel"/>
+    <string id="Tm3CY9tC" text="Untere durchschnittliche Panzerung (12)"/>
+    <string id="TNQaD5p2" text="Bogenschützenmiliz"/>
+    <string id="WtEoXblx" text="Ritter"/>
+    <string id="XeXJAB6a" text="Menavlion Infanterie"/>
+    <string id="xnDWqYKW" text="Jäger"/>
+    <string id="yDiWi6SO" text="Brutal"/>
+    <string id="ZKdiaaFo" text="Gesetzloser"/>
+  </strings>
+</base>

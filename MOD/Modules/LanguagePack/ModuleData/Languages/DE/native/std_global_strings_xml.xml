@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="03mPaWum" text="Königreich"/>
+    <string id="08oulGov" text="Lege deine ausgerüstete Waffe ab."/>
+    <string id="0EDGnl1C" text="Nur Fernkampf"/>
+    <string id="0fLpwDzk" text="Legt den Fenstermodus fest.{newline}Windowed: Führt das Spiel in einem Fenster aus.{newline}Vollbild: Führt das Spiel im Vollbild aus.{newline}Borderless Fullscreen: Führt das Spiel in einem Rahmenlosen Fenster aus."/>
+    <string id="0hzYbsXD" text="Rüste Waffe 1 aus"/>
+    <string id="0MvDMsEl" text="Okklusionsmethode"/>
+    <string id="0ot0eBzv" text="Drehe deine Kamera mit einem Pferd in First Person Perspektive"/>
+    <string id="0ufcpRUS" text="Kamera hoch bewegen"/>
+    <string id="0WrKbmfz" text="SMAA x2"/>
+    <string id="0x44y8fb" text="Gruppe 2 höre DESC"/>
+    <string id="0YV6wbsq" text="Pausiert die Zeit auf der Weltkarte."/>
+    <string id="1awQTVqN" text="Anzahl der Ragdolls"/>
+    <string id="1dQFNvhQ" text="Numpad +"/>
+    <string id="1ebaa1Wf" text="Gehen/Laufen Modus umschalten"/>
+    <string id="1uCaibsd" text="Voll"/>
+    <string id="1WsmBXkN" text="Bild begrenzer"/>
+    <string id="1zEr6Zs8" text="Linker Stick rechts"/>
+    <string id="25MeMNbP" text="Rechts"/>
+    <string id="26r6Q8at" text="Rechter Stick runter"/>
+    <string id="2Ao5DCb6" text="Gruppe runter bewegen"/>
+    <string id="2AyPP3rw" text="Hoch"/>
+    <string id="2bPTx7So" text="Euer Charakter geht in die Hocke."/>
+    <string id="2e8wI3EM" text="Rüste Waffe 2 aus"/>
+    <string id="2EjZcRgF" text="F5"/>
+    <string id="2h2148cq" text="Nachricht an jedermann senden"/>
+    <string id="2qFVBblU" text="Waffenmodus umschalten DESC"/>
+    <string id="2v1xw6JS" text="Rechter Stick"/>
+    <string id="2ZJQylWo" text="Zwischen Gehen- und Rennen wechseln."/>
+    <string id="3Dngsvya" text="Vorwärts bewegen"/>
+    <string id="3Gb7tKgJ" text="{LEFT} und {RIGHT}"/>
+    <string id="3MLvkSjw" text="Schuss-Schwierigkeit melden"/>
+    <string id="3nTeojbI" text="="/>
+    <string id="3oUbmqJY" text="Synchronisiert das Spiel mit der Aktualisierungsrate des Monitors. Eliminiert zerreißende Artefakte."/>
+    <string id="3P7eDKEY" text="Rüste Item 4 aus"/>
+    <string id="3sRdGQou" text="Verlassen"/>
+    <string id="3V0bvyLC" text="{STR1}{STR2}"/>
+    <string id="3YwMXbAT" text="Läst die Zeit auf Kampagnenkarte schneller vergehen."/>
+    <string id="3zk3mzG4" text="Verlassen DESC"/>
+    <string id="41Na9Lg1" text="Linker Stick"/>
+    <string id="44akzqlm" text="Rechter Pfeil"/>
+    <string id="45yEpDdE" text="Auflösungs Skalierung"/>
+    <string id="46vWdakp" text="Y"/>
+    <string id="4aAvY4yO" text="Niedrig"/>
+    <string id="4AyPI1H9" text="Kamera Umschalten DESC"/>
+    <string id="4e0ycN1Q" text="Alle hören"/>
+    <string id="4Gdng2Tt" text="Halten für schnellere Kamerabewegung auf der Weltkarte."/>
+    <string id="4NaOKslb" text="-"/>
+    <string id="4Nw1hF2R" text="Tritt deine Gegner um deren Verteidigung zu durchbrechen während du nicht angreifst oder verteidigst. Schlage deine Gegner mit deiner Ausrüstung währen du verteidigst."/>
+    <string id="4R4shVxp" text="Anteil anpassen"/>
+    <string id="4SeC2VOQ" text="D-Pad rechts"/>
+    <string id="4spC1rcN" text="WähleBefehl7 DESC"/>
+    <string id="4v3kotBH" text="WähleBefehl2 DESC"/>
+    <string id="4x1wGwW9" text="Wähle Befehl 7"/>
+    <string id="4Z2NBfW4" text="Teamchat"/>
+    <string id="58eAHUQi" text="Gruppe 4 höre DESC"/>
+    <string id="5B3ptxje" text="Charakter-Entwicklung"/>
+    <string id="5c7l7r31" text="Linke Maustaste"/>
+    <string id="5JwDMBlz" text="Nach Links bewegen DESC"/>
+    <string id="5jxcNYlU" text="Numpad 6"/>
+    <string id="5QpTaCa0" text="W"/>
+    <string id="5siWUJPw" text="Vollbild"/>
+    <string id="5WDQLWCk" text="Kampagnen-KI"/>
+    <string id="6AnHiJGR" text="Ausgewählter Monitor"/>
+    <string id="6auWfPnA" text="WähleBefehl6 DESC"/>
+    <string id="6CeL6iOp" text="Wähle Gruppe 1"/>
+    <string id="6g0y182U" text="Umgebungsdetails"/>
+    <string id="6QiPm27r" text="Bewege deine Gruppe auf der Weltkarte nach oben."/>
+    <string id="6sIFj7K9" text="Zeit vorspulen"/>
+    <string id="6Uh76bYG" text="Kartenzeit stoppen"/>
+    <string id="6uNvJbdx" text="Wähle Gruppe 4"/>
+    <string id="7MU008BT" text="F11"/>
+    <string id="7phVPcDc" text="Legt die Qualität von Shadern fest. Ein höherer Wert bedeutet bessere grafische Effekte."/>
+    <string id="7QKjVON8" text="Springen"/>
+    <string id="7RV38Hoy" text="Gruppe 7 höre DESC"/>
+    <string id="7S1aCWFa" text="Springen zu Fuß oder auf Pferd."/>
+    <string id="7SSytk7Z" text="U"/>
+    <string id="7tYiV9Vw" text="Anisotropisch 8X"/>
+    <string id="7vl1ebVZ" text="Linke Steuerung"/>
+    <string id="7X6fZ5kQ" text="Aktiviert die Displayreflexionen."/>
+    <string id="7XmaJYuh" text="Bewege deine Gruppe auf der Weltkarte nach rechts."/>
+    <string id="7zUWqY3O" text="Links"/>
+    <string id="8AiDqTFB" text="Kartenbewegung nach hinten"/>
+    <string id="8b45xcyL" text="Legt die Qualität von Bäumen und Gras fest."/>
+    <string id="8b5HDBl9" text="Kartenbewegung rechts DESC"/>
+    <string id="8hArJQWf" text="Zeige Fadenkreuz"/>
+    <string id="8iwie5KL" text="WähleBefehl5"/>
+    <string id="8kO2jDVf" text="Beeinflusst die Qualität der Texturen."/>
+    <string id="8t4KDZfU" text="E"/>
+    <string id="8UBfIenN" text="Normal"/>
+    <string id="8WrQ9fnb" text="C"/>
+    <string id="929oYf3G" text="Herauszoomen"/>
+    <string id="92ZztgDd" text="Decal Qualität"/>
+    <string id="9F323ez4" text="Trilinear"/>
+    <string id="9gAVbJAR" text="Zeit fortsetzen"/>
+    <string id="9hRcH7kV" text="Sonnenstrahlen"/>
+    <string id="9k4sahxA" text="Ziehe deine ausgerüstete Waffe."/>
+    <string id="9OHGqgjH" text="Zoom herein, um Feinde anzugreifen oder weiter zu schauen."/>
+    <string id="9pEc15Sb" text="S"/>
+    <string id="9QsTWOYN" text="Start-Taste"/>
+    <string id="9qZw55vR" text="Hauptlautstärkepegel."/>
+    <string id="9Rr1iimX" text="D-Pad links"/>
+    <string id="9xKCz9BE" text="Wechseln zwischen First- und Thirdperson-Ansicht."/>
+    <string id="A0bqGRQc" text="F"/>
+    <string id="A4B0GTqw" text="FXAA"/>
+    <string id="Aa2Yokz3" text="Numpad *"/>
+    <string id="aAaF9FWC" text="Rechte Steuerung"/>
+    <string id="accbLVWL" text="Legt die Anti-Aliasing-Technik fest. "/>
+    <string id="acqAYxhr" text=","/>
+    <string id="Ad8NUgpY" text="Gruppe 5 Höre DESC"/>
+    <string id="aFPK4kIi" text="Karte bewegen nach links DESC"/>
+    <string id="AhrWBKx9" text="Rüste Item 1 aus"/>
+    <string id="AiYklNiQ" text="UI Nach rechts verschieben"/>
+    <string id="aJxmDbur" text="Halten, um ein Gebiet zu verlassen. "/>
+    <string id="aKghgqEl" text="WähleBefehl1 DESC"/>
+    <string id="aky3YmaT" text="Karte Warten DESC"/>
+    <string id="amdYLZ6o" text="Questfenster"/>
+    <string id="aNs2hcVi" text="UI nach unten bewegen"/>
+    <string id="ap1wEfdW" text="V"/>
+    <string id="aqcFXbir" text="Rechter Stick hoch"/>
+    <string id="ar2Y8Xs9" text="{LEFT}: "/>
+    <string id="asrbFBbn" text="Bestellmenü"/>
+    <string id="au7tXcD1" text="Stereo"/>
+    <string id="aufrcNmq" text="Partikeldetails"/>
+    <string id="avDb6Y66" text="Mittlere Maustaste"/>
+    <string id="AVZ0zB0g" text="UI zum rechten Tab wechseln"/>
+    <string id="aWDfG0RO" text="F3"/>
+    <string id="aydCb7WA" text="Mittel"/>
+    <string id="Az084VJK" text="Verteidigen"/>
+    <string id="b1OtYhnF" text="Texturfilterung"/>
+    <string id="b9rDOY21" text="WähleBefehl2"/>
+    <string id="bdJv9dcm" text="Charakter rein zoomen"/>
+    <string id="BDSEgN41" text="Legt die Voreinstellung für Grafikqualität fest."/>
+    <string id="bEJsGiBK" text="Vegetations Qualität"/>
+    <string id="bFSxl4Vl" text="UI nach oben verschieben DESC"/>
+    <string id="bGbIRSmD" text="."/>
+    <string id="BgjaAUNf" text="Legt die Wasserqualität fest. Ein höherer Wert bedeutet detailliertere Wassersimulation."/>
+    <string id="bgwA4Pd8" text="2"/>
+    <string id="BJJl0qam" text="Schneller"/>
+    <string id="bJRFVONJ" text="X Taste"/>
+    <string id="bmpagYCb" text="Rüste deinen Schild aus oder wechsele zum nächsten."/>
+    <string id="BmSzvXlZ" text="Hoch"/>
+    <string id="bNWx8Zqb" text="Bannerfenster DESC"/>
+    <string id="bqb2K5b1" text="Rechts bewegen"/>
+    <string id="br4J1TTA" text="Screenshot DESC aufnehmen"/>
+    <string id="BSdIYN9F" text="P"/>
+    <string id="bT77aWti" text="Waffennutzung wechseln"/>
+    <string id="bvJUmRBd" text="Wähle Gruppe 2"/>
+    <string id="bW2urPqE" text="WähleBefehl6"/>
+    <string id="bWV5BOyc" text="D-Pad runter"/>
+    <string id="bYwwY9qh" text="Numpad 5"/>
+    <string id="C7zwur4k" text="Escape"/>
+    <string id="cAkgnVr5" text="Num Lock"/>
+    <string id="CbwmI1JY" text="Aktiviert Depth of Field"/>
+    <string id="cdaUUBFQ" text="UI Bewegung nach oben"/>
+    <string id="CnJQpaiK" text="Gruppenfenster DESC"/>
+    <string id="combatkick" text="Treten / Schlagen"/>
+    <string id="cOuaMvNR" text="Temporal SMAA x2"/>
+    <string id="cp80Mq2W" text=";"/>
+    <string id="Crf6Z1S5" text="Bild hoch"/>
+    <string id="CsEtp6Az" text="Gruppe 3 hört"/>
+    <string id="ct0coyrR" text="A"/>
+    <string id="cTHGQ62C" text="Gruppe 1 Höre DESC"/>
+    <string id="CTiemsyh" text="Numpad 3"/>
+    <string id="Cvdaadvs" text="Sehr Hoch"/>
+    <string id="cvhQOE38" text="Angriffsrichtung anzeigen"/>
+    <string id="cWRA5VVr" text="Alt Links"/>
+    <string id="czYbd1vo" text="H"/>
+    <string id="D008gyKC" text="Wähle Bestellung 1"/>
+    <string id="d6DkPU2b" text="Gesamt"/>
+    <string id="d75b5uSL" text="Bilinear"/>
+    <string id="dB6cFDmz" text="/"/>
+    <string id="dbkFMtJw" text="Karte vergrößern"/>
+    <string id="DbpgZxxK" text="Kamera-Distanz dritter Person"/>
+    <string id="dC1MBjrO" text="Beeinflusst die Größe des Textur-Streaming-Caches. Ein höherer Wert erfordert mehr Video-Speicher, bietet aber ein angenehmeres Erlebnis."/>
+    <string id="Dg0SKmCS" text="Kampfgeschwindigkeit DESC"/>
+    <string id="dg6yQU6z" text="Nachricht an das Team senden"/>
+    <string id="DiK2cKUi" text="Sound-Gerät"/>
+    <string id="DIvUcHY1" text="UI verlassen"/>
+    <string id="dkLG4JC4" text="Eingabe"/>
+    <string id="DqFxOjTp" text="Bildschirmauflösung"/>
+    <string id="drbgOAqx" text="Berichte für Erfahrungsgewinn aktivieren."/>
+    <string id="drG1OL8d" text="Maus nach oben Scrollen"/>
+    <string id="dRx9qWRO" text="Karte Kontextmenü DESC"/>
+    <string id="DTSHoHbu" text="Inventarfenster"/>
+    <string id="Dw58UUua" text="Streuung unter der Oberfläche"/>
+    <string id="dYu897GO" text="A Taste"/>
+    <string id="E5xbXlLB" text="Aktiviert die Sonnenstralen."/>
+    <string id="ea8kNj32" text="Ihr bevorzugtes Audioausgabegerät."/>
+    <string id="EaOcWkH3" text="Enzyklopädie öffnen."/>
+    <string id="efBaDf0A" text="Helligkeit"/>
+    <string id="EkzORIiZ" text="Öffne alle Chats."/>
+    <string id="evc8yBIy" text="M"/>
+    <string id="EvOLbiqM" text="Wähle Gruppe 3"/>
+    <string id="evzb1cmP" text="Rüste den Gegenstand in deinem vierten Platz aus."/>
+    <string id="ewbUcb3N" text="UI Verschiebe nach rechts DESC"/>
+    <string id="eZsVkuQD" text="8"/>
+    <string id="F7yNEXrV" text="Karte reinzoomen"/>
+    <string id="F8Q8mEak" text="UI Eingabe"/>
+    <string id="fBXuMgdm" text="Kampagnen KI DESC"/>
+    <string id="FEDEsbCx" text="Bewege deine Gruppe in der Kampagnenkarte nach unten."/>
+    <string id="ffHX9L80" text="Numpad 0"/>
+    <string id="FHBoO2sp" text="6"/>
+    <string id="fJnqJx8m" text="Charakterfenster"/>
+    <string id="FLLnblfP" text="Melde Verluste"/>
+    <string id="FqvJUBRn" text="Sehr niedrig"/>
+    <string id="fsI2wuHa" text="Gruppe 2 Höre"/>
+    <string id="fXKtZqmW" text="Kamera runter bewegen"/>
+    <string id="G2e8xucc" text="Wenn die markierten Muster nicht innerhalb der Rahmen sichtbar sind, versuchen Sie die Schieberegler zu bewegen.{newline}Passen Sie die Schieberegler an den Punkt an, an dem die Muster fast sichtbar sind."/>
+    <string id="g4Iq82iw" text="Teamchat öffnen."/>
+    <string id="g4VjAbMG" text="J"/>
+    <string id="G8ug5Bwx" text="Chat"/>
+    <string id="gAJHtTK2" text="Aktiviere Textberichte für Trefferschwierigkeiten von Fernwaffen."/>
+    <string id="GAWxyVgq" text="Löschen"/>
+    <string id="gCDjIGB6" text="Blut anzeigen"/>
+    <string id="Gd2iUUHa" text="Verändert die Renderqualität von Partikeln. Ein höherer Wert bedeutet schärfere Partikel."/>
+    <string id="GgUBPvBH" text="Aktiviere das Anzeigen von Bannern bei befreundeten Truppen."/>
+    <string id="gIsqhwTs" text="First Person Sichtfeld"/>
+    <string id="Gl2S6WEW" text="Legt den Monitor fest, in dem das Spielfenster angezeigt werden soll."/>
+    <string id="Gl7wgtPQ" text="Gruppe hoch bewegen"/>
+    <string id="glpNsbMs" text="Zoom DESC"/>
+    <string id="GO6zrJwF" text="Inventarfenster DESC"/>
+    <string id="GPaZ8wOo" text="UI zum rechten Tab wechseln DESC"/>
+    <string id="GxHV8b1b" text="Numpad 1"/>
+    <string id="gzMIzYTF" text="Spiellog Fenster"/>
+    <string id="h6wUbray" text="Anzahl der Leichen"/>
+    <string id="haX0xRHa" text="Kamerabeschleunigung"/>
+    <string id="hdbb0Jjp" text="Enzyklopädie Fenster"/>
+    <string id="HDV63kra" text="4"/>
+    <string id="hfpb4NaS" text="Gruppe 0 Höre DESC"/>
+    <string id="hHxSj7tY" text="WähleBefehl3"/>
+    <string id="hK9bkACI" text="UI zum linken Tab wechseln"/>
+    <string id="hL2Lnp6N" text="Aufträge anzeigen DESC"/>
+    <string id="HmgPBPeq" text="Bildschirmauflösung"/>
+    <string id="HNTCnUYY" text="Gruppenfenster"/>
+    <string id="HRTeeku9" text="D-Pad hoch"/>
+    <string id="Hs1CYfbc" text="Nächste Waffe ausrüsten"/>
+    <string id="hS4wYBa8" text="Auftragsgruppe umkehren"/>
+    <string id="HsljR1NL" text="Rüste Waffe 1 aus"/>
+    <string id="HsYbuReS" text="PCF"/>
+    <string id="hUyPaplJ" text="Gefechtgröße"/>
+    <string id="HVa0okoe" text="F9"/>
+    <string id="HxIqxjmk" text="Alle auswählen"/>
+    <string id="HyDC937R" text="Kartenzeit vorspulen DESC"/>
+    <string id="hZEAeoCk" text="Bewege deine Gruppe auf der Kampagnenkarte nach links."/>
+    <string id="I3eooo5c" text="Legt die Geländequalität fest."/>
+    <string id="I3rTzBae" text="Charakterdetails"/>
+    <string id="i5xbEcE3" text="Zeit in der Kampagnenkarte fortsetzen oder pausieren."/>
+    <string id="I6OJtaMT" text="Nie"/>
+    <string id="i6rQFv6i" text="Karte vorwärts bewegen DESC"/>
+    <string id="I9PN1qny" text="Numpad Enter"/>
+    <string id="IahiWHHW" text="K"/>
+    <string id="IaoVYeZi" text="Aktiviert die Tesselation."/>
+    <string id="IBEJPlEj" text="Zuhause"/>
+    <string id="Ibl4avht" text="Rechter Bumper"/>
+    <string id="iblHebbT" text="F1"/>
+    <string id="IcEPmXxM" text="Legt die Ambient occlusion Technik fest."/>
+    <string id="ICgda8Is" text="Oben Doppeltes Drücken: Vorwärts stürmen"/>
+    <string id="ID9lG6xg" text="Befehle ansehen"/>
+    <string id="IDKbw4Sw" text="UI Verlassen DESC"/>
+    <string id="igGLkaf6" text="Rüste Item 2 aus"/>
+    <string id="iGi5HsGS" text="Shift Links"/>
+    <string id="IiioTamH" text="TSAO"/>
+    <string id="IjhCSwNn" text="Bewege die Kamera weiter von deinem Charakter in der Third Person-Ansicht."/>
+    <string id="IjRHUbbN" text="Tesselation"/>
+    <string id="IKjxVh2N" text="Bewegungsunschärfe"/>
+    <string id="ikoUJQyl" text="Aktiviert den Überstrahleffekt."/>
+    <string id="IOZ4aWVp" text="Wähle Gruppe 8"/>
+    <string id="IPbh2TvZ" text="Teamchat initiieren"/>
+    <string id="Irhxad7u" text="Wasserqualität"/>
+    <string id="iTau5cxh" text="Durchschnittlich"/>
+    <string id="iwO3g6Rz" text="Wähle aus, wie herausfordernd die KI sein soll."/>
+    <string id="IYLn67Xm" text="X"/>
+    <string id="Iz2vu6xM" text="Maus nach unten Scrollen"/>
+    <string id="iZq6c4bd" text="UI nach links bewegen DESC"/>
+    <string id="izZCwYNb" text="SMAA"/>
+    <string id="j2g8BSOF" text="Statisch und dynamisch"/>
+    <string id="J2pcA6KR" text="Charakter anzeigen"/>
+    <string id="j3k8PiPo" text="Aktiviert das deformierbare Gras."/>
+    <string id="j4F7tTzy" text="Clan"/>
+    <string id="jaeLYPIG" text="Pausieren"/>
+    <string id="jafcz97A" text="Schattenqualität"/>
+    <string id="JAzv5xYY" text="Aktiviere Textberichte für den zugefügten Schaden."/>
+    <string id="jbLwdd6z" text="Kopfhörer"/>
+    <string id="jbMwcl0G" text="Jeder hört DESC"/>
+    <string id="jd9ZG2CI" text="R"/>
+    <string id="jgCb0sga" text="Aktiviere Fadenkreuz für Fernkampfwaffen."/>
+    <string id="jIcGy6gI" text="{LEFT} : {RIGHT}"/>
+    <string id="JLqe3lrb" text="KI-Schwierigkeitsgrad"/>
+    <string id="JLtTANZg" text="Links bewegen"/>
+    <string id="JmlrVqFz" text="Rüste Waffe 2 aus DESC"/>
+    <string id="JP1y1i0A" text="Rüste Waffe 4 aus"/>
+    <string id="Js1lhJkk" text="Sprache"/>
+    <string id="Ju6btXsv" text="Angriffsrichtung anzeigen"/>
+    <string id="jvOYgHOe" text="Benutzerdefiniert"/>
+    <string id="jwNpDFOh" text="128 (niedrig) "/>
+    <string id="JXdwIX8Q" text="Setze Dicke für Spuren von Distanzwaffen fest."/>
+    <string id="jZs8I1Uq" text="Aktiviert das Filmgrain"/>
+    <string id="JZYQGUF3" text="Unten Doppeltes Drücken: Direktes anhalten"/>
+    <string id="k2QXfBBn" text="Y-Taste"/>
+    <string id="k3CLKsrz" text="Durch Mausbewegung"/>
+    <string id="k3LajvfJ" text="Banner-Editor öffnen."/>
+    <string id="k4E1gylQ" text="Legt die Menge des schärferen Effekts fest."/>
+    <string id="k7gJYLLj" text="Numpad 8"/>
+    <string id="K80z5onY" text="Legt fest, wie weit sich die Kamera in dritter Person befindet."/>
+    <string id="kak4GxOh" text="F6"/>
+    <string id="KBSbXN5F" text="Linker Stick links"/>
+    <string id="kF5FabLb" text="DESC verteidigen"/>
+    <string id="kG4051e5" text="WähleBefehl7"/>
+    <string id="KHbdmIfF" text="Nur statisch"/>
+    <string id="KjZas5Xs" text="Legt den Display-Adapter fest, auf dem das Spiel laufen soll."/>
+    <string id="Kk0hMffJ" text="Mausempfindlichkeit"/>
+    <string id="KKNmozPI" text="Linker Pfeil"/>
+    <string id="KO5zuUvN" text="Aktion"/>
+    <string id="KONClayU" text="\"/>
+    <string id="koX9okuG" text="Keine"/>
+    <string id="KtYtBnvP" text="Legt den Frame-Limiter fest."/>
+    <string id="KUEHAD4U" text="Aufträge"/>
+    <string id="KwNTg7BT" text="Anzeigemodus"/>
+    <string id="lC5xsoSh" text="Unbegrenzt"/>
+    <string id="lCucoVwJ" text="Geschätzte GPU-Speichernutzung"/>
+    <string id="lgOBD6MF" text="Aktiviere Markierungen für die Richtung des Angriffs."/>
+    <string id="lgzmPG6K" text="Hocken"/>
+    <string id="lhHUGbnm" text="Alle Chats initiieren"/>
+    <string id="LjNnWa7R" text="F10"/>
+    <string id="LJZAvH8f" text="Texturqualität"/>
+    <string id="ll2iP8yo" text="Der Einsatz von mehr als Ihrem verfügbaren GPU-Speicher kann zu ernsthaften Performance-Einbrüchen und Stabilitätsproblemen führen."/>
+    <string id="LoZajra1" text="Charakter anzeigen DESC"/>
+    <string id="Lp0byzGQ" text="I"/>
+    <string id="LsX8rTwl" text="Öffne Charakter Entwicklungsfenster."/>
+    <string id="lsxqkhy6" text="O"/>
+    <string id="lxIeKgXe" text="Scheich Waffe"/>
+    <string id="LYAeYPlT" text="Scheich Waffe DESC"/>
+    <string id="m1PinhQd" text="Öffne Gruppenbildschirm."/>
+    <string id="M1ZFZR5I" text="Geländequalität"/>
+    <string id="M2LCpC4Z" text="Maus Y-Achse umkehren"/>
+    <string id="m7B471Hw" text="Legt die Lichtqualität fest."/>
+    <string id="Mf5qVgAv" text="Rüste Item 3 aus"/>
+    <string id="MFbBFDqx" text="Schneller Kartenzug"/>
+    <string id="MfsNAPh6" text="Aktiviert das Subsurface Scattering."/>
+    <string id="mG4rCrfE" text="0"/>
+    <string id="MkKL3Y4P" text="Numpad 7"/>
+    <string id="mLtHlKzD" text="Alt Rechts"/>
+    <string id="MNsKxGzK" text="Textur Streaming Budget"/>
+    <string id="Mpl0oqe9" text="Karte verkleinern DESC"/>
+    <string id="mueocuFG" text="Indikatoren anzeigen"/>
+    <string id="mWnA4X5D" text="Wähle Bestellung 6"/>
+    <string id="MXHkvySm" text="F7"/>
+    <string id="MxmOWsHj" text="Enzyklopädie"/>
+    <string id="Mxnj08mB" text="Gruppe rechts bewegen"/>
+    <string id="N5fmlTza" text="{LEFT}, {RIGHT}"/>
+    <string id="n6cE42p9" text="Rüste sekundäre Waffe aus DESC"/>
+    <string id="nD11hOsQ" text="Questlog öffnen."/>
+    <string id="nDjFBDvE" text="Legt die maximale Anzahl an Einheiten in Kämpfen fest. Ein höherer Wert erfordert eine bessere CPU und GPU."/>
+    <string id="NdZYJ8dO" text="WähleBefehl5 DESC"/>
+    <string id="NkgHkAlZ" text="WähleBefehl8 DESC"/>
+    <string id="nMeL96ib" text="(Halten) verlassen"/>
+    <string id="NN7DHB1A" text="Gruppe 1 Höre"/>
+    <string id="nNBb8a9A" text="UI Enter DESC"/>
+    <string id="NPBaJKwW" text="Vorwärts bewegen DESC"/>
+    <string id="nsM4izfn" text="Hocken DESC"/>
+    <string id="nzElFOoI" text="256 (Mittel)"/>
+    <string id="o0QPZODk" text="Gruppe links bewegen"/>
+    <string id="o8WjGqS4" text="Z"/>
+    <string id="ocNVbyPJ" text="Randloser Vollbildmodus"/>
+    <string id="odsVjkbO" text="Inventar öffnen."/>
+    <string id="oEdTBobd" text="Anisotropisch 2X"/>
+    <string id="oeXA4OpG" text="Kartenauswahl DESC"/>
+    <string id="OgXnrvcA" text="Aktiviert die Tuchsimulation. Verwendet GPU-Ressourcen."/>
+    <string id="oHaWR73d" text="Ok"/>
+    <string id="OHs18aCS" text="Langsamste"/>
+    <string id="oI1gktYa" text="Lautstärke der Soundeffekte."/>
+    <string id="OiB50fga" text="Kartenauswahl"/>
+    <string id="oMaTg568" text="Richte die Kamera näher zur Kampagnen Karte."/>
+    <string id="Oo7wQbfG" text="X2 Maustaste"/>
+    <string id="Op68a8dO" text="Menübefehle"/>
+    <string id="OqYO78Jb" text="WähleBefehl9 DESC"/>
+    <string id="OREWvYbi" text="Rüste Waffe 4 aus"/>
+    <string id="otHjiYlN" text="Partikelqualität"/>
+    <string id="OtS4DYD1" text="T"/>
+    <string id="OYaqdNAI" text="Wähle Bestellung 2"/>
+    <string id="P4rblFQN" text="Karte verkleinern"/>
+    <string id="P5x1HU1u" text="Antialiasing"/>
+    <string id="P63jJ5Jq" text="Zurück-Taste"/>
+    <string id="P7E3rS3m" text="Lautstärkepegel der Musik."/>
+    <string id="pa8A2VG3" text="Aktiviere den roten Rand um den Bildschirm, wenn der Spieler Schaden nimmt."/>
+    <string id="PACe9VHN" text="&lt;"/>
+    <string id="PADeKaAu" text="Kontextmenü der Karte"/>
+    <string id="PjP4MktO" text="Rüste Primärwaffe aus DESC"/>
+    <string id="PksJtzwJ" text="Leerzeichen"/>
+    <string id="Pkw17hO0" text="Kampfgeschwindigkeit"/>
+    <string id="pLCcV4GU" text="UI zum linken Tab wechseln DESC"/>
+    <string id="pMRw0fvV" text="Karte schnell bewegen DESC"/>
+    <string id="pnEeRPAk" text="Gruppe 7 Höre"/>
+    <string id="pNocZkrx" text="Aktiviere Visualisierung von Schaden"/>
+    <string id="PPFFxlsX" text="Wähle wie Blocken ausgeführt werden sollen."/>
+    <string id="pQVSwtfn" text="Bewege die Kamera näher zu deinem Charakter in der Third Person-Ansicht."/>
+    <string id="PRsSB9B8" text="Interagiere mit Waffen, Reittieren, Türen, Menschen usw."/>
+    <string id="ps103cxD" text="Führe einen Angriff mit deiner Waffe durch."/>
+    <string id="pshodFff" text="Waffenspursichtbarkeit"/>
+    <string id="PtI8voo3" text="F8"/>
+    <string id="PvNGaexX" text="Halten, um Markierungen für wichtige Personen, Orte, Namensschilder usw. anzuzeigen."/>
+    <string id="pVrv5hnp" text="B"/>
+    <string id="py0auN0A" text="{ESTIMATED} MB / {TOTAL} MB"/>
+    <string id="QaMie1KY" text="Nur Nahkampf"/>
+    <string id="QBzjt1c4" text="Erweiterte Taste 1"/>
+    <string id="qggjceRq" text="Soundausgabe"/>
+    <string id="QIVW29Yw" text="Spiellog Fenster DESC"/>
+    <string id="QiYy3Ja4" text="Bestellrücksendung auswählen"/>
+    <string id="qnCZjP1H" text="Questfenster DESC"/>
+    <string id="qnxJYAs7" text="Gruppe"/>
+    <string id="qOcw1xap" text="Seite runter"/>
+    <string id="QoGjzEwI" text="Zurück"/>
+    <string id="qR1j0Mu5" text="Enzyklopädie Fenster DESC"/>
+    <string id="qS0z458V" text="~"/>
+    <string id="QsdUafoH" text="Wähle Bestellung 5"/>
+    <string id="qSJZyoro" text="F2"/>
+    <string id="qsrqjK0B" text="Legt den Detailgrad von Umgebungsrequisiten fest."/>
+    <string id="qtgBKzY8" text="Legt die Anzahl der sichtbaren Leichen fest."/>
+    <string id="qvaJYO9c" text="Anisotropisch 16X"/>
+    <string id="qW1FWX0C" text="Pfeil runter"/>
+    <string id="qYTo5C4x" text="DESC Schnellspeichern"/>
+    <string id="r0tu2Y57" text="Runter"/>
+    <string id="R9cQCadq" text="Wählen Sie, wie Angriffe ausgeführt werden sollen."/>
+    <string id="r9tGsO4Z" text="Spielneustart erforderlich"/>
+    <string id="RaijrIxP" text="Interagiere"/>
+    <string id="rbz1Bwbv" text="Inventar"/>
+    <string id="rCstRmpZ" text="Linker Stick Unten"/>
+    <string id="RdARXWNw" text="Vertikale Mausbewegung Skalierung"/>
+    <string id="rH6gEaNP" text="Waffen ablegen DESC"/>
+    <string id="Rh7aDJ3n" text="Bannerfenster"/>
+    <string id="Rhl5E2ut" text="Legt die Art der Schatten fest."/>
+    <string id="rNiESgEo" text="]"/>
+    <string id="ro0NhUnJ" text="Legen Sie das Sichtfeld für die Kamera für die erste Person fest."/>
+    <string id="roJLc9oH" text="Hälfte"/>
+    <string id="rP058aIm" text="Rüste den Gegenstand in deinem ersten Slot aus."/>
+    <string id="RSmsn6mb" text="Weiter / Pausieren"/>
+    <string id="rwE0VVQX" text="Karten Kamera-Folgemodus DESC"/>
+    <string id="RX76Kfa8" text="Kamera umschalten"/>
+    <string id="rYCYUZu5" text="Gruppe 5 hört"/>
+    <string id="s4QeCCDp" text="(Doppelt Drücken) Direkt rechts abbiegen"/>
+    <string id="s4r1xdg0" text="Gruppe 6 Höre"/>
+    <string id="s533kEjf" text="Musiklautstärke"/>
+    <string id="s6qTeIw1" text="Stellen Sie die Empfindlichkeit für Mausbewegungen und Kamerakontrolle ein."/>
+    <string id="s7yWjpeB" text="Ausgewählter Adapter"/>
+    <string id="sAa2SIgO" text="Sie können zwischen verschiedenen Mischmodi wechseln, die besser zu Ihrer Lautsprecherkonfiguration passen."/>
+    <string id="SaA3oKNB" text="Karte rückwärts bewegen DESC"/>
+    <string id="sAoWNAwZ" text="Fenstermodus"/>
+    <string id="Sb3L2QwL" text="Legt die Aufläsungsskala fest."/>
+    <string id="sbUBtOTb" text="Schadensbericht"/>
+    <string id="SEucYSln" text="Numpad 2"/>
+    <string id="ShDZ4GgG" text="Rüste Waffe 3 aus"/>
+    <string id="SN6IWnyb" text="Schnellste"/>
+    <string id="sQCP8t0U" text="Karten Stopp"/>
+    <string id="sqPUaHTk" text="Aktions DESC"/>
+    <string id="StaoHYba" text="Gruppe 4 hört"/>
+    <string id="sTlHHQPs" text="Du musst Bannerlord neu starten, damit diese Einstellung wirksam wird"/>
+    <string id="SuYh3GtG" text="Waffenmodus umschalten"/>
+    <string id="SWDHaFCK" text="WähleBefehl4"/>
+    <string id="sxFsZAeC" text="1"/>
+    <string id="T3Ex0K1p" text="Ende"/>
+    <string id="T6IJg6wq" text="Karten Kamera Folgemodus"/>
+    <string id="T7VMJyYS" text="WähleBefehl3 DESC"/>
+    <string id="TAaxoNCf" text="Rückwärts bewegen DESC"/>
+    <string id="tbGol5PT" text="F4"/>
+    <string id="tbwhjsqS" text="Rechte Maustaste"/>
+    <string id="Tdf5AbRp" text="Öffne Klan Fenster."/>
+    <string id="teuLiI9S" text="Legt die Helligkeit fest."/>
+    <string id="TEuOMadV" text="Tab"/>
+    <string id="tewykKdc" text="Blockrichtung steuern"/>
+    <string id="TgIAHPHs" text="Wähle Befehl 4"/>
+    <string id="tifiQGTa" text="Öffne Königreich Fenster."/>
+    <string id="TIYrYxpr" text="Wähle Gruppe 5"/>
+    <string id="tkCbjgfx" text="Numpad -"/>
+    <string id="TOebahlA" text="Kartenzeit vorspulen"/>
+    <string id="TPEUvYDt" text="Rechter Stick rechts"/>
+    <string id="ttCcMbwO" text="Pfeil oben"/>
+    <string id="TtusHm10" text="Langsamer"/>
+    <string id="TtWjblNo" text="Anzeige umschalten"/>
+    <string id="TUWeNFOv" text="Screenshot aufnehmen"/>
+    <string id="TvGJqPGp" text="Aktiviere berichte für Todesfälle und Knock-outs."/>
+    <string id="TVXacQUJ" text="Globaler Chat"/>
+    <string id="tw5Wxv3b" text="Numpad ."/>
+    <string id="u2dQaVY2" text="Rüste den Gegenstand in deinem dritten Slot aus."/>
+    <string id="u5aqR1ys" text="Temporal SMAA x"/>
+    <string id="U5xKAHGi" text="Bloom"/>
+    <string id="u7FkCtRN" text="Gruppe 0 hört"/>
+    <string id="U8NaF1bo" text="Helligkeit kalibrieren"/>
+    <string id="Uaae1eBV" text="Rechts Doppelt drücken: Direkt rechts"/>
+    <string id="UboDNGJw" text="Wähle Gruppe 7"/>
+    <string id="uBRn8Je8" text="3"/>
+    <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}"/>
+    <string id="UFHqkvah" text="Interaktives Gras"/>
+    <string id="UixNc11t" text="Verteidige Angriffe mit deiner Waffe oder Schild."/>
+    <string id="UjX1E56u" text="Nach umgekehrter Mausbewegung"/>
+    <string id="ukw0Zi1X" text="["/>
+    <string id="UNmUcizM" text="Wähle Befehl 3"/>
+    <string id="Uojm77jP" text="Beleuchtungsqualität"/>
+    <string id="UoxjMhfJ" text="WähleBefehl1"/>
+    <string id="UqB9zKfE" text="Rüste Primärwaffe aus"/>
+    <string id="uQfDuGem" text="Charakter raus zoomen"/>
+    <string id="urSa4wQG" text="Banner bei befreundeten Truppen anzeigen"/>
+    <string id="uRXlSUVh" text="N"/>
+    <string id="uSGPBRFS" text="Zoom"/>
+    <string id="uSVfhkwj" text="B-Taste"/>
+    <string id="UTU6yVsp" text="Zeit auf der Weltkarte fortsetzen."/>
+    <string id="uUHUfeQr" text="Wähle Gruppe 6"/>
+    <string id="UwJIMaRi" text="Shader Qualität"/>
+    <string id="UwuYCgIU" text="Warnung"/>
+    <string id="UwXP9UAR" text="Gut"/>
+    <string id="UY79LYHf" text="Schlecht"/>
+    <string id="UZUKtbSJ" text="(Doppelt Drücken) Nach vorne stürmen"/>
+    <string id="v8GIxASM" text="V-Sync"/>
+    <string id="vAnlshLW" text="9"/>
+    <string id="VasVb9DK" text="Rüste deine Waffe aus oder wechsele zur nächsten."/>
+    <string id="VAtNIoKC" text="L"/>
+    <string id="Vb2KV9q1" text="Rechter Stick links"/>
+    <string id="Ve99pCSo" text="Stoffsimulation"/>
+    <string id="VE9TavSl" text="Legt die Verzierungsqualität fest."/>
+    <string id="vIWlbrvQ" text="Helligkeitskalibrierung"/>
+    <string id="Vn4uzMUH" text="Gruppe 6 höre DESC"/>
+    <string id="Vo5lBwQA" text="Rüste Waffe 3 aus DESC"/>
+    <string id="Vpy2qEcN" text="Mit bewegungs Tasten"/>
+    <string id="vT3yIxmO" text="Numpad 4"/>
+    <string id="vXvmeGhm" text="Schattenart"/>
+    <string id="VzSerzva" text="Umschalt Rechts"/>
+    <string id="w4l8xA2Q" text="Karte nach links bewegen"/>
+    <string id="waNCurZY" text="Aktiviert die Bewegungsunschärfe."/>
+    <string id="wb84GjZw" text="Schattenfilter"/>
+    <string id="WBVMg0bd" text="Legt die Texturfiltertechnik fest. Ein höherer Wert bedeutet detailliertere und scharfe Texturen."/>
+    <string id="wdVrbMbQ" text="Kicke DESC"/>
+    <string id="wg5YeO4k" text="Weltkarte"/>
+    <string id="wGa1SUop" text="Rüste den Gegenstand in deinem zweiten Slot aus."/>
+    <string id="whn4v32E" text="Legt die Auflösung von Schatten fest."/>
+    <string id="WiBlu6mE" text="WähleBefehl9"/>
+    <string id="wJWICbOg" text="Deine bevorzugte Spielsprache."/>
+    <string id="WldVAZhy" text="Legt die Detailstufe der Charaktermodelle fest."/>
+    <string id="wMe5p2HG" text="7"/>
+    <string id="WMmGH9yp" text="Richte die Kamera weiter weg zur Kampagnen Karte."/>
+    <string id="wNOvkaRa" text="WähleBefehl4 DESC"/>
+    <string id="WOubRnjm" text="Erfahrungsbericht"/>
+    <string id="wWDHH5FK" text="Tiefenschärfe"/>
+    <string id="WWEa79vw" text="UI nach links bewegen"/>
+    <string id="wYicqUa9" text="Kartenzeit Normal"/>
+    <string id="X0N6Ij5Z" text="Angriff DESC"/>
+    <string id="X5cSNxHf" text="5"/>
+    <string id="x7kYOUfi" text="Effekt-Lautstärke"/>
+    <string id="x7OgHYfc" text="{LEFT}"/>
+    <string id="x7qfk550" text="Q"/>
+    <string id="XdCZzFrV" text="Kartenzeit stoppen DESC"/>
+    <string id="xEquRfRF" text="10"/>
+    <string id="xhdIdzWK" text="Charakterfenster DESC"/>
+    <string id="xIXcsiRt" text="512 (Hoch)"/>
+    <string id="xnGGas4h" text="Y-Achse der Maus für die Kamerasteuerung umkehren."/>
+    <string id="XnhBdHnS" text="Surround"/>
+    <string id="XnoL375p" text="Sprung DESC"/>
+    <string id="xNprkuJl" text="Waffen ablegen"/>
+    <string id="xnulLUFX" text="Speichern Sie Ihr Spiel schnell mit einem Shortcut ab."/>
+    <string id="XoQ13rWc" text="UI nach unten bewegen DESC"/>
+    <string id="xRbpqS2U" text="Gruppe 3 höre DESC"/>
+    <string id="XrUGC7H4" text="Rücktaste"/>
+    <string id="xtFZDect" text="(Doppelt Drücken) Direkt links abbiegen"/>
+    <string id="xuOz73hl" text="Legen Sie fest, ob Blut in Kämpfen sichtbar ist."/>
+    <string id="XXbswuug" text="Befehlsgruppe umkehren DESC"/>
+    <string id="xyFNxwyH" text="(Doppelt Drücken) Direkt anhalten"/>
+    <string id="xZ84ujuu" text="Wie viele Sounds auf einmal gespielt werden können. Niedrigere Werte senken die CPU-Auslastung, während höhere Werte eine bessere Atmosphäre bieten."/>
+    <string id="y4fZ1Gn7" text="Setzen Sie den vertikalen Mausbewegungsmultiplikator im Vergleich zur horizontalen Bewegung."/>
+    <string id="y7dx24ih" text="Bewege die Kamera während du die Richtung auf einem Pferd änderts in der First Person ansicht."/>
+    <string id="Y9Xqe21r" text="Linker Stick"/>
+    <string id="YAHs7wBa" text="Wähle Befehl 8"/>
+    <string id="ybHmTTyI" text="Linker Stick hoch"/>
+    <string id="YDccwh2x" text="Gesamtlautstärke"/>
+    <string id="YDnWm5eI" text="Linker Trigger"/>
+    <string id="yDr2HCFR" text="Wechseln Sie in den 360 Grad Ansichtsmodus um Ihren Charakter."/>
+    <string id="yfMN8wWN" text="Anisotropisch 4X"/>
+    <string id="Yg2jHH1M" text="Numpad /"/>
+    <string id="yLCSTuBw" text="Legt die Auflösung des Spiels fest."/>
+    <string id="Yn8bh0qT" text="Nächsten Schild ausrüsten"/>
+    <string id="YT6ljA5V" text="Karte Vorwärts bewegen"/>
+    <string id="yV64UCaW" text="Vergrößern"/>
+    <string id="YZv1752W" text="D"/>
+    <string id="yZvw7EQb" text="Screen Space Reflektion"/>
+    <string id="z8XjxODK" text="Wechsel zur alternativen Verwendung der Waffe, Nah- oder Fernkampf, Einhand- oder Zweihandwaffen."/>
+    <string id="ZaaPPemL" text="WähleBefehl8"/>
+    <string id="ZBA0g1L8" text="Rechter Auslöser"/>
+    <string id="ZeIsxhk4" text="Legt die Schattenfiltertechnik fest."/>
+    <string id="ZewnkWoO" text="G"/>
+    <string id="ZglliSpV" text="Rechts bewegen DESC"/>
+    <string id="Zgs47DHB" text="Feststelltaste"/>
+    <string id="ZIKuUbUG" text="Legt die Anzahl der simultanen Ragdollsimulationen fest."/>
+    <string id="znSZmZvV" text="Karte nach rechts bewegen"/>
+    <string id="Zo2ngsUk" text="Offene Gesichtsgeneration."/>
+    <string id="zofULNb8" text="Rüste sekundäre Waffe aus"/>
+    <string id="ZP1tLaa1" text="Numpad 9"/>
+    <string id="ZtDJrNz9" text="Filmkörnung"/>
+    <string id="zTFbqJ6R" text="'"/>
+    <string id="ZtxvyzjY" text="Soundkanäle"/>
+    <string id="zUXxshZK" text="F12"/>
+    <string id="zvD48rVQ" text="Schnellspeichern"/>
+    <string id="ZVLr4CMO" text="X1 Maustaste"/>
+    <string id="ZvtKqPt3" text="Links doppelt drücken: Direkt links"/>
+    <string id="zwL5NFAr" text="Einfügen"/>
+    <string id="zxMOqlhs" text="Angriff"/>
+  </strings>
+</base>

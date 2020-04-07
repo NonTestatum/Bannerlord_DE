@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="02FaqhzI" text="Ich habe von dir gehört. Sie sagen gute Dinge über dich. Lass uns von Zeit zu Zeit reden. Eine Freundschaft mit jemandem wie mich kann für jemanden wie Dich sehr profitabel sein."/>
+    <string id="0etg1Q9l" text="Ich habe viele Opfer von meinen Männern im Dienst von {FIRST_NAME} verlangt. Ich will nicht hören, dass ihre Loyalität fehl am Platze sei."/>
+    <string id="1jUa8olQ" text="Ich erwarte nicht, dass du aufgibst, aber ich gebe dir die Chance dies zu tun.[ib:warrior][if:idle_angry]"/>
+    <string id="22a9fyiQ" text="Vater"/>
+    <string id="27KUtWGA" text="Sie haben diese Aufgabe erfüllt, und ich danke Ihnen."/>
+    <string id="2FWBCCw0" text="Schwester"/>
+    <string id="3L7Rkswm" text="Sie können sich ergeben, aber ich hoffe, Sie tun es nicht. Ich würde gerne eine Klinge in Sie stecken, bis Sie quietschen.[ib:warrior][if:idle_angry]"/>
+    <string id="3PsQTf0z" text="Ich habe Sie in die Enge getrieben. Geben Sie nach oder wir greifen an. [ib:warrior][if:idle_angry]"/>
+    <string id="3TGug4Vb" text="Ich kenne Ihren Namen. Man sagt, du bist ein sehr tapferer Krieger. Ich kann nur hoffen, dass Eure Ehre und Gnade Eurem Mut entspricht."/>
+    <string id="3UucAOBW" text="Ich bin {CONVERSATION_CHARACTER.LINK}, ein Häuptling der Battanier."/>
+    <string id="48g7K7Zi" text="Wenn Sie diese Wege gehen, mein Freund, dann wissen Sie, dass nichts der Aufmerksamkeit der Verborgenen Hand entgeht. Lords und Kaiser kommen und gehen, aber wir bleiben."/>
+    <string id="49sxmwcX" text="Halten Sie Ihre Zunge still! Sie werden sie bald brauchen, um Gnade zu betteln"/>
+    <string id="4Jo8JMZm" text="Meine Dame"/>
+    <string id="5DCMLfp8" text="Ich habe von Ihnen gehört. Ich bin nicht in der Stimmung für Neckereien, also lassen wir die Höflichkeiten weg."/>
+    <string id="5Fa0uDJn" text="sultana der Aserbaidschaner"/>
+    <string id="5ZfjV7hS" text="Genug! Heute gewinnst du, du Hund! Ach, wie schade! [rf:angry][rb:trivial]"/>
+    <string id="62vceTar" text="Ich bin {CONVERSATION_CHARACTER.LINK}von {CLAN_NAME}."/>
+    <string id="6acfbHiE" text="Ich werde mir Ihren Namen notieren. Aber du musst dir mein Vertrauen verdienen, Fremder, denn die Welt ist ein verräterischer Ort, und es sind verräterische Zeiten."/>
+    <string id="6LlDlGSb" text="hohe Königin der Battanier"/>
+    <string id="6UBdsXlo" text="Vielleicht sehen wir uns eines Tages auf einem Schlachtfeld. Sie werden den Ghilman an der Pracht unserer Pferde und dem Schimmern unseres Stahls erkennen. Wenn wir auf Ihrer Seite sind, dürfen Sie sich freuen. Wenn wir Ihr Feind sind, können Sie sich viel Ärger ersparen, indem Sie weglaufen, bevor die Kämpfe beginnen."/>
+    <string id="7lWtkqHv" text="Ich erinnere mich an deinen Namen."/>
+    <string id="7pQ3y21E" text="Nochmals vielen Dank für all deine Hilfe."/>
+    <string id="80C0gWJ4" text="könig der Vlandianer"/>
+    <string id="86aQkXpV" text="Sehr gut, ich werde Ihren Mut auf die Probe stellen!"/>
+    <string id="8eLXNZ7U" text="Es ist gut zu wissen, wer kämpft."/>
+    <string id="8GDgJCB4" text="Wenn Sie jemals auf der Suche nach kräftigen Kriegern sind, sollten Sie darüber nachdenken, die Kompanie des Ebers zu engagieren. Die kräftigsten Burschen in Vlandia strömen zu unserem Banner. Denn wenn du uns nicht anheuerst, dann vielleicht dein Feind."/>
+    <string id="8WLSZRZc" text="Sehr gut. Was schlagen Sie vor?"/>
+    <string id="8x8kVUGX" text="Die Rechte der Armen und der Sanftmütigen, der Witwe und der Waise werden gewahrt, und der Himmel wird dies zur Kenntnis nehmen."/>
+    <string id="99gE1ZoY" text="Ich bin {CONVERSATION_CHARACTER.LINK}, von der {FACTION}."/>
+    <string id="9ZHhYooG" text="Weißt du noch, wie ich dich im Zweikampf besiegt habe? Bist du zurück für mehr?"/>
+    <string id="a55SAS18" text="Wir haben den Vorteil, dass Sie im Vorteil sind. Geben Sie nach, und Sie werden gut behandelt.[ib:warrior][if:idle_angry]"/>
+    <string id="a5LChqbr" text="Das gemeine Volk dieser Länder braucht jemanden, der sich um sie kümmert. Hier kommt unsere Bruderschaft ins Spiel. Sie werden uns Banditen oder Räuber nennen. Glauben Sie kein Wort davon."/>
+    <string id="a8584KD0" text="Ich bin {CONVERSATION_CHARACTER.LINK}, von der {CLAN_NAME}. Ich bin sicher, Sie haben den Namen unseres Clans in den Epen der Steppe gehört. Wir tragen den Namen eines der zehn Söhne der großen Wölfin, der Mutter der Khuzaits."/>
+    <string id="aaadHoIb" text="Möge {?GENDER}sie{?}er{\?} alle zerquetschen {?GENDER}ihre{?}seine{\?} Feinde!"/>
+    <string id="aagGt8pX" text="Ihre Lordschaft"/>
+    <string id="aFbkjgVe" text="Sie waren also nicht in der Lage, diese Aufgabe zu erfüllen... Nun, manchmal liegen diese Dinge nicht in unseren Händen... und manchmal nicht. Aber lassen wir das Thema fallen."/>
+    <string id="aIimfZZe" text="Ich habe von Ihnen gehört. Man sprach von Ihnen als einem beeindruckenden Krieger. Sie hatten nicht erwähnt, dass Sie so, ähm, charmant sind."/>
+    <string id="atHFPCcK" text="Es ist schön, Sie kennenzulernen. Denken Sie daran, dass es keine Währung auf dieser Welt gibt, die wertvoller ist als das Gewicht Ihres Wortes, also sprechen Sie ehrlich mit mir, und ich werde dasselbe mit Ihnen tun."/>
+    <string id="auVAWUJ3" text="Seien Sie sich bewusst, dass Sie, wenn Sie mir jemals in die Quere kommen, als Futter für die Raben enden werden."/>
+    <string id="AZf7kPgr" text="Sie sind heute unterlegen. Geben Sie auf, wenn nicht um Ihrer selbst willen, dann denken Sie an Ihre Männer![ib:warrior][if:idle_angry]"/>
+    <string id="bAir72Sf" text="Halt! Ich ergebe mich![rf:angry][rb:trivial]"/>
+    <string id="bbjLFWhP" text="Ich habe unser letztes Duell gewonnen, aber Sie haben gut gekämpft. Ich würde es Ihnen nicht verübeln, wenn Sie einen Rückkampf wünschen."/>
+    <string id="BbVpiTdi" text="Sie sind, wie ich höre, ein Mann von Welt, wie man so schön sagt. Erzählen Sie mir ein wenig über Ihre Reisen."/>
+    <string id="bc1YyTO4" text="Vielleicht wird es nicht heute oder morgen sein, aber auf die eine oder andere Weise werde ich dafür sorgen, dass Sie Ihre Entscheidung bereuen."/>
+    <string id="BCfeuAX5" text="Bin ich das? Ihre Grausamkeit ist so raffiniert, dass Sie mich lieber frei und gedemütigt sehen wollen als in Ketten. Genießen Sie Ihren Triumph! [if:happy][rb:very_positive]"/>
+    <string id="bDarsOFR" text="Ich bin {CONVERSATION_CHARACTER.LINK}, ein Archon des Kaiserreichs."/>
+    <string id="bdiuV4qb" text="Ich kenne Ihren Namen. Man sagt, Sie sind ein {?PLAYER.GENDER}frau{?}mann{\?} der Tapferkeit. Wenn das Schicksal jemals bestimmt, dass wir die Schwerter kreuzen, wäre es eine Ehre."/>
+    <string id="BMc3VJcf" text="Ich kenne Ihren Namen nicht. Aber das macht nichts. Manche sagen, es sei eine größere Ehre, eine große Abstammungslinie zu gründen, als mit einer solchen geboren zu werden."/>
+    <string id="bNReoRmt" text="Wenn Sie jemals in der Lage sein sollten, Krieger anzuheuern, sollten Sie die Legion der Verratenen in Betracht ziehen. Wir wissen, was es bedeutet, Ihr Wort und Ihren Vertrag einzuhalten, denn wir haben den Preis des Vertrauensbruchs gesehen."/>
+    <string id="brGfaXyo" text="Ich bin mir nicht sicher, was ich von Ihnen halten soll, außer dass Sie entweder sehr mutig oder sehr voreilig sind, oder beides."/>
+    <string id="BRMngn5i" text="Genug! Ich bin Ihr Gefangener. Ich kann ein Lösegeld zahlen. Lebendig bin ich Ihnen mehr wert als tot. [rf:angry][rb:trivial]"/>
+    <string id="C5JaFsDZ" text="{FIRST_NAME} ist eine Lüge. Das ist alles, was es zu sagen gibt."/>
+    <string id="caKCwoPM" text="Die Bani Zilal sind die Hüter des Geheimnisses. Wir sehen aus dem Schatten zu. Sie machen uns auf Ihre Gefahr hin zu Feinden."/>
+    <string id="cFiSjbf4" text="Hah! Ich möchte mit Ihnen kämpfen"/>
+    <string id="cGuzIVlk" text="Man sagt, Sie seien recht weit gereist. Erzählen Sie mir ein wenig über Ihre Reisen..."/>
+    <string id="cMO9JXvk" text="Ich bin {CONVERSATION_CHARACTER.LINK}, von der {CLAN_NAME}. Wir halten unsere Ländereien als Lehen an {LIEGE_TITLE}, und wir ehren unsere Lehnseligkeiten."/>
+    <string id="CN20EFDE" text="Leider wäre es unter diesen Umständen ziemlich dumm von mir, Sie nicht anzugreifen."/>
+    <string id="CPWbB47d" text="Ich habe von Ihnen gehört! Ich wollte schon lange Ihre Bekanntschaft machen."/>
+    <string id="CUfZXlOd" text="Ich erinnere mich an deinen Namen."/>
+    <string id="d2QGFdRJ" text="Sie haben keine Chance. Ergeben Sie sich oder ich werde Sie ausnehmen wie einen Fisch. [ib:warrior][if:idle_angry]"/>
+    <string id="dC8acIya" text="Ich bin {CONVERSATION_CHARACTER.LINK}, ein Häuptling der Sturgier."/>
+    <string id="dD93WVhO" text="Eines sollten Sie über mich wissen: Ich bin ein sehr guter Freund, und Sie wollen mich auf keinen Fall zum Feind haben."/>
+    <string id="DIjtFVu8" text="Ihr letzter Blutstropfen? Dann muss ich es wohl vergießen."/>
+    <string id="dKmAktt7" text="Sie können mich nicht besiegen, und ich werde Ihnen eine schmerzhafte Lektion erteilen, wenn Sie es versuchen. Ergib dich![ib:warrior][if:idle_angry]"/>
+    <string id="dLHsoh3f" text="Ich habe von Ihnen gehört. Ihr Name macht den Männern Angst. Das ist der beste Ruf, den man haben kann. Vielleicht haben wir gemeinsame Interessen."/>
+    <string id="dlkg2jQf" text="Ich bin {CONVERSATION_CHARACTER.LINK}, von der {CLAN_NAME}, einer der alten Linien der Sturgier."/>
+    <string id="DLV6F3ob" text="Vielleicht haben Sie noch nie etwas von der Karakhergit gehört. Wir wagen viel in das genähte Land, in das korrupte Land. Wir verneigen uns vor keinem Khan. Wir nähen kein Getreide. Wir halten uns an die alten Traditionen, inmitten der großen Gräser."/>
+    <string id="DRzsgjsD" text="Ich bin {CONVERSATION_CHARACTER.LINK}, aus dem Haus von {CLAN_NAME}, einer der berühmtesten Familien in den Annalen des Kaiserreiches."/>
+    <string id="dvpbyoAQ" text="Ich habe von Ihnen gehört. Endlich treffen wir uns. Sie klingen wie ein guter {?PLAYER.GENDER}frau{?}mann{\?} zu wissen. Lassen Sie uns von Zeit zu Zeit gemeinsam sprechen."/>
+    <string id="DxuuarNT" text="Ich kenne Ihren Namen - und nach dem, was man über Sie sagt, würde ich sagen, dass auch so manche trauernde Witwe es weiß. Aber das geht mich nichts an."/>
+    <string id="ELtT9ctL" text="Vielleicht kennen Sie das Skolderbroda. Auf dem Schlachtfeld sind wir unübertroffen. Wir erwarten, dass wir nach unserem Wert bezahlt werden, und das ist nicht billig, aber wenn wir Ihre Münze nehmen, haben Sie unseren Eid, die Vertragsbedingungen einzuhalten, wenn nötig bis zu unserem Tod."/>
+    <string id="EXgm5Utx" text="Lang möge {?GENDER}sie{?}er{\?} leben!"/>
+    <string id="eyxfHmCU" text="Ich bin {CONVERSATION_CHARACTER.LINK}, vom {CLAN_NAME}. Unsere Familie hat den Königen der Vlander seit Generationen gedient."/>
+    <string id="f2eZL7w5" text="Ich bin wohl verpflichtet, Ihnen die Chance zu geben, um Ihr Leben zu kriechen. Werden Sie sich also ergeben?[ib:warrior][if:idle_angry]"/>
+    <string id="f3X79aDs" text="Also... ich habe gehört, dass Sie schon ziemlich viel gereist sind. Zweifellos haben Sie schon viele seltsame und schreckliche Dinge gesehen. Vielleicht haben Sie ein paar seltsame und schreckliche Dinge getan. Erzählen Sie mir ein wenig von Ihren Reisen. Ich verspreche, nicht schockiert zu sein."/>
+    <string id="F70rOpkK" text="Hauptmann"/>
+    <string id="Fb7JxGKM" text="Ja... Ich kenne Ihren Namen. Ich weiß Ihren Namen. Ich bin kein Freund von Plaudereien, also überspringen wir die Suppe und gehen direkt zum Fleisch."/>
+    <string id="fbArcLAA" text="Meine Dame, wenn Sie so waffentechnisch geschickt sind, wie Sie schön aussehen, dann sollten Ihre Feinde Sie in der Tat fürchten!"/>
+    <string id="FbstpIYj" text="Sagen Sie nicht, ich hätte Ihnen keine Chance gegeben."/>
+    <string id="FFXqPFwl" text="Ich bin {CONVERSATION_CHARACTER.LINK}, von der {CLAN_NAME}, einer der berühmtesten Familien in den Annalen des vandischen Königreichs."/>
+    <string id="fHFpgitO" text="Es ist schön, Sie kennenzulernen. Denken Sie immer daran, dass Mut zwar lobenswert ist, aber Mitgefühl die größte aller Tugenden ist."/>
+    <string id="FpD4Y9cX" text="Ich danke Ihnen. Ich muss Ihr Feind bleiben, aber ich bin Ihnen trotzdem dankbar.[if:happy][rb:very_positive]"/>
+    <string id="G8ol9sG3" text="Es schmerzt mich, gegen Sie zu kämpfen, aber ich muss es tun. Es sei denn, Ihr wollt Euch ergeben.[ib:warrior][if:idle_angry]"/>
+    <string id="gBRBdsIe" text="Ich bin sicher, dass jemand mit Ihrem Ruf weiß, dass nichts auf dieser Welt so wertvoll ist wie das Gewicht Ihres Wortes. Sprechen Sie ehrlich mit mir, und ich werde dasselbe mit Ihnen tun."/>
+    <string id="gggmhjd7" text="Ich bin mir nicht sicher, ob Sie mir etwas anbieten können, das ich nicht besser einfach nehmen würde."/>
+    <string id="GO47mubj" text="Was genau schlagen Sie vor?"/>
+    <string id="Gp3l5fjI" text="Also, was die Aufgabe angeht, die ich dir gegeben habe... Nun, ich kann nur hoffen, dass Sie es so gut wie möglich versucht haben, und Sie haben es versprochen."/>
+    <string id="gxV3M6HH" text="Natürlich wünsche ich mir {?GENDER}ihre{?}ihm{\?} ein langes Leben und den Sieg über alle {?GENDER}ihre{?}seine{\?} Feinde. Alles andere wäre Verrat, wie Sie sicher wissen."/>
+    <string id="gyCA2mZP" text="Meiner Meinung nach haben wir nichts zu diskutieren."/>
+    <string id="HaHZss32" text="Ich bin {CONVERSATION_CHARACTER.LINK}, ein treuer Diener von {LIEGE_TITLE}."/>
+    <string id="HbVsATfi" text="Ich kenne Ihren Namen. Männer loben Ihren Mut. Aber denken Sie daran, dass Ehre und Mitgefühl auch kultivierenswert sind."/>
+    <string id="heKSWVJk" text="Ich bin wohl verpflichtet, Ihnen die Chance zur Kapitulation zu geben, aber ich hoffe, Sie tun es nicht. Ich bin gespannt, wie gut Ihr Kopf an Ihrem Hals sitzt.[ib:warrior][if:idle_angry]"/>
+    <string id="hIFazIcK" text="So soll es sein!"/>
+    <string id="hQsjeTix" text="Ich ergebe mich! Gewähren Sie mir die Ehre des Krieges, und machen Sie sich selbst Ehre![rf:angry][rb:trivial]"/>
+    <string id="HwhUEZPE" text="Ja... Ich kenne Ihren Namen. Ich habe nichts gegen Sie, mein Freund. Halten Sie sich aus meinen Geschäften raus, dann halte ich mich auch aus Ihren raus."/>
+    <string id="HwsshsMz" text="Ich bin froh, dass wir uns in dieser jüngsten Angelegenheit verständigen konnten."/>
+    <string id="i1RXpQxR" text="Erinnern Sie sich an unser Duell? Es war ein guter Kampf. Aber mit dem Vorteil, den ich jetzt habe, kann ich es mir leider nicht leisten, so sportlich zu sein."/>
+    <string id="iepWkkfA" text="Ihre Lordschaft"/>
+    <string id="ieVRr359" text="Ich erinnere mich an deinen Namen."/>
+    <string id="iM76GPzK" text="Ich werde immer auf eine {?PLAYER.GENDER}frau{?}mann{\?} der Integrität. Andererseits, wenn Ihnen das fehlt, dann plagen Sie mich bitte nicht mit Ihrer Gesellschaft."/>
+    <string id="iOnsulPb" text="Vielleicht haben Sie schon von uns gehört. Die Menschen nennen uns die Glut der Flamme. Vor Generationen hat uns der Himmel angewiesen, uns auf eine große Reinigung des Landes vorzubereiten. Bis zu diesem Tag schwelen wir in der Stille. Aber wenn dieser Tag kommt, wird unser gerechter Zorn weiterbrennen."/>
+    <string id="itfE84jd" text="Sie sind in der Überzahl. Geben Sie auf. Oder lasst es bleiben. Der Tod im Kampf ist eine schöne Sache.[ib:warrior][if:idle_angry]"/>
+    <string id="IuSH0tcp" text="{FIRST_NAME} hat immer ihre Pflicht mir gegenüber erfüllt, und ich beabsichtige, dasselbe zu tun."/>
+    <string id="J0wLOV3u" text="Ich weiß, dass die Aufgabe, die ich Ihnen gestellt habe, nicht einfach war... Nun, sprechen wir nicht mehr davon."/>
+    <string id="JBZcBg9h" text="Es ist schön, Sie zu sehen."/>
+    <string id="JcdmntiC" text="Ah, ja. Nach dem, was man über Sie sagte, hatte ich mir jemanden vorgestellt, dessen Klinge noch vom Blut ihrer Feinde trieft, nicht jemanden mit Ihrer Anmut und Ihrem Charme."/>
+    <string id="JJAWbuNT" text="Ich bin {CONVERSATION_CHARACTER.LINK}, von der {CLAN_NAME}. Man sagt, unser Vorfahre sei unter denen gewesen, die mit den goldenen Schiffen aus dem Westen in dieses Land kamen, in der Zeit der Helden. Wenn Sie natürlich glauben, dass alle, von denen gesagt wurde, dass sie auf diesen Booten waren, auf diesen Booten waren, dann wären sie vor dem Gewicht gekentert."/>
+    <string id="JkHvOVlo" text="Ich werde mir Ihren Namen notieren. Nehmen Sie es mir nicht übel, wenn ich nicht sofort meine Hand in Freundschaft ausstrecke, denn die Welt ist ein tückischer Ort, und ich habe gelernt, vorsichtig zu sein."/>
+    <string id="JNb6l91E" text="Wenn Sie jemals eine Chance auf Ruhm haben wollen, sollten Sie vielleicht in Betracht ziehen, für mich zu kämpfen. Eines Tages können Sie Ihren Enkeln erzählen, dass Sie unter meinem Kommando gedient haben."/>
+    <string id="jr0XszmA" text="Ich kann nicht sagen, dass ich den Namen schon gehört habe, aber es ist gut, Ihre Bekanntschaft zu machen."/>
+    <string id="JS5hKW6p" text="Ich gehöre nicht zu denen, die den Krieg um seiner selbst willen lieben. Aber ich brauche trotzdem zuverlässige Krieger, die zu ihrem Wort stehen. Ich werde all denen die Treue halten, die mir die Treue halten."/>
+    <string id="jxduaTUc" text="Ich habe von Ihnen gehört - der Frau, die weiß, wie man wie ein Mann kämpft."/>
+    <string id="kaEUZ8NA" text="Mein Sohn"/>
+    <string id="kil3bT75" text="Eine Sache sollten Sie wissen: Wenn Sie mir in die Quere kommen, werden Sie es bereuen."/>
+    <string id="kkOYSCSz" text="Mutige Worte sind einfach. Wir werden sehen, was passiert."/>
+    <string id="KkWNSw9p" text="Ich kenne Ihren Namen. Er ruft Angst in den Herzen der Menschen hervor. Das ist gut. Vielleicht sollten wir mal miteinander sprechen."/>
+    <string id="KlQlzYdS" text="Es ist Fortunes Idee eines guten Witzes, alte Freunde zum Kämpfen zu bringen. Sollen wir nach ihrer Pfeife tanzen oder willst du aufgeben? [ib:warrior][if:idle_angry]"/>
+    <string id="KMygMFj2" text="Es ist meine Pflicht, Sie zu bekämpfen"/>
+    <string id="l2nEIZV5" text="Ich bin {CONVERSATION_CHARACTER.LINK}, ein Emir von {LIEGE_TITLE}."/>
+    <string id="L2PFxbD3" text="Also... Vor nicht allzu langer Zeit haben Sie mein Vertrauen missbraucht. Haben wir wirklich etwas zu besprechen?"/>
+    <string id="LBb7YgXU" text="rechtmäßiger Kaiser der Calradier"/>
+    <string id="LbpdzoRd" text="Ich bin {CONVERSATION_CHARACTER.LINK}, aus dem Hause {CLAN_NAME}. Unsere Familie hat seit den ersten Tagen des Kaiserreiches im Senat gestanden und ihre Pflichten ehrenhaft erfüllt."/>
+    <string id="LEZKgNEm" text="Ich habe noch nie von Ihnen gehört. Zweifellos kommt ein weiterer Geier in dieses Land, um an den Resten des Krieges zu ersticken."/>
+    <string id="lI8rPjEd" text="Wofür halten Sie mich? Für einen Verschwörer? Was immer Sie vorschlagen, sollte am besten ehrenhaft sein."/>
+    <string id="LkVCTVMx" text="Ich danke Ihnen für das, was Sie für mich getan haben. Sie haben Ihr Wort gehalten. Nicht jeder ist heutzutage so verlässlich."/>
+    <string id="LYUqmf6P" text="Ich werde Sie hören. Ich gehe davon aus, dass Sie nichts Unehrenhaftes vorschlagen werden."/>
+    <string id="Mlpy0SQo" text="Ich gebe auf! Sie haben gut gekämpft. Es gibt keinen Grund für weiteres Blutvergießen.[rf:angry][rb:trivial]"/>
+    <string id="MSiuWF7V" text="Mehr können wir nicht ertragen! Wir haben das Niveau der Rebellion erhöht und werden die Feinde des Volkes bekämpfen, bis unsere gerechten Forderungen erfüllt sind."/>
+    <string id="MUHdZHFw" text="Ich habe viel über Sie gehört. Man sagt, dass Sie selbst den mutigsten Männern in Ihrer Waffenstärke ebenbürtig sind. Vielleicht werde ich eines Tages meine Tapferkeit gegen Eure versuchen, entweder in einem Turnier oder auf dem Schlachtfeld!"/>
+    <string id="MUuNmr6C" text="Die Chancen stehen heute nicht zu Ihren Gunsten. Sie mögen gegen uns kämpfen, aber es ist auch keine Schande, wenn Sie jetzt nachgeben.[ib:warrior][if:idle_angry]"/>
+    <string id="MzKWlFTv" text="Schade, dass Sie und ich kämpfen müssen. Willst du aufgeben?[ib:warrior][if:idle_angry]"/>
+    <string id="N5pglyyU" text="Ganz wie Sie wollen."/>
+    <string id="NeUilOqh" text="Wir heißen Fremde in unserem Land willkommen. Die Wälder sind weitläufig, und es gibt Wild zu jagen und Nahrung zu sammeln, genug für alle. Aber es gibt einige, die hierher kommen, um uns zu bestehlen, zu versklaven oder zu besteuern. Jeden Frühling werden die Leichen dieser Diebe im Tauwetter entdeckt."/>
+    <string id="nJgp2MoR" text="Ich kenne Ihren Namen - und von dem, was ich höre, garantiere ich, dass auch so manche trauernde Witwe ihn kennt. Aber das geht mich nichts an."/>
+    <string id="NmlauVxB" text="Ja. Geh weiter."/>
+    <string id="Nq2dyiO1" text="Ich bin {CONVERSATION_CHARACTER.LINK}, von dem {CLAN_NAME}, ein Name, den Sie in den Sagen der Sturgier schon oft gehört haben werden."/>
+    <string id="nRnbBnFq" text="Bin ich das? Nun... Ich bin dankbar.[if:happy][rb:very_positive]"/>
+    <string id="NW1n9k45" text="Cousin."/>
+    <string id="O8wTipT2" text="Ich danke Ihnen. Wenn Sie endlich besiegt sind, werde ich Sie bitten, schnell und barmherzig zu sterben. Es sei denn, Sie wollen sich uns anschließen... Auf Wiedersehen, fürs Erste.[if:happy][rb:very_positive]"/>
+    <string id="OgzAlCkk" text="Ich erhole mich immer noch von den blauen Flecken, die Sie mir verpasst haben."/>
+    <string id="oIrz5050" text="Eure Hoheit"/>
+    <string id="oW51mkNE" text="Sie mögen gegen uns kämpfen, aber viele Ihrer Männer werden getötet werden, und Sie werden wahrscheinlich verlieren. Geben Sie nach und ersparen Sie uns beiden unnötiges Blutvergießen.[ib:warrior][if:idle_angry]"/>
+    <string id="PBgLvyOa" text="Ich bin {CONVERSATION_CHARACTER.LINK}, vom {CLAN_NAME}. Unsere Vorfahren gehörten zu denen, die aus dem hohen Norden kamen, um den Denar der Fürsten zu nehmen und einen Eid zu schwören, diese Länder zu verteidigen, und wir haben diesen Eid eingehalten."/>
+    <string id="pDN7Wafo" text="khan der Khuzaits"/>
+    <string id="Pg8vccKF" text="Noch nie von Ihnen gehört. Ich bezweifle, dass Sie mir viel Ärger machen werden."/>
+    <string id="PhTv43ve" text="Ah, ja. Endlich treffen wir uns. Sie klingen wie eine gute Frau, wenn man Sie kennt. Lassen Sie uns von Zeit zu Zeit miteinander sprechen."/>
+    <string id="pn79h0aj" text="Ich bin {CONVERSATION_CHARACTER.LINK}, vom {CLAN_NAME}. Wir haben unseren Titel vom Kaiser Vortios selbst erhalten. Nicht, dass er eine große Wahl gehabt hätte, da er damals in einem unserer Überfallschiffe gefangen gehalten wurde, aber ich bin sicher, dass er den Edelmut unseres Blutes erkannt hat."/>
+    <string id="pQkiu5qf" text="Möchten Sie, dass ich Ihnen eine weitere Aufgabe gebe, damit Sie mich wieder verraten können?"/>
+    <string id="pXULuzaq" text="Ich ergebe mich! Sie haben gewonnen. Verflucht sei dieser Tag![rf:angry][rb:trivial]"/>
+    <string id="pZj9C1yA" text="Der Himmel wird geschehen. Aber diejenigen, die den Weg ebnen, sollen belohnt werden."/>
+    <string id="q5nQGimE" text="Ich bin {CONVERSATION_CHARACTER.LINK}, aus dem Hause {CLAN_NAME}. Obwohl man auf seine Abstammung nicht allzu stolz sein sollte, bin ich froh, sagen zu können, dass wir unsere Pflicht, das gemeine Volk des Kaiserreiches zu schützen, immer ernst genommen haben."/>
+    <string id="qB3wfM1f" text="Ich freue mich, dass Sie und ich vorhin eine Einigung erzielen konnten."/>
+    <string id="Qb4tlTEj" text="Aber genug geredet. Geben Sie auf oder kämpfen Sie![ib:warrior][if:idle_angry]"/>
+    <string id="QhkM71ap" text="Es ist mir eine Ehre, Sie kennenzulernen, guter Mann."/>
+    <string id="QpBmbygb" text="Vielleicht haben Sie schon von uns gehört - den Eleftheroi. Unsere Väter waren Diebe und Ausreißer und Unruhestifter - wir werden es nicht leugnen. Wir kamen hierher, weil sie uns nirgendwo anders haben wollten. Aber ich sage Ihnen eines: Wenn das Reich überlebt, dann nur dank Männern wie uns, die hier draußen auf den wilden Feldern die harte, blutige Arbeit verrichten, und nicht dank derer, die bequem in ihren Betten schlafen."/>
+    <string id="qSF2z6Wa" text="Ich habe nicht von Ihnen gehört, aber Sie sehen aus wie ein{?PLAYER.GENDER}frau{?}mann{\?} die vielleicht etwas aus {?PLAYER.GENDER}selbst{?}selbst{\?}, eines Tages."/>
+    <string id="qvwfev22" text="Ich habe Sie in die Enge getrieben. Geben Sie nach oder sterben Sie.[ib:warrior][if:idle_angry]"/>
+    <string id="R6sTYEaz" text="Man kann sich da nicht herausreden."/>
+    <string id="RajD4RC1" text="Ich habe noch nie von Ihnen gehört."/>
+    <string id="rCNUXFTN" text="Ich ergebe mich! Herzlichen Glückwunsch zu Ihrem Sieg.[rf:angry][rb:trivial]"/>
+    <string id="reg1AUxr" text="Mein Kind"/>
+    <string id="rhTUDKhJ" text="Ich bin {CONVERSATION_CHARACTER.LINK}, von der {CLAN_NAME}. Es gibt keinen Clan der Battanier, der nicht den Schädel eines ihrer Champions zu unserer Sammlung von Trinkbechern beigesteuert hat."/>
+    <string id="RNZ9LOxc" text="Mein Freund"/>
+    <string id="rPrBa7gK" text="Mein Ehemann"/>
+    <string id="rUzbs0Zr" text="khatun der Khuzaits"/>
+    <string id="ry1ycxNY" text="Ich wünschte, es wäre nicht so weit gekommen."/>
+    <string id="s1FVPS5D" text="Ich bin {CONVERSATION_CHARACTER.LINK}, aus dem Hause {CLAN_NAME}. Unsere Familie hat dem Kaiserreich seit Generationen gedient."/>
+    <string id="S1vGzr8z" text="Ich bin {CONVERSATION_CHARACTER.LINK}vom {CLAN_NAME}ein Clan des Aserai."/>
+    <string id="sax2tF9L" text="Sie sind in der Tat ein {?PLAYER.GENDER}frau{?}mann{\?} der Ehre, {?PLAYER.GENDER}madame{?}sir{\?}. Ich werde das nicht vergessen.![if:happy][rb:very_positive]"/>
+    <string id="SJ3bpDxC" text="Ich erkenne Ihre Fahne nicht, aber Sie sind eindeutig eine Dame von Rang. Bitte betrachten Sie mich als Ihren bescheidensten Diener."/>
+    <string id="sJNrVlXa" text="Ich habe gehört, Sie kommen viel herum... Also... Erzählen Sie mir ein wenig von Ihren Reisen."/>
+    <string id="SSuL62NZ" text="Ich bin {FIRST_NAME} treu. Niemand sagt besser etwas anderes."/>
+    <string id="sswCmQZ2" text="Sie nennen uns die Seeratten, aber wir ziehen es vor, als das freie Volk der Sümpfe bekannt zu sein. Kein Prinz oder Bojar kann uns zwingen, den Kopf zu beugen und uns die Knie zu kratzen. Wenn man das weiß, können wir wahrscheinlich gut miteinander auskommen."/>
+    <string id="t6sRVI5C" text="Meine Ehefrau"/>
+    <string id="tA4wDLt2" text="Ich werde meine Schreiber Ihren Namen aufschreiben lassen."/>
+    <string id="te2DSMtg" text="Das lassen wir uns nicht mehr gefallen. Wir werden das Blut der Unterdrücker und aller, die sich unserem gerechten Zorn in den Weg stellen, vergießen."/>
+    <string id="tOanKs9o" text="Ich bin {LIEGE_TITLE}."/>
+    <string id="tUa5WBpp" text="rechtmäßige Kaiserin der Calradier"/>
+    <string id="TUwY7IKc" text="Also... Du hast mich wirklich reingelegt. Ich bin nicht sicher, ob wir jetzt oder danach noch viel zu besprechen haben."/>
+    <string id="Tvy4UvJC" text="könig der Vlandianer"/>
+    <string id="TzPC5L5X" text="Ich bin immer auf der Suche nach guten Kämpfern. Wenn Sie sich nach mir erkundigen, vermute ich, dass man Ihnen sagen wird, dass ich mich gut um meine Männer kümmere."/>
+    <string id="U4p70l9B" text="Ich bin {CONVERSATION_CHARACTER.LINK}, ein Häuptling der Khuzaits."/>
+    <string id="U770Bvy8" text="Ich bin {CONVERSATION_CHARACTER.LINK}, von der {CLAN_NAME}. Der Ruhm unserer Familie ist unübertroffen in den Liedern der Battanier."/>
+    <string id="U9u8Qeu4" text="Vielleicht haben Sie schon von den Wolfskins gehört, Reisender. Wir sind Bestien. Wisse, dass wir, solange wir kein gekochtes Fleisch essen, keine gewebten Tücher tragen und unter keinem Dach schlafen, von den Gesetzen der Menschen nicht berührt werden können. Also sei vorsichtig mit uns."/>
+    <string id="Ua0T0A7t" text="Ich bin {CONVERSATION_CHARACTER.LINK}, von der {CLAN_NAME}, einer der alten Linien der Battanier."/>
+    <string id="UB4sqrWx" text="Mutter"/>
+    <string id="ufa20b2l" text="Ich werde mich mit denen befassen, die ihren Eid einhalten. Wenn Sie zu denjenigen gehören, die ihr Wort nicht schätzen, verschwenden Sie nicht meine Zeit."/>
+    <string id="Ufn3916B" text="Ich habe von Ihnen gehört. Jetzt treffen wir uns also. Ich bin kein großer Redner, wenn Sie mir also etwas zu sagen haben, dann sagen Sie es."/>
+    <string id="v4nyY62z" text="königin der Sturgians"/>
+    <string id="vN4spwD1" text="Seien Sie sich bewusst, dass Sie, wenn Sie mir jemals in die Quere kommen, als Futter für die Schakale enden werden."/>
+    <string id="vNnMHR84" text="Sie machen sich selbst Ehre, {?PLAYER.GENDER}madame{?}sir{\?}. Ich werde das nicht vergessen.[if:happy][rb:very_positive]"/>
+    <string id="VOExVZtX" text="Es tut mir leid. Ich genieße kein Blutvergießen, aber ich kann Sie nicht wegreiten lassen, um einen weiteren Tag zu kämpfen."/>
+    <string id="VUn8mQ5n" text="hochkönig der Battanier"/>
+    <string id="w7EY8rbd" text="Lassen Sie uns das Thema wechseln."/>
+    <string id="WbAAkcbw" text="Es ist eine Ehre, dich kennenzulernen, meine Dame."/>
+    <string id="WFwoWAic" text="Ich gebe auf! Ich gebe auf! Rufen Sie Ihre Hunde zurück![rf:angry][rb:trivial]"/>
+    <string id="WH8P3Y5F" text="Ich bin {CONVERSATION_CHARACTER.LINK}, ein treuer Vasall von {LIEGE_TITLE}."/>
+    <string id="wrIYDx9V" text="Bin ich frei? Nun... Dann auf Wiedersehen.[if:happy][rb:very_positive]"/>
+    <string id="Wt4iJPcd" text="Ich habe von Ihnen gehört! Es ist sehr gut, endlich Ihre Bekanntschaft zu machen."/>
+    <string id="WVeS3Lsb" text="Sucht nicht die Dinge dieser Welt, sondern dürstet nach der göttlichen Wahrheit."/>
+    <string id="wWwoTzpG" text="Bruder"/>
+    <string id="XBbdhx4M" text="Nochmals, ich freue mich über Ihre Unterstützung."/>
+    <string id="xH4KJEBP" text="Ich habe es geschworen {?GENDER}ihre{?}seine{\?} Dienst. Das ist alles, was es zu sagen gibt."/>
+    <string id="xHjVl9gR" text="Ich habe von Ihnen gehört. Endlich treffen wir uns. Sie klingen wie ein guter {?PLAYER.GENDER}frau{?}mann{\?} zu wissen. Lassen Sie uns von Zeit zu Zeit gemeinsam sprechen. Vielleicht können wir Vereinbarungen finden, die für uns beide von Nutzen sind."/>
+    <string id="xJ1LJ3mH" text="Wir sind Ihnen ausgeliefert.[rf:angry][rb:trivial]"/>
+    <string id="Xk2rNuxQ" text="sultan der Aserbaidschaner"/>
+    <string id="Xl25HtPL" text="Es ist gut, seinen Namen zu kennen. Wenn ich dich bei einem Festessen sehe, weiß ich, wie ich dich grüßen kann, und wenn ich dich in einem Schildwall sehe, weiß ich, wen ich töte."/>
+    <string id="xnR3sXJP" text="{PLAYER.NAME}"/>
+    <string id="xsaOxeHV" text="Ich habe viel über Sie gehört. Manche Männer mögen eine Frau fürchten, die sich in der Kriegskunst auskennt, aber ich für meinen Teil werde Hände, die ein Schwert ergreifen können, nicht abweisen, wenn ihr Besitzer tapfer und loyal ist."/>
+    <string id="xUOhJEJS" text="Es ist schön, Sie kennenzulernen. Ich bin immer auf der Suche nach Kriegern, die Mut, Ruhm und einen guten Namen schätzen."/>
+    <string id="Y8rYJaOa" text="Ich bin {CONVERSATION_CHARACTER.LINK}, aus dem Hause {CLAN_NAME}, einer der berühmtesten Familien in den Annalen des Kaiserreiches. Die Barbaren, die wir getötet haben, und der Ruhm, den wir erlangt haben, ist unübertroffen."/>
+    <string id="YayEAKaI" text="Vielleicht haben Sie noch nie von den Jawwal gehört. Nun, wenn Sie die Wüste durchqueren, fernab von Oase und Quelle, in einem Land, das andere verachten, mit Dornen, die nur für Ziegen und Kamele geeignet sind, dann sind Sie in unserer Domäne."/>
+    <string id="YDjLPgi3" text="Hm. Sie haben mein Interesse geweckt. Was haben Sie dazu zu sagen?"/>
+    <string id="ygP56lXC" text="Der Himmel hat uns mit seinen Geboten gesegnet, die wir einhalten und dafür sorgen müssen, dass andere sich daran halten."/>
+    <string id="yRlINUML" text="Hah! Ich werde dich um Gnade betteln sehen."/>
+    <string id="YWOSDu1W" text="Genug! Ich entscheide mich dafür, zu leben, um an einem anderen Tag zu kämpfen. Ich vertraue darauf, dass Sie die Sitte des Krieges respektieren und mir erlauben, ein angemessenes Lösegeld zu zahlen.[rf:wütend][rb:trivial]"/>
+    <string id="z1s1qOma" text="Ich glaube, ich weiß, was Sie sagen. Die Ehre verbietet es mir, es überhaupt in Betracht zu ziehen."/>
+    <string id="z2yr4mc6" text="Ich bin {CONVERSATION_CHARACTER.LINK}, von der {CLAN_NAME}. Unser Clan hat dem Khuzait-Khanat seit Generationen treu gedient."/>
+    <string id="ZH04pkV6" text="könig der Sturgians"/>
+    <string id="ZlA0uc8z" text="Ich danke Ihnen nochmals, dass Sie die Aufgabe, die ich Ihnen gestellt habe, übernommen haben."/>
+    <string id="zPbQs8Zt" text="Ich kann Ihnen einen glorreichen Tod in der Schlacht oder die Gastfreundschaft meiner Kerker anbieten.[ib:warrior][if:idle_angry]"/>
+    <string id="zwRbpQJ0" text="Ich habe von Ihnen gehört! Schade, dass wir uns auf diese Weise begegnen."/>
+    <string id="zZ9FQJRI" text="Ich bin {CONVERSATION_CHARACTER.LINK}, von der {CLAN_NAME}, der ältesten und edelsten der Aserai-Linien."/>
+  </strings>
+</base>

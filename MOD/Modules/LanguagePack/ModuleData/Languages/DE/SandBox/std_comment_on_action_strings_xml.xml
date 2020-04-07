@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="00fZGqbJ" text="Ein harter Tag, {ENEMY_SETTLEMENT} einzunehmen. Aber das war es wert."/>
+    <string id="2AsFNABs" text="Jedes Mal wenn wir eine Gruppe dieser Banditen erwische, denke ich, das hätte ich sein können, wenn das Schicksal nur ein wenig anders gelaufen wäre."/>
+    <string id="2R19RV70" text="Ich hörte, Ihr nahmt {SETTLEMENT_NAME} ein."/>
+    <string id="2zjTq6N8" text="Wie ich höre, habt Ihr {DEFEATED_LEADER_RELATIONSHIP} im Kampf besiegt. Ich werde nicht so tun als ob ich sehr getrauert hätte, als ich diese hörte."/>
+    <string id="3CKuk4Nj" text="Ich hörte Ihr habt die Treue zu {FIRST_NAME} aufgegeben. Lasst uns beten, dass es nicht zu einen Kampf kommt."/>
+    <string id="3vO2C8hO" text="Mein Freund, ich werde nie vergessen, wie wir unser letztes Schlachtfeld mit dem Blut von {DEFEATED_PARTY_LEADER} Männern getränkt haben. Ich hoffe Euer Hunger ist nicht gestillt."/>
+    <string id="6KMf8lNE" text="Ich erinnere mich an unseren Sieg über {DEFEATED_PARTY_LEADER}. Ich werde Eure Tapferkeit in dieser Schlacht nicht vergessen."/>
+    <string id="7vcCSGEN" text="Ich habe gehört, dass Ihr {DEFEATED_PARTY_LEADER} besiegt habt, obwohl er die Überzahl hatte. Sehr beeindruckend."/>
+    <string id="8qkWFWTa" text="Als wir uns das letzte Mal trafen, {PLAYER.LINK}, hattet Ihr die Oberhand. Wenn wir uns jemals wieder in der Schlacht treffen, wird es vielleicht anders laufen."/>
+    <string id="952DmRsV" text="Ich habe gehört, dass Ihr unserem Herrn {FIRST_NAME} die Treue geschworen habt. Nun, ich kann nicht behaupten, dass ich Euch vertraut hätte, aber vielleicht habt Ihr den Vorteil des Zweifels verdient."/>
+    <string id="9DDmAvXD" text="Anscheinend glaubt meine Familie, dass wir gut zusammenpassen würden."/>
+    <string id="9HvWdW77" text="Wie ich hörte, habt Ihr versucht, die Lorbeeren für unseren Sieg über {DEFEATED_PARTY_LEADER} zu ernten. Auch Ich war auf dem Schlachtfeld, wie Ihr euch vielleicht erinnert."/>
+    <string id="9VBbSF33" text="Ich erinnere mich an unsere letzte Schlacht. Ihr solltet es besser wissen, als mir noch einmal über den Weg zu laufen."/>
+    <string id="A7iiTdng" text="Ich hörte, dass {ENEMY_TERM} Euch geschlagen hat, aber Ihr habt einen guten Kampf gezeigt."/>
+    <string id="A7nmHKBr" text="Wie ich hörte, habt Ihr {SETTLEMENT_NAME} eingenommen. Ich hoffe, dass kostete nicht zu viele leben.."/>
+    <string id="al0vHv5D" text="Ich habe {SIDE2TROOP} beleidigt."/>
+    <string id="ALIAwlgz" text="Ich hörte Ihr kämpftet gegen {DEFEATED_PARTY_LEADER} und trugt den Sieg davon. Ich wünsche Euch Freude an eurem Sieg, mein Freund!"/>
+    <string id="alO2F63A" text="Ich hörte, Ihr habt tapfer gegen {VICTORIOUS_PARTY_LEADER} gekämpft und liest {ENEMY_TERM} für ihren Sieg schwer bezahlen. Ich begrüße Euren Mut und das Opfer Eurer Männer."/>
+    <string id="AtbVSdJi" text="Ich habe gehört, dass Sie unserem Herrn {FIRST_NAME} die Treue geschworen haben. Zweifellos werden Sie ihn bald verraten, und ich werde das Vergnügen haben, Sie als Verräter sterben zu sehen."/>
+    <string id="B8Kb89jk" text="Dieser Kampf gegen den {ENEMY_TERM}. Sie haben versagt, und wir beide haben den Preis dafür bezahlt."/>
+    <string id="bb8AxGwc" text="Ich habe gehört, dass Sie gekämpft und {DEFEATED_PARTY_LEADER} besiegt haben. Ein gut getroffener Schlag!"/>
+    <string id="BCNRS2ml" text="Wie ich höre, haben Sie {DEFEATED_LEADER_RELATIONSHIP} im Kampf besiegt. Nun, ich wusste immer, dass Sie ein gefährlicher Feind sein würden."/>
+    <string id="bI2XZrAk" text="Ich habe gehört, Sie haben sich mit {VICTORIOUS_PARTY_LEADER} geprügelt, und er hat Ihnen die Prügel verpasst, die Sie verdient haben."/>
+    <string id="bOKqn4dN" text="Verschonen Sie das nächste Mal meine Karawane und finden Sie den Mut, mich direkt anzugreifen."/>
+    <string id="BYZXoAly" text="Ich erinnere mich an unseren Sieg über {DEFEATED_PARTY_LEADER}. Ich bin dankbar für die Hilfe. Aber wenn Sie glauben, dass Sie diesen Gefallen einfordern können, dann irren Sie sich."/>
+    <string id="C6iJs2Ih" text="Also... Sie haben geheiratet {FIRST_NAME}. Zweifellos werden Sie beide sehr glücklich sein."/>
+    <string id="CfYJZXok" text="Sie rebellierten gegen {FIRST_NAME}. Hören Sie, ich kenne Sie gut. Ich bin sicher, Sie hatten Ihre Gründe. Aber das hätten Sie nicht tun sollen."/>
+    <string id="cQbIMImo" text="Ich werde unseren Sieg über {DEFEATED_PARTY_LEADER} nicht vergessen."/>
+    <string id="CwJonOjV" text="Sie sind ein Rebell und ein Verräter, {PLAYER.LINK}, aber irgendwie kann ich mich immer noch nicht dazu bringen, Sie zu hassen."/>
+    <string id="cWRudt73" text="Ich habe gehört, dass Sie unserem Herrn {FIRST_NAME} die Treue geschworen haben. Kämpfen Sie gegen unsere Feinde mit Tapferkeit, aber auch mit Ehre und Mitgefühl. Ein guter Name ist so wertvoll wie ein scharfes Schwert oder ein schnelles Pferd in Waffenangelegenheiten."/>
+    <string id="DcRDdH6d" text="Wie ich höre, hat {VICTORIOUS_PARTY_LEADER} Sie überfahren und Ihnen die Prügel verpasst, die Sie verdienen."/>
+    <string id="ddUxQwOX" text="Ich habe gehört, dass Sie {DEFEATED_PARTY_LEADER} besiegt haben, obwohl er Sie in der Überzahl hatte. Ich grüße Sie, Madame. Sir!"/>
+    <string id="dJMfIABx" text="Wie ich höre, haben Sie unseren Feind {DEFEATED_PARTY_LEADER} im Kampf besiegt."/>
+    <string id="dkuhmSPi" text="Also! Was für eine Hochzeit... Ich freue mich auf ein glückliches Eheleben mit Ihnen."/>
+    <string id="dlfG8Bdx" text="{SIDE1TROOP} und {SIDE2TROOP} stritten sich über ihre Liebe zu {SUBJECT}."/>
+    <string id="dNNcebar" text="Vielleicht bedauern Sie jetzt also den Verzicht auf Ihre Loyalität zu {FIRST_NAME}?"/>
+    <string id="dpaagbUb" text="Also kam {DEFEATED_PARTY_LEADER} mit einem großen Gastgeber auf Sie zu und Sie haben ihn trotzdem ausgepeitscht. Heh. Gute Arbeit."/>
+    <string id="dtaIcOa0" text="Sie haben das letzte Mal, als wir gekämpft haben, gewonnen. Ich freue mich auf die Chance, das Ergebnis auszugleichen."/>
+    <string id="DzpcTVWI" text="Ich habe gehört, dass Sie unserem Herrn {FIRST_NAME} die Treue geschworen haben. Ich freue mich darauf, an Ihrer Seite gegen unsere Feinde zu kämpfen."/>
+    <string id="e0WSVhxu" text="Wie ich höre, werden Sie uns im Dienste von {FIRST_NAME} begleiten. Nun... Tun Sie sich selbst einen Gefallen und bleiben Sie mir aus dem Weg."/>
+    <string id="e5viS3jv" text="{SIDE1TROOP} hat mich beleidigt."/>
+    <string id="e8Lec4g2" text="Ich habe gehört, dass Sie unserem Herrn {FIRST_NAME} die Treue geschworen haben. Ich gebe nicht vor, über seine Entscheidung glücklich zu sein, aber vielleicht ist es besser, Sie in unserem Zelt zu haben, damit Sie sich verpissen können, als umgekehrt."/>
+    <string id="eMlj4eRa" text="Ich habe gehört, dass Sie unserem Herrn die Treue geschworen haben, {FIRST_NAME}. Gut {?PLAYER.GENDER}Frau{?}Mann{\?}! Unser Herr ist eine edle Seele und belohnt Loyalität und Tapferkeit mit Freundlichkeit und Großzügigkeit."/>
+    <string id="f0TZ7BRb" text="Wie ich höre, haben Sie {DEFEATED_LEADER_RELATIONSHIP} im Kampf besiegt."/>
+    <string id="fjthM3fE" text="Ich habe gehört, dass Sie unserem Herrn {FIRST_NAME} die Treue geschworen haben. Ausgezeichnet... Ich bin sicher, dass Sie und ich sehr gute Freunde werden. Aber denken Sie daran - wenn Sie uns verraten, wird das der größte Fehler sein, den Sie je machen werden."/>
+    <string id="FxTlch69" text="Sie müssen mich für einen wahrhaft wehmütigen Mann halten, der meine Karawanen überfällt, und erwarten, dass ich das nicht merke. Ich gehe davon aus, dass Ihre Handlungen als Kompliment gemeint waren und dass Sie andere Einnahmequellen finden werden."/>
+    <string id="g3a9dmzu" text="Diese Banditen machen uns nie viel Ärger, aber ich nehme an, es ist eine gute Praxis."/>
+    <string id="gaHeS3qu" text="Ich werde unseren Sieg über {DEFEATED_PARTY_LEADER} nicht vergessen. Lasst uns noch einmal dem Himmel danken und beten, dass wir nicht zu stolz werden."/>
+    <string id="gQcyHNVT" text="Wie ich höre, haben Sie die Festung {SETTLEMENT_NAME} eingenommen. Zweifellos habt Ihr einen Verräter gefunden, der Euch durch die Tore lässt."/>
+    <string id="GXR9KGBn" text="Solche Banditen zu jagen... Ich nehme an, es muss getan werden."/>
+    <string id="H1t6YIMv" text="Ich werde die Erinnerung an unseren Kampf gegen {DEFEATED_PARTY_LEADER} immer in Ehren halten. Mögen alle unsere Schlachten gleichermaßen glorreich sein."/>
+    <string id="hjcjbEYn" text="Wie ich höre, haben Sie {SETTLEMENT_NAME} angenommen. Ich hoffe, du hast sie bluten lassen für das, was sie uns angetan haben."/>
+    <string id="hl1AFy3m" text="Ich höre, Sie haben {DEFEATED_LEADER_RELATIONSHIP} besiegt. Hah! Es hätte mich amüsiert, wenn ich gesehen hätte. {?GENDER}sie{?}ihn{\?} kauern vor Ihnen."/>
+    <string id="iEaXFpUF" text="Ich weiß nicht, mit welchem Verrat Sie {DEFEATED_LEADER_RELATIONSHIP} besiegt haben, aber gegen mich wird das nicht funktionieren."/>
+    <string id="ifNalTNK" text="Nun, das ist eine Gruppe von Banditen weniger, die Reisende ausbeuten. Aber es werden mehr sein. Es gibt immer mehr."/>
+    <string id="iNYL0cJ5" text="Wie ich höre, haben Sie {SETTLEMENT_NAME} genommen. Gute Arbeit."/>
+    <string id="JCzju3in" text="Ich habe gehört, dass der {ENEMY_TERM} Sie geschlagen hat, aber es hat sie viele Männer gekostet. Gut."/>
+    <string id="jH77WXL2" text="Es wird viel über Sie gesprochen - wie Sie {DEFEATED_PARTY_LEADER} geschlagen haben, obwohl Sie in der Unterzahl waren. Ist das wirklich passiert? Irgendwie bezweifle ich das."/>
+    <string id="jhnPucu3" text="Also... Wir beide umwerben die Messe {FIRST_NAME}."/>
+    <string id="JNub3xzU" text="Es war schwer, gegen den {ENEMY_TERM} dorthin zurückzukehren. Ich bin froh, dass wir es alle lebendig überstanden haben."/>
+    <string id="jqOmOSQZ" text="Zwischen Krieg und Tod hält allein der Handel dieses große Land zusammen. Wenn Sie darauf bestehen, meine Karawanen zu überfallen und den Wohlstand dieser Welt weiter zu untergraben, dann muss ich Sie besiegen."/>
+    <string id="k4MKDRJH" text="Sie haben {SETTLEMENT_NAME} genommen. So soll es sein. Ich hätte an Ihrer Stelle dasselbe getan. Aber ich werde es wieder aufnehmen."/>
+    <string id="keJgUALH" text="Nun... Ich kann viele Dinge verzeihen, aber es ist schwer, Verrat zu verzeihen."/>
+    <string id="Kf45xPSd" text="Sie haben vielleicht bei unserem letzten Treffen gewonnen, aber das wird nicht mehr passieren."/>
+    <string id="kWGF47Mc" text="Sie haben unsere letzte Schlacht gewonnen. Das wird nicht wieder passieren."/>
+    <string id="LaBhR4Vm" text="Ich habe gehört, dass {VICTORIOUS_PARTY_LEADER} Sie besiegt hat. Fürchtet euch nicht, wir werden sie doppelt zurückgeben."/>
+    <string id="LaPJJMCD" text="Ich habe gehört, dass Sie gekämpft und {DEFEATED_PARTY_LEADER} besiegt haben. Jeder Hund hat seinen Tag, nehme ich an."/>
+    <string id="lMFCQOJL" text="Sie haben rebelliert und Ihren Treueeid mir gegenüber gebrochen, {PLAYER.LINK}. Erwarte keine Gnade."/>
+    <string id="lsgsuRva" text="Ich habe gehört, dass Sie Ihre Treue zu {FIRST_NAME} aufgegeben haben. Nun, wir sind ohne Sie besser dran."/>
+    <string id="LXMcIObA" text="Meine Bauern erzählen mir, dass ein Mann mit Ihrer Beschreibung ihre Waren und Münzen geplündert hat. Ich sollte wohl dankbar sein, dass Sie die Gebäude nicht niedergebrannt haben."/>
+    <string id="lzQYayR0" text="Ich erinnere mich an unsere letzte Schlacht. Es war ein guter Kampf. Sind Sie für einen weiteren gekommen?"/>
+    <string id="M43kLIaa" text="Wir haben vielleicht gemeinsam gegen {DEFEATED_PARTY_LEADER} gekämpft, aber selbst das kann nicht alles andere ausgleichen, was Sie getan haben."/>
+    <string id="mabEK2R8" text="Wie ich höre, haben Sie kürzlich einige Banditen gefangen. Als Händler sind wir dankbar für alle Bemühungen, die Straßen sicherer zu machen."/>
+    <string id="mwF92doJ" text="Ich erinnere mich an unsere letzte Schlacht. Es war ein guter Kampf."/>
+    <string id="n0SpScdp" text="Sie sind also offenbar ein schwer zu schluckender Bissen. Wie ich höre, hat {VICTORIOUS_PARTY_LEADER} viel Blut bezahlt, um Sie zu besiegen."/>
+    <string id="ndagvVPz" text="Wie ich höre, haben Sie {DEFEATED_LEADER_RELATIONSHIP} im Kampf besiegt. Aber glauben Sie nicht, dass ich so leicht auf Ihre Tricks hereinfalle."/>
+    <string id="ndQo81VN" text="Ich habe gehört, dass Sie unserem Herrn {FIRST_NAME} die Treue geschworen haben. Das ist gut. Je mehr fähige Kämpfer wir in diesen unruhigen Zeiten bei uns haben, desto besser. Ich werde Ihre Fortschritte beobachten."/>
+    <string id="Nnqgix3X" text="Ich freue mich, dass Sie sich gut um Ihre Männer kümmern."/>
+    <string id="O0acjJR9" text="Ich habe gehört, dass Sie unserem Herrn {FIRST_NAME} die Treue geschworen haben. Leider befürchte ich, dass Sie uns Schande bringen werden, aber ich bin froh, wenn Sie mir das Gegenteil beweisen."/>
+    <string id="obydBl7I" text="Ich habe gehört, dass Sie {DEFEATED_PARTY_LEADER}... Das ist gut."/>
+    <string id="Pf44U15I" text="Ich habe gehört, dass Sie unserem Herrn {FIRST_NAME} die Treue geschworen haben. Bitte machen Sie uns keine Schande, indem Sie sich feige verhalten."/>
+    <string id="pJtkSopk" text="Wie ich höre, haben Sie {DEFEATED_LEADER_RELATIONSHIP} im Kampf besiegt. Ich bin hier, um die Rechnung auszugleichen."/>
+    <string id="pT6QqtTB" text="Ich habe gehört, dass Sie {SETTLEMENT_NAME} belagert und eingenommen haben."/>
+    <string id="PzBfkDIF" text="Sie haben eine Karawane unter meinem Schutz geplündert. Sehen Sie, es ist Krieg, wir alle tun Dinge... Aber war das wirklich nötig?"/>
+    <string id="Q5eT72ba" text="Ihre Rebellion gegen {FIRST_NAME} macht uns zu Feinden. Aber um ehrlich zu sein, ziehe ich es vor, die Dinge auf diese Weise zu regeln. Besser, die Schlange vor dem Zelt zu haben als in Ihrem Zelt, meinen Sie nicht auch?"/>
+    <string id="q5SZRgUR" text="Ich habe gehört, dass Sie sich mit {VICTORIOUS_PARTY_LEADER} geprügelt haben, und Sie wurden vom Feld vertrieben."/>
+    <string id="QbXjHb7y" text="Sie haben bei unserem letzten Treffen gewonnen. Ich hoffe, Sie haben Ihren kleinen Sieg genossen. Sie werden keinen weiteren haben. Ihre Tricks werden nicht zweimal funktionieren."/>
+    <string id="qEZR7adT" text="Ich kann nicht untätig bleiben, während Sie meine Handelswege unterbrechen und meine Karawanen überfallen, Sie müssen vor Gericht gestellt werden."/>
+    <string id="QXrxVZHJ" text="Ich hörte du hast {DEFEATED_LEADER_RELATIONSHIP} besiegt. Nun, Ich werde nicht {?GENDER}her{?}his{\?} Führungsfähigkeit in Frage stellen, aber ich denke nicht dass es schwierig gewesen ist."/>
+    <string id="r7yWwaY3" text="Wie ich höre, haben Sie tapfer gegen {VICTORIOUS_PARTY_LEADER} gekämpft, bis Sie schließlich von Überzahl überwältigt wurden."/>
+    <string id="RGNIuSCM" text="Wie ich höre, haben Sie {DEFEATED_LEADER_RELATIONSHIP} im Kampf besiegt. Ich schätze einen würdigen Gegner."/>
+    <string id="rINfrA70" text="Sie rebellierten gegen {FIRST_NAME}. Nun erwarten Sie die Strafe, die Verrätern gebührt."/>
+    <string id="rlLqbDCQ" text="Sie haben mich eine große Summe an Münzen gekostet, als Sie meine Karawane überfallen haben. Ich frage mich, ob ich sie durch den Verkauf Ihrer Organe zurückgewinnen könnte."/>
+    <string id="S28aK0oF" text="Ich bitte Sie um Ihrer Ehre willen, dass Sie nicht mehr meine Karawanen überfallen."/>
+    <string id="SCvFN6Ap" text="Ihre Rebellion gegen {FIRST_NAME} war ein Akt des Verrats."/>
+    <string id="SM16wIcc" text="Also kreuzten Sie die Schwerter mit diesem Schurken, den sie {DEFEATED_PARTY_LEADER} nennen, und gingen als Sieger hervor. Gute Arbeit."/>
+    <string id="SoCaUHhH" text="Es gibt etwas, über das ich nicht schweigen kann... Sie haben Ihr Wort gegenüber {COMMENT_REFERENCE_HERO} gebrochen. Das ist für mich schwer zu akzeptieren."/>
+    <string id="tciR9VSr" text="Ich hörte du hast gegen {DEFEATED_LEADER} gekämpft und hast gewonnen. {?GENDER}Her{?}His{\?} Fehler kostet und das Leben vieler Tapferer Männer."/>
+    <string id="tMET9a0Q" text="Wie ich sehe, haben Sie sich an einer meiner Karawanen bedient... Ich bin nicht nett zu Dieben. Vielleicht nehme ich als Entschädigung Eure Hände und Augen."/>
+    <string id="ucKrwFCj" text="Ich habe gehört, dass Sie Ihre Treue zu {FIRST_NAME} aufgegeben haben. Nun, das ist Ihre Entscheidung."/>
+    <string id="udMxMICB" text="Wie ich höre, haben Sie eine Karawane unter meinem Schutz geplündert. Ich gehe davon aus, dass das ein Missverständnis war."/>
+    <string id="UKTXefOD" text="Ich habe gehört, dass Sie unserem Herrn {FIRST_NAME} die Treue geschworen haben. Kämpfen Sie hart gegen unsere Feinde, respektieren Sie Ihre Besseren und ärgern Sie mich nicht, und wir werden gut miteinander auskommen."/>
+    <string id="VcXpFIrT" text="Erinnern Sie sich, wie wir {DEFEATED_PARTY_LEADER} ausgepeitscht und aus seinen Männern ein Krähenfest gemacht haben? Das ist eine süße Erinnerung."/>
+    <string id="VSyOVMge" text="Anstatt Sie als Verräter zu brandmarken, nehme ich an, dass Sie zu niederträchtig und dumm waren, um zu erkennen, dass es MEINE Karawane war, die Sie angriff, und nicht ein Feind."/>
+    <string id="vxkoCCuc" text="Wie ich höre, werden Sie uns im Dienste von {FIRST_NAME}"/>
+    <string id="W3F2HgTN" text="Wie ich höre, haben Sie die Festung {SETTLEMENT_NAME} eingenommen. Ein gut getroffener Schlag!"/>
+    <string id="WROObSl4" text="{SIDE1TROOP} beleidigt {SIDE2TROOP}."/>
+    <string id="WZ2K83Z4" text="Sie haben rebelliert und Ihren Treueeid mir gegenüber gebrochen, {PLAYER.LINK}, aber jetzt hat der Himmel Sie an mich ausgeliefert."/>
+    <string id="WzMjUSGv" text="Ich höre, Sie haben {DEFEATED_LEADER_RELATIONSHIP} besiegt. Du bist ein gerissener Feind, aber ich habe dich zu Boden gebracht und werde dich jetzt erledigen."/>
+    <string id="x8WJb01D" text="Ich missgönne Ihnen Ihren Sieg, als wir uns das letzte Mal trafen. Ich bin froh, dass wir nicht mehr kämpfen müssen."/>
+    <string id="XLqklKR5" text="Ich habe gehört, dass {VICTORIOUS_PARTY_LEADER} Sie überfahren hat. Manche sprechen von heroischen letzten Stellungen, aber ich sage, eine Niederlage ist eine Niederlage."/>
+    <string id="Xt1V4D6X" text="Sie sind aus unserem letzten Waffenkampf als Sieger hervorgegangen. Ich gratuliere Ihnen und freue mich auf die Chance, die Rechnung auszugleichen."/>
+    <string id="YEoEaMRJ" text="Sie halten sich fern von {FIRST_NAME}."/>
+    <string id="yjDRCuQx" text="Ich bin froh, dass wir mit {COMMENT_REFERENCE_HERO} zu unserem Wort stehen."/>
+    <string id="YsUq0lPJ" text="Was auch immer als nächstes kommt, ich werde nicht vergessen, wie wir einst gemeinsam gegen {DEFEATED_PARTY_LEADER} gekämpft haben."/>
+    <string id="yzxJBMJd" text="Wie ich höre, haben Sie eine Karawane unter meinem Schutz geplündert. Ich bin nicht zufrieden."/>
+    <string id="yZZx1WVQ" text="Ich habe gehört, dass Sie unserem Herrn {FIRST_NAME} die Treue geschworen haben. Kämpft tapfer und Ihr werdet gut belohnt werden. Verraten Sie uns, und wir werden an Ihnen ein Beispiel geben, das nicht so schnell in Vergessenheit geraten wird."/>
+    <string id="Z6XSaq8b" text="Als wir uns das letzte Mal trafen, hatten Sie die bessere von mir. Aber ich versichere Ihnen, dass es nicht wieder vorkommen wird!"/>
+    <string id="z76zznAS" text="Herzlichen Glückwunsch an Sie und {FIRST_NAME} zu Ihrer Hochzeit."/>
+    <string id="zFfRLbxK" text="Glauben Sie nicht, dass ich unseren kleinen Kampf vergessen habe. Jetzt kenne ich Ihre Tricks. Wenn wir uns jemals wieder im Krieg befinden, wird es anders laufen."/>
+    <string id="zTNNxMzz" text="Ich habe gehört, dass Sie unserem Herrn {FIRST_NAME} die Treue geschworen haben. Wenn ich er wäre, würde ich Ihnen nicht trauen, die Spülküchen zu reinigen."/>
+  </strings>
+</base>

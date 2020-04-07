@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0Ikzzm71" text="Seeräuber Chef"/>
+    <string id="0qDNS83n" text="Nomadenbandit"/>
+    <string id="9laVlEH9" text="Bergmensch"/>
+    <string id="Awc23bFS" text="Marodeur"/>
+    <string id="Bg63YFnh" text="Steppenbanditen Boss"/>
+    <string id="C1Fkzdvu" text="Seeräuber Boss"/>
+    <string id="C8DE6L73" text="Deserteur"/>
+    <string id="cbnvgVhH" text="Bandit"/>
+    <string id="cdbSCr6G" text="Räuber"/>
+    <string id="dc2qxanZ" text="Waldbanditen Boss"/>
+    <string id="dq2cP8h0" text="Seeräuber"/>
+    <string id="HadsURl8" text="Guerillakrieger"/>
+    <string id="Nr8NkHXU" text="Seeräuber Kämpfer"/>
+    <string id="P6Md9DpR" text="Wegelagerer"/>
+    <string id="Q2V4uQrr" text="Wüstenbanditen Boss"/>
+    <string id="sFgODQ1q" text="Waldbandit"/>
+    <string id="uOAnHN47" text="Beduinen Vagabund"/>
+    <string id="urUwa4bf" text="Plünderer"/>
+    <string id="ZA4bgJ5V" text="Speppenbandit"/>
+    <string id="ziOBJSzR" text="Bergbanditen Boss"/>
+    <string id="ZKdiaaFo" text="Gesetzloser"/>
+    <string id="ZxmBdWTu" text="Freibeuter"/>
+  </strings>
+</base>

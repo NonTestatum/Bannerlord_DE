@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="7ZhNilg8" text="Einfach (5% Bonus)"/>
+    <string id="9jSxo790" text="Realistisch"/>
+    <string id="AQfVclN8" text="Preis"/>
+    <string id="B0uvwKae" text="Bestimme ob die Helden auf dem Schlachtfeld sterben können."/>
+    <string id="bLwIgxXa" text="Schwierigkeiten bei der Rekrutierung"/>
+    <string id="cA1D2Ua3" text="Sie brauchen bessere Beziehungen zu Persönlichkeiten, um Zugang zu allen ihren Truppen zu erhalten."/>
+    <string id="carorTAF" text="Reduziert auf 2/3 (leicht)"/>
+    <string id="cUHlzCRx" text="Tod aktivieren"/>
+    <string id="D9GkBqyW" text="Du kannst das Trainingsfeld verlassen, indem du [{LEAVE_KEY}]{newline}drückst. Du kannst jederzeit von der Kampagnenkarte zurückkehren."/>
+    <string id="DFMhzFGV" text="Wenn Sie eine Anzahl von Pferden in Ihrem Inventar haben, kann Ihre Party erheblich beschleunigt werden, da sie Ihre Transportkapazität erhöhen und Lakaien Ersatzpferde reiten können. Packpferde und Maultiere sind allerdings nur für den Transport von Fracht nützlich."/>
+    <string id="EGwqzjpa" text="Sie können die Tabulatortaste gedrückt halten, um den aktuellen Bereich zu verlassen."/>
+    <string id="F8TaKnjh" text="Wenn Sie sich in einer Stadt- oder Dorfszene befinden und die Alt-Taste gedrückt halten, werden Markierungen an wichtigen Personen und Interessenpunkten angezeigt."/>
+    <string id="fbaQp3ox" text="Aktivieren Sie die automatische Attributsverteilung für Mitglieder Ihres Clans."/>
+    <string id="hEYfasE1" text="Erhaltene Schadensquote an Eurem Charakter."/>
+    <string id="HVrobtL5" text="Neuer Königreichsname:{newline} - Kann keine Ziffern enthalten.{newline} - Kann nicht länger als {MAX_LETTER_COUNT} Zeichen sein.{newline} - Kann nicht kürzer als {MIN_LETTER_COUNT} Zeichen sein."/>
+    <string id="IgeL6qHr" text="Erhaltene Schadensquote für Ihre Verbündeten, die nicht unter Ihrem Kommando stehen."/>
+    <string id="IWD56KMc" text="Bewegungsgeschwindigkeit auf der Karte"/>
+    <string id="JaHlwYmo" text="Wenn Sie sich den Tooltip ansehen, können Sie die Alt-Taste drücken, um eine erweiterte Version des Tooltips zu sehen."/>
+    <string id="k4CF68S6" text="Wir enthalten uns der Stimme"/>
+    <string id="k71J6bVH" text="Siege"/>
+    <string id="KbPD5cEw" text="Reduziert auf 1/3 (leicht)"/>
+    <string id="KM7uAbL8" text="Spieler hat Schaden erlitten"/>
+    <string id="mD89ih8N" text="Gildenname ändern"/>
+    <string id="N6fz1efb" text="Überspringt das Tutorial zu Beginn des Spiels."/>
+    <string id="Oea9a5nY" text="Befreundete Truppen haben Schaden erlitten"/>
+    <string id="qc9Llr3x" text="Held"/>
+    <string id="QGA2TilH" text="In Spielfenstern können Sie mit der rechten Maustaste auf einen Eintrag klicken, um den entsprechenden Lexikoneintrag zu öffnen. Dies funktioniert bei Truppenporträts, Stadtsymbolen und den meisten anderen Elementen."/>
+    <string id="QUZku1Jr" text="Gruppen-Geschwindigkeitsstrafen werden auf der Kampagnekarte wirksamer sein."/>
+    <string id="QzmJL5I7" text="Einfach (1 extra)"/>
+    <string id="raD9MK3O" text="Schwierigkeit"/>
+    <string id="ReNnVfEn" text="Name des Königreichs ändern"/>
+    <string id="RyNYEVYp" text="{RANK}."/>
+    <string id="RZFAxCMp" text="Einfach (10% Bonus)"/>
+    <string id="sp8Kred0" text="Das Mitglied muss in der Gruppe des Spielers sein, um diese Aktion durchzuführen."/>
+    <string id="TZ9ugd1p" text="Automatische Attributsverteilung von Clanmitgliedern"/>
+    <string id="UcgNVM0P" text="Einfach (2 extra)"/>
+    <string id="UfQotsfo" text="Rang #"/>
+    <string id="vGF5S2hE" text="Rangliste"/>
+    <string id="wip6jLEM" text="Erhaltene Schadensquote an Ihren Truppen."/>
+    <string id="ZcyJePFm" text="Befreundete Gruppen haben Schaden erlitten"/>
+    <string id="ZWiFWA2W" text="Haupthandlungsstrang-Tutorial überspringen"/>
+  </strings>
+</base>

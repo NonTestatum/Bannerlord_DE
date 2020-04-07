@@ -1,0 +1,12 @@
+{
+  "name": "bannerlord_de_mod",
+  "version": "1.0.0",
+  "description": "Sprachpaket für Mount & Blade II Bannerlord",
+  "main": "helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NonTestatum",
+  "license": "MIT",
+  "private": true
+}

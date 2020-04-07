@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="6g08hTX5" text="Stutenkorn wird entnommen und zu Bier gebraut. Wenige Dinge halten das gemeine Volk und die Truppen so glücklich wie Bier."/>
+    <string id="7hx2Nlmd" text="Gerberei"/>
+    <string id="8MwqyFfS" text="Eisenwarenhändler"/>
+    <string id="AfiEQPky" text="Jede Stadt hat ein paar Handwerker. Jemand muss alltägliche Dinge für die Menschen des täglichen Lebens herstellen, und die meisten machen das selbst."/>
+    <string id="aIUXMvjS" text="Die Weinkellerei kauft Trauben für den Markt ein und produziert Wein, der in ganz Calradia immer gefragt ist."/>
+    <string id="boupIGPX" text="Olivenpresse"/>
+    <string id="bZeZCHoa" text="Wollweberei"/>
+    <string id="cabJ2jXP" text="Töpferwerkstätten formen Ton zu Töpferware. Es gibt keine reichen oder armen Haushalte, die einen Tag ohne Töpferei auskommen können."/>
+    <string id="cxrsASao" text="Seltenes Silbererz wird in der Silberschmiede zu wertvollen Schmuckstücken verarbeitet. Schmuck ist das feinste aller Handelsgüter."/>
+    <string id="EBCKXbTa" text="Samtweberei"/>
+    <string id="eS6nGak1" text="Wollweber"/>
+    <string id="EVSoHzAQ" text="Diese Werkstatt stellt Kleidungsstücke aus Schafwolle her. Die Kleidungsstücke sind immer gefragt."/>
+    <string id="GsaLzLfl" text="Brauerei"/>
+    <string id="gZArIwNi" text="Silberschmied"/>
+    <string id="HXuAkbcU" text="Samtweber"/>
+    <string id="IO7Jgato" text="Zimmermann"/>
+    <string id="IwFxZ6ab" text="In diesem Workshop wird grober Flachs zu nützlichem Leinen gewebt. Viele Leute kaufen es für den allgemeinen Gebrauch. Es ist auch für die Herstellung von Kleidungsstücken und Rüstungen in anderen Werkstätten unerlässlich."/>
+    <string id="J2Ioper5" text="Schmieden sind das Herz eines jeden Militärs. In einer Schmiede wird Eisenerz zu Waffen und Rüstungen geschmiedet, einige Hartholzschmieden stellen auch Werkzeuge her."/>
+    <string id="KcDJ5HXC" text="Starkes Hartholz hat viele Verwendungsmöglichkeiten. Handwerker nehmen hier Hartholz und fertigen daraus Pfeile und Schilde an."/>
+    <string id="Kqt8RHh7" text="Schmiede"/>
+    <string id="LC0mHXge" text="Die Oliven werden in der Olivenpresse in das glatte Öl gepresst. Und Öl erzielt auf dem Markt immer einen guten Preis."/>
+    <string id="NbhGCck5" text="Rohe Felle sind wenig gut für alles. Aber in einer Gerberei verwandeln wir sie in Leder und leichte Rüstungen."/>
+    <string id="ousGnzju" text="Gerber"/>
+    <string id="PdvjpThP" text="Winzer"/>
+    <string id="pVjxlT1f" text="Brauerei"/>
+    <string id="QChaCM2g" text="In diesem Workshop wird feine Baumwolle zu noch feinerem Samt gewebt. Samt ist eines der luxuriösesten Güter in Calradia."/>
+    <string id="qfzkMuLj" text="Handwerker"/>
+    <string id="RLz2b53X" text="Bekleidungshersteller"/>
+    <string id="Tj7ErPfn" text="Töpferei"/>
+    <string id="tK4IiP3J" text="Leinenweberei"/>
+    <string id="UiSes6XY" text="Holz Werkstatt"/>
+    <string id="uy2mSmw3" text="Weinpresse"/>
+    <string id="VHLUHBaT" text="Handwerker"/>
+    <string id="wCuAxt4m" text="Ölpresser"/>
+    <string id="wLTQpbIM" text="Töpfer"/>
+  </strings>
+</base>

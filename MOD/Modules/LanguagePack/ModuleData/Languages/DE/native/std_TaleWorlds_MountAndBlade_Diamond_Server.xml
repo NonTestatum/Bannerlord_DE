@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0W4dgUho" text="Vom Spiel bis {BANNEDUNTIL}gesperrt, Grund: {BANREASON}"/>
+    <string id="2xOyWxIo" text="Der Spieler ist kein Gruppenmitglied."/>
+    <string id="4XDu4Qcd" text="Nur Gruppenleiter können Spieler aus der Gruppe werfen."/>
+    <string id="5kgkZo2o" text="Spieler, den du zu kicken versucht hast, ist nicht in deiner Party!"/>
+    <string id="91cJB1tP" text="Spieler {INVITEDPLAYER} ist bereits in der Gruppe."/>
+    <string id="aFQa3pQt" text="Du musst in der Lobby sein, um einen anderen Spieler zum Partyführer zu befördern."/>
+    <string id="ah4Pm8wU" text="Du musst in der Lobby sein, um deine Gruppe aufzulösen! [Temporary]"/>
+    <string id="bcdU2DHW" text="Spieler {INVITEE} wurde von {INVITER} zu deiner Party eingeladen."/>
+    <string id="bivF3RXY" text="Du kannst dich nicht selbst befördern"/>
+    <string id="BwBR7TJB" text="Niemand mehr in Ihrer Gruppe und diese wurde aufgelöst!"/>
+    <string id="caMylVF7" text="Warteschlange kann nicht beigetreten werden, da keine aktivierten Spieltypen ausgewählt sind."/>
+    <string id="E2ILp86t" text="Kann nicht in der Warteschlange stehen, da Region nicht verfügbar ist."/>
+    <string id="efpifbtd" text="Du musst in der Lobby sein, um deine Gruppe aufzulösen!"/>
+    <string id="emx7txM9" text="Die Mitgliederbeförderung kann nur vom Gruppenvorsitzenden durchgeführt werden."/>
+    <string id="fD2SyeA7" text="Du kannst dich nicht selbst zur Party einladen."/>
+    <string id="GZXVxl3E" text="{PLAYERNAME} getrennt. Deine Gruppeneinladung ist nicht mehr gültig."/>
+    <string id="i5ZTTTZw" text="Spieler {INVITEDPLAYER} ist nicht in der Lobby."/>
+    <string id="jP2hUg7H" text="Du bist in keiner Gruppe!"/>
+    <string id="kY2oXMng" text="Anmeldung fehlgeschlagen."/>
+    <string id="l6a9vI9z" text="Nur Gruppenleiter können andere Spieler einladen."/>
+    <string id="mcAG0eHJ" text="Du musst in der Gruppe sein, um diese aufzulösen![Temporary]"/>
+    <string id="MepGBJMQ" text="Spieler, den Sie zu befördern versucht haben, konnte nicht gefunden werden"/>
+    <string id="mvQKpHXH" text="Deine Gruppe ist voll."/>
+    <string id="nJ7aEkRt" text="Du bist von {PLAYERNAME} in eine Gruppe eingeladen worden."/>
+    <string id="nw7r2S5z" text="Ausgewählte deaktivierte Spieltyp(en): {GAMETYPES}."/>
+    <string id="OByu0fjQ" text="Kann nicht in die Warteschlange eingereiht werden, da nicht alle Spieler in deiner Gruppe bereit sind."/>
+    <string id="olLwOWf8" text="Kann nicht in den Kampf gehen, da nicht alle Spieler Anti-Cheat verwenden."/>
+    <string id="p5K0ATtZ" text="Deine alte Sitzung konnte nicht gelöscht werden."/>
+    <string id="pehfmZvM" text="Spieler {PLAYERNAME} wurde zum Gruppenleiter befördert."/>
+    <string id="Pn13ZKwI" text="Deine Gruppe wurde aufgelöst!"/>
+    <string id="Rj8RhD7F" text="Fehler"/>
+    <string id="Tauk2JzA" text="Versionsfehler, Server-Version: {SERVERVERSION} - Ihre Version: {CLIENTVERSION}."/>
+    <string id="TpBDiSBp" text="{PLAYERNAME} wurde dem Gruppenleiter zugewiesen."/>
+    <string id="VDDm5bqb" text="Du kannst nur Spieler einladen, die das Spiel mit Anti-Cheat betreiben."/>
+    <string id="w8WiqZT3" text="Du musst das Spiel mit Anti-Cheat ausführen um einer Party beizutreten oder eine zu erstellen!"/>
+    <string id="wNubP2BF" text="Nur Gruppenleiter können Warteschlange für Spiele anlegen."/>
+    <string id="xMa4QqvL" text="Aktuelle Spieler im Gruppe: {PLAYERS}"/>
+    <string id="ysfEQO6c" text="Spieler wurde nicht gefunden"/>
+    <string id="zyDyPr4I" text="Spieler, den Sie zu fördern versucht haben, ist nicht in Ihrer Gruppe."/>
+  </strings>
+</base>

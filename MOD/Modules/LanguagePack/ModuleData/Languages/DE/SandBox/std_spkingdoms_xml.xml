@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0B27RrYJ" text="Battanien"/>
+    <string id="5djtBrHj" text="Sultan"/>
+    <string id="8HMyTKF6" text="Vlandianer"/>
+    <string id="8pjMAqOg" text="Senat"/>
+    <string id="afvM7XpQ" text="Hoher König"/>
+    <string id="bF7HmNGQ" text="Khuzait Khanat"/>
+    <string id="bgjiFSHZ" text="Batanier"/>
+    <string id="bVihnRUu" text="Die Konföderation der kleinen Königreiche, die heute das Fürstentum Sturgia ist, entstand erst vor einem Jahrhundert. Als entlang der großen Flüsse des Nordens Boomtowns entstanden, schmiedeten die örtlichen Stammesführer Heiratspakte mit Nords und anderen Abenteurern und heuerten ihre Schwerter an, um ihre Nachbarn zu unterwerfen. Unter dem Druck des Reiches wählten sie einen Fürsten, der sie im Krieg führen sollte, und schließlich wurden die Fürsten zu einem Erbamt. Aber die Idee der Monarchie hat sich nie leicht mit den auf Unabhängigkeit bedachten Bojaren vertragen, und das Potenzial für eine Rebellion lauert immer unter der Oberfläche der stürmischen Politik."/>
+    <string id="C4qjBqLO" text="Sturgier"/>
+    <string id="dN5JCX8n" text="Rat der Ältesten"/>
+    <string id="DrnZOsjo" text="Dynastische Nachfolge"/>
+    <string id="EBCV0LcU" text="Gesetzgeber"/>
+    <string id="fE5U9ApA" text="Das Kalradianische Reich ist keine Monarchie. Die Kalradianer bestehen darauf. Der Kaiser, der früher nur ein militärischer Befehlshaber war, mag auch die meisten anderen Staatsgeschäfte übernommen haben. Anstatt alle paar Jahre vom Senat gewählt zu werden, regiert er nun vielleicht auf Lebenszeit und wird oft von seinem Sohn abgelöst. Die Volksversammlungen, die einst über wichtige Politiken entschieden haben, mögen verkümmert sein, und der Senat, eine Versammlung von Grundbesitzern, mag weit weniger Macht haben als in den vergangenen Jahrhunderten. Aber es ist keine Monarchie, denn es ist den Kalradiern absolut verboten, von einem König regiert zu werden. Das Imperium ist das, was passiert, wenn ein Bund von Stadtstaaten einen Kontinent erobert. Eine Gemeinschaft, die einst von freien Bauern mit relativ gleichem Reichtum geführt wurde, hat heute eine große Kluft zwischen Arm und Reich. Institutionen, die verhindern sollen, dass ein einzelner Mann zum Tyrannen wird, geraten in Konflikt mit den Notwendigkeiten eines endlosen Krieges, die eine einheitliche Führung erfordern. Ohne reibungslose Nachfolgeplanung war der Tod eines Kaisers immer eine potenzielle Krise. In der Regel ernannte der Kaiser einen Erben, der Senat ratifizierte seine Wahl, und das Volk (d.h. die Armee) begrüßte sie. Doch dies geschah nicht immer reibungslos, und dann wurde die Nachfolge auf dem Schlachtfeld geregelt. Der aktuelle Konflikt, der durch die Ermordung des verstorbenen Kaisers Arenicos ausbrach, ist der letzte dieser kaiserlichen Bürgerkriege."/>
+    <string id="fGNdo1BK" text="Jahrhundertelang begnügten sich die Stämme in der riesigen Steppe östlich des Reiches damit, als Nomaden zu leben, sich in die kaiserlichen Länder zu wagen, um dort Raubzüge zu machen und Handel zu treiben, und dann in die Freiheit ihrer Vorfahren zurückzukehren. Vor zwei Generationen jedoch geschah etwas weit weg im Osten - vielleicht ein Wechsel der Winde oder ein schrecklicher, aber weit entfernter Eroberer - und die Pferde-Clans wurden in Bewegung gesetzt. Urkhun, der Khuzait, führte die dem Reich am nächsten gelegenen Clans in seine östlichen Provinzen, überrannte die östliche Provinz und bildete ein Khanat. Er zwang die widerspenstigen Clans zur Disziplin und zwang sie, auf sein Kommando in den Krieg zu reiten, statt einfach nur, wenn sie es wünschten. Aber nach seinem Tod ging der Geist der Einheit, den er inspiriert hatte, verloren. Seine Nachkommen herrschen immer noch über das Khanat, aber einige der anderen Clans scherzen unter seiner Autorität, und andere träumen davon, selbst Khan zu werden."/>
+    <string id="FjwRsf1C" text="Vlandia"/>
+    <string id="FmbgPGBL" text="Großfürst"/>
+    <string id="frBQ9mbP" text="Südliches Kaiserreich"/>
+    <string id="GbnlN6na" text="südliches Kaiserreich"/>
+    <string id="GH6FLbYm" text="Geheimer Rat"/>
+    <string id="hwnp9abW" text="König"/>
+    <string id="IaCpmuL5" text="Landreform"/>
+    <string id="IPrTwc28" text="Stammesversammlung"/>
+    <string id="IudGLWQZ" text="Die vandische Monarchie stammt von Osric Iron-Arm ab, einem Kriegsherren, der die Westküste des Reiches eroberte und von den Kaisern als König als Preis für den Frieden anerkannt wurde. Er wiederum erkannte seine Leutnants als Barone und Grafen an und gewährte ihnen die Oberherrschaft über ihre Ländereien im Gegenzug dafür, dass sie sich im Krieg unter seinem Banner versammelten. Einige vandische Könige haben versucht, die Macht des Königshauses zu erweitern; andere haben den Baronen erlaubt, sich untereinander zu befehden, solange das Geld und die Arbeitskraft zur Verfügung standen, wenn sie gebraucht wurden."/>
+    <string id="iWyvNzBB" text="Schutz von Eigentum"/>
+    <string id="iYCR3xuQ" text="Fürstentum Sturgia"/>
+    <string id="lAWwcO6b" text="Königreich Vlandia"/>
+    <string id="NaNMRPv4" text="Aserai"/>
+    <string id="NF627oiX" text="Nördliches Kaiserreich"/>
+    <string id="nsDj8Qxl" text="nördliches Reich"/>
+    <string id="PjO7oY16" text="Sturgia"/>
+    <string id="qaDIU0XC" text="Hohes Königreich der Batanier"/>
+    <string id="qggtvf8Y" text="Das Kaiserreich zog es immer vor, seine Legionen nicht in die armenverschlingenden Abfälle der Nahasa zu schicken. Stattdessen projizierte es seine Macht in dieses Grenzland, indem es unter den Clans Client-Herrscher kultivierte, die in einem endlosen Tanz der Macht wetteiferten. Diejenigen Clans, die sich die Oasen sichern konnten, gewannen eine kaiserliche Subvention zum Schutz vorbeiziehender Karawanen und wurden reich. Diejenigen, die das nicht konnten, wurden in die Wüste gedrängt, blieben zurück, um Ziegen zu züchten und Karawanen zu überfallen, bis sie ein Comeback planen konnten. Heute, mit dem Schwinden des Reiches, haben die Aserai zugestimmt, eine Konföderation unter einem Sultan zu bilden, der aus den reichsten der Clans ausgewählt wurde, den Banu Hulyan. Aber jeder weiß, dass der Tanz nur vorübergehend gestoppt wurde, und im richtigen Moment wird er wieder beginnen."/>
+    <string id="rqHFujhr" text="Heilige Majestät"/>
+    <string id="sg4bbc7K" text="Ablagerung"/>
+    <string id="sZLd6VHi" text="Khuzait"/>
+    <string id="UsbwPmYb" text="Sultanat des Aserai"/>
+    <string id="vJOWy1QF" text="Khuzait"/>
+    <string id="yG3YUySN" text="Westliches Kaiserreich"/>
+    <string id="ZEmH0MwL" text="westliches Kaiserreich"/>
+    <string id="ZjaaAoxd" text="Seit Menschengedenken gibt es einen Hochkönig von Battania, der mit einer großen Zeremonie auf dem heiligen Hügel von Dunthanach gekrönt wird. Fragt man jedoch einen beliebigen Häuptling der Battanier, in wessen &quot;Königreich&quot; er lebt, so wird er sich in seiner Halle und auf seinen Feldern und Weiden, seinen Herden und seinen Gefolgsleuten umsehen und antworten: &quot;Meines natürlich&quot;. Erst in jüngster Zeit haben die Hochkönige nach dem Vorbild des Reiches Anstrengungen unternommen, ihre Autorität auszuüben. &quot;Solch widerspenstiges Vieh wie mein Volk braucht eine starke Hirtenhand, um es aus der Schlucht zu lenken und vor dem Wolf zu schützen&quot;, sagte ein Hochkönig kürzlich, kurz bevor er von einem eifersüchtigen Cousin verraten und in Ketten zum nächsten kaiserlichen Außenposten gebracht wurde."/>
+  </strings>
+</base>

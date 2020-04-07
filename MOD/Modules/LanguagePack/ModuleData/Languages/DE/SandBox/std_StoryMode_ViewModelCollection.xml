@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="8eYtra7T" text="Bestimmen Sie den Schwierigkeitsgrad des Spiels"/>
+    <string id="fz2kQjFS" text="Wählen Sie die Kultur Ihres Charakters:"/>
+    <string id="K6GYskvJ" text="Kultur:"/>
+    <string id="kek1czyb" text="Sie bereiten sich darauf vor, mit Ihrem Bruder auf eine Rache- und Rettungsmission zu gehen. Hier ist Ihr Charakter. Klicken Sie auf Beenden, wenn Sie bereit sind, oder gehen Sie zurück, um Änderungen vorzunehmen."/>
+    <string id="MaHMOzL2" text="Charakter Kultur"/>
+    <string id="mHVmrwRQ" text="Geben Sie Ihren Namen ein"/>
+    <string id="PUjDWe5j" text="Kulture"/>
+    <string id="raD9MK3O" text="Schwierigkeit"/>
+    <string id="txjiykNa" text="Rückblick"/>
+  </strings>
+</base>

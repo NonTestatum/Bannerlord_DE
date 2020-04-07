@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0GKH29JG" text="Söldnerwache"/>
+    <string id="0GkJB08d" text="Sturgianische Veteranen-Karawane Wache"/>
+    <string id="0Xku0LQD" text="Sturgia Bauer"/>
+    <string id="1MXhl6TV" text="tournament_template_vlandia_one_participant_set_v3"/>
+    <string id="1PovWQ3G" text="tournament_template_aserai_one_participant_set_v1"/>
+    <string id="1PsLlMaQ" text="Kaiserlicher Ritter"/>
+    <string id="1sJcKkVP" text="Wache"/>
+    <string id="1WfDVpya" text="Sturgianischer Bogenschütze"/>
+    <string id="1zObCG2o" text="Battanischer Fian Champion"/>
+    <string id="275LD0Gh" text="Ladenarbeiter"/>
+    <string id="2gUjKT5H" text="Batanischer Reiter"/>
+    <string id="2HDPaohZ" text="Förster Experte"/>
+    <string id="2RGc09o0" text="Alijin"/>
+    <string id="2w6jXVzJ" text="Battania voreingestellt"/>
+    <string id="34as7AX2" text="tournament_template_battania_two_participant_set_v3"/>
+    <string id="3lNtvh9W" text="Kopfgeldjäger"/>
+    <string id="3UoCf10i" text="Valtis"/>
+    <string id="3uSMU7zy" text="Sturgia-Waffenpuppe"/>
+    <string id="3VosbFR0" text="Vlandischer Champion"/>
+    <string id="4BxUa4Sr" text="Aseraiischer Plänker"/>
+    <string id="4C4WiTb2" text="Varyag"/>
+    <string id="5b6KjY5b" text="Vlandischer Stabdolchträger"/>
+    <string id="5JFkQn5U" text="Khuzit Milizenveteranen-Bogenschütze"/>
+    <string id="5NhnfkCq" text="Battania-Waffenpuppe"/>
+    <string id="6akxY6JL" text="tournament_template_khuzait_four_participant_set_v2"/>
+    <string id="6aqDcMPr" text="Max. Rüstung (55)"/>
+    <string id="6C3OMP1X" text="Battanischer Späher"/>
+    <string id="6HG4SVYE" text="tournament_template_empire_two_participant_set_v1"/>
+    <string id="6hhspFvz" text="Khuzait Veteranen Karawanenwache"/>
+    <string id="6oc7CXbI" text="Aserai-Veteran Faris"/>
+    <string id="6UFEfIJV" text="Khuzait-Speerinfanterie"/>
+    <string id="79ElOr2x" text="Pferdehändler"/>
+    <string id="7aRhhGAs" text="Experten Schläger"/>
+    <string id="7EUhAv8b" text="Ghulam"/>
+    <string id="7JZPTbxB" text="Gelehrter"/>
+    <string id="7LaefhBV" text="Battanische Ausrüstungspuppe"/>
+    <string id="7WWUxI6y" text="Sturgischer Veteran Bogenschütze"/>
+    <string id="80plewQ1" text="Eidbewahrer Rekrut"/>
+    <string id="8bA4PvdG" text="Kaiserliche Veteranen-Bogenschütze"/>
+    <string id="8Gh8q1PX" text="Beni Zilal Königliche Wache"/>
+    <string id="8nRua2zi" text="tournament_template_aserai_two_participant_set_v1"/>
+    <string id="8PLgCsiR" text="Vlandische Vorhut"/>
+    <string id="8TdbKFa9" text="Aserai Waffenhändler"/>
+    <string id="96pj2wxH" text="Sturgischer Krieger"/>
+    <string id="9Bw85Elg" text="Anfänger Wildschweine"/>
+    <string id="9Di0NfG2" text="Kleinkind"/>
+    <string id="9GIK6fnm" text="Kradus"/>
+    <string id="9Ylw5Spz" text="Wildschwein-Veteran"/>
+    <string id="9zXXes9i" text="Beni Zilal Soldat"/>
+    <string id="A3XqnOlT" text="tournament_template_khuzait_two_participant_set_v2"/>
+    <string id="a9b2fKYR" text="Sturgianische Berserker"/>
+    <string id="abFIj4ZW" text="Battanischer Berittener Plänker"/>
+    <string id="ac8MZYne" text="Battanischer Held"/>
+    <string id="acubGB3g" text="Vlandian gehärteter Armbrustschütze"/>
+    <string id="afhXdjBU" text="Nomaden"/>
+    <string id="ah2qifbo" text="tournament_template_vlandia_two_participant_set_v3"/>
+    <string id="AlmaRAib" text="Ländlicher NotarNotar"/>
+    <string id="AloMryIU" text="Vlandische leichte Kavallerie"/>
+    <string id="ansW4mx2" text="Aseraiische Städterin"/>
+    <string id="AoFZUbun" text="Aserai Vanguard Faris"/>
+    <string id="arb5nRri" text="Aseraiische Stammesangehörige"/>
+    <string id="AssCCFew" text="Berittener Söldner"/>
+    <string id="aSZpSRmr" text="tournament_template_vlandia_four_participant_set_v2"/>
+    <string id="aUHtqC9o" text="Vlandische Speermiliz"/>
+    <string id="auxU5OGA" text="Sturgischer Krieger Sohn"/>
+    <string id="B4ls6R2b" text="Aseraiischer Meisterbogenschütze"/>
+    <string id="b4QPaEnA" text="Battanischer Bogenschützenmiliz"/>
+    <string id="B7oI7AZG" text="Khuzit Khans Wache"/>
+    <string id="b7OTX7XO" text="tournament_template_vlandia_four_participant_set_v4"/>
+    <string id="baAQDdE5" text="Vlandische Städterin"/>
+    <string id="BBJKgKj2" text="Sturgianische Rekrutierung"/>
+    <string id="BbTpfJ7G" text="Dranton"/>
+    <string id="bFyidmyK" text="Voreingestellte Operation"/>
+    <string id="bHx8jaeI" text="Krieger"/>
+    <string id="bLMGbLF8" text="Prediger Notar"/>
+    <string id="bLq2HXMo" text="Kaiserliche Veteranen Karawane Wache"/>
+    <string id="BmYpwIYi" text="Battanischer Bauer"/>
+    <string id="bNnQt4jN" text="Schmied"/>
+    <string id="brlJJW5I" text="Sturgianischer Soldat"/>
+    <string id="bTApMxWr" text="Vlandische Banner Ritter"/>
+    <string id="Btb7p3mD" text="Battanischer Fian"/>
+    <string id="bYn4ad1t" text="Experte Eid Bewahrer"/>
+    <string id="c5rVdg75" text="Kaiserlicher Veteranen Speermiliz"/>
+    <string id="c7uYiGFj" text="Sturgianische Ausrüstung Puppe"/>
+    <string id="CAYZDsAj" text="Legionär"/>
+    <string id="Cc3knKFB" text="Palastwache"/>
+    <string id="CDUvlu4d" text="Kaiserliche Palastwache"/>
+    <string id="cEKbOxRA" text="Veteran Eleftheroi"/>
+    <string id="CfO7eDsv" text="Sturgischer Speerträger"/>
+    <string id="CKoq1wQa" text="Khuzaitianische Bogenschützenmiliz"/>
+    <string id="cMcGn6n3" text="Experten Wächter"/>
+    <string id="cOt1onbR" text="Triarier"/>
+    <string id="cP1bu5GK" text="Khuzaitianischer Schwerer Lanzenträger"/>
+    <string id="CPcJ2gRF" text="Aseraische Bogenschützenmiliz"/>
+    <string id="cPQx1RXt" text="Sturgischer Waffenhändler"/>
+    <string id="CRRzVcBT" text="tournament_template_vlandia_two_participant_set_v2"/>
+    <string id="CRzrHomf" text="Sturgischer Druzhinnik"/>
+    <string id="cSdSSXsO" text="Wildschwein-Meister"/>
+    <string id="CsjtWt1g" text="Gastwirt"/>
+    <string id="cte0zSCz" text="Kaiserlicher Stammesangehöhriger"/>
+    <string id="cVMvBy1p" text="Kaiserliche Ausrüstungspuppe"/>
+    <string id="cZms8Ivb" text="Battanischer Hochgeborener"/>
+    <string id="d6vsgKnp" text="Aseraiischer Bauer"/>
+    <string id="d7MMYGLI" text="Aseraiischer Waffenpuppe"/>
+    <string id="dAIGb3JM" text="tournament_template_empire_four_participant_set_v2"/>
+    <string id="dfv7E49q" text="Aseraiischer Stammesreiter"/>
+    <string id="DhtS4tVo" text="tournament_template_empire_four_participant_set_v1"/>
+    <string id="DIt9SuMb" text="Sprossen"/>
+    <string id="DlIU2vJB" text="Khuzaitischer Scharfschütze"/>
+    <string id="DNIa6a5p" text="Vlandische Veteranen Bogenschützemilizen"/>
+    <string id="DNsbKR7B" text="Battanischer Waldläufer"/>
+    <string id="DNTUqbGo" text="Xerina"/>
+    <string id="DvHR91Ca" text="Khuzait voreingestellt"/>
+    <string id="E2uvuKII" text="tournament_template_vlandia_four_participant_set_v3"/>
+    <string id="e8qbF7Ey" text="Kaiserliche Menavliaton"/>
+    <string id="ECxiXTbF" text="Handwerker Notar"/>
+    <string id="ehACDRBk" text="Versteckte Bauern"/>
+    <string id="EhCc2XI1" text="Khuzaitianische Ausrüstung Puppe"/>
+    <string id="eHVgfyPH" text="Khuzaitianischer Berritenerbogenschütze"/>
+    <string id="eHYBfWLj" text="tournament_template_aserai_two_participant_set_v3"/>
+    <string id="euTE3FUY" text="tournament_template_battania_four_participant_set_v3"/>
+    <string id="eWRlQ4XU" text="Dieb"/>
+    <string id="eYIMQafj" text="Kaiserlicher schwerer Reiter"/>
+    <string id="f2a1fPca" text="Khuzaitianische Veteranen Speermiliz"/>
+    <string id="F54qLieU" text="Aseraiischer Mameluken Wache"/>
+    <string id="fdaZ3tri" text="Sturgischer Waldläufer"/>
+    <string id="fHQ8ifKM" text="Kaiserlicher ausgebildete Bogenschütze"/>
+    <string id="FpdoaZST" text="Vlandische Waffenpuppe"/>
+    <string id="FrTTT0G1" text="Sturgischer Druzhinnik Champion"/>
+    <string id="fxGlBFPk" text="Schläger"/>
+    <string id="g1zvdEE3" text="Aseraiische Veteran Infanterie"/>
+    <string id="G9ByT85b" text="Hastati"/>
+    <string id="gBuGfUg3" text="Karakhuzait Ältester"/>
+    <string id="Gd0y7SxJ" text="Vlandische Speerträger"/>
+    <string id="Ge4GmFVE" text="tournament_template_sturgia_two_participant_set_v2"/>
+    <string id="GEnwDYp1" text="Vlandischer Rekrut"/>
+    <string id="GGlSSJ6w" text="tournament_template_empire_two_participant_set_v2"/>
+    <string id="GGVehOu9" text="Rebellion"/>
+    <string id="GopVkA1q" text="Gesetzloser"/>
+    <string id="GUQ3zfg2" text="Battanischer Freiwilliger"/>
+    <string id="Gvy2b4fa" text="Aseraiische Jugend"/>
+    <string id="gwEB28tC" text="Verrückter Mann ohne Waffe"/>
+    <string id="gyvXsXs8" text="Battanischer Wilder"/>
+    <string id="gZ4JeEw4" text="Sturgische Veteranen Bogenschützemiliz"/>
+    <string id="H5HJUejD" text="Aseraiische Rekrutierung"/>
+    <string id="H5iWxbbl" text="Ghilman"/>
+    <string id="H7eELtL6" text="Geliehene Truppe"/>
+    <string id="h7nGFImt" text="Förster einstellen"/>
+    <string id="hcMzt0G2" text="tournament_template_sturgia_two_participant_set_v3"/>
+    <string id="HMHzTNqJ" text="Battanischer ausgebildeter Krieger"/>
+    <string id="HsboF2mR" text="Kaiserlicher Veteranen Bogenschützenmiliz"/>
+    <string id="HZRKBDyB" text="Bettler"/>
+    <string id="i17zuvS4" text="Sturgianischer Jäger"/>
+    <string id="i5DfUz6D" text="Battanischer Veteran Bogenschützenmiliz"/>
+    <string id="i5QgQbRi" text="Kaiserlicher Soldat"/>
+    <string id="i9Nm42Wl" text="tournament_template_battania_one_participant_set_v1"/>
+    <string id="ieiqOaZp" text="Bogenschütze"/>
+    <string id="IfjWyWjc" text="Kaiserlicher Infanterist"/>
+    <string id="IHczn7ti" text="Battanischer Hochgeborener Krieger"/>
+    <string id="IHKXNP9H" text="Turniermeister"/>
+    <string id="IKvwsCaJ" text="Battanischer Plünderer"/>
+    <string id="IxcCmtxz" text="Battanische Veteranen Speermiliz"/>
+    <string id="iXjMfCyp" text="Khuzaitianischer Reiter"/>
+    <string id="IZ8OmByJ" text="Kaiserlicher ausgebildeter Infanterist"/>
+    <string id="iZqYAIQy" text="Sturgische Schocktruppe"/>
+    <string id="jaK1A7CI" text="Aseraiische Faris"/>
+    <string id="jFQPRvLg" text="Huskarl Schwertträger"/>
+    <string id="JGsUtBT3" text="Kaiserliche Legionär"/>
+    <string id="jMQvcrlf" text="tournament_template_empire_one_participant_set_v1"/>
+    <string id="JMZiICD8" text="Vlandischer Bauer"/>
+    <string id="jRFfRZv2" text="Sturgische Bogenschützemiliz"/>
+    <string id="jRFHgzHi" text="tournament_template_empire_four_participant_set_v3"/>
+    <string id="juBPAThy" text="Battanische Veteranen-Karawanenwache"/>
+    <string id="JVG0zC4e" text="Aseraiische Schwere Mameluken Kavallerie"/>
+    <string id="jx8ohENz" text="Waffenschmied"/>
+    <string id="jxNe8lH2" text="Karawanenwache"/>
+    <string id="k2vXtuDV" text="tournament_template_battania_four_participant_set_v1"/>
+    <string id="k4EiLrU0" text="Sturgische Ulfhednar"/>
+    <string id="KAJKOooN" text="Schwere Khuzaitianische Berittene Bogenschützen"/>
+    <string id="kih9DwL4" text="Vlandische Armbrustschütze"/>
+    <string id="KnhpjA7Y" text="Koleman"/>
+    <string id="kNt6v1Aa" text="Vlandische Ausrüstungs Puppe"/>
+    <string id="kPCcelVX" text="Händler "/>
+    <string id="kppseK3N" text="Khuzaitianischer Stammeskrieger"/>
+    <string id="KPrRxeC3" text="jeder mit Axt und Schild"/>
+    <string id="KqpiU4tH" text="mit Zweihandschwertern"/>
+    <string id="KtqB640w" text="Reichsbauer"/>
+    <string id="kueBlg9A" text="each with axe and shield"/>
+    <string id="L0cGAnWw" text="Battanische Speermiliz"/>
+    <string id="L2q565AG" text="tournament_template_battania_two_participant_set_v1"/>
+    <string id="l6NFOl8c" text="Khuzaitianischer Waffenhändler"/>
+    <string id="L8uOuwsM" text="tournament_template_sturgia_one_participant_set_v1"/>
+    <string id="LbjxH9yp" text="Kaiserliche Bogenschütze"/>
+    <string id="lduchnvD" text="Karakhuzaitischer Reiter"/>
+    <string id="LEJukldW" text="Kaiserlicher Waffenhändler"/>
+    <string id="LFUaO6rG" text="Khuzaitianischer Bauer"/>
+    <string id="LKb8DXby" text="Battanischer Karavanmeister"/>
+    <string id="lkrV8jZa" text="Khuzaitianischer Bogenschütze"/>
+    <string id="LNfQk4MM" text="Min. Rüstung (0)"/>
+    <string id="LNNXiPyV" text="Bandenführer Bodyguard"/>
+    <string id="Loc1XOIk" text="Khuzaitianischer Jäger"/>
+    <string id="lumFaIud" text="Khuzaitianischer Lanzenreiter"/>
+    <string id="LVEU4se3" text="Sturgischer Veteranen Speermiliz"/>
+    <string id="lxU4pWsS" text="Battanischer Veteran Plänker"/>
+    <string id="LXybWXde" text="Skolder-Krieger Brotva"/>
+    <string id="m0T0vXjT" text="tournament_template_battania_two_participant_set_v4"/>
+    <string id="Mcbjdntz" text="Jawwal Kamel Reiter"/>
+    <string id="MDIuyBHP" text="Khuzaitianische Speerträger"/>
+    <string id="mfFIyKIa" text="Brogomir"/>
+    <string id="Mgr6qv1j" text="Söldner Schwerträger"/>
+    <string id="mrBbsiPN" text="Junger Wolf"/>
+    <string id="muu5cofb" text="Städter"/>
+    <string id="MVHawAEp" text="Versteckte Hand"/>
+    <string id="MYwUFMsz" text="Kaiserlicher Elite Kataphrakt"/>
+    <string id="mzyc3bms" text="Magistrat"/>
+    <string id="n41jlEa3" text="Kaiserlicher Vigla Rekrut"/>
+    <string id="nDoENDqD" text="Aseraiischer Karavanmeister"/>
+    <string id="nLGiBeUj" text="tournament_template_sturgia_four_participant_set_v2"/>
+    <string id="noTLVPDD" text="Arzt"/>
+    <string id="nPyqHxmf" text="Vlandischer Unteroffizier"/>
+    <string id="nsyTIbtp" text="Veteran Eid Bewahrer"/>
+    <string id="o077j2j5" text="Jugendlicher"/>
+    <string id="o1jvmi9P" text="Khuzaitianischer Reiter"/>
+    <string id="OQPDvtpk" text="Vlandian Gallant"/>
+    <string id="oseSwa56" text="Vlandischer Ritter"/>
+    <string id="oXAbblBV" text="Hauptheld"/>
+    <string id="p4rN07tt" text="tournament_template_sturgia_two_participant_set_v1"/>
+    <string id="P8EATvn8" text="Bogenschützenmiliz"/>
+    <string id="PCZ23wvW" text="Ingenieurwesen"/>
+    <string id="Pd9qAiOu" text="Aseraiische Veteranen Speermiliz"/>
+    <string id="PG7b26H7" text="tournament_template_khuzait_four_participant_set_v1"/>
+    <string id="PgOknaEN" text="Söldner Armbrustschütze"/>
+    <string id="PJNW1UWK" text="Ladenbesitzer"/>
+    <string id="pOCOS8um" text="Kind"/>
+    <string id="pooybAKI" text="Vlandischer Schwertträger"/>
+    <string id="pRbbJHkU" text="Kaiserliche Bucellarii"/>
+    <string id="PU2zIMu0" text="Puppenspieler"/>
+    <string id="pzKCIEaK" text="Vlandischer Stammesangehöriger"/>
+    <string id="pzmgMODE" text="Sturgianische Karawane Wache"/>
+    <string id="q1tbZIR9" text="Höhere mittlere Panzerung (37)"/>
+    <string id="q7b4pQc9" text="Erfahrener Wolf"/>
+    <string id="q7VeZazL" text="Battanischer Plänker"/>
+    <string id="Q7wFotYV" text="Battanische Stadtfrau"/>
+    <string id="Q96uooDt" text="tournament_template_battania_four_participant_set_v2"/>
+    <string id="qAsnj7vU" text="Kaiserliche Elite Menavliaton"/>
+    <string id="qAvxmnav" text="Jawwal Beduine"/>
+    <string id="QbSjMefR" text="Vlandischer Karawanenmeister"/>
+    <string id="qBVNIhme" text="Experten Eleftheroi"/>
+    <string id="QE4RyAlt" text="tournament_template_vlandia_two_participant_set_v1"/>
+    <string id="qfaTMEBw" text="Battanische Karawane Wache"/>
+    <string id="QfVe3IVw" text="Armbrust einstellen"/>
+    <string id="QGPAEtj7" text="Varyag-Veteran"/>
+    <string id="QhNpvW0Y" text="Khuzaitianische Torguud"/>
+    <string id="QlVeZvbv" text="Aseraiische Veteranen Karawanenwache"/>
+    <string id="qMqRkvWu" text="Sturgianische Stadtfrau"/>
+    <string id="qMYpZKWo" text="Prinzipien"/>
+    <string id="QNKfXvuA" text="Kaiserlicher Signifier"/>
+    <string id="Qo2cc7bF" text="Skene"/>
+    <string id="qu7ObbPa" text="tournament_template_aserai_four_participant_set_v3"/>
+    <string id="QvSmhaAV" text="Ausgewählter Wolf"/>
+    <string id="R74i2pQz" text="Klinge eingestellt"/>
+    <string id="reoVAtrE" text="Handelsnotar"/>
+    <string id="rIqwYlSK" text="Khuzaitianischer Nomade"/>
+    <string id="riT39wKu" text="Setzling"/>
+    <string id="Rj0bNOOh" text="Kern"/>
+    <string id="RJNNsaSP" text="Sturgischer Räuber"/>
+    <string id="ro3qze3R" text="tournament_template_vlandia_one_participant_set_v2"/>
+    <string id="rojq8QTp" text="Khuzaitianische WaffenPuppe"/>
+    <string id="rQ0t0Wws" text="Vlandischer Karawanenwache"/>
+    <string id="rtOJNB6u" text="Wächter Rekrutierung"/>
+    <string id="Ru3xeL6l" text="Minnesänger"/>
+    <string id="RYP9hzIy" text="Wächter"/>
+    <string id="RzZyrBw7" text="tournament_template_khuzait_four_participant_set_v3"/>
+    <string id="s0oKleXi" text="tournament_template_battania_one_participant_set_v2"/>
+    <string id="s3IJIFUw" text="Kaiserlicher Vigal Rekrutierung"/>
+    <string id="S6BosJUq" text="Eleftheroi Rekrut"/>
+    <string id="S8ElYRrb" text="Aserai-Voreinstellungen"/>
+    <string id="S9z09NaN" text="Geliehen Veteran Truppen"/>
+    <string id="SAILNYbu" text="Vlandische Infanterie"/>
+    <string id="SaqVvzyV" text="Söldner Kavallerie"/>
+    <string id="SDRIahK8" text="Verrückter Mann"/>
+    <string id="sG8BWbhw" text="tournament_template_battania_two_participant_set_v2"/>
+    <string id="Si5ZCb1O" text="Vlandischer Landsknecht"/>
+    <string id="sMI3wMZu" text="verkleiden_ausrüstung_set"/>
+    <string id="SNziVpYb" text="tournament_template_khuzait_two_participant_set_v1"/>
+    <string id="strAI" text="AI"/>
+    <string id="SvAADOwm" text="Vlandian Levy Armbrustschütze"/>
+    <string id="szrwmL2i" text="tournament_template_khuzait_two_participant_set_v3"/>
+    <string id="t9eMjdgC" text="Kaiserliche Waffenpuppe"/>
+    <string id="ta34CxLs" text="Rotschenkel"/>
+    <string id="TbBnWiao" text="Kaiserliche Karawanenwache"/>
+    <string id="tCCm9Pka" text="tournament_template_battania_two_participant_set_v5"/>
+    <string id="tDYfuUuU" text="Aseraiischer Mameluken Palastwache"/>
+    <string id="thbcgVVO" text="Händler"/>
+    <string id="THOfB9DZ" text="Khuzaitianische Karawanenwache"/>
+    <string id="THyv3q9f" text="Kaiserlicher Unteroffizier Armbrustschütze"/>
+    <string id="tke6VCV6" text="Aseraiischer Infanterie"/>
+    <string id="tKKZubh8" text="tournament_template_empire_two_participant_set_v3"/>
+    <string id="tL6aGah4" text="Aseraiische Veteranen Bogenschützemilizen"/>
+    <string id="Tm3CY9tC" text="Niedrigere durchschnittliche Rüstung (12)"/>
+    <string id="TpECDErA" text="Kaiserliche Karawan Meister"/>
+    <string id="tPMjk0SX" text="tournament_template_khuzait_one_participant_set_v2"/>
+    <string id="tSc0mHy7" text="Battanischer Ausgewählter Krieger"/>
+    <string id="twCIejxn" text="Spiel-Host"/>
+    <string id="u0UNwnw2" text="Kaiserlicher Kataphrakt"/>
+    <string id="u3K1SozQ" text="Arboreal"/>
+    <string id="UaN2lfwi" text="Waffenschmied"/>
+    <string id="uca778lM" text="Beni Zilal Rekrut"/>
+    <string id="uDseaKcb" text="Sturgianischer Karawane Meister"/>
+    <string id="UdTc1PGo" text="Kaiserlicher Armbrustschütze"/>
+    <string id="ueasbGtd" text="Veteran Förster"/>
+    <string id="ugAzd39p" text="tournament_template_vlandia_one_participant_set_v1"/>
+    <string id="ugJfuabA" text="Berittene Bogenschütze"/>
+    <string id="uh4rIbZ9" text="Reiter"/>
+    <string id="ULaNn3pp" text="Aseraiische Speermiliz"/>
+    <string id="uqpp0v8D" text="tournament_template_aserai_two_participant_set_v2"/>
+    <string id="UrSjhs4x" text="Vlandischer Voulgier"/>
+    <string id="uViDMxLC" text="Skolder Rekrutierung"/>
+    <string id="UYPaQP2j" text="Khuzaitianischer Lanzenreiter"/>
+    <string id="uzwfybTH" text="Khuzaitianischer Lakai"/>
+    <string id="V1hoeBch" text="Meister Schläger"/>
+    <string id="v5zz9lxR" text="Aseraiischer Ausrüstungs Puppe"/>
+    <string id="V7iJlSuT" text="schwert zu schwert"/>
+    <string id="V8GrFH4B" text="Khuzaitianische Stadtfrau"/>
+    <string id="v8hRrmY2" text="Battanischer Waffenhändler"/>
+    <string id="VbWtdAWn" text="Sturgianisch Abgehärteter Räuber"/>
+    <string id="VdmOugeu" text="tournament_template_vlandia_four_participant_set_v1"/>
+    <string id="vGFdbjFC" text="Vlandische Veteranen Speermiliz"/>
+    <string id="vkuJeNSa" text="Vlandische Bogenschützenmiliz"/>
+    <string id="VqrQ096u" text="Khuzaitianischer Kheshig"/>
+    <string id="VtlvxEs7" text="Battanischer Clan-Krieger"/>
+    <string id="vxlAJIiU" text="Jawwal Rekrut"/>
+    <string id="vYeUaQSp" text="tournament_template_aserai_four_participant_set_v4"/>
+    <string id="vZlMfmng" text="Aseraiischer Mameluke Axtmann"/>
+    <string id="W2WXkiAh" text="Lösegeld-Vermittler"/>
+    <string id="w6YwFaG7" text="Khuzaitianischer Speerträger"/>
+    <string id="WbH2HS8j" text="Kaiserliche Stadtfrau"/>
+    <string id="WEHDGbEE" text="Khuzaitianischer Karavanmeister"/>
+    <string id="Whj89hlF" text="tournament_template_sturgia_four_participant_set_v1"/>
+    <string id="WJbOQSiT" text="Aseraiische Mameluke Regulär"/>
+    <string id="wLuvDLeY" text="tournament_template_sturgia_one_participant_set_v2"/>
+    <string id="WNU7kE5N" text="Veteran Wächter"/>
+    <string id="wtmCSMrC" text="Aseraiische Lakai"/>
+    <string id="X12lazIs" text="Vlandischer Waffenhändler"/>
+    <string id="X3KYysuv" text="Tänzer"/>
+    <string id="X4GvzDdW" text="Batanischer Falxträger"/>
+    <string id="X6CQ9CMZ" text="Vlandischer Scharfschütze"/>
+    <string id="xaYwo9tM" text="Söldner Späher"/>
+    <string id="XgjXfmM1" text="Gefängniswache"/>
+    <string id="XI3qvYnG" text="tournament_template_vlandia_two_participant_set_v4"/>
+    <string id="xIFHLI66" text="Khuzaitianischer Nomade"/>
+    <string id="xiuAStPO" text="Sturgischer Veteran Krieger"/>
+    <string id="xJFWflj0" text="tournament_template_sturgia_four_participant_set_v3"/>
+    <string id="xnzpQbwQ" text="Sturgische Reiter"/>
+    <string id="XTM6Lthg" text="tournament_template_aserai_four_participant_set_v1"/>
+    <string id="XzDObEiH" text="Vlandischer Knappe"/>
+    <string id="YE4RGuzU" text="Vlandische Veteranen Karawanenwache"/>
+    <string id="yG42k5GC" text="Aseraiische Karawanenwache"/>
+    <string id="YGexslSX" text="Skolder-Veteran Brotva"/>
+    <string id="yhBagy1Y" text="Aseraiischer Bogenschütze"/>
+    <string id="YIuBzk88" text="Normale Kämpfer"/>
+    <string id="yMqWnBfT" text="Batanischer Veteran Falxträger"/>
+    <string id="yPF32fbh" text="Vlandischer Lakai"/>
+    <string id="yrGYZsQ7" text="Kaiserlicher Veteran Infanterist"/>
+    <string id="YUCzyA8C" text="Aseraiische Mameluken Kavallerie"/>
+    <string id="z4Ke6pJl" text="Champion Kämpfer"/>
+    <string id="z6RMWTaA" text="Tavernenmagd"/>
+    <string id="Za4B0blc" text="Veteran Kämpfer"/>
+    <string id="ZEA2JReZ" text="tournament_template_khuzait_one_participant_set_v1"/>
+    <string id="zEQTwpnv" text="Aseraiische Mameluke Soldat"/>
+    <string id="zfCoeglY" text="Musiker"/>
+    <string id="ZhKoCVby" text="Speermiliz"/>
+    <string id="ZK0GXYCx" text="Schwert Schwester"/>
+    <string id="ZKuabzhK" text="Khuzaitianischer Adelssohn"/>
+    <string id="zkVWALaF" text="Battanischer ausgebildeter Speerträger"/>
+    <string id="Zmajp2o1" text="Sturgischer Speerträger"/>
+    <string id="ZRkceJx3" text="Richter"/>
+    <string id="ZSU7sMYX" text="Khuzaitischer Speerwerfer"/>
+  </strings>
+</base>

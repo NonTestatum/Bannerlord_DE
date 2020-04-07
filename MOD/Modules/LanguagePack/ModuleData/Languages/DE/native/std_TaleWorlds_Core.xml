@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="2wclahIJ" text="Werfen"/>
+    <string id="4kvKQuXM" text="Häute"/>
+    <string id="5rj7xQE4" text="Bogen"/>
+    <string id="7HvtT8bm" text="Schmied Eisen"/>
+    <string id="81YLbLok" text="Erfahrung mit der dunklen Seite des Menschlichen Lebens. Du weißt wann eine Wache bestechbar ist, du weißt wie man jemanden einschüchtert und du weißt womit du davon kommst und womit nicht."/>
+    <string id="8w0aaDbn" text="Eisen"/>
+    <string id="97EmbcHQ" text="Die Fähigkeit zu inspirieren. Du kannst Menschen mit Zuversicht füllen und größere Gruppen mit Mut und Begeisterung erfüllen."/>
+    <string id="abxndmIh" text="Soziales"/>
+    <string id="Aj3zqQq4" text="Nicht verfügbar"/>
+    <string id="azjMBa86" text="Feiner Stahl"/>
+    <string id="Bn7IsMpu" text="INT"/>
+    <string id="bVD9j0wI" text="Körperliche Fitness, Schnelligkeit und Gleichgewicht."/>
+    <string id="d2ApwXJr" text="ENDE"/>
+    <string id="EGeY1gfs" text="Charm"/>
+    <string id="eoLbkhsY" text="Meisterung des Kampfes mit zweihändigen Waffen mit mittlerer Länge wie größeren Achsen und Schwertern."/>
+    <string id="ExjMoUiT" text="Hartholz"/>
+    <string id="FLf5J3su" text="Vertrautheit mit Bögen und körperliche Kondition, um effektiv mit ihnen zu schießen."/>
+    <string id="FQOFDrAu" text="Ihr Urteil darüber, wie die Truppen in Kontakt treten werden. So können Sie gut vorhersagen, wann eine unorthodoxe Taktik funktioniert und wann nicht."/>
+    <string id="GmcgoiGy" text="Handel"/>
+    <string id="gOpodlt1" text="Roheisen"/>
+    <string id="H9Zamrao" text="Die Fähigkeit, ein Pferd zu kontrollieren, das Gleichgewicht zu halten, wenn es sich plötzlich oder unerwartet bewegt, sowie allgemeine Kenntnisse über Pferde, einschließlich ihrer Pflege und Zucht."/>
+    <string id="haax8kMa" text="Mastarm"/>
+    <string id="haV3nLYA" text="Kenntnisse über den Betrieb und die Wartung von Armbrüsten."/>
+    <string id="hbaMnpVR" text="Wissen, wie man Dinge herstellt, die starken Kräften standhalten können, ohne zusammenzubrechen. Nützlich für den Aufbau von Strukturen und die Geräte, die sie zum Einsturz bringen."/>
+    <string id="HsLfmEmb" text="Führung"/>
+    <string id="HuXafdmR" text="CTR"/>
+    <string id="igg5sEh3" text="Wissen, wie man Blutungen stillen, Knochenbrüche richten, eingebettete Waffen entfernen und Wunden reinigen kann, um Infektionen zu verhindern, und wie man Packungen aufträgt, um Schmerzen zu lindern und Entzündungen zu lindern."/>
+    <string id="iKmXX7i3" text="Beherrschung von Speer, Lanze, Stab und anderen Gewehren, sowohl einhändig als auch beidhändig."/>
+    <string id="iQadPYNe" text="Holzkohle"/>
+    <string id="Itv3fgJm" text="Getreide"/>
+    <string id="jJ9sLOLb" text="Vigor steht für die Fähigkeit, sich mit Geschwindigkeit und Kraft zu bewegen. Sie ist wichtig für den Nahkampf."/>
+    <string id="JKH59XNp" text="Medizin"/>
+    <string id="JZM1mQvb" text="Gerissen"/>
+    <string id="K8rCOQUZ" text="Ausdauer ist die Fähigkeit, eine anstrengende körperliche Tätigkeit über einen langen Zeitraum auszuüben."/>
+    <string id="kmBxaJZd" text="Wissen, wie man die Wildnis nach dem Leben scannt. Sie können Spuren folgen, Bewegungen im Unterholz erkennen und einen Feind auf der anderen Seite des Tals durch einen Lichtblitz auf Speerspitzen oder eine Staubwolke erkennen."/>
+    <string id="kvOavzcs" text="Ausdauer"/>
+    <string id="Kw6BkhIf" text="Eisenerz"/>
+    <string id="LJ6Krlbr" text="Spähen"/>
+    <string id="LmwhFv5p" text="Fleisch"/>
+    <string id="lsJMCkZy" text="Vertrautheit mit den gängigsten Waren auf dem Markt und ihren Preisen sowie die Fähigkeit, fehlerhafte Waren zu erkennen oder festzustellen, ob Sie in der Menge unterlegen sind"/>
+    <string id="m8o51fc7" text="Taktik"/>
+    <string id="n3cjEB0X" text="Werkzeuge"/>
+    <string id="NwTpATW5" text="Beherrschung des präzisen und kraftvollen Wurfes von Geschossen."/>
+    <string id="p9i3zRm9" text="Reiten"/>
+    <string id="PCZ23wvW" text="Ingenieur"/>
+    <string id="PHoxdReD" text="SOC"/>
+    <string id="PiHpR4QL" text="Einhändig"/>
+    <string id="qwEJSBaH" text="Ihr Wissen darüber, was eine Siedlung gedeihen lässt. Dies hilft Ihnen bei der Verwaltung eines Nachlasses oder einer Stadt."/>
+    <string id="skZS2UlW" text="Athletik"/>
+    <string id="sOrJoxiC" text="Intelligenz"/>
+    <string id="t78atYqH" text="Zweihändig"/>
+    <string id="TeUtEGV0" text="Intelligenz steht für die Eignung zum Lesen und theoretischen Lernen."/>
+    <string id="tH6Ooj0P" text="CNG"/>
+    <string id="TTWL7RLe" text="Armbrust"/>
+    <string id="UfuLKuaI" text="Stahl"/>
+    <string id="Uz1HHeKg" text="Handgefertigte Zufallswaffe"/>
+    <string id="uZhHh7pm" text="Hergestellte {CURR_TEMPLATE_NAME}"/>
+    <string id="V0ZMJ0PX" text="Banditentum"/>
+    <string id="VajIVjkc" text="Die Fähigkeit, eine Person dazu zu bringen, Sie zu mögen und Ihnen zu vertrauen. Sie können die Motivationen der Menschen und die Art der Argumente, auf die sie reagieren werden, gut einschätzen."/>
+    <string id="Ve8xoa3i" text="VIG"/>
+    <string id="vLVAfcta" text="Thamasken Stahl"/>
+    <string id="vx0OCvaj" text="Kontrolle steht für die Fähigkeit, Stärke zu nutzen, ohne dabei an Präzision einzubüßen. Es ist notwendig für den Einsatz von Fernkampfwaffen."/>
+    <string id="XMDTt96y" text="Sozial ist die Fähigkeit, die Motivationen der Menschen zu verstehen und sie zu beeinflussen."/>
+    <string id="xs0MpdCM" text="Schmieden"/>
+    <string id="xWbkjccP" text="Das Wissen, wie man Metall schmiedet, Griff und Klinge aufeinander abstimmt, Stangen dreht, Schuppen näht und andere Fertigkeiten, die beim Zusammenbau von Waffen und Rüstungen nützlich sind"/>
+    <string id="yEkSSqIm" text="Beherrschung des Kampfes mit Einhandwaffen, entweder mit oder ohne Schild."/>
+    <string id="Ymw2PKBo" text="Verwalter"/>
+    <string id="YO5LUfiO" text="Gerissenheit ist die Fähigkeit, vorherzusehen, was andere Menschen tun werden, und ihre Pläne zu überlisten."/>
+    <string id="YWkdD7Ki" text="Stärke"/>
+    <string id="zfRqM4mr" text="Kontrolle"/>
+  </strings>
+</base>

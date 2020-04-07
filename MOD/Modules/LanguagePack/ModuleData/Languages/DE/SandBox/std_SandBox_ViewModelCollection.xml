@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="3CpNUnVl" text="Abbrechen"/>
+    <string id="5zeL8sa9" text="Du hast {A0} Einfluss gewonnen."/>
+    <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT}p"/>
+    <string id="7WdWK2Dt" text="Spiel speichern"/>
+    <string id="8OkPHu4f" text="Nein"/>
+    <string id="9NuttOBC" text="Laden"/>
+    <string id="aeouhelq" text="Ja"/>
+    <string id="Ahy035gM" text="Baukosten"/>
+    <string id="azJulvrp" text="{?IS_BETTING}Du wirst {BET_AMOUNT}{GOLD_ICON} wenn du fliehst.{newline}{?}{\?}Möchtest du wirklich fliehen?"/>
+    <string id="bV75iwKa" text="Speichern"/>
+    <string id="CiIWjF3f" text="+{PRISONERAMOUNT} + p"/>
+    <string id="eiWQoW9j" text="Du hast {A0} Ruhm gewonnen."/>
+    <string id="eL8nhkhQ" text="Neuen Speicher-Slot erstellen"/>
+    <string id="eTw2aNV5" text="+"/>
+    <string id="GAWxyVgq" text="Löschen"/>
+    <string id="GZWPHmAw" text="Tag : {DAY}"/>
+    <string id="HH2mZq8J" text="Bist du sicher, dass du dieses Spielstand löschen möchtest?"/>
+    <string id="hiCxFj4E" text="Gespeicherte Kampagnen"/>
+    <string id="hYL3CFHX" text="Möchtest du diesen Spielstand überschreiben?"/>
+    <string id="IwhpeT8C" text="Level {PLAYER_LEVEL}"/>
+    <string id="IXwOaa98" text="Gruppengröße"/>
+    <string id="JAFIo7cM" text=":"/>
+    <string id="kJtNMYum" text="Modul stimmt nicht überein"/>
+    <string id="L9GnQvsq" text="Anteil: {BETTED_DENARS}"/>
+    <string id="LBNzsqyb" text="Ländereien"/>
+    <string id="lh0so0uX" text="Möchtest du das gespeicherte Spiel mit verschiedenen Modulen laden?"/>
+    <string id="lPMYSSAa" text="Werkzeuge erforderlich"/>
+    <string id="mDFhzEMC" text="Max. Trefferpunkte"/>
+    <string id="nvemmBZz" text="Sie haben {AMOUNT}% der Beute und der Gefangenen verdient"/>
+    <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}+w"/>
+    <string id="oBbiVeKE" text="Trefferpunkte"/>
+    <string id="oHaWR73d" text="Ok"/>
+    <string id="Q1HIlJxe" text="Überschreiben"/>
+    <string id="QHV8aeEg" text="Speicherstand Löschen"/>
+    <string id="qIeDZoSx" text="Gekauft"/>
+    <string id="qSi4DlT4" text="Nahrung"/>
+    <string id="R2AaCaPJ" text="Erwartete Änderung"/>
+    <string id="raD9MK3O" text="Schwierigkeit"/>
+    <string id="RVPidk5a" text="Einfluss"/>
+    <string id="UwuYCgIU" text="Achtung"/>
+    <string id="V4iU0wRv" text="Gold"/>
+    <string id="WAKz9xX8" text="Du hast {A0} Moral gewonnen."/>
+    <string id="WDlVhNuq" text="Bennene deinen Speicherstand"/>
+    <string id="WiNRdfsm" text="Fertig"/>
+    <string id="xu5NA6AW" text="Du hast {A0}% der Beute verdient."/>
+    <string id="xzzSaN4b" text="Erwartet: {OVERALL_EXPECTED_DENARS}"/>
+    <string id="yF5fpwNE" text="Insgesamt: {TOTAL}"/>
+    <string id="YgyHVu8S" text="Verkauft"/>
+    <string id="YXgNatqF" text="Die Version dieses Speichers entspricht nicht der aktuellen Spielversion. Gehen Sie mit Vorsicht vor."/>
+  </strings>
+</base>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="074YAjOk" text="Du wurdest wegen Inaktivität gekickt"/>
+    <string id="2SEofGth" text="Team wechseln"/>
+    <string id="4mMySbxI" text="Unbekannter Fehler"/>
+    <string id="a0IHtkoa" text="Du wurdest vom Spielhost gekickt"/>
+    <string id="AbEh2y8o" text="Speichern und Beenden"/>
+    <string id="aKjpbRP5" text="Unbekannter Grund"/>
+    <string id="bV75iwKa" text="Speichern"/>
+    <string id="e0KdfaNe" text="Speichern als"/>
+    <string id="EzeFJo65" text="Die Verbindung zum Server wurde getrennt!"/>
+    <string id="hvaDkG4w" text="Drücke eine beliebige Taste."/>
+    <string id="InGwtrWt" text="Beenden"/>
+    <string id="ivKntfNA" text="Bereits angefordert beizutreten, warte auf Serverantwort"/>
+    <string id="IzJ7f5SQ" text="Serverkapazität ist voll"/>
+    <string id="JluTW3Qw" text="Spiel beendet"/>
+    <string id="JQVixeQs" text="Zugriff auf den Spielserver fehlgeschlagen"/>
+    <string id="KRNdlbkq" text="Benutzerdefiniertes Spiel beendet"/>
+    <string id="Mm1Kb1bS" text="Falsches Passwort"/>
+    <string id="mO9bh5sy" text="Konnte benutzerdefinierten Spiel nicht beitreten"/>
+    <string id="n4UUrd1p" text="Bereits in Verwendung"/>
+    <string id="NqarFr4P" text="Optionen"/>
+    <string id="OhF7NqSb" text="Du wurdest durch Umfrage vom Spiel ausgeschlossen"/>
+    <string id="RamV6yLM" text="Zurück zum Haupmenü"/>
+    <string id="RGzyUTzm" text="Formationsanordnung wechselt zu {ARRANGEMENT_ORDER}"/>
+    <string id="srAJw3Tg" text="Spieler ist vom Server gesperrt"/>
+    <string id="T8IniCKU" text="Spieleserver ist nicht verfügbar"/>
+    <string id="tKSxGy5p" text="Server antwortet nicht"/>
+    <string id="vkpMgobZ" text="Spieleserver Fehler"/>
+    <string id="wbFB3N72" text="Du wirst durch Umfrage aus dem Spiel geworfen"/>
+    <string id="wLpJEkKY" text="Kampfserver abgestürzt"/>
+    <string id="WvGviFgt" text="Zeitüberschreitung für Ihre Verbindung zum Server"/>
+    <string id="XnsAbUE3" text="Abbrechen"/>
+    <string id="XzZFhRwr" text="Zurück zum Spiel"/>
+  </strings>
+</base>

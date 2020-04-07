@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="7bjyJDaK" text="Spielerfraktion Söldner Anführer"/>
+    <string id="EsJ3Drv7" text="Sturgianischer Söldner Anführer"/>
+    <string id="GIRpmax8" text="Aseraischer Söldner Anführer"/>
+    <string id="jHVTqyI4" text="Kaiserlicher Söldner Anführer"/>
+    <string id="ugbfHGZ3" text="Anführer der Söldner"/>
+    <string id="VPis3atP" text="Khuzaitischer Söldner Anführer"/>
+    <string id="XhbgteUK" text="Vlandischer Söldner Anführer"/>
+    <string id="y6E1CTsv" text="Battanianischer Söldner Anführer"/>
+  </strings>
+</base>

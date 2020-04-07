@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="1VOXUsST" text="Passen Sie das Symbol Ihres Banner an"/>
+    <string id="3CpNUnVl" text="Abbrechen"/>
+    <string id="Eg3m6vUS" text="Passen Sie Ihren persönlichen Banner an, indem Sie das Clan-Symbol auswählen"/>
+    <string id="WiNRdfsm" text="Fertig"/>
+  </strings>
+</base>

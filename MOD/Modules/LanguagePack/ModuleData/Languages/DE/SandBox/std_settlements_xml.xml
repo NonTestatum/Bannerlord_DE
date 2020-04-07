@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="66Mzk0NZ" text="Dickicht"/>
+    <string id="a0MVffcN" text="Seitenstraße"/>
+    <string id="fOUsLdZR" text="Weide"/>
+    <string id="iXA5SttU" text="Sumpf"/>
+    <string id="LWHIVshb" text="Leeren"/>
+    <string id="Rr1cy5Sk" text="Hafengebiet"/>
+    <string id="Settlements.Settlement.name.castle_A1" text="Festung Tubilis"/>
+    <string id="Settlements.Settlement.name.castle_A2" text="Festung Sahel"/>
+    <string id="Settlements.Settlement.name.castle_A3" text="Festung Ain Baliq"/>
+    <string id="Settlements.Settlement.name.castle_A4" text="Festung Medeni"/>
+    <string id="Settlements.Settlement.name.castle_A5" text="Festung Jamayeh"/>
+    <string id="Settlements.Settlement.name.castle_A6" text="Festung Shibal Zumr"/>
+    <string id="Settlements.Settlement.name.castle_A7" text="Festung Uqba"/>
+    <string id="Settlements.Settlement.name.castle_A8" text="Festung Tamnuh"/>
+    <string id="Settlements.Settlement.name.castle_A9" text="Festung Berihal"/>
+    <string id="Settlements.Settlement.name.castle_B1" text="Festung Ab Comer"/>
+    <string id="Settlements.Settlement.name.castle_B2" text="Festung Llanoc Hen"/>
+    <string id="Settlements.Settlement.name.castle_B3" text="Festung Druimmor"/>
+    <string id="Settlements.Settlement.name.castle_B4" text="Festung Pendraic"/>
+    <string id="Settlements.Settlement.name.castle_B5" text="Festung Rhemtoil"/>
+    <string id="Settlements.Settlement.name.castle_B6" text="Festung Flintolg"/>
+    <string id="Settlements.Settlement.name.castle_B7" text="Festung Aster"/>
+    <string id="Settlements.Settlement.name.castle_B8" text="Festung Uthelaim"/>
+    <string id="Settlements.Settlement.name.castle_EN1" text="Festung Varagos"/>
+    <string id="Settlements.Settlement.name.castle_EN2" text="Festung Lochana"/>
+    <string id="Settlements.Settlement.name.castle_EN3" text="Festung Rhesos"/>
+    <string id="Settlements.Settlement.name.castle_EN4" text="Festung Gaos"/>
+    <string id="Settlements.Settlement.name.castle_EN5" text="Festung Atrion"/>
+    <string id="Settlements.Settlement.name.castle_EN6" text="Festung Ataconia"/>
+    <string id="Settlements.Settlement.name.castle_EN7" text="Festung Epinosa"/>
+    <string id="Settlements.Settlement.name.castle_EN8" text="Festung Syratos"/>
+    <string id="Settlements.Settlement.name.castle_EN9" text="Festung Mecalovea"/>
+    <string id="Settlements.Settlement.name.castle_ES1" text="Festung Odrysa"/>
+    <string id="Settlements.Settlement.name.castle_ES2" text="Festung Corenia"/>
+    <string id="Settlements.Settlement.name.castle_ES3" text="Festung Melion"/>
+    <string id="Settlements.Settlement.name.castle_ES4" text="Festung Lavenia"/>
+    <string id="Settlements.Settlement.name.castle_ES5" text="Festung Morenia"/>
+    <string id="Settlements.Settlement.name.castle_ES6" text="Festung Sestadeim"/>
+    <string id="Settlements.Settlement.name.castle_ES7" text="Festung Jogurys"/>
+    <string id="Settlements.Settlement.name.castle_ES8" text="Festung Chanopsis"/>
+    <string id="Settlements.Settlement.name.castle_EW1" text="Festung Garontor"/>
+    <string id="Settlements.Settlement.name.castle_EW2" text="Festung Thorios"/>
+    <string id="Settlements.Settlement.name.castle_EW3" text="Festung Onica"/>
+    <string id="Settlements.Settlement.name.castle_EW4" text="Festung Thractorae"/>
+    <string id="Settlements.Settlement.name.castle_EW5" text="Festung Veron"/>
+    <string id="Settlements.Settlement.name.castle_EW6" text="Festung Hertogea"/>
+    <string id="Settlements.Settlement.name.castle_EW7" text="Festung Oristocorys"/>
+    <string id="Settlements.Settlement.name.castle_EW8" text="Festung Gersegos"/>
+    <string id="Settlements.Settlement.name.castle_K1" text="Festung Usek"/>
+    <string id="Settlements.Settlement.name.castle_K2" text="Festung Akiser"/>
+    <string id="Settlements.Settlement.name.castle_K3" text="Festung Hakkun"/>
+    <string id="Settlements.Settlement.name.castle_K4" text="Festung Tepes"/>
+    <string id="Settlements.Settlement.name.castle_K5" text="Festung Khimli"/>
+    <string id="Settlements.Settlement.name.castle_K6" text="Festung Dinar"/>
+    <string id="Settlements.Settlement.name.castle_K7" text="Festung Simira"/>
+    <string id="Settlements.Settlement.name.castle_K8" text="Festung Erzenur"/>
+    <string id="Settlements.Settlement.name.castle_K9" text="Festung Kaysar"/>
+    <string id="Settlements.Settlement.name.castle_S1" text="Festung Ustokol"/>
+    <string id="Settlements.Settlement.name.castle_S2" text="Festung Mazhadan"/>
+    <string id="Settlements.Settlement.name.castle_S3" text="Festung Nevyansk"/>
+    <string id="Settlements.Settlement.name.castle_S4" text="Festung Kranirog"/>
+    <string id="Settlements.Settlement.name.castle_S5" text="Festung Ov"/>
+    <string id="Settlements.Settlement.name.castle_S6" text="Festung Takor"/>
+    <string id="Settlements.Settlement.name.castle_S7" text="Festung Urikskala"/>
+    <string id="Settlements.Settlement.name.castle_S8" text="Festung Vladiv"/>
+    <string id="Settlements.Settlement.name.castle_V1" text="Festung Usanc"/>
+    <string id="Settlements.Settlement.name.castle_V2" text="Festung Hongard"/>
+    <string id="Settlements.Settlement.name.castle_V3" text="Festung Drapand"/>
+    <string id="Settlements.Settlement.name.castle_V4" text="Festung Ormanfard"/>
+    <string id="Settlements.Settlement.name.castle_V5" text="Festung Tirby"/>
+    <string id="Settlements.Settlement.name.castle_V6" text="Festung Caleus"/>
+    <string id="Settlements.Settlement.name.castle_V7" text="Festung Talivel"/>
+    <string id="Settlements.Settlement.name.castle_V8" text="Festung Verecsand"/>
+    <string id="Settlements.Settlement.name.castle_village_A1_1" text="Tubilis"/>
+    <string id="Settlements.Settlement.name.castle_village_A1_2" text="Fanab"/>
+    <string id="Settlements.Settlement.name.castle_village_A2_1" text="Sahel"/>
+    <string id="Settlements.Settlement.name.castle_village_A2_2" text="Asmait"/>
+    <string id="Settlements.Settlement.name.castle_village_A3_1" text="Ain Baliq"/>
+    <string id="Settlements.Settlement.name.castle_village_A3_2" text="Aiwalitas"/>
+    <string id="Settlements.Settlement.name.castle_village_A4_1" text="Medeni"/>
+    <string id="Settlements.Settlement.name.castle_village_A4_2" text="Qednar"/>
+    <string id="Settlements.Settlement.name.castle_village_A5_1" text="Jamayeh"/>
+    <string id="Settlements.Settlement.name.castle_village_A5_2" text="Hunab"/>
+    <string id="Settlements.Settlement.name.castle_village_A6_1" text="Shibal Zumr"/>
+    <string id="Settlements.Settlement.name.castle_village_A6_2" text="Lamesa"/>
+    <string id="Settlements.Settlement.name.castle_village_A7_1" text="Uqba"/>
+    <string id="Settlements.Settlement.name.castle_village_A7_2" text="Bunqaz"/>
+    <string id="Settlements.Settlement.name.castle_village_A8_1" text="Tamnuh"/>
+    <string id="Settlements.Settlement.name.castle_village_A8_2" text="Kuqa"/>
+    <string id="Settlements.Settlement.name.castle_village_A9_1" text="Berihal"/>
+    <string id="Settlements.Settlement.name.castle_village_A9_2" text="Wadar"/>
+    <string id="Settlements.Settlement.name.castle_village_B1_1" text="Ab Comer"/>
+    <string id="Settlements.Settlement.name.castle_village_B1_2" text="Inveth"/>
+    <string id="Settlements.Settlement.name.castle_village_B2_1" text="Llanoc Hen"/>
+    <string id="Settlements.Settlement.name.castle_village_B2_2" text="Cantrec"/>
+    <string id="Settlements.Settlement.name.castle_village_B3_1" text="Druimmor"/>
+    <string id="Settlements.Settlement.name.castle_village_B3_2" text="Tor Melina"/>
+    <string id="Settlements.Settlement.name.castle_village_B4_1" text="Pendraic"/>
+    <string id="Settlements.Settlement.name.castle_village_B4_2" text="Lindorn"/>
+    <string id="Settlements.Settlement.name.castle_village_B5_1" text="Rhemtoil"/>
+    <string id="Settlements.Settlement.name.castle_village_B5_2" text="Claig Ban"/>
+    <string id="Settlements.Settlement.name.castle_village_B6_1" text="Flintolg"/>
+    <string id="Settlements.Settlement.name.castle_village_B6_2" text="Glintor"/>
+    <string id="Settlements.Settlement.name.castle_village_B7_1" text="Aster"/>
+    <string id="Settlements.Settlement.name.castle_village_B7_2" text="Imlagh"/>
+    <string id="Settlements.Settlement.name.castle_village_B8_1" text="Uthelaim"/>
+    <string id="Settlements.Settlement.name.castle_village_B8_2" text="Seordas"/>
+    <string id="Settlements.Settlement.name.castle_village_EN1_1" text="Varagos"/>
+    <string id="Settlements.Settlement.name.castle_village_EN1_2" text="Aeoria"/>
+    <string id="Settlements.Settlement.name.castle_village_EN2_1" text="Lochana"/>
+    <string id="Settlements.Settlement.name.castle_village_EN2_2" text="Nortanisa"/>
+    <string id="Settlements.Settlement.name.castle_village_EN3_1" text="Rhesos"/>
+    <string id="Settlements.Settlement.name.castle_village_EN3_2" text="Dyopalis"/>
+    <string id="Settlements.Settlement.name.castle_village_EN4_1" text="Gaos"/>
+    <string id="Settlements.Settlement.name.castle_village_EN4_2" text="Themys"/>
+    <string id="Settlements.Settlement.name.castle_village_EN5_1" text="Atrion"/>
+    <string id="Settlements.Settlement.name.castle_village_EN5_2" text="Masangara"/>
+    <string id="Settlements.Settlement.name.castle_village_EN6_1" text="Ataconia"/>
+    <string id="Settlements.Settlement.name.castle_village_EN6_2" text="Potamis"/>
+    <string id="Settlements.Settlement.name.castle_village_EN7_1" text="Epinosa"/>
+    <string id="Settlements.Settlement.name.castle_village_EN7_2" text="Pons"/>
+    <string id="Settlements.Settlement.name.castle_village_EN8_1" text="Syratos"/>
+    <string id="Settlements.Settlement.name.castle_village_EN8_2" text="Temhem"/>
+    <string id="Settlements.Settlement.name.castle_village_EN9_1" text="Mekalovea"/>
+    <string id="Settlements.Settlement.name.castle_village_EN9_2" text="Agalmon"/>
+    <string id="Settlements.Settlement.name.castle_village_ES1_1" text="Odrysa"/>
+    <string id="Settlements.Settlement.name.castle_village_ES1_2" text="Caira"/>
+    <string id="Settlements.Settlement.name.castle_village_ES2_1" text="Corenia"/>
+    <string id="Settlements.Settlement.name.castle_village_ES2_2" text="Metachia"/>
+    <string id="Settlements.Settlement.name.castle_village_ES3_1" text="Melion"/>
+    <string id="Settlements.Settlement.name.castle_village_ES3_2" text="Sagolina"/>
+    <string id="Settlements.Settlement.name.castle_village_ES4_1" text="Lavenia"/>
+    <string id="Settlements.Settlement.name.castle_village_ES4_2" text="Ethemisa"/>
+    <string id="Settlements.Settlement.name.castle_village_ES5_1" text="Morenia"/>
+    <string id="Settlements.Settlement.name.castle_village_ES5_2" text="Atphynia"/>
+    <string id="Settlements.Settlement.name.castle_village_ES6_1" text="Sestadeim"/>
+    <string id="Settlements.Settlement.name.castle_village_ES6_2" text="Amycon"/>
+    <string id="Settlements.Settlement.name.castle_village_ES7_1" text="Jogurys"/>
+    <string id="Settlements.Settlement.name.castle_village_ES7_2" text="Eunalica"/>
+    <string id="Settlements.Settlement.name.castle_village_ES8_1" text="Chanopsis"/>
+    <string id="Settlements.Settlement.name.castle_village_ES8_2" text="Popsia"/>
+    <string id="Settlements.Settlement.name.castle_village_EW1_1" text="Garontor"/>
+    <string id="Settlements.Settlement.name.castle_village_EW1_2" text="Lysia"/>
+    <string id="Settlements.Settlement.name.castle_village_EW2_1" text="Thorios"/>
+    <string id="Settlements.Settlement.name.castle_village_EW2_2" text="Bergum"/>
+    <string id="Settlements.Settlement.name.castle_village_EW3_1" text="Onica"/>
+    <string id="Settlements.Settlement.name.castle_village_EW3_2" text="Tarcutis"/>
+    <string id="Settlements.Settlement.name.castle_village_EW4_1" text="Thractorae"/>
+    <string id="Settlements.Settlement.name.castle_village_EW4_2" text="Gamardan"/>
+    <string id="Settlements.Settlement.name.castle_village_EW5_1" text="Veron"/>
+    <string id="Settlements.Settlement.name.castle_village_EW5_2" text="Goleryn"/>
+    <string id="Settlements.Settlement.name.castle_village_EW6_1" text="Hertogea"/>
+    <string id="Settlements.Settlement.name.castle_village_EW6_2" text="Nideon"/>
+    <string id="Settlements.Settlement.name.castle_village_EW7_1" text="Oristocorys"/>
+    <string id="Settlements.Settlement.name.castle_village_EW7_2" text="Elvania"/>
+    <string id="Settlements.Settlement.name.castle_village_EW8_1" text="Gersegos"/>
+    <string id="Settlements.Settlement.name.castle_village_EW8_2" text="Vathea"/>
+    <string id="Settlements.Settlement.name.castle_village_K1_1" text="Usek"/>
+    <string id="Settlements.Settlement.name.castle_village_K1_2" text="Esme"/>
+    <string id="Settlements.Settlement.name.castle_village_K2_1" text="Akiser"/>
+    <string id="Settlements.Settlement.name.castle_village_K2_2" text="Kamshar"/>
+    <string id="Settlements.Settlement.name.castle_village_K3_1" text="Hakkun"/>
+    <string id="Settlements.Settlement.name.castle_village_K3_2" text="Kiraz"/>
+    <string id="Settlements.Settlement.name.castle_village_K4_1" text="Tepes"/>
+    <string id="Settlements.Settlement.name.castle_village_K4_2" text="Kuruluk"/>
+    <string id="Settlements.Settlement.name.castle_village_K5_1" text="Khimli"/>
+    <string id="Settlements.Settlement.name.castle_village_K5_2" text="Omrotok"/>
+    <string id="Settlements.Settlement.name.castle_village_K6_1" text="Dinar"/>
+    <string id="Settlements.Settlement.name.castle_village_K6_2" text="Karahalli"/>
+    <string id="Settlements.Settlement.name.castle_village_K7_1" text="Simira"/>
+    <string id="Settlements.Settlement.name.castle_village_K7_2" text="Kohi-Ajik"/>
+    <string id="Settlements.Settlement.name.castle_village_K8_1" text="Erzenur"/>
+    <string id="Settlements.Settlement.name.castle_village_K8_2" text="Gereden"/>
+    <string id="Settlements.Settlement.name.castle_village_K9_1" text="Kaysar"/>
+    <string id="Settlements.Settlement.name.castle_village_K9_2" text="Payam"/>
+    <string id="Settlements.Settlement.name.castle_village_S1_1" text="Ustokol"/>
+    <string id="Settlements.Settlement.name.castle_village_S1_2" text="Zhemyan"/>
+    <string id="Settlements.Settlement.name.castle_village_S2_1" text="Mazhadan"/>
+    <string id="Settlements.Settlement.name.castle_village_S2_2" text="Forin"/>
+    <string id="Settlements.Settlement.name.castle_village_S3_1" text="Nevyansk"/>
+    <string id="Settlements.Settlement.name.castle_village_S3_2" text="Dnin"/>
+    <string id="Settlements.Settlement.name.castle_village_S4_1" text="Kranirog"/>
+    <string id="Settlements.Settlement.name.castle_village_S4_2" text="Ismilkorg"/>
+    <string id="Settlements.Settlement.name.castle_village_S5_1" text="Ov"/>
+    <string id="Settlements.Settlement.name.castle_village_S5_2" text="Ferth"/>
+    <string id="Settlements.Settlement.name.castle_village_S6_1" text="Takor"/>
+    <string id="Settlements.Settlement.name.castle_village_S6_2" text="Dvorusta"/>
+    <string id="Settlements.Settlement.name.castle_village_S7_1" text="Urikskala"/>
+    <string id="Settlements.Settlement.name.castle_village_S7_2" text="Alov"/>
+    <string id="Settlements.Settlement.name.castle_village_S8_1" text="Vladiv"/>
+    <string id="Settlements.Settlement.name.castle_village_S8_2" text="Glavstrom"/>
+    <string id="Settlements.Settlement.name.castle_village_V1_1" text="Usanc"/>
+    <string id="Settlements.Settlement.name.castle_village_V2_1" text="Hongard"/>
+    <string id="Settlements.Settlement.name.castle_village_V2_2" text="Ferton"/>
+    <string id="Settlements.Settlement.name.castle_village_V3_1" text="Drapand"/>
+    <string id="Settlements.Settlement.name.castle_village_V3_2" text="Valanby"/>
+    <string id="Settlements.Settlement.name.castle_village_V4_1" text="Ormanfard"/>
+    <string id="Settlements.Settlement.name.castle_village_V5_1" text="Tirby"/>
+    <string id="Settlements.Settlement.name.castle_village_V5_2" text="Sirindac"/>
+    <string id="Settlements.Settlement.name.castle_village_V6_1" text="Caleus"/>
+    <string id="Settlements.Settlement.name.castle_village_V6_2" text="Deriat"/>
+    <string id="Settlements.Settlement.name.castle_village_V7_1" text="Talivel"/>
+    <string id="Settlements.Settlement.name.castle_village_V7_2" text="Rodetan"/>
+    <string id="Settlements.Settlement.name.castle_village_V8_1" text="Verecsand"/>
+    <string id="Settlements.Settlement.name.castle_village_V8_2" text="Marin"/>
+    <string id="Settlements.Settlement.name.hideout_desert_1" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_10" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_11" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_12" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_13" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_14" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_15" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_16" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_17" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_18" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_19" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_2" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_20" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_3" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_4" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_5" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_6" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_7" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_8" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_desert_9" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_1" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_10" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_11" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_12" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_13" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_14" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_15" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_16" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_17" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_18" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_19" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_2" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_3" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_4" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_5" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_6" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_7" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_8" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_forest_9" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_1" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_10" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_11" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_12" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_13" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_14" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_15" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_16" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_17" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_18" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_19" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_2" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_20" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_3" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_4" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_5" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_6" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_7" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_8" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_mountain_9" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_1" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_10" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_11" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_12" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_13" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_14" text="Küsten Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_15" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_16" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_17" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_18" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_19" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_2" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_20" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_3" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_4" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_5" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_6" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_7" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_8" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_seaside_9" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_1" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_10" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_11" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_12" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_13" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_14" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_15" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_16" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_17" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_18" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_19" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_2" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_20" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_3" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_4" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_5" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_6" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_7" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_8" text="Versteck"/>
+    <string id="Settlements.Settlement.name.hideout_steppe_9" text="Versteck"/>
+    <string id="Settlements.Settlement.name.town_A1" text="Quyaz"/>
+    <string id="Settlements.Settlement.name.town_A2" text="Husn Fulq"/>
+    <string id="Settlements.Settlement.name.town_A3" text="Iyakis"/>
+    <string id="Settlements.Settlement.name.town_A4" text="Razih"/>
+    <string id="Settlements.Settlement.name.town_A5" text="Hubyar"/>
+    <string id="Settlements.Settlement.name.town_A6" text="Sanala"/>
+    <string id="Settlements.Settlement.name.town_A7" text="Askar"/>
+    <string id="Settlements.Settlement.name.town_A8" text="Qasira"/>
+    <string id="Settlements.Settlement.name.town_B1" text="Marunath"/>
+    <string id="Settlements.Settlement.name.town_B2" text="Dunglanys"/>
+    <string id="Settlements.Settlement.name.town_B3" text="Car Banseth"/>
+    <string id="Settlements.Settlement.name.town_B4" text="Seonon"/>
+    <string id="Settlements.Settlement.name.town_B5" text="Pen Cannoc"/>
+    <string id="Settlements.Settlement.name.town_EN1" text="Epicrotea"/>
+    <string id="Settlements.Settlement.name.town_EN2" text="Diathma"/>
+    <string id="Settlements.Settlement.name.town_EN3" text="Saneopa"/>
+    <string id="Settlements.Settlement.name.town_EN4" text="Argoron"/>
+    <string id="Settlements.Settlement.name.town_EN5" text="Myzea"/>
+    <string id="Settlements.Settlement.name.town_EN6" text="Amprela"/>
+    <string id="Settlements.Settlement.name.town_ES1" text="Danustica"/>
+    <string id="Settlements.Settlement.name.town_ES2" text="Vostrum"/>
+    <string id="Settlements.Settlement.name.town_ES3" text="Poros"/>
+    <string id="Settlements.Settlement.name.town_ES4" text="Lycaron"/>
+    <string id="Settlements.Settlement.name.town_ES5" text="Onira"/>
+    <string id="Settlements.Settlement.name.town_ES6" text="Phycaon"/>
+    <string id="Settlements.Settlement.name.town_ES7" text="Syronea"/>
+    <string id="Settlements.Settlement.name.town_EW1" text="Lageta"/>
+    <string id="Settlements.Settlement.name.town_EW2" text="Zeonica"/>
+    <string id="Settlements.Settlement.name.town_EW3" text="Jalmarys"/>
+    <string id="Settlements.Settlement.name.town_EW4" text="Ortysia"/>
+    <string id="Settlements.Settlement.name.town_EW5" text="Amitatys"/>
+    <string id="Settlements.Settlement.name.town_EW6" text="Rhotae"/>
+    <string id="Settlements.Settlement.name.town_K1" text="Baltakhand"/>
+    <string id="Settlements.Settlement.name.town_K2" text="Akkalat"/>
+    <string id="Settlements.Settlement.name.town_K3" text="Makeb"/>
+    <string id="Settlements.Settlement.name.town_K4" text="Ortongard"/>
+    <string id="Settlements.Settlement.name.town_K5" text="Chaikand"/>
+    <string id="Settlements.Settlement.name.town_K6" text="Odokh"/>
+    <string id="Settlements.Settlement.name.town_S1" text="Varcheg"/>
+    <string id="Settlements.Settlement.name.town_S2" text="Balgard"/>
+    <string id="Settlements.Settlement.name.town_S3" text="Omor"/>
+    <string id="Settlements.Settlement.name.town_S4" text="Varnovapol"/>
+    <string id="Settlements.Settlement.name.town_S5" text="Tyal"/>
+    <string id="Settlements.Settlement.name.town_S6" text="Sibir"/>
+    <string id="Settlements.Settlement.name.town_S7" text="Revyl"/>
+    <string id="Settlements.Settlement.name.town_V1" text="Sargot"/>
+    <string id="Settlements.Settlement.name.town_V2" text="Vorläufige Halle"/>
+    <string id="Settlements.Settlement.name.town_V3" text="Pravend"/>
+    <string id="Settlements.Settlement.name.town_V5" text="Galend"/>
+    <string id="Settlements.Settlement.name.town_V6" text="Jaculan"/>
+    <string id="Settlements.Settlement.name.town_V7" text="Charas"/>
+    <string id="Settlements.Settlement.name.town_V8" text="Ostican"/>
+    <string id="Settlements.Settlement.name.town_V9" text="Rovalt"/>
+    <string id="Settlements.Settlement.name.village_A1_1" text="Tasheba"/>
+    <string id="Settlements.Settlement.name.village_A1_2" text="Baq"/>
+    <string id="Settlements.Settlement.name.village_A1_4" text="Hiblet"/>
+    <string id="Settlements.Settlement.name.village_A2_2" text="Abou Khih"/>
+    <string id="Settlements.Settlement.name.village_A2_3" text="Hoqqa"/>
+    <string id="Settlements.Settlement.name.village_A3_1" text="Abba"/>
+    <string id="Settlements.Settlement.name.village_A3_3" text="Bir Seif"/>
+    <string id="Settlements.Settlement.name.village_A4_1" text="Qablab"/>
+    <string id="Settlements.Settlement.name.village_A4_2" text="Mossom"/>
+    <string id="Settlements.Settlement.name.village_A4_4" text="Doqa"/>
+    <string id="Settlements.Settlement.name.village_A5_1" text="Mahloul"/>
+    <string id="Settlements.Settlement.name.village_A5_2" text="Aiwalitas"/>
+    <string id="Settlements.Settlement.name.village_A5_3" text="Deir Hawa"/>
+    <string id="Settlements.Settlement.name.village_A6_1" text="Mijayit"/>
+    <string id="Settlements.Settlement.name.village_A6_2" text="Hamoshawat"/>
+    <string id="Settlements.Settlement.name.village_A6_3" text="Jahasim"/>
+    <string id="Settlements.Settlement.name.village_A6_4" text="Nahlan"/>
+    <string id="Settlements.Settlement.name.village_A7_2" text="Kafr Hatif"/>
+    <string id="Settlements.Settlement.name.village_A7_3" text="Mabwaz"/>
+    <string id="Settlements.Settlement.name.village_A7_4" text="Zalm"/>
+    <string id="Settlements.Settlement.name.village_A8_1" text="Ezbet Nahul"/>
+    <string id="Settlements.Settlement.name.village_A8_2" text="Abghan"/>
+    <string id="Settlements.Settlement.name.village_B1_1" text="Dalmengus"/>
+    <string id="Settlements.Settlement.name.village_B1_2" text="Ebereth"/>
+    <string id="Settlements.Settlement.name.village_B1_3" text="Beglomuar"/>
+    <string id="Settlements.Settlement.name.village_B1_4" text="Ath Cafal"/>
+    <string id="Settlements.Settlement.name.village_B2_1" text="Diantogmail"/>
+    <string id="Settlements.Settlement.name.village_B2_2" text="Diantogmail"/>
+    <string id="Settlements.Settlement.name.village_B2_3" text="Morihig"/>
+    <string id="Settlements.Settlement.name.village_B3_1" text="Bog Beth"/>
+    <string id="Settlements.Settlement.name.village_B3_2" text="Geunat Nal"/>
+    <string id="Settlements.Settlement.name.village_B3_3" text="Geunat Nal"/>
+    <string id="Settlements.Settlement.name.village_B4_1" text="Bryn Glas"/>
+    <string id="Settlements.Settlement.name.village_B4_2" text="Andurn"/>
+    <string id="Settlements.Settlement.name.village_B4_3" text="Fenon Tryn"/>
+    <string id="Settlements.Settlement.name.village_B4_4" text="Swenryn"/>
+    <string id="Settlements.Settlement.name.village_B5_1" text="Swenryn"/>
+    <string id="Settlements.Settlement.name.village_B5_2" text="Gainseth"/>
+    <string id="Settlements.Settlement.name.village_B5_3" text="Mag Arba"/>
+    <string id="Settlements.Settlement.name.village_EN1_1" text="Marathea"/>
+    <string id="Settlements.Settlement.name.village_EN1_2" text="Stathymos"/>
+    <string id="Settlements.Settlement.name.village_EN1_3" text="Gymos"/>
+    <string id="Settlements.Settlement.name.village_EN2_1" text="Alosea"/>
+    <string id="Settlements.Settlement.name.village_EN2_2" text="Jeracos"/>
+    <string id="Settlements.Settlement.name.village_EN3_1" text="Enoisa"/>
+    <string id="Settlements.Settlement.name.village_EN3_3" text="Crios"/>
+    <string id="Settlements.Settlement.name.village_EN4_2" text="Alatys"/>
+    <string id="Settlements.Settlement.name.village_EN4_4" text="Hetania"/>
+    <string id="Settlements.Settlement.name.village_EN5_1" text="Vealos"/>
+    <string id="Settlements.Settlement.name.village_EN5_2" text="Orthra"/>
+    <string id="Settlements.Settlement.name.village_EN5_4" text="Samatha"/>
+    <string id="Settlements.Settlement.name.village_EN6_1" text="Avasinton"/>
+    <string id="Settlements.Settlement.name.village_EN6_2" text="Acragora"/>
+    <string id="Settlements.Settlement.name.village_ES1_2" text="Polisia"/>
+    <string id="Settlements.Settlement.name.village_ES1_3" text="Tegresos"/>
+    <string id="Settlements.Settlement.name.village_ES1_4" text="Erebulos"/>
+    <string id="Settlements.Settlement.name.village_ES2_2" text="Gorcorys"/>
+    <string id="Settlements.Settlement.name.village_ES2_3" text="Avalyps"/>
+    <string id="Settlements.Settlement.name.village_ES2_4" text="Alision"/>
+    <string id="Settlements.Settlement.name.village_ES3_1" text="Canoros"/>
+    <string id="Settlements.Settlement.name.village_ES3_2" text="Tevea"/>
+    <string id="Settlements.Settlement.name.village_ES3_3" text="Zestea"/>
+    <string id="Settlements.Settlement.name.village_ES4_1" text="Sagora"/>
+    <string id="Settlements.Settlement.name.village_ES4_3" text="Canterion"/>
+    <string id="Settlements.Settlement.name.village_ES5_1" text="Lanthas"/>
+    <string id="Settlements.Settlement.name.village_ES5_2" text="Lartusys"/>
+    <string id="Settlements.Settlement.name.village_ES5_3" text="Parasemnos"/>
+    <string id="Settlements.Settlement.name.village_ES6_1" text="Saldannis"/>
+    <string id="Settlements.Settlement.name.village_ES6_2" text="Spotia"/>
+    <string id="Settlements.Settlement.name.village_ES7_1" text="Psotai"/>
+    <string id="Settlements.Settlement.name.village_ES7_2" text="Vargornis"/>
+    <string id="Settlements.Settlement.name.village_EW1_1" text="Primessos"/>
+    <string id="Settlements.Settlement.name.village_EW1_2" text="Montos"/>
+    <string id="Settlements.Settlement.name.village_EW2_2" text="Neocorys"/>
+    <string id="Settlements.Settlement.name.village_EW2_3" text="Alsasos"/>
+    <string id="Settlements.Settlement.name.village_EW2_4" text="Zeocorys"/>
+    <string id="Settlements.Settlement.name.village_EW3_2" text="Aegosca"/>
+    <string id="Settlements.Settlement.name.village_EW3_3" text="Dradios"/>
+    <string id="Settlements.Settlement.name.village_EW4_1" text="Arpotis"/>
+    <string id="Settlements.Settlement.name.village_EW4_3" text="Vinela"/>
+    <string id="Settlements.Settlement.name.village_EW4_4" text="Garengolia"/>
+    <string id="Settlements.Settlement.name.village_EW5_1" text="Elipa"/>
+    <string id="Settlements.Settlement.name.village_EW5_2" text="Phasos"/>
+    <string id="Settlements.Settlement.name.village_EW6_1" text="Carphenion"/>
+    <string id="Settlements.Settlement.name.village_EW6_3" text="Thersenion"/>
+    <string id="Settlements.Settlement.name.village_EW6_4" text="Leblenion"/>
+    <string id="Settlements.Settlement.name.village_K1_1" text="Fisnar"/>
+    <string id="Settlements.Settlement.name.village_K1_2" text="Ulaan"/>
+    <string id="Settlements.Settlement.name.village_K1_4" text="Asalig"/>
+    <string id="Settlements.Settlement.name.village_K2_1" text="Karakalat"/>
+    <string id="Settlements.Settlement.name.village_K2_2" text="Tismil"/>
+    <string id="Settlements.Settlement.name.village_K3_1" text="Shapeshte"/>
+    <string id="Settlements.Settlement.name.village_K3_2" text="Hanekhy"/>
+    <string id="Settlements.Settlement.name.village_K3_3" text="Mazen"/>
+    <string id="Settlements.Settlement.name.village_K4_2" text="Ransam"/>
+    <string id="Settlements.Settlement.name.village_K4_3" text="Mivanjan"/>
+    <string id="Settlements.Settlement.name.village_K4_4" text="Urunjan"/>
+    <string id="Settlements.Settlement.name.village_K5_2" text="Okhutan"/>
+    <string id="Settlements.Settlement.name.village_K5_3" text="Ispantar"/>
+    <string id="Settlements.Settlement.name.village_K5_4" text="Pabastan"/>
+    <string id="Settlements.Settlement.name.village_K6_1" text="Karahan"/>
+    <string id="Settlements.Settlement.name.village_K6_2" text="Nutyuk"/>
+    <string id="Settlements.Settlement.name.village_K6_3" text="Danara"/>
+    <string id="Settlements.Settlement.name.village_S1_1" text="Rodobas"/>
+    <string id="Settlements.Settlement.name.village_S1_3" text="Kargrev"/>
+    <string id="Settlements.Settlement.name.village_S2_1" text="Safna"/>
+    <string id="Settlements.Settlement.name.village_S2_2" text="Marabrot"/>
+    <string id="Settlements.Settlement.name.village_S3_1" text="Chornobas"/>
+    <string id="Settlements.Settlement.name.village_S3_2" text="Skorin"/>
+    <string id="Settlements.Settlement.name.village_S4_1" text="Borchovagorka"/>
+    <string id="Settlements.Settlement.name.village_S4_3" text="Omkany"/>
+    <string id="Settlements.Settlement.name.village_S4_4" text="Yangutum"/>
+    <string id="Settlements.Settlement.name.village_S5_1" text="Visibrot"/>
+    <string id="Settlements.Settlement.name.village_S5_2" text="Bukits"/>
+    <string id="Settlements.Settlement.name.village_S6_1" text="Kvol"/>
+    <string id="Settlements.Settlement.name.village_S6_2" text="Radakmed"/>
+    <string id="Settlements.Settlement.name.village_S6_3" text="Alebat"/>
+    <string id="Settlements.Settlement.name.village_S7_1" text="Korsyas"/>
+    <string id="Settlements.Settlement.name.village_S7_2" text="Korsyas"/>
+    <string id="Settlements.Settlement.name.village_V1_1" text="Calioc"/>
+    <string id="Settlements.Settlement.name.village_V1_2" text="Etirburg"/>
+    <string id="Settlements.Settlement.name.village_V2_1" text="Mareiven"/>
+    <string id="Settlements.Settlement.name.village_V2_2" text="Oritan"/>
+    <string id="Settlements.Settlement.name.village_V2_3" text="Fregian"/>
+    <string id="Settlements.Settlement.name.village_V3_2" text="Rulund"/>
+    <string id="Settlements.Settlement.name.village_V3_3" text="Larnac"/>
+    <string id="Settlements.Settlement.name.village_V3_4" text="Palisona"/>
+    <string id="Settlements.Settlement.name.village_V5_1" text="Furbec"/>
+    <string id="Settlements.Settlement.name.village_V5_2" text="Meroc"/>
+    <string id="Settlements.Settlement.name.village_V5_3" text="Nogrent"/>
+    <string id="Settlements.Settlement.name.village_V6_1" text="Arromanc"/>
+    <string id="Settlements.Settlement.name.village_V6_2" text="Mot"/>
+    <string id="Settlements.Settlement.name.village_V6_3" text="Alorstan"/>
+    <string id="Settlements.Settlement.name.village_V6_4" text="Chornad"/>
+    <string id="Settlements.Settlement.name.village_V7_1" text="Savinth"/>
+    <string id="Settlements.Settlement.name.village_V7_2" text="Vesin"/>
+    <string id="Settlements.Settlement.name.village_V8_1" text="Horsger"/>
+    <string id="Settlements.Settlement.name.village_V8_2" text="Cananc"/>
+    <string id="Settlements.Settlement.name.village_V8_3" text="Remental"/>
+    <string id="Settlements.Settlement.name.village_V9_1" text="Alantas"/>
+    <string id="Settlements.Settlement.name.village_V9_2" text="Halisvust"/>
+    <string id="Settlements.Settlement.text.castle_village_A1_1" text="Tubilis ist ein Fischerdorf, welches an der Mündung des Flusses, den die Aserai Gabsa nennen, liegt. Die Dorfbewohner fahren auf das ruhige Gewässer des Golfes raus um Tunfische, Sardinen und Haie zu suchen."/>
+    <string id="Settlements.Settlement.text.castle_village_A2_1" text="Die Sahelzone liegt im Landesinneren, im trockenen Land zwischen dem Küstenstreifen der Retana und der Nahasa-Wüste. Hier kultivieren die Dorfbewohner eine Vielzahl von Sträuchern, deren aromatische Beeren und Harze getrocknet und zu Gewürzen gemahlen werden."/>
+    <string id="Settlements.Settlement.text.castle_village_A2_2" text="Asmait liegt dort, wo die Jebal-Tamar-Hügel nach Süden abbiegen und entlang der Küste verlaufen. Das Land hier ist zwar keine Wüste mehr, aber immer noch trocken und warm genug, um Dattelpalmen gedeihen zu lassen."/>
+    <string id="Settlements.Settlement.text.castle_village_A3_1" text="Ain Baliq sitzt in den felsigen Rändern der Jebal-Tamar-Hügel. Die umliegenden Ländereien sind zwar trocken, aber im Frühling produzieren sie genug Gras, um die Zucht von Pferden zu ermöglichen."/>
+    <string id="Settlements.Settlement.text.castle_village_A3_2" text="Aiwalitas sitzt in den felsigen Rändern der Jebal-Tamar-Hügel. Die umliegenden Ländereien sind zwar trocken, aber im Frühling produzieren sie genug Gras, um die Zucht von Pferden zu ermöglichen."/>
+    <string id="Settlements.Settlement.text.castle_village_A4_1" text="Medeni sitzt am Rande der Jebal Tarba, einer Reihe von Tafelbergen, die von alten Flüssen geschnitzt wurden. Grundwassertaschen, gefangen durch die sich verschiebenden Verwerfungen, Wasserhaine aus Dattelpalmen."/>
+    <string id="Settlements.Settlement.text.castle_village_A4_2" text="Qednar liegt in der Mitte der Jebal Tarba, einer Reihe von Tafelbergen und Schluchten, die von alten Flüssen ausgehöhlt wurden. Das Dorf umgibt eine Tasche mit eingeschlossenem Grundwasser und nutzt es zum Anbau von Dattelpalmen"/>
+    <string id="Settlements.Settlement.text.castle_village_A5_1" text="Jamayeh liegt am trockenen Ostufer des Salzsees, den die Aserai das Bahr al Yeshm, das Jademeer, nennen. Obwohl es nur marginales Land ist, reicht die Weide für Schafe aus."/>
+    <string id="Settlements.Settlement.text.castle_village_A6_1" text="Shibal Zumr ist eine Oase mit sattem Grün in einer Senke im trockenen Osten, wo das Grundwasser bis zur Oberfläche reichen kann. Obwohl das Ackerland begrenzt ist, gibt es genug, um Weizen für die Bewohner zu produzieren, wobei ein Teil für den Export übrig bleibt."/>
+    <string id="Settlements.Settlement.text.castle_village_A7_1" text="Uqba liegt an der Mündung des 'Verbrannten Tores', dem Pass, an dem der Damar-Fluss die Kalksteinrücken zwischen der Nahasa-Wüste und dem See von Bahr al-Yeshm durchbricht. Das Land ist für seine schönen Dattelpalmen bekannt."/>
+    <string id="Settlements.Settlement.text.castle_village_A7_2" text="Bunqaz ist ein Dorf am rechten Ufer des Damar-Flusses, der den trockenen Süden bewässert. Der Fluss verbreitert sich und verlangsamt sich in der Nähe des Sees und kann zur Bewässerung von feinen Weizenkulturen genutzt werden."/>
+    <string id="Settlements.Settlement.text.castle_village_A8_1" text="Tamnuh sitzt in einer kleinen Senke, während die schmale Ebene am Bahr-al-Yeshm-See auf die Kämme der Jejara-Steilstufe trifft. In den örtlichen Wadis kann man Lehm sammeln."/>
+    <string id="Settlements.Settlement.text.castle_village_A9_1" text="Die Oase Berihal liegt in einer Senke in der Hochebene östlich des Bahr al-Yeshm. Das Ackerland ist reichlich vorhanden, aber begrenzt, und das Land ist vor allem für die Pferde bekannt, die auf den kurzlebigen, aber reichen Frühlingsgräsern der Wüste grasen."/>
+    <string id="Settlements.Settlement.text.castle_village_B1_1" text="Ab Comer sitzt in einem Waldgebiet auf der batanischen Seite des Garontor-Passes. Hier neigen die Stämme weniger zum Krieg und mehr zum Handel mit ihren kaiserlichen Nachbarn und bauen Trauben für den Export an."/>
+    <string id="Settlements.Settlement.text.castle_village_B2_1" text="Llanoc Hen liegt im Galfin, dem Tal, das die südlichste Grenze des Battanischen Königreichs darstellt. Die Dorfbewohner dieser Gegenden haben gelernt, Maulbeeren anzubauen, denn Seide wird von den vandischen und kaiserlichen Nachbarn, mit denen sie Handel treiben, wenn sie nicht im Krieg sind, sehr geschätzt."/>
+    <string id="Settlements.Settlement.text.castle_village_B2_2" text="Cantrec ist einer der südlichsten Bezirke in Calradia, in dem noch die alte battanische Sprache gesprochen wird. Er liegt in der bewaldeten Grenzzone, die die Battanier Galfin nennen, und ist für den Olivenanbau an terrassenförmigen Hängen bekannt."/>
+    <string id="Settlements.Settlement.text.castle_village_B3_1" text="Druimmor liegt im Morcomb, einem geschützten, warmen Tal im Süden des Battanianischen Landes. Hier bauen die Dorfbewohner Eisen aus den nahe gelegenen Cursian Hills ab."/>
+    <string id="Settlements.Settlement.text.castle_village_B4_1" text="Pendraic liegt im Morcomb, einem abgelegenen Tal im südlichen Teil des Battanianischen Landes, wo die Sommer noch heiß genug sind, um feine Weintrauben zu produzieren."/>
+    <string id="Settlements.Settlement.text.castle_village_B5_1" text="Rhemtoil liegt am Oberlauf der Cafalcombe, wo sich die Waldbäche zum Fluss Cafal vereinen. Diese nebligen Wälder liefern das Holz für einen Großteil von Calradia."/>
+    <string id="Settlements.Settlement.text.castle_village_B5_2" text="Claig Ban sitzt mit Blick auf das Cafalcombe-Tal, unter dem dunklen Basaltfelsen von Banseth. Die Dorfbewohner sammeln hier Lehm aus den Gebirgsbächen, um ihr landwirtschaftliches Einkommen zu ergänzen."/>
+    <string id="Settlements.Settlement.text.castle_village_B6_1" text="Flintolg sitzt auf dem flachen und sumpfigen Mittellauf des Seavorn. Die Hänge sind mit Weinreben und Obstgärten bepflanzt, von denen die Dorfbewohner Trauben und andere Früchte ernten."/>
+    <string id="Settlements.Settlement.text.castle_village_B6_2" text="Glintor liegt in gemischten Kiefern- und Eichenwäldern in den niedrigen Hügeln zwischen dem Seavorn und dem Cafal. Hier werden Hölzer geerntet, die an die Schiffsbauer der Küste verkauft werden."/>
+    <string id="Settlements.Settlement.text.castle_village_B7_1" text="Aster sitzt am nördlichen Ende der Cafalcombe, kurz bevor der Fluss mit anderen Bächen zusammenfließt und das Meer erreicht. Sanfte Hügel, sandiger Boden und die kalte Meeresbrise sorgen für einen guten Weinanbau."/>
+    <string id="Settlements.Settlement.text.castle_village_B8_1" text="Uthelaim liegt in einer flachen bewaldeten Schlucht in den Hügeln am Rande des Seavorn-Tals. Die Dorfbewohner ernten Eiche und Tanne von diesen Hügeln."/>
+    <string id="Settlements.Settlement.text.castle_village_EN1_1" text="Varagos liegt dort, wo sich die Bäche aus den nahe gelegenen Hügeln zu dem kleinen Fluss Aris vereinigen, der in den Tanaesis-See fließt. Das Land hier ist nicht besonders reichhaltig, aber es reicht für die Schafzucht aus."/>
+    <string id="Settlements.Settlement.text.castle_village_EN2_1" text="Lochana liegt auf einem Pass über die Dryatic-Berge. Es ist als Tor zur Myzeiad bekannt, dem Tal, das die wichtigste Seidenanbauregion des Reiches ist."/>
+    <string id="Settlements.Settlement.text.castle_village_EN3_1" text="Rhesos liegt an den Südhängen des Karassischen Massivs, dem höchsten Berg des Reiches. Das Hochlandrind gedeiht auf den Gräsern der Höhen."/>
+    <string id="Settlements.Settlement.text.castle_village_EN4_1" text="Gaos liegt in der Nähe des Aris-Flusses, der in den Tanaesis-See mündet. Einst besetzten Nomaden aus dem Osten dieses Land, und der Name des Dorfes stammt von ihrem Wort für das Vieh, das auf den Gräsern am Seeufer gedeiht."/>
+    <string id="Settlements.Settlement.text.castle_village_EN5_1" text="Atrion liegt an einem kleinen Nebenfluss des Aris, in der Ebene nordwestlich des Tanaesis-Sees. Das flache, feuchte Land hier ist für den Flachs anbau geeignet."/>
+    <string id="Settlements.Settlement.text.castle_village_EN6_1" text="Ataconia liegt auf einem Plateau im Piemont der Dryatic Mountains. Der Hochlandboden ist gutes Land für den Anbau von Maulbeerbäumen, auf denen Seidenraupen gezüchtet werden."/>
+    <string id="Settlements.Settlement.text.castle_village_EN7_1" text="Pons liegt in sanften Hügeln östlich des Laconys-Sees. Die Region ist relativ dünn besiedelt, aber große Rinderherden weiden auf den grünen Hügeln."/>
+    <string id="Settlements.Settlement.text.castle_village_EN8_1" text="Temhem liegt am Fuße eines Schlüsselpasses über das Karassische Massiv, den höchsten Bergen des Reiches. Er liegt auf einer schmalen Schlucht, in deren Seiten feine Eisenerzflöze liegen."/>
+    <string id="Settlements.Settlement.text.castle_village_EN9_1" text="Agalmon sitzt auf dem Galchas, einem kleinen, aber schnellen Fluss, der in den Laconys-See fließt, der zum Schutz vor Räubern in dieser Grenzregion an einer Klippe liegt. Die vom Wasser durchschnittenen Schluchten haben zahlreiche Eisenadern freigelegt, die die Grundlage für die Wirtschaft der Region bilden."/>
+    <string id="Settlements.Settlement.text.castle_village_ES1_1" text="Odrysa liegt in der Nähe eines isolierten Tals im äußersten Südosten des Reiches. Diese Grenzregion, die lange Zeit durch Kriege und Überfälle unterbevölkert war, verfügt noch immer über genügend Eichenholz, um eine florierende Forstwirtschaft zu unterstützen."/>
+    <string id="Settlements.Settlement.text.castle_village_ES2_1" text="Corenia ist eines der am weitesten entfernten Dörfer des Reiches, das die calradische Sprache spricht. Es liegt in den eichen- und kieferbewachsenen Ausläufern des Koh Ruhini, den Bergen der Morgendämmerung, jenseits derer nur Darshi und die Sprachen der Steppe gesprochen werden. "/>
+    <string id="Settlements.Settlement.text.castle_village_ES2_2" text="Metachia ist das Zentrum eines ländlichen Bezirks am Südufer des Tanaesis-Sees, der inmitten von Eichengestrüpp und Wäldern liegt, die sich für den Anbau von Maulbeerbäumen für die Seidenproduktion eignen."/>
+    <string id="Settlements.Settlement.text.castle_village_ES3_1" text="Melion sitzt auf einer Ebene im zentralen Hochland des Reiches. Der schwarze Boden, Produkt eines alten Lavastroms, ermöglicht es, einen reichen Überschuss an Weizen von den umliegenden Farmen zu exportieren."/>
+    <string id="Settlements.Settlement.text.castle_village_ES3_2" text="Sagolina wurde am Rande des Tals der Ophthys angesiedelt. Das Land in der Umgebung hat viele der Hölzer geliefert, aus denen die kaiserlichen Flotten der vergangenen Tage gebaut wurden, und obwohl die Wälder etwas zurückgegangen sind, findet man in den Krümmungen der Hügel immer noch große Bäume."/>
+    <string id="Settlements.Settlement.text.castle_village_ES4_1" text="Lavenia ist ein Fischerdorf, das sich dort befindet, wo die tripotamische Ebene auf den Perasos-See trifft. Die flachen Gewässer hier sind für Wels und Süßwasser-Seezunge bekannt."/>
+    <string id="Settlements.Settlement.text.castle_village_ES4_2" text="Ethemisa liegt am Zusammenfluss der Flüsse Themys und Rheon in den Ebenen von Tripotamia. Der leicht bewässerbare Boden und das warme Wetter bringen eine Fülle von Weizen hervor."/>
+    <string id="Settlements.Settlement.text.castle_village_ES5_1" text="Morenia liegt in sanften Hügeln am Fuße des Chisaurischen Gebirges. Der reichhaltige Lehm, der mit dem Regen herunterläuft, ist gut für die Töpferei geeignet, während die sandigeren Hügelhänge eine anständige Traubenernte hervorbringen."/>
+    <string id="Settlements.Settlement.text.castle_village_ES6_1" text="Choronia liegt an den bewaldeten Osthängen des Berges Tanon, einem erloschenen Vulkan mit Blick auf den Perasos-See. Der schwarze Boden eignet sich gut für den Weizenanbau."/>
+    <string id="Settlements.Settlement.text.castle_village_ES7_1" text="Jogurys liegt am Südhang des Berges Tanon, einem erloschenen Vulkan, der den Perasos-See überragt. Der schwarze Boden eignet sich gut für den Anbau von Weizen."/>
+    <string id="Settlements.Settlement.text.castle_village_ES8_1" text="Chanopsis sitzt an der Spitze der Ophthys, einem kleinen, aber tiefen See im zentralen kaiserlichen Hochland. Maulbeerbäume, die Heimat von Seidenraupen, wachsen gut im Tal."/>
+    <string id="Settlements.Settlement.text.castle_village_EW1_1" text="Garontor liegt am nördlichen Ende des Zeos-Tals. Hier, an der Grenze zu den Bataillonen, sitzen Dörfer an den Klippen, um Räuber zu beobachten, die durch das Tal kommen. In der Nähe des Dorfes befinden sich Felder, auf denen sie beobachtet und geschützt werden können, während die Waldarbeiter weiter entfernt sind, um die zahlreichen Bäume der Gegend zu ernten."/>
+    <string id="Settlements.Settlement.text.castle_village_EW2_1" text="Thorios liegt im Zeos-Tal, inmitten flacher, sanfter Hügel, die einige der wertvollsten Trauben des Imperiums liefern."/>
+    <string id="Settlements.Settlement.text.castle_village_EW2_2" text="Bergon liegt auf der landwärtigen Seite des epirischen Küstengebirges, zwischen dem Meer und dem Zeos-Tal. Das Land, ein Waldgebiet, das erst vor relativ kurzer Zeit besiedelt wurde, bringt heute eine gute Ernte an Getreide hervor."/>
+    <string id="Settlements.Settlement.text.castle_village_EW3_1" text="Onica liegt in der Nähe einer Kreuzung über die untere Aminys, kurz bevor sie in die Bucht von Charas eintritt. Das warme Wetter hier ist für den Anbau von Olivenbäumen gut geeignet."/>
+    <string id="Settlements.Settlement.text.castle_village_EW4_1" text="Thractorae sitzt auf einem Katarakt, der die Gavys durchschneidet, den Fluss, der der Ausfluss des Perasos-Sees ins Meer ist. Dattelpalmen wachsen gut in diesen südlichsten Teilen des Reiches."/>
+    <string id="Settlements.Settlement.text.castle_village_EW5_1" text="Veron liegt in einem kleinen Tal, das sich von der Porea-Hochebene bis zum Fluss Aminys erstreckt. Die Dorfbewohner züchten Schafe auf den nahe gelegenen Bergen."/>
+    <string id="Settlements.Settlement.text.castle_village_EW5_2" text="Goleryn liegt auf dem steilen Abstieg von der Hochebene von Porea zum Tal der Amynis, das im Südosten vom Berg Tanon überschattet wird. Die Dorfbewohner züchten an den steilen Hängen Schafe."/>
+    <string id="Settlements.Settlement.text.castle_village_EW6_1" text="Hertogea liegt in den Eichenwäldern am Fuße des Karassischen Massivs. Die Dorfbewohner wandern regelmäßig in die höheren Hänge hinauf, um die reichen Erzadern der Berge abzubauen."/>
+    <string id="Settlements.Settlement.text.castle_village_EW7_1" text="Oristocorys sitzt auf einem flachen Regal am Fuße des Karassischen Massivs. Die Landbesitzer von Imperia haben Maulbeerbäume in diese Region importiert und damit den Anbau von Seidenraupen ermöglicht."/>
+    <string id="Settlements.Settlement.text.castle_village_EW8_1" text="Gersegos liegt in einem Tal in den Karstbergen an der Grenze zu Battania. Dieses waldreiche, leicht besiedelte Gebiet ist eine der wichtigsten Holzquellen des Reiches."/>
+    <string id="Settlements.Settlement.text.castle_village_K1_1" text="Das Dorf Usek liegt auf einem Pass über das Akkan-Gebirge. Viele seiner Einwohner leben von dem Lehm, der aus den nahegelegenen Bachbetten gewonnen werden kann."/>
+    <string id="Settlements.Settlement.text.castle_village_K1_2" text="Das Dorf Esme und die umliegenden Weiler liegen im Zentrum der Hochebene von Devseg, dem wichtigsten Weideland für die Herden der Khuzaits und ihrer Verbündeten."/>
+    <string id="Settlements.Settlement.text.castle_village_K2_1" text="Akiser sitzt in den felsigen Hügeln in der Nähe des Oberlaufs des Flusses Vithys. In den Kalksteinschluchten, die von den Hochlandflüssen durchschnitten werden, finden sich Flöze aus Eisenerz."/>
+    <string id="Settlements.Settlement.text.castle_village_K3_1" text="Das Dorf Hakkun liegt im Osten der Devseg-Hochebene, in einem rauen, von Schluchten durchzogenen Land. Obwohl es nur wenig Regen erhält, gibt es immer noch genug Abfluss von den Hügeln, um Weizen und andere Feldfrüchte anzubauen."/>
+    <string id="Settlements.Settlement.text.castle_village_K4_1" text="Das Dorf Tepes liegt in den Hügeln südöstlich des Tanaesis-Sees, wo in geschützten Tälern feine Eichen wachsen, die von den Architekten und Schiffsbauern von Calradia sehr geschätzt werden."/>
+    <string id="Settlements.Settlement.text.castle_village_K5_1" text="Khimli und seine Außenbezirke liegen in einem Winkel von Hügeln am Rande des Devseg-Plateaus und sind für den feinen Lehm bekannt, der aus ihren Flussbetten gewonnen werden kann."/>
+    <string id="Settlements.Settlement.text.castle_village_K6_1" text="Der Dinar liegt im trockenen Hochland östlich des Perasos-Sees. Unter den dornigen Gestrüpppflanzen dieses Landes gibt es mehrere, die Harze und getrocknete Beeren hervorbringen, die in den kaiserlichen Küchen sehr geschätzt werden."/>
+    <string id="Settlements.Settlement.text.castle_village_K6_2" text="Karahalli liegt in den felsigen Ausläufern, die sich aus den Steppen östlich von Perasos in Richtung der Devseger Hochebene erheben. Obwohl die Kalksteinböden dieses Landes den größten Teil des Jahres trocken sind, bieten sie nach den Frühjahrsregenfällen eine gute Weidefläche für Pferde."/>
+    <string id="Settlements.Settlement.text.castle_village_K7_1" text="Simira liegt an der Ostseite des Berges Iltan, einem Vulkanmassiv, das die Grenze zwischen dem stürmischen und dem khuzaitischen Land markiert. Die Hochlandweiden sind gut zum Weiden geeignet, obwohl die Winter hier hart sind."/>
+    <string id="Settlements.Settlement.text.castle_village_K8_1" text="Erzenur und die umliegenden Weiler liegen unter einem Felsrücken am Westrand der Devseger Hochebene, in einigen der wertvollsten Weidegründe der Steppenvölker."/>
+    <string id="Settlements.Settlement.text.castle_village_K9_1" text="Kaysar ist das Zentrum eines ländlichen Bezirks an den Südhängen des Akkan-Gebirges, wo der Frühlingsregen üppiges Gras hervorbringt, das feine Rinder- und Schafherden ernähren kann."/>
+    <string id="Settlements.Settlement.text.castle_village_K9_2" text="Payam liegt in der Küstenebene östlich des Tanaesis-Sees. Obwohl das Land hier relativ trocken ist, regnet es genug, um eine gute Weizenernte zu ermöglichen."/>
+    <string id="Settlements.Settlement.text.castle_village_S1_1" text="Ustokol liegt dort, wo die Seavorn die Bucht von Varcheg erreicht. Die Dorfbewohner hier pflegen den Flachs in den kühlen und nebligen Niederungen."/>
+    <string id="Settlements.Settlement.text.castle_village_S2_1" text="Mazhadan sitzt in einem Krummstab der Ledogora, einem scharfen Grat, der den Byalischen Golf vom Seavorn-Tal trennt. Die Siedler in dieser Region haben gelernt, in diesem regnerischen Hochland Flachs anzubauen."/>
+    <string id="Settlements.Settlement.text.castle_village_S3_1" text="Nevyansk liegt in einem Waldgebiet, das vor kurzem von einer Flut von Glücksrittern aus dem stürmischen Land besiedelt wurde, die in das obere Seavorn-Tal drängt. Sie haben einige der reichsten Bäume in dieser Region gepflückt und damit Spannungen mit den nahe gelegenen battanischen Dörfern entfacht."/>
+    <string id="Settlements.Settlement.text.castle_village_S3_2" text="Die Dnin wurden kürzlich von Sturgiern besiedelt, die in traditionelles battanisches Land zogen. Er ist teilweise in einem Tal versteckt, um geschützt zu werden, wie viele Dörfer an der Grenze. Die Menschen hier sind Förster, die Holz verkaufen, um ihren Lebensunterhalt zu verdienen."/>
+    <string id="Settlements.Settlement.text.castle_village_S4_1" text="Kranirog liegt in den niedrigen, sanften Hügeln östlich des Laconys-Sees, wo die Steppe von Waldstücken durchbrochen wird. Stürmische Siedler haben hier Weizen in die schwarzen Wiesen der Erde gesteckt, die jahrhundertelang die Weiden der umherziehenden Nomaden waren."/>
+    <string id="Settlements.Settlement.text.castle_village_S4_2" text="Ismilkorg liegt im Wald-Steppengürtel der östlichen Sturgia. Die Dörfer hier züchten Rinder auf dem Grasland, immer mit einem wachsamen Auge für Nomaden-Räuber von weiter östlich."/>
+    <string id="Settlements.Settlement.text.castle_village_S5_1" text="Ov liegt an der Mündung der Skorniva, einem kleinen Fluss, der aus den nördlichen Wäldern in den Byalischen Golf fließt. Die Dorfbewohner stellten Netze auf, um die Lachse zu fangen, die den Fluss hinauf und hinunter wandern."/>
+    <string id="Settlements.Settlement.text.castle_village_S5_2" text="Ferth liegt an der Mündung der Skorniva, einem kleinen Fluss, der aus den nördlichen Wäldern in den Byalischen Golf fließt. Die Dorfbewohner stellten Netze auf, um die Lachse zu fangen, die den Fluss hinauf und hinunter wandern."/>
+    <string id="Settlements.Settlement.text.castle_village_S6_1" text="Takor ist ein Viehzuchtdorf am Pass, den die Battanier Mynad Rhyfel, den Berg des Krieges, und ihre kaiserlichen und stürmischen Nachbarn Minador nennen. Es ist eine der Haupthandels- und Raubzugrouten zwischen dem wilden Norden und den beständigeren kaiserlichen Ländern."/>
+    <string id="Settlements.Settlement.text.castle_village_S7_1" text="Uriksala liegt an den felsigen Ostufern des Laconys-Sees. In der Nähe der Mündung der Bäche, die von den Hügeln in den See fließen, kann man reichlich Fischfang betreiben."/>
+    <string id="Settlements.Settlement.text.castle_village_S8_1" text="Wladiw liegt am Fuße der trostlosen Tschernyg-Moorlandschaft, die die Grenze zwischen dem stürmischen und dem kaiserlichen Land bildet. Die Dorfbewohner weiden das Vieh auf den Mooren und wagen sich manchmal in den Nebel hinaus, um die kaiserlichen Herden auf der anderen Seite zu überfallen."/>
+    <string id="Settlements.Settlement.text.castle_village_V1_1" text="Usanc liegt in der Nähe der sumpfigen Mündung des Flusses Amynis. Dieses warme südliche Land unterstützt den Anbau von Olivenbäumen."/>
+    <string id="Settlements.Settlement.text.castle_village_V2_1" text="Hongard liegt an einem der vielen kleinen Bäche, die von den epirischen Hügeln zum Golf von Charas hinunterfließen. Die Region, die durch die Ozeanregen gut bewässert wird, produziert gute Weizen- und Gerstenkulturen."/>
+    <string id="Settlements.Settlement.text.castle_village_V2_2" text="Ferton liegt an einem gebirgigen Küstenstreifen nördlich des Golfs von Charas. Kalksteinböden, reichlich Winterregen und heiße Sommer begünstigen den Anbau von Olivenbäumen, die das wirtschaftliche Rückgrat dieser Region bilden."/>
+    <string id="Settlements.Settlement.text.castle_village_V3_1" text="Takor ist ein Viehzuchtdorf am Pass, den die Battanier Mynad Rhyfel, den Berg des Krieges, und ihre kaiserlichen und stürmischen Nachbarn Minador nennen. Es ist eine der Haupthandels- und Raubzugrouten zwischen dem wilden Norden und den beständigeren kaiserlichen Ländern."/>
+    <string id="Settlements.Settlement.text.castle_village_V4_1" text="Ormanfard sitzt in einem hellen Kiefernwald an einem Kreuzungspunkt über dem Seavorn. Der neblige Unterlauf dieses Flusses ist der ideale Boden für den Flachs Anbau."/>
+    <string id="Settlements.Settlement.text.castle_village_V5_1" text="Tirby liegt an den Osthängen des Mount Ebor. Das sich rasch ändernde Wetter, das von Seitenwinden aus dem westlichen Ozean und dem nördlichen Byalischen Golf gespeist wird, ermöglicht den Anbau von Weintrauben und anderen südlichen Pflanzen."/>
+    <string id="Settlements.Settlement.text.castle_village_V5_2" text="Sirindac liegt an der Bucht von Varcheg. An diesem Ende der Bucht gibt es nur wenige gute Fischgründe, aber die Dorfbewohner pflanzen auf der schmalen Küstenebene Flachs an."/>
+    <string id="Settlements.Settlement.text.castle_village_V6_1" text="Caleus liegt nahe der Quelle des Gosin, eines kleinen Nebenflusses des Trand. Die sanften bewaldeten Hügel dieser erst kürzlich besiedelten Region sind reich an Tannen und Eichen für Holz."/>
+    <string id="Settlements.Settlement.text.castle_village_V6_2" text="Deriat sitzt in der niedrigen Erhebung zwischen dem Fluss Gosin und der Bucht von Ostican. Das milde Meeresklima begünstigt den Weinanbau."/>
+    <string id="Settlements.Settlement.text.castle_village_V7_1" text="Talivel liegt in niedrigen Hügeln mit Blick auf das Trand-Tal. Weite Teile der umliegenden Wälder wurden für den Weizenanbau gerodet."/>
+    <string id="Settlements.Settlement.text.castle_village_V8_1" text="Verecsand liegt in dichten Wäldern landeinwärts der epirischen Hügelkette an der Küste, im Grenzland, das mit den Batanern im Streit liegt. In den örtlichen Flussbetten wird Lehm gesammelt."/>
+    <string id="Settlements.Settlement.text.village_A1_1" text="Tasheba liegt am Golf von Charas, in den Küstengebieten, die die Aserai Retana nennen. Die Fischer gehen im Golf, der fast das ganze Jahr über sanft und ruhig ist, auf Thunfisch und Sardinenfang."/>
+    <string id="Settlements.Settlement.text.village_A1_2" text="Baq liegt im Landesinneren des Golfs von Charas. Die vorherrschenden Ostwinde aus der Wüste führen dazu, dass das Land schnell austrocknet, was jedoch den Anbau von aromatischen Beeren ermöglicht, die für die Gewürze gemahlen werden."/>
+    <string id="Settlements.Settlement.text.village_A1_3" text="Fanab liegt am Golf von Charas, in dem Küstenstreifen, den die Aserai Retana nennen. Die vorherrschenden Ostwinde aus der Wüste halten das Land relativ trocken und warm und ermöglichen den Anbau von Dattelpalmen."/>
+    <string id="Settlements.Settlement.text.village_A1_4" text="Hiblet liegt etwas landeinwärts des Golfes von Charas, in dem Küstenstreifen, den die Aserai Retana nennen. Trotz der Nähe zum Meer halten die vorherrschenden Ostwinde aus der Wüste das Land relativ trocken und warm und ermöglichen den Anbau von Dattelpalmen."/>
+    <string id="Settlements.Settlement.text.village_A2_1" text="Lamesa und sein Nachbar Hoqqa liegen im Landesinneren der Jebal-Tamar-Hügel, in einem der letzten Gebiete der Oasenlandwirtschaft vor den unfruchtbaren Abfällen der Nahasa. Die Dorfbewohner züchten Pferde und weiden sie im Gras, das kurz nach den Frühlingsregenfällen wächst und für den Rest des Jahres durch einen Brei aus Getreide und Datteln ergänzt wird."/>
+    <string id="Settlements.Settlement.text.village_A2_2" text="Abu Khih liegt im westlichen Zweig des Jebal Tamar, wo die trockenen Winde des Nahasa auf warme Meeresbrisen aus dem Westen treffen. Die Dorfbewohner fangen das Regenwasser in den Hügeln mit Dämmen auf und bewässern Oasengärten mit Dattelpalmen."/>
+    <string id="Settlements.Settlement.text.village_A2_3" text="Hoqqa und sein Nachbar Lamesa liegen landeinwärts der Jebal-Tamar-Hügel, in einem der letzten Gebiete der Oasenlandwirtschaft vor den unfruchtbaren Abfällen der Nahasa. Die Dorfbewohner züchten Pferde und weiden sie im Gras, das kurz nach den Frühlingsregenfällen wächst und für den Rest des Jahres durch einen Brei aus Getreide und Datteln ergänzt wird."/>
+    <string id="Settlements.Settlement.text.village_A3_1" text="Abba sitzt in einer geschützten Ecke des Jejara-Steilabschnitts, der den Abfluss der seltenen, aber oft heftigen Regenfälle der Wüste auffängt. Die Menschen ernähren sich von kleinen Gärten zwischen den Felsen sowie von den Bäumen, die duftende Harze und aromatische Beeren tragen, die getrocknet und als Gewürz gemahlen werden."/>
+    <string id="Settlements.Settlement.text.village_A3_2" text="Hunab liegt in einer Ecke des Jejara-Steilhanges, der den Abfluss der seltenen, aber oft heftigen Regenfälle der Wüste auffängt. Die Menschen ernähren sich von kleinen Gärten zwischen den Tälern, während sie auf den Wiesen darüber Pferde aufziehen."/>
+    <string id="Settlements.Settlement.text.village_A3_3" text="Bir Seif sitzt auf der Ebene, die von der Jejara-Steilstufe zum Perasos-See verläuft. Wie viele Dörfer dieser Gegend liegt er auf einer Felsformation, die das Grundwasser einschließt. Die feinen Tonerden dieser Gegend werden in die örtlichen Städte gebracht, um dort Töpferwaren herzustellen."/>
+    <string id="Settlements.Settlement.text.village_A4_1" text="Qablab liegt am westlichen Rand des Perasos-Sees. Obwohl der See heute Süßwasser ist, war er vor langer Zeit ein Binnenmeer, und Salzablagerungen können leicht gefunden und in Ufernähe abgebaut werden."/>
+    <string id="Settlements.Settlement.text.village_A4_2" text="Der Mossom sitzt am Ufer des Perasos-Sees. Obwohl der See heute Süßwasser ist, war er vor Äonen ein Binnenmeer, und noch immer können alte Salzablagerungen gefunden und abgebaut werden."/>
+    <string id="Settlements.Settlement.text.village_A4_3" text="Kuqa liegt in der Küstenebene südlich des Perasos-Sees. Hier fangen Felsvorsprünge den Abfluss der Jejara-Steilstufe im Norden auf und ermöglichen Oasengärten mit Dattelpalmen und anderen Feldfrüchten."/>
+    <string id="Settlements.Settlement.text.village_A4_4" text="Doqa ist ein Fischerdorf am Perasos-See. Die Dorfbewohner fahren in flachen Kanus hinaus, um Barsche zu ernten, die manchmal so lange wachsen, wie ein Mann groß ist, und halten nach den Krokodilen Ausschau, die mit ihnen um ihren Fang konkurrieren."/>
+    <string id="Settlements.Settlement.text.village_A5_1" text="Mahloul sitzt in einer Schlucht in der Wüstensteppe südöstlich des Bahr al-Yeshm. Das Grundwasser liefert gerade genug Wasser für den Anbau von Feldfrüchten zur Sicherung des Lebensunterhalts, während das Dorf sein Geld mit der Aufzucht von Pferden auf dem reichen, aber kurzlebigen Gras verdient, das nach den Frühlingsregenfällen wächst."/>
+    <string id="Settlements.Settlement.text.village_A5_2" text="Aiwalitas sitzt in einer Ecke der kahlen Hügel östlich des Bahr al-Yeshm, wo die Granitfelsen der Region Regenwasser in einem Oasenbecken auffangen. Das Ackerland ist reichlich vorhanden, aber begrenzt, und das Land ist vor allem für die Pferde bekannt, die auf den kurzlebigen, aber reichen Quellgräsern der Wüste grasen."/>
+    <string id="Settlements.Settlement.text.village_A5_3" text="Deir Hawa, das so genannte 'Kloster der Winde', benannt nach einer Kolonie von Asketen, die hier vor langer Zeit lebte, liegt in den kahlen Hügeln südöstlich des Bahr al-Yeshm-Sees. Sie versenken Brunnen, wo die felsigen Hügel Regenwasser auffangen, und bauen aromatische Beeren an, die getrocknet und zerkleinert und als Gewürz verkauft werden."/>
+    <string id="Settlements.Settlement.text.village_A6_1" text="Mijayit liegt am Ufer des Perasos-Sees. Brunnenwasser, das vom See und vom unterirdischen Fluss aus der Jejara-Steilstufe gespeist wird, bewässert die reichen Weizenfelder."/>
+    <string id="Settlements.Settlement.text.village_A6_2" text="Hamoshawat liegt am Fluss Damar, der in den Bahr al-Yeshm mündet. Das Flusswasser, das durch Kanäle in den trockenen, aber potenziell fruchtbaren Boden umgeleitet wird, bewässert reiche Weizenfelder."/>
+    <string id="Settlements.Settlement.text.village_A6_3" text="Jahasim liegt am trockenen Ostufer des Bahr al Yeshm, dem Jademeer, während die Steppe den Wüsten des Südens weicht. Die Menschen in der Region ernten Salz aus dem Brackwassersee."/>
+    <string id="Settlements.Settlement.text.village_A6_4" text="Nahlan liegt unter dem Verbrannten Tor, der Lücke in der vom Damar-Fluss durchschnittenen Jejara-Steilstufe. Die Dorfbewohner nutzen das Flusswasser und den Abfluss aus den Hügeln zur Bewässerung ihrer Dattelhaine."/>
+    <string id="Settlements.Settlement.text.village_A7_1" text="Wadar liegt in den felsigen Wadis am Rande der Jejara-Steilstufe, zwischen der Bahr al-Yeshm und der Nahasa-Wüste. Die Dorfbewohner bauen aus den zwischen den Felsen eingeschlossenen Gewässern Getreide an, während Pferde an den nahe gelegenen Hängen grasen."/>
+    <string id="Settlements.Settlement.text.village_A7_2" text="Kafr Hatif sitzt in einem Oasental in den Hügeln, die zum Damar-Fluss hinunterlaufen. Sie bauen Weizen an, um sich mit dem Wasser der Oase zu ernähren, und züchten Pferde an den Hängen über ihrem Dorf."/>
+    <string id="Settlements.Settlement.text.village_A7_3" text="Mabwaz überblickt den Damar-Fluss, der eine Linie durch die Nahasa-Wüste schneidet. Das Wasser trägt Haine von Dattelpalmen, die in der heißen Wüstenluft gedeihen."/>
+    <string id="Settlements.Settlement.text.village_A7_4" text="Zalm liegt weit flussaufwärts am Damar-Fluss, nicht weit von seiner Quelle im Tair-Gebirge. Als erste Wasserquelle, auf die ein Reisender, der die Wüste durchquert, treffen würde, ist sie eine wichtige Quelle für die Gewürze, die aus den Ländern im Osten mitgebracht werden."/>
+    <string id="Settlements.Settlement.text.village_A8_1" text="Ezbet Nahul sitzt mit Blick auf eine kleine Bucht in der Retana, dem Küstenstreifen im äußersten Westen der Aserai-Länder. Die Dorfbewohner fischen Thunfisch, Sardinen und gelegentlich Haie."/>
+    <string id="Settlements.Settlement.text.village_A8_2" text="Abghan ist ein Fischerdorf am Golf von Charas, in den Küstengebieten, die die Aserai Retana nennen. Die Dorfbewohner fischen hier Thunfisch, Sardinen und andere Meeresfische."/>
+    <string id="Settlements.Settlement.text.village_B1_1" text="Dalmengus liegt in den dichten Wäldern des oberen Cafal-Tals. Der Boden dieses Landes ist für die meisten Kulturen nicht geeignet, da die örtlichen Holzfäller mit der Ernte von Tannen und Kiefern vertraut sind."/>
+    <string id="Settlements.Settlement.text.village_B1_2" text="Ebereth sitzt in den bewaldeten Ausläufern mit Blick auf das Cafalcombe-Tal. Relativ neu besiedelt, gibt es noch viele dichte Wälder, die harte und starke Hölzer liefern."/>
+    <string id="Settlements.Settlement.text.village_B1_3" text="Beglomuar sitzt in einem flachen bewaldeten Tal im nebligen Unterlauf der Cafalcombe. Eisenerz ist in den nahe gelegenen Hügeln reichlich vorhanden."/>
+    <string id="Settlements.Settlement.text.village_B1_4" text="Ath Cafal liegt in einem tief gelegenen Wald an einer Furt über den Fluss Cafal. Die Tonsteine der Überschwemmungsebene werden von Töpfern in den battanischen Ländern geschätzt."/>
+    <string id="Settlements.Settlement.text.village_B2_1" text="Diantogmail liegt im Glanys-Tal, nicht weit vom Seavorn entfernt. Es gibt ein halbes Dutzend örtlicher Legenden, die erklären, wie die Region zu ihrem Namen, der 'Flucht des Hermes', kam, aber keine der beiden stimmt in Einzelheiten überein."/>
+    <string id="Settlements.Settlement.text.village_B2_2" text="Glenlithrig, das Tal des rutschigen Baches, liegt auf den Zufahrten zur großen Festung Dunglanys. Die Stämme hier sind berühmte Holzfäller, die die Stämme der großen Bäume ins Seavorn-Tal liefern, um sie über den Kontinent zu verschiffen."/>
+    <string id="Settlements.Settlement.text.village_B2_3" text="Morihig sitzt in einem Tal in den kursichen Hügeln an der Reichsgrenze. Die Dorfbewohner bauen Eisen aus den umliegenden Flussbetten ab."/>
+    <string id="Settlements.Settlement.text.village_B2_4" text="Imlagh liegt inmitten der bewaldeten Hügel, die sich um das mittlere Seavorn gruppieren. Dorfförster ernten hier Buchen und Eichen, die oft an stürmische Schiffsbauer an der Küste verkauft werden."/>
+    <string id="Settlements.Settlement.text.village_B2_5" text="Lindorn liegt in einer seichten Schlucht zwischen den Cursian Hills und dem Seavorn-Tal. Die Dorfbewohner sammeln hier Lehm für die Töpfer von Dunglanys und anderen nahe gelegenen Städten."/>
+    <string id="Settlements.Settlement.text.village_B3_1" text="Das Bog Beth liegt auf den sandigen Niederungen des unteren Seavorns. Die Dorfbewohner bauen an den Hängen Weinberge und Obstgärten an."/>
+    <string id="Settlements.Settlement.text.village_B3_2" text="Geunat Nal überblickt das Seavorn, während es die Schluchten von Nal durchschneidet. Die Dorfbewohner haben an den nahe gelegenen Hängen Trauben genäht."/>
+    <string id="Settlements.Settlement.text.village_B3_3" text="Tor Leiad liegt im oberen Teil des Seavorn-Tals, inmitten von dichten Wäldern aus Eichen, Eiben und Buchen. Die Wälder hier werden seit Jahrhunderten von den Battanern sorgfältig gepflegt, so dass es immer genügend Bäume gibt, die geerntet und als Holz verkauft werden können."/>
+    <string id="Settlements.Settlement.text.village_B3_4" text="Tor Melina liegt am Oberlauf des Seavorn-Tals, abseits des Flusses, inmitten von Eichen-, Eiben- und Buchenwäldern. Die sorgfältige Pflege durch die Battanier sorgt dafür, dass es immer genügend hoch aufragende Bäume gibt, die geerntet werden können, und dass neue Setzlinge nachwachsen, um die gefällten zu ersetzen."/>
+    <string id="Settlements.Settlement.text.village_B4_1" text="Bryn Glas sitzt am Südrand des Rhennod, einer Hügelkette an der Reichsgrenze. Obwohl sie wenig Landwirtschaft unterstützen, sind diese Hochländer reich an Eisen."/>
+    <string id="Settlements.Settlement.text.village_B4_2" text="Andurn liegt im südlichen Rhennod, in der Nähe des Garentor-Passes. Die Holzfäller dieser Hügel ernten Holz aus den dichten Wäldern."/>
+    <string id="Settlements.Settlement.text.village_B4_3" text="Fenon Tryn liegt nahe der Quelle des Flusses, den die Battanier Tryn nennen. Kalksteinhügel, die von der Meeresbrise aus dem Westen bewässert werden, bieten eine gute Weidefläche für das Vieh."/>
+    <string id="Settlements.Settlement.text.village_B4_4" text="Swenryn liegt in bewaldeten Hügeln in der Nähe des schnell fließenden Flusses Tryn. Die Förster dieser Region exportieren Holz unter anderem in das vandische Land."/>
+    <string id="Settlements.Settlement.text.village_B4_5" text="Seordas liegt im südlichen Teil des Battanianischen Landes, nahe der Quelle des Trand-Flusses. Warme Tage und Morgen, die durch den Ozeannebel gekühlt werden, der östlich des Flusses aufsteigt, ermöglichen den Anbau von Weintrauben."/>
+    <string id="Settlements.Settlement.text.village_B5_1" text="Durn sitzt in tief gelegenen Sümpfen, die durch die Menaig-Katarakte entstanden sind. Die Dorfbewohner sammeln hier Lehm für die Töpfer von Pen Cannoc und anderen nahe gelegenen Städten."/>
+    <string id="Settlements.Settlement.text.village_B5_2" text="Gainseth liegt an den bewaldeten Ufern des Flusses Seavorn. Die Tone dieser Tieflandregion liefern die Rohstoffe für Battanias berühmte Töpferei."/>
+    <string id="Settlements.Settlement.text.village_B5_3" text="Mag Arba liegt in der Auenlandschaft des mittleren Seehorns, einem der flacheren Teile des battanischen Landes. Die örtliche Wirtschaft basiert weitgehend auf dem Sammeln von Ton für die Töpfer der Region."/>
+    <string id="Settlements.Settlement.text.village_B5_4" text="Inveth sitzt auf einer Anhöhe mit Blick auf die Seavorn-Ebene. Die umliegenden Hänge unterstützen den Weizenanbau."/>
+    <string id="Settlements.Settlement.text.village_EN1_1" text="Marathea liegt in der Nähe des Oberlaufs des Sevora. Das Land ist aufgrund der lokalen Winde relativ trocken, aber die Bergleute wagen sich in die Ausläufer des Karassmassivs im Süden, um die reichen Eisenerzadern zu finden."/>
+    <string id="Settlements.Settlement.text.village_EN1_2" text="Stathymos liegt an einem kleinen Bach, der in den Laconys-See fließt. Die dünnen Wälder und Wiesen am trockenen westlichen Ende des Sees sind ein gutes Gebiet für die kaiserlichen Pferderassen."/>
+    <string id="Settlements.Settlement.text.village_EN1_3" text="Gymos ist ein Fischerdorf im äußersten Westen des Laconys-Sees. Die Dorfbewohner ernten Hechte aus dem See und Forellen aus den in den See fließenden Flüssen."/>
+    <string id="Settlements.Settlement.text.village_EN1_4" text="Dyopolis im oberen Seavorn-Tal, bekannt als der Sevora in der kaladischen Zunge. Die Region ist aufgrund des Musters der lokalen Berge ein Fleck mit geringen Niederschlägen, aber reiche Eisenvorkommen haben sie zu einem Streitpunkt zwischen den Batanern und dem Reich gemacht."/>
+    <string id="Settlements.Settlement.text.village_EN2_1" text="Alosea liegt in der schmalen Küstenebene am Südufer des Laconys-Sees. Die Menschen dieser Region leben gut von den Hechten und Stören des Sees."/>
+    <string id="Settlements.Settlement.text.village_EN2_2" text="Jeracos liegt auf einer kleinen Halbinsel, die sich in den Laconys-See hinaus erstreckt. Das durch die Seebrise mild gehaltene Klima ermöglicht eine gute Pferdezucht."/>
+    <string id="Settlements.Settlement.text.village_EN2_3" text="Masangara ist eine relativ junge Siedlung in der Nähe der Mündung des Odarys-Flusses in den Laconys-See. Hier werden Rinder in ehemals sumpfigen Wäldern gezüchtet, die heute entwässert und in Wiesen verwandelt sind."/>
+    <string id="Settlements.Settlement.text.village_EN3_1" text="Enoisa liegt auf einem niedrigen Bergrücken zwischen dem Aris-Tal und den Vithys. Hier wächst Weizen, der von den reichlichen Regenfällen des Nordens gespeist wird."/>
+    <string id="Settlements.Settlement.text.village_EN3_2" text="Aeoria und die umliegenden Weiler liegen in der Nähe des Flusses Vithys, in leicht bewaldeten Hügeln, die, wenn sie gerodet werden, den Anbau von Weizen ermöglichen."/>
+    <string id="Settlements.Settlement.text.village_EN3_3" text="Crios liegt in den Moorlandschaften zwischen dem Fluss Vithys und den Cold Hills. Trotz seines Namens ist die südlich gelegene Seenlandschaft neblig und die Kalksteinböden bieten den Pferden eine gute Weidefläche."/>
+    <string id="Settlements.Settlement.text.village_EN4_1" text="Potamis liegt an einer kleinen Bucht am Südufer des Laconys-Sees. In den Gewässern gibt es hier weniger Fisch als anderswo, aber die Dorfbewohner weiden das Vieh an den nahe gelegenen Hängen."/>
+    <string id="Settlements.Settlement.text.village_EN4_2" text="Alatys liegt am flachen südöstlichen Ende des Laconys-Sees. Das flache Wasser des Sees ist hier gut mit Flundern bestückt, während Forellen aus den nahegelegenen Bächen gefischt werden können."/>
+    <string id="Settlements.Settlement.text.village_EN4_3" text="Nortanisa ist ein Fischerdorf am Ostufer des Laconys-Sees, das Netze und Käfige an den flachen Rändern des Sees platziert, um Plötze, Brassen, Barsche und Krebse zu fangen."/>
+    <string id="Settlements.Settlement.text.village_EN4_4" text="Hetania liegt in einem tiefen Tal in Visilia, einer Hochlandregion im östlichen Reich. Wie in vielen Dörfern in der Umgebung sprechen die Förster dieser Region immer noch die palaischen Sprachen der Stämme, die hier vor der Ankunft des Reiches lebten."/>
+    <string id="Settlements.Settlement.text.village_EN5_1" text="Vealos liegt an den langsam ansteigenden Osthängen der hametichen Berge im Herzen des Reiches. Obwohl die Berghänge größtenteils mit Buchen- und Eichenwäldern bedeckt sind, bieten die Berghänge eine gute Weidefläche für Pferde und sind traditionell die Heimat von Gestütsbetrieben für die kaiserliche Kavallerie."/>
+    <string id="Settlements.Settlement.text.village_EN5_2" text="Orthra liegt in der Myzeiad, einem waldreichen Tal im zentralen Piemont, das seit Menschengedenken Teil des kaiserlichen Territoriums ist. Wenn die Wälder abgeholzt werden, kann feines Weideland für Pferde gerodet werden."/>
+    <string id="Settlements.Settlement.text.village_EN5_3" text="Themys liegt in der Nähe eines Baches, der in die Ophthys, einen kleinen See im zentralen Hügelland des Reiches, mündet. Schafe weiden auf den Hochlandweiden."/>
+    <string id="Settlements.Settlement.text.village_EN5_4" text="Samatha sitzt in den Ausläufern des Dryatic-Gebirges und überblickt eine steile Schlucht. Die Berghänge wurden terrassenförmig angelegt, um den Anbau von Feldfrüchten und Maulbeerpflanzen zu ermöglichen, auf denen Seidenraupen gezüchtet werden."/>
+    <string id="Settlements.Settlement.text.village_EN6_1" text="Avasinton liegt in den dichten Wäldern von Ircara, dem wilden Hochland zwischen den Seen Laconys und Tanaesys. Das Land hier eignet sich für den Anbau von Maulbeerbäumen, die die Heimat von Seidenraupen sind."/>
+    <string id="Settlements.Settlement.text.village_EN6_2" text="Acragora liegt in einem niedrigen Tal mit Blick auf das bewaldete Hochland von Ircara. Die Wälder werden hier dünner, so dass sie für Grasland und Weiden gerodet werden können."/>
+    <string id="Settlements.Settlement.text.village_ES1_1" text="Caira sitzt nahe dem Ostufer des Perasos-Sees. Die Region, die sowohl in der Nähe der Steppe als auch der südlichen Wüsten liegt, ist warm genug für den Olivenanbau."/>
+    <string id="Settlements.Settlement.text.village_ES1_2" text="Polisia sitzt auf einem Finger des Perasos-Sees, in flachen, schlammigen Gewässern, die für ihre riesigen Welse bekannt sind."/>
+    <string id="Settlements.Settlement.text.village_ES1_3" text="Tegresos liegt am Chlosonys-Fluss, einem kurzen, aber schnell fliessenden Gebirgsbach, der in den Perasos-See mündet. Diese Region, in der die besiedelten kaiserlichen Länder langsam der Steppe weichen, ist für die Qualität ihrer Schafe bekannt."/>
+    <string id="Settlements.Settlement.text.village_ES1_4" text="Erebulos liegt im Oberlauf des Flusses Chlosonys, in sanften Hügeln inmitten von Buchenwäldern, in deren dickem, dunklem Boden eine Vielzahl von Feldfrüchten wächst."/>
+    <string id="Settlements.Settlement.text.village_ES2_1" text="Das Dorf Atphynia liegt dort, wo die Tripotamos-Ebene auf den Perasos-See trifft. Obwohl der See heute Süßwasser ist, war er einst ein Binnenmeer, und es gibt große Salzablagerungen, die in Küstennähe abgebaut werden müssen."/>
+    <string id="Settlements.Settlement.text.village_ES2_2" text="Gorcorys liegt am westlichen Ende der Tripotamos-Ebene, nördlich des Perasos-Sees, kurz bevor sie sich ins karge Hochland erhebt. Der dunkle, gut bewässerte Boden hier macht diese Region zu einer kaiserlichen Kornkammer."/>
+    <string id="Settlements.Settlement.text.village_ES2_3" text="Avalyps liegt in der Tripotamos-Ebene, in der Nähe des Flusses Sethys. Der dunkle, gut bewässerte Boden hier macht diese Region zu einer kaiserlichen Kornkammer."/>
+    <string id="Settlements.Settlement.text.village_ES2_4" text="Alision sitzt unter einem Kalksteinfelsen, der sich von der Tripotamischen Ebene abhebt. In dieser Region gibt es reiche Salzablagerungen, die vor langer Zeit abgelagert wurden, als der See ein salzhaltiges Binnenmeer war."/>
+    <string id="Settlements.Settlement.text.village_ES3_1" text="Canoros ist ein relativ junges Dorf im Flachland der Hochebene von Porea. Viele von ihnen sind Nachkommen von Siedlern, die von einem kaiserlichen Archon in diese Region gebracht wurden, der ihr Potenzial für die Pferdezucht erkannte."/>
+    <string id="Settlements.Settlement.text.village_ES3_2" text="Tevea ist ein Hirtendorf am Rande der Porea, einer Hochebene, die nach einem alten palaischen Stammeshäuptling benannt ist. Die Dorfbewohner glauben, dass ihr Haus nach seinem Sohn Tevez, dem Gründer ihres Subclans, benannt ist."/>
+    <string id="Settlements.Settlement.text.village_ES3_3" text="Zestea liegt am östlichen Rand der Porea, einem Plateau, das nach einem alten palaischen Stammeshäuptling benannt ist. Obwohl seine Nachkommen heute die kaiserliche Sprache sprechen, züchten sie im Hochland immer noch Schafe in der Art ihrer Vorfahren."/>
+    <string id="Settlements.Settlement.text.village_ES4_1" text="Sagora liegt im kaiserlichen Kernland westlich des Ophthys-Pools, in niedrigen grasbewachsenen Hügeln, die sich gut für die Schafzucht eignen."/>
+    <string id="Settlements.Settlement.text.village_ES4_2" text="Popsia sitzt auf den bewaldeten Bergrücken mit Blick auf das Tripotamische Hochland. Viele der Förster hier sprechen noch immer die Sprachen des palästinensischen Volkes, das in diesen Ländern vor der Ankunft des Reiches lebte."/>
+    <string id="Settlements.Settlement.text.village_ES4_3" text="Canterion liegt in der Nähe des Quellgebiets der Sethys, das aus einem Felsvorsprung inmitten des tripotamischen Hochlandes hervorquillt. Der kalkhaltige Boden in dieser Gegend ermöglicht den Pferden eine gute Weidehaltung."/>
+    <string id="Settlements.Settlement.text.village_ES5_1" text="Lanthas liegt in der Nähe der Quelle des Miron, eines Flusses, der das Karassische Massiv vom Hochland von Visilia trennt. Schafe weiden dort, wo kaiserliche Siedler die Wälder gerodet haben."/>
+    <string id="Settlements.Settlement.text.village_ES5_2" text="Lartusys liegt in Visilia, einer dünn besiedelten Hochebene östlich des Karassmassivs. Hier wächst der Seidenraupenmaulbeerbaum in der frischen Hochlandluft. Der Dialekt ist hier stark von Palaisch, der Sprache der Stämme in dieser Region vor der kaiserlichen Eroberung, beeinflusst."/>
+    <string id="Settlements.Settlement.text.village_ES5_3" text="Parasemnos sitzt an der Spitze eines Passes, der von den Hochebenen des kaiserlichen Hochlandes zum Becken der Ophthys hinabsteigt. Obwohl die steilen Schluchten der Region den Anbau einschränken, wächst der Weizen auf dem dunklen Boden der Region gut."/>
+    <string id="Settlements.Settlement.text.village_ES6_1" text="Saldannis liegt im tief gelegenen, mit Gestrüpp bedeckten Chisaurischen Gebirge zwischen den Seen Tanaesis und Perasos. In den Flussbetten findet sich feiner Lehm, und die Hügel eignen sich auch für den Weinanbau."/>
+    <string id="Settlements.Settlement.text.village_ES6_2" text="Spotia liegt in den südlichen Ausläufern des Chisaurischen Gebirges, da diese beginnen, den Ebenen des Südostens Platz zu machen. An den Berghängen wächst Safran und eine Vielzahl von gewürzreichen Beeren, die aus den nahe gelegenen Eichenwäldern geerntet werden."/>
+    <string id="Settlements.Settlement.text.village_ES6_3" text="Amycon liegt im Zentrum eines ländlichen Bezirks an der Grenze zum Kaiserreich, gleich hinter einer bewaldeten Hügelkette von Land, das heute im Besitz der Khuzaits ist. Die Hänge sind eine gute Weide für Schafe."/>
+    <string id="Settlements.Settlement.text.village_ES7_1" text="Psotai liegt am Rande eines Plateaus westlich des Tanaesis-Sees. Einst Weidegrund für längst verschwundene Nomaden, haben kaiserliche Siedler dieses Hochland in ein erstklassiges Weizenanbauland verwandelt."/>
+    <string id="Settlements.Settlement.text.village_ES7_2" text="Vargonis sitzt am Ufer des Tanaesis-Sees. Obwohl nicht so salzig wie das Meer, ist dieses Binnengewässer brackig genug, um Salz aus seinen Lagunen und Sümpfen zu gewinnen."/>
+    <string id="Settlements.Settlement.text.village_ES7_3" text="Eunalica ist das Zentrum eines ländlichen Bezirks am Südufer des Tanaesis-Sees, der inmitten von Eichengestrüpp und Wäldern liegt, die sich für den Anbau von Maulbeerbäumen zur Seidenproduktion eignen."/>
+    <string id="Settlements.Settlement.text.village_EW1_1" text="Primessos liegt im bewaldeten Oberlauf des Zeos-Tals. Warme Sommer und kühle Winter bringen hier feine Weintrauben hervor."/>
+    <string id="Settlements.Settlement.text.village_EW1_2" text="Montos sitzt auf einer Anhöhe mit Blick auf das Zeos-Tal. In einer Region, die einst für ihre Zedern bekannt war, wurden die größeren Bäume meist für die kaiserlichen Flotten gefällt, obwohl die Bewohner immer noch Eichen und Kiefern des Hochlandes ernten können."/>
+    <string id="Settlements.Settlement.text.village_EW1_3" text="Nideon liegt an einer steilen Schlucht im oberen Hügelland des Zeos-Tals. In den terrassenförmig angelegten Hängen wachsen Olivenbäume."/>
+    <string id="Settlements.Settlement.text.village_EW2_1" text="Tarcutis liegt am Fluss Amynis, kurz vor der Kreuzung mit dem Zeos. Die Schwemmlandebenen dieser Region waren lange Zeit eine Kornkammer für das Reich."/>
+    <string id="Settlements.Settlement.text.village_EW2_2" text="Neocorys, das neue Dorf, liegt am Fuße des vulkanischen Berges Erythos. Es wurde auf der Asche einer kürzlich erfolgten Explosion auf einem Boden, der eine gute Weidefläche bietet, wieder aufgebaut."/>
+    <string id="Settlements.Settlement.text.village_EW2_3" text="Alsasos an einem Bach, der in den breiten Fluss Amynis im südlichen Teil des Reiches fließt. Die Weizenfelder in der Schwemmebene sind berühmt für ihre Erträge, auch wenn sie in letzter Zeit etwas verwildert sind, da die Grenzkriege die Landwirtschaft unterbrochen haben und die Wälder viel von dem zurückgewonnen haben, was ihnen einst gehörte."/>
+    <string id="Settlements.Settlement.text.village_EW2_4" text="Zeocorys liegt am Fluss Zeos, einem Nebenfluss der Aminys. Früher war dies eine sichere Region des Zentralreichs, und die Grundherren haben in riesige Ländereien investiert, um Pferde zu züchten, wofür die kaiserlichen Militärkassen reichlich bezahlen. Jetzt werden die Pferde von den lokalen Streitkräften eingesetzt, die besorgt auf vlandische Räuber warten, die über die westlichen Hügel kommen."/>
+    <string id="Settlements.Settlement.text.village_EW3_1" text="Gamardan liegt in der Nähe der Quelle des Flusses Amynis, wo sich Bäche aus den nahe gelegenen Wäldern vereinen. Auf den aus den umliegenden Wäldern geschnittenen Feldern wächst reichlich Weizen."/>
+    <string id="Settlements.Settlement.text.village_EW3_2" text="Aegosca liegt in einem kleinen Tal mit Blick auf den Fluss Aminys. Obwohl nach den Ziegen benannt, die früher diese Region durchstreiften, haben die Landbesitzer die Weiden für die Aufzucht von weitaus rentableren Pferden genutzt."/>
+    <string id="Settlements.Settlement.text.village_EW3_3" text="Dradios sitzt auf niedrigen Hügeln mit Blick auf den Fluss Amynis. Die Schwemmlandebenen dieser Region waren lange Zeit ein Brotkorb für das Reich."/>
+    <string id="Settlements.Settlement.text.village_EW4_1" text="Arpotis liegt im Tal der Gavys und verbindet den Perasos-See mit dem Meer. Hier an der südlichen Reichsgrenze werden Dattelpalmen angebaut."/>
+    <string id="Settlements.Settlement.text.village_EW4_2" text="Lysia liegt dort, wo das Wasser des Perasos-Sees in den Gavys-Fluss mündet, um die Reise zum Meer anzutreten. Die Dorfbewohner bauen Salzablagerungen aus den nahe gelegenen Hügeln ab."/>
+    <string id="Settlements.Settlement.text.village_EW4_3" text="Vinela liegt am Nordufer des Perasos-Sees. Der See ist heute Süßwasser, aber vor langer Zeit hat sich das Becken vom Meer abgeschnitten, und an seinen Ufern finden sich reichlich Salzablagerungen."/>
+    <string id="Settlements.Settlement.text.village_EW4_4" text="Die Garengolia liegt auf dem Hochland und blickt auf den Perasos-See und den Fluss Gavys. Die Region ist warm, aber durch den Regen gut bewässert und ist eine Hauptquelle für den Weizen des südlichen Reiches."/>
+    <string id="Settlements.Settlement.text.village_EW5_1" text="Elipa liegt am Westrand der Porea-Hochebene, kurz bevor sie zum Fluss Amynis hinabsteigt. Ein Großteil des Getreides, das die Städte dieser Region versorgt, wird in den umliegenden Ebenen angebaut."/>
+    <string id="Settlements.Settlement.text.village_EW5_2" text="Phasos liegt an den südlichen Hängen des Karassischen Massivs. Pferdezüchter haben sich hier niedergelassen, um die reichen Bergweiden zu nutzen."/>
+    <string id="Settlements.Settlement.text.village_EW6_1" text="Carphenion liegt im fruchtbaren Becken nordöstlich des Berges Erythris, in einem Land, das aufgrund der gelegentlichen Ausbrüche des Vulkans häufig besiedelt, verlassen und umgesiedelt wurde. Die Landbesitzer haben hier die Eichen- und Buchenwälder abgeholzt, um Viehzuchtbetriebe zu errichten, eine ständige Versuchung für die Battanianer aus dem Norden."/>
+    <string id="Settlements.Settlement.text.village_EW6_2" text="Vathea liegt auf einem Plateau auf halber Höhe des Karassischen Massivs. Die Dorfbewohner leben von der Landwirtschaft und dem Sammeln von Eisenerz aus den örtlichen Flussbetten, wo es von den metallreichen Bergen heruntergespült wurde,"/>
+    <string id="Settlements.Settlement.text.village_EW6_3" text="Thersenion liegt in einem seichten Tal, das vom Karassischen Massiv überschattet wird. Das Muster der Bergrücken um den Bezirk herum macht ihn ungewöhnlich trocken, aber der Regen reicht immer noch für den Anbau von Weizen."/>
+    <string id="Settlements.Settlement.text.village_EW6_4" text="Leblenion sitzt auf den unteren Hängen des Erythris. Die Dorfbewohner haben auf den Bergrücken mit den Basaltfelsen Terrassen angelegt, und die auf dem Vulkanboden angebauten Trauben werden für den kräftigen Wein, den sie hervorbringen, geschätzt."/>
+    <string id="Settlements.Settlement.text.village_K1_1" text="Fisnar liegt in einem Trockental östlich der Devseger Hochebene. Obwohl die Region für die meisten Feldfrüchte armes Land ist, produzieren die buschigen Bäume eine Beere, die, wenn sie getrocknet sind, den Eintöpfen des Ostens einen besonderen Geschmack verleihen."/>
+    <string id="Settlements.Settlement.text.village_K1_2" text="Ulaan liegt auf einem Hügel in der Devseger Hochebene. Obwohl das Land hier trocken ist, sind die Dorfbewohner in der Lage, den Winterregen in kleinen Tälern einzufangen und Flachs anzubauen, eine durstige Ernte, die sonst in dieser Region selten ist."/>
+    <string id="Settlements.Settlement.text.village_K1_3" text="Kuruluk liegt im Vorgebirge am nördlichen Ende des Devseg-Plateaus, wo es seinen Aufstieg zu den zerklüfteten Bergen von Khar Ul beginnt. Obwohl es trocken aussieht, ist es erstklassiges Weideland für die robusten Pferde der Steppe."/>
+    <string id="Settlements.Settlement.text.village_K1_4" text="Asalig liegt im Vorgebirge am nördlichen Ende des Devseg-Plateaus, wo es seinen Aufstieg zu den zerklüfteten Bergen von Khar Ul beginnt. Obwohl es trocken aussieht, ist es erstklassiges Weideland für die robusten Pferde der Steppe."/>
+    <string id="Settlements.Settlement.text.village_K2_1" text="Karakalat liegt am Rande eines Beckens an den östlichen Hängen der Devseger Hochebene, in einem Land, das zwar im Sommer trocken ist, aber im Frühjahr gutes Gras zum Weiden abgibt."/>
+    <string id="Settlements.Settlement.text.village_K2_2" text="Tismil ist das Zentrum eines ländlichen Bezirks am östlichen Rand des Devseg-Plateaus, wo in den vielen flachen Tälern Regen aufgefangen und Weizen angebaut werden kann."/>
+    <string id="Settlements.Settlement.text.village_K2_3" text="Gereden und seine Außenbezirke am südlichen Ende der Devseger Hochebene. Obwohl es ein raues Land ist, ist es für den feinen Lehm bekannt, der aus den Schluchten gewonnen werden kann."/>
+    <string id="Settlements.Settlement.text.village_K2_4" text="Kiraz liegt am Rande der Devseger Hochebene, kurz bevor diese den Steppen des Ostens weicht. Das Gebiet ist ein schönes Land für robuste Nomadenpferde, von denen einige hier aufgezogen werden, andere werden von den meist nomadischen Stämmen in den Osten gebracht."/>
+    <string id="Settlements.Settlement.text.village_K3_1" text="Shapeshte und die umliegenden Weiler liegen in der Überschwemmungsebene des Flusses Asacys, der in den Tanaesis-See mündet. In den umliegenden Wattflächen kann Salz geerntet werden."/>
+    <string id="Settlements.Settlement.text.village_K3_2" text="Hanekhy sitzt in einer Ecke eines nördlichen Ausläufers des Akkan-Gebirges mit Blick auf den Tanaesis-See. Das Land ist trocken, aber die Menschen leben hier noch immer, um die Eisenerzflöze abzubauen, die in den Wänden der vielen Schluchten zu finden sind."/>
+    <string id="Settlements.Settlement.text.village_K3_3" text="Mazen liegt am nördlichen Ende des Tanaesis-Sees. Das Gelände hier ist relativ flach, so dass die Bewohner künstliche Lagunen anlegen konnten, um Salz aus dem Brackwasser des Sees zu gewinnen."/>
+    <string id="Settlements.Settlement.text.village_K4_1" text="Omrotok liegt in einem Tal inmitten der zerklüfteten Hügel, die sich nördlich der Flüsse Asacys erheben. Seine Förster ernten Holz und andere Güter aus den nördlichen Wäldern."/>
+    <string id="Settlements.Settlement.text.village_K4_2" text="Das Lösegeld liegt in der Nähe des nördlichsten Teils von Calradia, wo es noch möglich ist, Getreide anzubauen. Obwohl die örtliche Gerste ein zäheres und trockeneres Brot ergibt als südlichere Kulturen, gedeihen Pferde darauf, vor allem die robusten Steppenrassen."/>
+    <string id="Settlements.Settlement.text.village_K4_3" text="Mivanjan sitzt in trockenen Hügeln mit Blick auf das Tal des Flusses Vithys. An den Stellen, an denen die Bäche den Schiefer- und Kalksteinuntergrund durchschneiden, finden sich reiche Eisenerzflöze."/>
+    <string id="Settlements.Settlement.text.village_K4_4" text="Urunjan liegt in einem Kiefernwald nördlich des Tanaesis-Sees. Es gibt genügend Frühlingsgras für eine zähe Rinderrasse, eine der wenigen, die so weit im Norden gedeiht."/>
+    <string id="Settlements.Settlement.text.village_K5_1" text="Kamshar ist ein Dorf an der trockenen Ostküste des Tanaesis-Sees. Die flachen, brackigen Sümpfe sind eine gute Salzquelle für das Dorf und die umliegenden Weiler."/>
+    <string id="Settlements.Settlement.text.village_K5_2" text="Gurkand ist ein Dorf im Zentrum eines Weizenanbaugebiets auf einem schmalen Stück trockener Ebene zwischen dem Tanaesis-See und den Akkan-Hügeln."/>
+    <string id="Settlements.Settlement.text.village_K5_3" text="Ispantar ist ein Dorf auf einem felsigen Ausläufer der Akkan-Hügel mit Blick auf den Tanaesis-See, wo es gerade genug Regen gibt, um eine gute Weizenernte anzubauen. "/>
+    <string id="Settlements.Settlement.text.village_K5_4" text="Pabastan ist ein Dorf an der trockenen Ostküste des Tanaesis-Sees. Die flachen, brackigen Sümpfe sind eine gute Salzquelle für das Dorf und die umliegenden Weiler."/>
+    <string id="Settlements.Settlement.text.village_K6_1" text="Karahan liegt in den Ausläufern der Koh Rohini, den Bergen, die das besiedelte Land der Khuzait von ihren nomadischen Nachbarn trennen. Die Dorfbewohner kaufen hier Pferde von den umherziehenden Stämmen und ziehen einige ihrer eigenen Pferde auf, was die Quelle für viele der von den Khuzait-Armeen gerittenen Pferde ist."/>
+    <string id="Settlements.Settlement.text.village_K6_2" text="Nutyuk liegt in einem geschützten Tal, nahe einem der letzten Kiefern- und Wacholderwälder, bevor man die endlosen Busch- und Grasebenen des Ostens erreicht. Zwischen den Bäumen wachsen seltene Beeren, die getrocknet und als Gewürz verwendet werden."/>
+    <string id="Settlements.Settlement.text.village_K6_3" text="Danara liegt im trockenen, steinigen Land, während die Hochebene von Devseg der endlosen Buschsteppe des Ostens weicht. Das Land hier produziert wenig landwirtschaftliche Überschüsse, aber der Ton wird von Töpfern und Handwerkern anderswo sehr geschätzt."/>
+    <string id="Settlements.Settlement.text.village_K6_4" text="Kohi Ajik liegt in einem engen, trockenen Tal am Fuße des so genannten Liebesberberges, von dem sich sein Name ableitet."/>
+    <string id="Settlements.Settlement.text.village_S1_1" text="Rodobas liegt auf der Halbinsel Kachyar, nördlich der Bucht von Varcheg. Entwässerte Sümpfe in der Nähe unterstützen den Anbau von Flachs."/>
+    <string id="Settlements.Settlement.text.village_S1_2" text="Forin liegt in einem niedrigen Waldgebiet östlich der Bucht von Varcheg. Das kühle, feuchte Klima und die dunklen Böden hier unterstützen den Flachs Anbau."/>
+    <string id="Settlements.Settlement.text.village_S1_3" text="Kargrev sitzt auf einem Felsvorsprung in der Bucht von Varcheg. Die Fischer dieses Dorfes nutzen die relativ geschützten Gewässer der Bucht, in die Fische vielerlei Art zum Laichen kommen."/>
+    <string id="Settlements.Settlement.text.village_S2_1" text="Safna liegt am Mittellauf des Flusses Dvora. Die Dorfbewohner züchten hier Vieh und halten Ausschau nach den Battanianern, die sich über die niedrigen Hügel im Süden wagen."/>
+    <string id="Settlements.Settlement.text.village_S2_2" text="Marabrot sitzt an einer Kreuzung über den Fluss Dvora. Die sanften Hügel dieser feuchten, kalten Niederungen unterstützen den Flachsanbau."/>
+    <string id="Settlements.Settlement.text.village_S2_3" text="Dvorusta ist ein Fischerdorf an der Mündung des Flusses Dvora. Felsenklippen schützen es vor den Stürmen des Byalischen Golfs. Außerhalb der Küste fällt der Meeresboden schnell ab, und das Wasser ist zwar kalt, aber reich an Hering und Kabeljau."/>
+    <string id="Settlements.Settlement.text.village_S3_1" text="Chornobas sitzt an den Ausläufern des brütenden Minodor-Massivs. Hier im Flachland ziehen die Dorfbewohner Flachs auf und halten nach Eindringlingen Ausschau, die über die Pässe im Norden kommen."/>
+    <string id="Settlements.Settlement.text.village_S3_2" text="Skorin sitzt auf der Skorniva, einem Bach, der aus den nördlichen Wäldern herausfließt. Wie in anderen Dörfern am Fluss handeln die Menschen hier mit den Lachsen, die mit den Jahreszeiten auf und ab wandern."/>
+    <string id="Settlements.Settlement.text.village_S4_1" text="Borchovagorka ist eine relativ junge stürmische Siedlung in der Nähe des Oberlaufs der Shava, eines Bergbachs, der in den Laconys-See fließt. Forellen und andere Fische aus dem See schwimmen hier flussaufwärts, um zu laichen, was den einheimischen Fischern einen guten Fang beschert."/>
+    <string id="Settlements.Settlement.text.village_S4_2" text="Glavstrom sitzt auf einer felsigen Bucht des Laconys-Sees. Das Dorf lebt von Hechten, Stören, Forellen und anderen Fischen aus dem leicht salzigen Tiefenwasser des Sees."/>
+    <string id="Settlements.Settlement.text.village_S4_3" text="Omkany liegt in einer Ecke der Hügel am östlichen Ende des Laconys-Sees. Das felsige Ufer ist hier reich an Eisen, das von den kleinen Bächen, die zu den Bächen hinunterlaufen, freigelegt wird."/>
+    <string id="Settlements.Settlement.text.village_S4_4" text="Yangutum liegt auf einem kleinen Plateau nördlich des Laconys-Sees. Die dicken Böden hier sind zwar schlecht entwässert, aber ein gutes Land für Flachs."/>
+    <string id="Settlements.Settlement.text.village_S5_1" text="Yangutum liegt auf einem kleinen Plateau nördlich des Laconys-Sees. Die dicken Böden hier sind zwar schlecht entwässert, aber ein gutes Land für Flachs."/>
+    <string id="Settlements.Settlement.text.village_S5_2" text="Bukits liegt am Südhang des Mount Iltan. Die Dorfbewohner züchten hier Hochlandrinder, die gezüchtet werden, um den eisigen Böen zu widerstehen, die den Berg herunterreißen."/>
+    <string id="Settlements.Settlement.text.village_S5_3" text="Alov liegt inmitten der Wälder der nördlichen Sturgia. Die Dorfbewohner dieser isolierten Region, zu denen sowohl die Waldmenschen der Vanni als auch die Migranten aus der Sturgian und dem Norden gehören, sind für ihr langes Schweigen und ihr allgemeines Misstrauen gegenüber äußeren Autoritäten bekannt."/>
+    <string id="Settlements.Settlement.text.village_S6_1" text="Die Dorfbewohner von Kvol züchten kleine, kräftige Rinder an den Ausläufern des Berges Iltan. Zu ihnen gehören die Nachkommen von Flüchtlingen und Unzufriedenen aus ganz Calradia, die in den kalten Wäldern des Nordens die Isolation suchen."/>
+    <string id="Settlements.Settlement.text.village_S6_2" text="Radakmed sitzt an den nebligen Osthängen des Berges Iltan. Die Menschen hier sind Viehhirten, die kleine, kräftige Tiere züchten, die gegen die Kälte gezüchtet werden und die auch im Winter durch den Schnee graben können, um Gras zu finden."/>
+    <string id="Settlements.Settlement.text.village_S6_3" text="Alebat sitzt tief in den Wäldern der nordöstlichen Sturgia. Diese isolierte Region war lange Zeit ein Zufluchtsort für diejenigen, die vor Unterdrückung, Schulden oder Blutfehde in den Nordlanden fliehen, und der Dialekt ist stark von Khuzait und der Sprache des Waldvolkes Vanni beeinflusst."/>
+    <string id="Settlements.Settlement.text.village_S7_1" text="Korsyas ist ein Fischerdorf an der Nordküste der Halbinsel Lachyar. Die Fischer hier führen ein gefährliches Leben und wagen sich in den stürmischen Golf von Byalic auf der Suche nach Saiblingen, Dorschen und sogar kleinen Walen."/>
+    <string id="Settlements.Settlement.text.village_S7_2" text="Karbur liegt an der Nordküste der Lachyar-Halbinsel und grenzt an den Byalischen Golf. Die kalten Wälder hier erzeugen eine Atmosphäre von Beeren, die gesammelt und getrocknet und als Gewürz verkauft werden."/>
+    <string id="Settlements.Settlement.text.village_S7_3" text="Zhemyan ist ein Fischerdorf an der Spitze der Halbinsel Kachyar. Die Dorfbewohner trotzen den Stürmen, die durch das Byalische Meer fegen, um reichlich Kabeljau und Saibling zu fangen."/>
+    <string id="Settlements.Settlement.text.village_V1_1" text="Calioc liegt an der Mündung des Flusses Seavorn. Das kalte nördliche Klima und das feuchte Küstentiefland in der Nähe unterstützen den Flachsanbau."/>
+    <string id="Settlements.Settlement.text.village_V1_2" text="Etirburg liegt an der kurzen felsigen Küste zwischen den Mündungen der Flüsse Cafal und Seavorn. Die Dorfbewohner pflegen Flachsfelder in den umliegenden Überschwemmungsgebieten."/>
+    <string id="Settlements.Settlement.text.village_V1_3" text="Rodetan liegt im bewaldeten Tal des Flusses Rot, benannt nach den rötlichen Streifen, die durch die reichlich vorhandenen Eisenablagerungen gebildet wurden. Die Dorfbewohner bauen das Metall an den Seiten des Flussbetts ab."/>
+    <string id="Settlements.Settlement.text.village_V2_1" text="Mareiven liegt in den sanften bewaldeten Hügeln des Trand-Tals. Die Einwohner dieses Bezirks sind größtenteils Förster."/>
+    <string id="Settlements.Settlement.text.village_V2_2" text="Oritan liegt in einem leichten Waldgebiet, das an den Fluss Trand angrenzt. Die Dorfbewohner sammeln hier Lehm für Töpfe aus den örtlichen Teichen und Märschen."/>
+    <string id="Settlements.Settlement.text.village_V2_3" text="Fregion liegt dort, wo der schnell fließende Fluss, den die Battanier Tryn nennen, im Flachland langsamer wird und zum Trand wird. Die Menschen dieser Region ernten die Kiefern und andere Bäume, die neben den örtlichen Sümpfen wachsen."/>
+    <string id="Settlements.Settlement.text.village_V2_4" text="Marin liegt am Fluss Gosin, einem kleinen Nebenfluss des Trand. Die milden Winde, die vom Meer aus das Tal hinaufkommen, in Verbindung mit den kalten Morgennebeln ermöglichen den Anbau von Weintrauben."/>
+    <string id="Settlements.Settlement.text.village_V3_1" text="Valanby sitzt auf einem Kap mit Blick auf den westlichen Ozean. Warme, trockene Winde aus dem Süden haben eine kleine Enklave geschaffen, in der Oliven angebaut und deren Öl in das gesamte vandische Land exportiert werden kann."/>
+    <string id="Settlements.Settlement.text.village_V3_2" text="Rulund liegt in der Nähe der Mündung des Trand-Flusses. Der Ozean hält die Winter mild genug, um den Anbau von Oliven zu ermöglichen, auch so weit im Norden."/>
+    <string id="Settlements.Settlement.text.village_V3_3" text="Larnac liegt auf sanften Hügeln im unteren Trand-Tal. Kalter Meeresnebel am Morgen und sandige Böden ermöglichen den Anbau von feinen Trauben."/>
+    <string id="Settlements.Settlement.text.village_V3_4" text="Palisona liegt an der Südküste der Bucht von Ostican. Heiße Winde, die im Frühling aus Westen über den Ozean wehen, machen dieses überraschend gute Land für den Olivenanbau nutzbar."/>
+    <string id="Settlements.Settlement.text.village_V5_1" text="Furbec liegt mit Blick auf eine Bucht an der felsigen biskanischen Küste von Zentral-Vlandia. Obwohl die Dorfbewohner etwas fischen, sind die auf den Küstenwiesen geweideten Schafe traditionell der Kern der Wirtschaft dieser Region."/>
+    <string id="Settlements.Settlement.text.village_V5_2" text="Meroc ist ein Fischerdorf in der Nähe der Mündung der Neur. Die Dorfbewohner ernten einen guten Fang an Meerbarben und Barschen aus dem Brackwasser der Flussmündung sowie Flundern und Muscheln aus dem nahe gelegenen Wattenmeer."/>
+    <string id="Settlements.Settlement.text.village_V5_3" text="Nogrent liegt in einer Ecke der biskanischen Hügel in Zentral-Vlandia. Die Region mit ihren milden Wintern ist ein erstklassiges Land für den Olivenanbau."/>
+    <string id="Settlements.Settlement.text.village_V6_1" text="Arromanc sitzt auf einem gleichnamigen Umhang. Den Seewinden ausgesetzt und ohne natürlichen Hafen, fischen die Bewohner hier weniger als ihre Nachbarn. Durch die Salznebelbildung sind jedoch weitläufige Küstenwiesen entstanden, auf denen die Schafe fein geweidet werden."/>
+    <string id="Settlements.Settlement.text.village_V6_2" text="Mot liegt entlang des Flusses Neur im heutigen vandischen Kernland. Als das Land noch zum Reich gehörte, war es ein erstklassiges Schafzuchtgebiet, und das ist es auch heute noch."/>
+    <string id="Settlements.Settlement.text.village_V6_3" text="Alorstan liegt in den warmen, grünen Ebenen im Herzen des vandischen Königreichs, entlang des Flusses Neur. Im milden Klima gedeihen Olivenbäume."/>
+    <string id="Settlements.Settlement.text.village_V6_4" text="Tschornad ist ein Fischerdorf, das an einer geschützten Bucht liegt. Die Meeresbrise sorgt die meiste Zeit des Jahres für ein mildes Klima, und Sardinen und Thunfisch können in den warmen Meeresströmungen gefangen werden, die von Süden heraufkommen, gleich hinter den Landzungen."/>
+    <string id="Settlements.Settlement.text.village_V7_1" text="Savinth liegt im Zentrum eines ländlichen Bezirks in den Wäldern im Hinterland der Bucht von Charas. Die Weiden inmitten der Kiefern sind ein gutes Terrain für Pferde."/>
+    <string id="Settlements.Settlement.text.village_V7_2" text="Das Dorf Vesin liegt versteckt in einer Felsspalte mit Blick auf die Bucht von Charas. Der Boden ist felsig, aber gut für den Anbau von Oliven, dem Hauptprodukt der Region, geeignet."/>
+    <string id="Settlements.Settlement.text.village_V8_1" text="Horsger ist dort, wo der Legende nach der Krieger Horsa an Land kam und seinen Speer in den Strand gesteckt hat. Heute ist es ein Fischerdorf, das seinen Fang an die nahe gelegene Stadt Ostican liefert."/>
+    <string id="Settlements.Settlement.text.village_V8_2" text="Cananc liegt in den feuchtwaldigen Hügeln des nördlichen Rhennod, wo Zedern im Meeresnebel hoch wachsen. Die Dorfbewohner pflegen hier die Wälder und verkaufen das Holz an die Ingenieure und Schiffsbauer der Küste."/>
+    <string id="Settlements.Settlement.text.village_V8_3" text="Remental überblickt die Bucht von Ostican, im Schatten des Berges Ebor. Im nebligen Vorgebirge wachsen hoch aufragende Tannen und Fichten, die eine blühende Holzindustrie unterstützen."/>
+    <string id="Settlements.Settlement.text.village_V9_1" text="Alantas liegt in der Mitte der gebirgigen Ebor-Halbinsel. Der Boden hier ist dünn und das Wetter hier ist kalt, aber reiche Eisenvorkommen stützen die lokale Wirtschaft."/>
+    <string id="Settlements.Settlement.text.village_V9_2" text="Halisvust liegt mit Blick auf eine kleine Bucht auf der Halbinsel Ebor. Die Dorfbewohner haben die örtlichen Küstenmoore trockengelegt und die ehemaligen Feuchtgebiete mit Flachs und anderen Flachsfeldern bepflanzt."/>
+  </strings>
+</base>

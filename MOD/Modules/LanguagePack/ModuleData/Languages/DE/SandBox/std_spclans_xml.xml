@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="0m0IUnL1" text="fen Uvain"/>
+    <string id="0u8ipbgn" text="Die Stämme, bekannt als Waldvölker, praktizieren Brandrodung in den Tiefen Wäldern außerhalb des Einflussgebiets der Sturgianer. Sie brennen große Waldgebiete nieder, pflanzen Feldfrüchte auf dem unbefruchteten Boden an, gedüngt mit Asche bis das Land erschöpft ist, und machen weiter. Eine ineffeziente Nutzung von Land, aber eine sehr effiziente Nutzung von Arbeitskräften, geeignet für eine zahlenmäßig kleine Bevölkerung in einem großen Gebiet. Auch weil die Grundstücke schwer zu messen und zu besteuern sind, ist es eine sehr gute Strategie für Leute, denen es egal ist, regiert zu werden."/>
+    <string id="1sbJQR4H" text="Plünderer"/>
+    <string id="3o5s6L3y" text="dey Meroc"/>
+    <string id="3PzgpFGq" text="Neutral"/>
+    <string id="4Dbwdjbe" text="Hongeros"/>
+    <string id="4rr3d8hY" text="Dolentor"/>
+    <string id="4TiYXBqK" text="Die Ghilman sind eine Söldnerbande, die von den Stämmen im Süden von Calradia, und den Östlichen Ländern ihre Männer rekrutieren. Sie sind ihre eigenen Sklaven und Meister: Jeder, verkauft sich selbst an den Auftrag und wird dabei Teileigentümer. Sie sind für ihre feinen Pferde und Kleidungen bekannt. Trotzdem sollte niemand von ihrem geölten Locken, Parfümen und Pfauenfedern annehmen, dass sie mehr Zeit putzend verbringen, als zu Trainieren. Ihre Fähigkeiten als berrittene Bogenschützen sind unvergleichlich, und als Lanzenreiter gleich hinter den Vlandianern und den Imperialischen Kataphraken."/>
+    <string id="6BvGhzao" text="Karakhergit"/>
+    <string id="6OEQJV6k" text="Julius"/>
+    <string id="7bhNgOKd" text="Die Wolfshäute sind Erben einer langen Tradition in den battanischen Ländern, in denen große Krieger in ihrer Jugend 'wilde' waren. Dort lernten sie die Wege des Waldes und wie man unter Not leidet. Solange eine Wolfshaut keine genähten Kleider trägt, isst er kein gekochtes essen und schläft draußen unter keinem Dach. Er ist immun gegen die Gesetze. Tatsächlich neigen die modernen Wolfshäute dazu, die Söhne wohlhabener Familien zu sein, die einige Jahre brauchen, um ihrer wilden Seite nachzugeben. Der alte Kodex muss nicht unbedingt mit Füßen getreten werden, um Reisende zu berauben und brutal zu leben."/>
+    <string id="7k9izAvC" text="Skolderbrotva"/>
+    <string id="7WL1LWdf" text="Seeratte"/>
+    <string id="8ba4tpRU" text="Jawwal"/>
+    <string id="8Wi66Sp2" text="Prienicos"/>
+    <string id="9NWQNInC" text="dey Molarn"/>
+    <string id="9ORFG9l4" text="Chonis"/>
+    <string id="9qAUWcfa" text="dey Gunric"/>
+    <string id="9qAWNBvA" text="Die Eleftheroi, das freie Volk, leben in den Steppengebieten am Rande des Reiches. Ursprünglich die Nachkommen von entlaufenen Sklaven und Schuldnern, wurden sie bald von den lokalen kaiserlichen Befehlshabern wegen ihrer Kenntnisse dieser Grenzregion hoch geschätzt. Ihre Anführer wurden mit Titeln ausgezeichnet, ihre jungen Männer in das Gefolge von Archonen und Kaisern aufgenommen. Aber obwohl sie nun der Idee des Reiches sehr treu sind, bleiben sie seiner eigentlichen Autorität ziemlich feindselig gegenüber."/>
+    <string id="9Y1u2onl" text="Banu Hulyan"/>
+    <string id="9ZEdEWmi" text="Die See-Ratten leben in den Sumpfgebieten an den Ufern des großen Nordsees, in Hütten, die aus Holz von zerstörten Schiffen gebaut werden. Sie leben vom 'Wracken' - das heißt, sie locken Schiffe mit falschen Leuchttürmen und Leuchtsignalen. Weil sie vom Rest Calradia verachtet werden - alle Verbrecher, Gerüche wie Faulgas und Schlamm und fauler Fisch - verachten sie alle anderen. Obwohl ihre Reihen überwiegend Sturgisch sind, wurden sie von Flüchtlingen und Schuldnern geprägt und jeder, der lieber von einem Diebstahl leben würde als von den Gesetzen der Adelsfamilien."/>
+    <string id="a4GxTbPD" text="Varros"/>
+    <string id="A4wIVnM4" text="Gundaroving"/>
+    <string id="a67wFbUw" text="fen Gruffendoc"/>
+    <string id="Aft8nsgn" text="Banu Sarmal"/>
+    <string id="ApJrV7bA" text="Sorados"/>
+    <string id="AppNvfPv" text="Ormidoving"/>
+    <string id="as2TiAIJ" text="Bruderschaft des Waldes"/>
+    <string id="b6SEM6Ab" text="Koltit"/>
+    <string id="B8c2mNKj" text="Die 'Glut der Flamme' ist die Nachkommenschaft einer Rebellenbewegung, die sich vor fast einem Jahrhundert erhoben hat, nachdem der heilige, aber unwirksame jugendliche Kaiser Darusos von einem seiner Generäle gestürzt wurde. Sie behaupten, dass sie dem Himmel den Weg bereiten, um Darusos zurückzubringen und ein goldenes Zeitalter einzuläuten, aber wie so viele andere Rebellenbewegungen in Calradia waren sie gezwungen, sich der Erpressung zuzuwenden, um zu überleben."/>
+    <string id="bhxVA9w7" text="Die Letzte Legion wurde geschaffen, nachdem Kaiser Arenicos nach der Katastrophe der Schlacht von Pendraic seine Reformen in Kraft gesetzt hatte, indem er die letzten stehenden Armeen des Reiches zugunsten der privaten Gefolgsleute der Archonen abschaffte, die wesentlich billiger und besser in der Lage waren, das Territorium zu kontrollieren. Die Legion setzt sich aus Männern zusammen, die diese Veränderung verabscheuten: Sie liebten die alte Armee, ihre Standards und ihre Geschichte der Einheiten und ihr Lagerleben, und sie machen das neue System für die Zerstörung des Reiches verantwortlich. Aber eine Armee hält nicht zusammen, wenn sie nicht regelmäßig bezahlt wird, und sie nimmt Aufträge von kaiserlichen und ausländischen Lords gleichermaßen an."/>
+    <string id="bjemmmcF" text="Corenios"/>
+    <string id="bsPd5zri" text="Die Skolderbroda oder Schildbrüder sind eine Söldnerkompanie für diejenigen, die den Kampf und die Ausbildung sehr ernst nehmen. Sie sind in erster Linie nordisch, erlauben aber auch Rekruten aus anderen Kulturen, solange ein bereits diensttuender Schildbruder für sie bürgt. Ihre Regeln sind fast klösterlich: keine Frauen in ihren Lagern und keine Vergnügungen, und kein Bruder darf ohne Erlaubnis im Freien übernachten. Im Kampf kämpfen sie mit Speer und Axt im nordischen Stil und werden von allen Adelshäusern des Nordens geschätzt."/>
+    <string id="BxCRDt5m" text="Vizartos"/>
+    <string id="cd0yDTM1" text="Lonalion"/>
+    <string id="CibaXzG8" text="Phalentes"/>
+    <string id="CRSFOSil" text="Urkhunait"/>
+    <string id="CS4rSk99" text="dey Cortain"/>
+    <string id="Ds2vQVwr" text="Avlonos"/>
+    <string id="e6csp4ha" text="Steppen Banditen"/>
+    <string id="eC6qIOzz" text="Eleftheroi"/>
+    <string id="EnZHNc2k" text="Isyaroving"/>
+    <string id="Eu932blQ" text="Kuloving"/>
+    <string id="fvYgmrjG" text="Banu Sarmal"/>
+    <string id="fXENjJJL" text="Osticos"/>
+    <string id="GCy0xb6U" text="Guilde"/>
+    <string id="GgMVWlkr" text="Clan testen"/>
+    <string id="gXeF1yKn" text="Harfit"/>
+    <string id="H5iWxbbl" text="Ghilman"/>
+    <string id="h7ujXmDx" text="Mestricaros"/>
+    <string id="HMnHaJac" text="fen Morain"/>
+    <string id="hrWQWgaM" text="Pethros"/>
+    <string id="j3KtHQzn" text="Hand"/>
+    <string id="k3djFmuO" text="fen Penraic"/>
+    <string id="kbGk2so8" text="Baltait"/>
+    <string id="khnadIv1" text="Bruderschaft"/>
+    <string id="kkUQObZn" text="Wüstenbanditen"/>
+    <string id="l6JtB97p" text="Banu Atij"/>
+    <string id="LqTTchsa" text="Legion der Verratenen"/>
+    <string id="lUfFxWlk" text="Banu Qaraz"/>
+    <string id="LygSwU3i" text="dey Jelind"/>
+    <string id="LZVzzczs" text="dey Fortes"/>
+    <string id="m0teef5g" text="Tigrit"/>
+    <string id="mddbprXj" text="Vagiroving"/>
+    <string id="mOa9CX13" text="Gebirgsbanditen"/>
+    <string id="mpjp1MT2" text="dey Arromanc"/>
+    <string id="mtZu1l2j" text="Ember der Flamme"/>
+    <string id="MVHawAEp" text="Verborgene Hand"/>
+    <string id="nh4Y3LOc" text="Wolfskins"/>
+    <string id="NObV048p" text="Beni Zilal"/>
+    <string id="nQOf27Rx" text="Die Verborgene Hand ist eine Mafia, die die ländlichen Gebiete und manchmal auch die Städte im Süden des Reiches beherrscht. Sie gedeiht, indem sie sich für die Behörden nützlich macht: Unruhen unterdrücken, lästige Prediger zum Schweigen bringen und Kaufleute bestehlen, die mit ihren Gönnern konkurrieren. Viele von ihnen bewegen sich zwischen einem respektablen Leben in den Städten und einem kriminellen Leben auf dem Land hin und her, verbringen zwei oder drei Monate im Jahr als Räuber und Vollstrecker und den Rest als 'Händler' mit gestohlenen Waren, wohl wissend, dass sie niemand belästigen wird."/>
+    <string id="o0Xm5Rqk" text="Spielerland"/>
+    <string id="o4wKMT9x" text="Banu Habbab"/>
+    <string id="o7ud4X2X" text="Waldvölker"/>
+    <string id="ObBvcDhJ" text="fen Giall"/>
+    <string id="OVQoC9fn" text="Comnos"/>
+    <string id="pBUc2pL8" text="Seeräuber"/>
+    <string id="pdz4YsEf" text="Maneolis"/>
+    <string id="Q1nAHnV7" text="Khergit"/>
+    <string id="qFntgcGy" text="dey Tihr"/>
+    <string id="qoLWSdRE" text="fen Eingal"/>
+    <string id="RWOYui01" text="Die Jawwal oder 'Roamers' sind die wichtigste Beduinen-Konföderation in der Nahhas-Wüste. Sie wandern vom Hochland zu den Weidegründen im Tiefland und erklären riesige Wüstengebiete zu ihrem 'Territorium', in dem jede Karawane Schutzgeld anbieten muss. Sie verfassen Gedichte über ihre Taten und verspotten andere Clans der Banu Asera, weil sie die 'Freiheit' der schwarzen Wollzelte für Steinhäuser in den Oasen aufgegeben haben. Die anderen Clans halten sie für prahlerische Plagegeister, respektieren sie aber widerwillig als Beschützer der alten Aserai-Weise."/>
+    <string id="s0AVQCbJ" text="Togaroving"/>
+    <string id="sAbjtZbB" text="Waldbanditen"/>
+    <string id="Ssl38GEF" text="Legion"/>
+    <string id="tA3IRBgv" text="Impestores"/>
+    <string id="tae3lhXh" text="Das Unternehmen sind Vlander, meist lokale Abgaben, die sich nicht gut an Friedenszeiten anpassen und sich für ein Leben in ständigem Krieg entschieden haben. Sie sind wahrscheinlich die am wenigsten disziplinierten und räuberischsten unter den Söldnern Calradias und eine Geißel für jedes Stückchen Land, in dem sie sich frei bewegen dürfen. Dennoch wissen sie, wie alle Söldner, dass ihr zukünftiger Verdienst von ihrem Ruf abhängt, deshalb halten sie ihre Verträge ein und üben ihre Fähigkeiten, insbesondere mit der Armbrust, um sicherzustellen, dass ihre Arbeitgeber ihren Wert erhalten."/>
+    <string id="tdGvElSy" text="Dionicos"/>
+    <string id="txCNVmSV" text="Neretzes"/>
+    <string id="UmVjzPI4" text="Kompanie des Goldenen Ebers"/>
+    <string id="UQHUu2bj" text="Leonipardes"/>
+    <string id="UW8BjPXR" text="Argoros"/>
+    <string id="vbLAA0RF" text="dey Valant"/>
+    <string id="VpF6skYs" text="Arkit"/>
+    <string id="W2HkbCeX" text="Ubroving"/>
+    <string id="W9n5iPbB" text="Yanserit"/>
+    <string id="wFR1ukg9" text="Banu Qild"/>
+    <string id="xahrUc5n" text="Die Waldbruderschaft begann als eine vandische Bauernbewegung, die sich in den Wäldern versteckte, von den Reichen raubte und den Armen gab. Sie stieß jedoch auf die Probleme, die jede lang andauernde Rebellenbewegung haben könnte - sie musste eine ständige Versorgung mit Nahrungsmitteln sicherstellen und auch dafür sorgen, dass keiner der Armen es wagen würde, einen Beutel mit Münzen zu verdienen, indem er über sie informiert wird. Langsam aber sicher begann sie, sich Erpressung, Terror und korrupte Geschäfte mit den örtlichen Behörden zunutze zu machen, um zu überleben, und unterschied sich kaum noch von anderen organisierten Banditengruppen in Calradia."/>
+    <string id="XJbDRBfd" text="Die Karakhergit sind ein Nomadenclan, der sich allen Bemühungen der zentralisierenden Urkhunid-Khane widersetzt hat, sie an einem Ort zu halten, ihnen Ackerland und Leibeigene zu geben und sie zu zwingen, Steuern und Militärabgaben abzugeben. Sie werden von den anderen Clans mit einer Kombination aus Neid und Verachtung behandelt. Sie treiben Handel und heiraten manchmal sogar mit ihren sesshaften Brüdern, aber sie entführen in begrenztem Umfang auch Entführungen gegen Lösegeld und plündern Herden und verhöhnen diejenigen, die ihnen vorwerfen würden, dass sie die heroischen alten Methoden weiterführen."/>
+    <string id="xqkKtWqa" text="Elaches"/>
+    <string id="xw0eTkkb" text="Vezhoving"/>
+    <string id="yQcZrUYi" text="dey Folcun"/>
+    <string id="zcLTthfN" text="Embers"/>
+    <string id="zvas3ieB" text="fen Derngil"/>
+    <string id="zY2TQC9t" text="Banu Arbas"/>
+  </strings>
+</base>

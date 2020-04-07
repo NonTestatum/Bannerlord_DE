@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="03YrcAtx" text="Gewickelter Ledergriff Zweihändig"/>
+    <string id="0gteBOD7" text="Berdysch"/>
+    <string id="0kP9bf7n" text="Sichelgriff"/>
+    <string id="0LJtoZtW" text="Gravierter Krummsäbelschutz"/>
+    <string id="0SpLcthg" text="Hochland Morgenstern"/>
+    <string id="0Y0kaTwm" text="Einfaches Breitschwert"/>
+    <string id="13lb5at6" text="Mahagonigriff mit Lederbezug"/>
+    <string id="19a3jJ1s" text="Große geriffelte Säbelklinge"/>
+    <string id="1ajbJdao" text="Balken Pommel"/>
+    <string id="1auabxxv" text="Abgerundeter flacher Handschutz"/>
+    <string id="1e9OaUWk" text="Östlicher leichter Streitkolbenkopf"/>
+    <string id="1Ia3Wxbf" text="Falxklinge aus feinen Stahl"/>
+    <string id="1nGcpiom" text="Abgerundeter dekorativer Knauf"/>
+    <string id="1NSafswc" text="Gallogaich Axt Kopf"/>
+    <string id="1pvLe1Mh" text="Einfache Ild Knauf"/>
+    <string id="1rGNXUaJ" text="Dünner Hewing Speerkopf aus Feinstahl"/>
+    <string id="1T0XBYlc" text="Gehärteter zweihändiger Axtgriff aus Eiche"/>
+    <string id="1yEQNTG1" text="Langer Shestopyor Kopf"/>
+    <string id="1zRo3td4" text="Geschraubter Zweihandgriff aus Horn"/>
+    <string id="22f2NR2N" text="Langer knorriger Escheschaft"/>
+    <string id="26KZ6S7F" text="Östlicher dekorierter Knauf"/>
+    <string id="29OXRdZu" text="Enger gekürzter Schutz"/>
+    <string id="2FLWuksh" text="Battanischer Griff"/>
+    <string id="2Fq1t169" text="Nördlicher gebundener Zweihandgriff"/>
+    <string id="2LrkLq5M" text="Nördlicher langer Dolchschutz"/>
+    <string id="2MNfdGZQ" text="Edelleder ummantelter, verstärkter Langschwertgriff aus Horn"/>
+    <string id="2mo4gsuh" text="Kriegsmesser Klinge"/>
+    <string id="2noNmMPc" text="Imperialer breiter Wächter "/>
+    <string id="2OWBegq6" text="Dicker Kriegsschwert Schutz mit Gravur"/>
+    <string id="2XBuTBru" text="Nördlicher Langer Stundenglasgriff"/>
+    <string id="35tXR29a" text="Einfacher Östlicher Griff Zweihändig"/>
+    <string id="37DVF96v" text="Geknöpfter, halbmondförmiger Dolchschutz"/>
+    <string id="38vt2VVz" text="Breiter Knauf"/>
+    <string id="3aXHbrFV" text="Langer Bambusgriff mit Metallspitze"/>
+    <string id="3cIsT4ZK" text="Breiter-Bewaffneter Dolchschutz"/>
+    <string id="3ged5Ozt" text="Außergewöhnliche östliche Gleve"/>
+    <string id="3Q3FFqu0" text="Leichter königlicher Streitkolbenkopf"/>
+    <string id="3tCye4Iw" text="Einfacher Langspeer Knauf"/>
+    <string id="3uUaFQ9Y" text="Hammer geformter Schutz mit Gravuren"/>
+    <string id="3VCyUu2h" text="Dünner östlicher Dolchschutz"/>
+    <string id="3VoW9qZs" text="Goldgebundener Bewaffnungsschwert Griff"/>
+    <string id="3wn1WbIx" text="Gezackte lange Kaskaraklinge"/>
+    <string id="3wXjMEwI" text="Segmentierter lederbezogener Arm-Schwertgriff"/>
+    <string id="3Y7plSBX" text="Eiserne Breitschwert Klinge"/>
+    <string id="3ZyRhmke" text="Kurzer Säbelgriff"/>
+    <string id="45k6EEUu" text="Eisener Brechkopf"/>
+    <string id="47UEgMpD" text="Eichengriff mit spitzen Ende"/>
+    <string id="4FnOKgB6" text="Imperialer Halbmond Dolchschutz"/>
+    <string id="4Ilo91CO" text="Westlicher Kampfaxt Kopf"/>
+    <string id="4MZvoVyI" text="Runder, genieteter Speerknauf"/>
+    <string id="4OefdTD1" text="Gezackte kurze Gladius Klinge"/>
+    <string id="4Olvmpen" text="Einhandgriff aus rauhem Leder für Sanduhr"/>
+    <string id="4t0EyE1B" text="Grober Zweihandgriff aus Leder"/>
+    <string id="4TvA6YaC" text="Marmorarmschwert Griff"/>
+    <string id="4VIUHmbP" text="Dekorierter Streitkolbengriff aus Stahl"/>
+    <string id="4XytssVk" text="Halbmond Schutz"/>
+    <string id="4z3U5ubo" text="Goldener Kriegsschwert Schutz"/>
+    <string id="57DBqJd1" text="Leder gewickelter dicker Streitkolben Griff"/>
+    <string id="5ALE9Joh" text="Kriegssensen Kopf"/>
+    <string id="5GR6xb8a" text="Werkzeuggriff"/>
+    <string id="5KvdG6ep" text="Ritterliche goldene Halbmond-Parierstange"/>
+    <string id="5NeanDJM" text="Ringknauf"/>
+    <string id="5o5DaSHZ" text="Breite Dolchklinge"/>
+    <string id="5V0QR20o" text="Rauhleder mit Nieten aufgedunsener Einhandgriff"/>
+    <string id="5Xoa1EFa" text="Gravierte Rückenschwertklinge"/>
+    <string id="61A1VUw8" text="Geknöpfter Bronze Guard"/>
+    <string id="61hjmt0T" text="Dreiecksknauf"/>
+    <string id="62biJ5O5" text="Hochländischer Einhandgriff aus feinem Leder"/>
+    <string id="6BMAGMRu" text="Flacherschutz"/>
+    <string id="6Da4uzZO" text="Gravierte weite ritterliche Parierstange"/>
+    <string id="6HybYLtu" text="Rohlederbedeckter nordischer Einhandgriff"/>
+    <string id="6I4lZs47" text="Speerkopfknauf"/>
+    <string id="6PD2rBbf" text="Lederbedeckter hornförmiger Einhandgriff"/>
+    <string id="6xkt7bxz" text="Schwerer königlicher Streitkolbenkopf"/>
+    <string id="6ZW9fOUJ" text="Goldener Kaskara Schutz"/>
+    <string id="71588OX7" text="Bambusschaft"/>
+    <string id="7EZbFRaG" text="Verstärkter Kiefernschaft"/>
+    <string id="7JjctWr3" text="Ritterliche hammerförmige gravierte Parierstange"/>
+    <string id="7lRnhAgf" text="Nordischer Sanduhr-Zweihandgriff"/>
+    <string id="7ZWtiHKj" text="Lange Kriegsschwertklinge"/>
+    <string id="85jApGfe" text="Genobbte Dolch-Parierstange"/>
+    <string id="87BmkiMO" text="Knotiger Streitkolbengriff"/>
+    <string id="89QyC7eD" text="Enge nordische Parierstange"/>
+    <string id="8gW1o7iH" text="Westlicher gelappter Knauf"/>
+    <string id="8OaZSfaZ" text="Einhandschwertgriff aus geteiltem Rohleder"/>
+    <string id="8olqutaL" text="Nordischer geteilter Zweihandgriff"/>
+    <string id="8S6ZYPFD" text="Runder Beilenkopf aus gebrochenem Feinstahl"/>
+    <string id="8T7gNbfM" text="Gebohrter, breitblättriger Speerkopf"/>
+    <string id="8x9klENe" text="Segmentierte genietete Wellenverstärkung"/>
+    <string id="8yb60cDi" text="Mahagoni Langspeerschaft"/>
+    <string id="8ZbL3exH" text="Gepolsterter Knauf"/>
+    <string id="9aYBy1RN" text="Feiner Stahl-Blattspeerkopf"/>
+    <string id="9HgtH0Nb" text="Wellenförmige Speerwache"/>
+    <string id="9HMxA4AU" text="Eiserner Streitkolbengriff"/>
+    <string id="9JMatUNQ" text="Rauer Nördlicher Griff Zweihändig"/>
+    <string id="9JxsngjD" text="Gravierter silberner Kaskara Schutz"/>
+    <string id="9PgS5SzW" text="Eisen verstärkter Horngriff Einhändig"/>
+    <string id="9phikaHT" text="Westliche Halbmond-Dolchgarde"/>
+    <string id="9qaanOpL" text="Einfacher nördlicher Knauf"/>
+    <string id="9T2KA9sk" text="Goldgebundener Dekorierter Stahlgriff"/>
+    <string id="9Y1zUaE7" text="Imperiale Runder Knauf"/>
+    <string id="A06HEqvF" text="Gebundener Speer-Flügel"/>
+    <string id="a0erBuF1" text="Haken-Axtkopf"/>
+    <string id="A1m12E8N" text="Lange Dolchparierstange"/>
+    <string id="a4qSDsmb" text="Imperiale goldene Großschwert-Parierstange"/>
+    <string id="a860bQ4f" text="Flacher Knauf"/>
+    <string id="AA4WhCGw" text="Flache Dolchparierstange"/>
+    <string id="aaEv3sBU" text="Eichen Speerschaft"/>
+    <string id="aalvbENh" text="Wüstenknauf"/>
+    <string id="abLXJ3L3" text="Streitkolbenförmiger Knauf"/>
+    <string id="aBnaaaHv" text="Lange Sax Klinge"/>
+    <string id="Ac4kblsm" text="Nordischer Ledergriff für Zweihänder"/>
+    <string id="aFxc3ZVL" text="Konkaven Scheibenschutz"/>
+    <string id="AGfMPOWB" text="Eckiger Feinstahl Streitkolbengriff"/>
+    <string id="aGtEhibt" text="Nordischer Rundknauf"/>
+    <string id="aj59KGOS" text="Grober Zweihandgriff aus Leder"/>
+    <string id="ajVcY9v6" text="Kleiner Hammer-Axt Kopf"/>
+    <string id="AkfEFzkk" text="Bogenknauf"/>
+    <string id="AKJzOQkF" text="Östliche Rückenschwertklinge"/>
+    <string id="aKpVHE2g" text="Geklebte Doppelhakenflügel"/>
+    <string id="ALO9gw69" text="Vierkantbohrer Zweihand-Axtkopf"/>
+    <string id="alti0PsZ" text="Spitze Kriegsschwertklinge"/>
+    <string id="AM6iuDAv" text="Geknöpfter Diamant-Dolchschützer"/>
+    <string id="AO2BfABx" text="Pilzknauf"/>
+    <string id="Ao7c1VrC" text="Norischer Dreiecksknauf"/>
+    <string id="AObgGzg9" text="Geschraubter Einhandgriff für das Horn"/>
+    <string id="aPr8NPdo" text="Westlicher Stangenwaffen Kopf aus Eisen"/>
+    <string id="aQa3tp6Q" text="Dekorierter langer Kiefernschaft"/>
+    <string id="artqaNEi" text="Geknöpfter Eisenschutz"/>
+    <string id="ASGZJW85" text="Segmentierter eiserner Einhand-Spatha-Griff"/>
+    <string id="aTnuOUCC" text="Kaskara Klinge aus Thamaskenstahl"/>
+    <string id="AtNVVwTF" text="Kurzer Kiefernschaft"/>
+    <string id="aUJaQmN1" text="Verstärkter Zweihändiger Schmuckgriff "/>
+    <string id="aVBGVt7N" text="Konischer Horngriff"/>
+    <string id="Aw7Veoaa" text="Eisengebundener, rauer, leerer Winkelgriff"/>
+    <string id="az6t2tOm" text="Gezähmte Westwache"/>
+    <string id="azjW7lAg" text="Gravierte Ild-Parierstange"/>
+    <string id="aZp1ur9Q" text="Kelchknauf"/>
+    <string id="b1KGhVwD" text="Konkave Nordwache"/>
+    <string id="b30mn7KF" text="Khanjar Klinge"/>
+    <string id="b994mQnI" text="Geflügelte Messingdolchgarde"/>
+    <string id="b9bboB3v" text="Streitkolbenkopf der Südlichen Infanterie"/>
+    <string id="baQ99nza" text="Langer Escheschaft"/>
+    <string id="bCCYhnbY" text="Grüner Ledergriff"/>
+    <string id="bCZ6V3uY" text="Schlangenkopf Dolchschutz"/>
+    <string id="bEbyObu7" text="Juwelierter goldener Einhandgriff"/>
+    <string id="Bej5R7tP" text="Kronen-Dolch-Schutz"/>
+    <string id="bEQETxjB" text="Gezackter Knauf"/>
+    <string id="bfE00BnK" text="Eiserner geschlagener Streitkolbengriff"/>
+    <string id="bfueDx6s" text="Stark verstärkter Eichen-Axtstiel"/>
+    <string id="bGaOu7rO" text="Östliche Flachdolchwache"/>
+    <string id="bGfs8gNv" text="Nördliche Rückenschwertklinge"/>
+    <string id="bjQ8J71a" text="Langer Gleven Kopf"/>
+    <string id="BKHKQ15N" text="Türkouise Pommel"/>
+    <string id="bki9u9FW" text="Bewaffnete Schwertklinge mit goldenem Kreisaufdruck"/>
+    <string id="BL96pnde" text="Einhändiger Cleaver-Griff aus rauhem Leder"/>
+    <string id="blaVlvm2" text="Geschmückte Kurz-Kriegsschwertklinge"/>
+    <string id="bM8kSewD" text="Gezähmte Nordwache"/>
+    <string id="booEob1z" text="Scheiben Knauf"/>
+    <string id="bP6SBz4s" text="Kaiserliche Gold-Press-Garde"/>
+    <string id="bPUXlfs8" text="Dekorierter Östlicher Ild Griff"/>
+    <string id="BQ3hMy9D" text="Pferdekopf Knauf"/>
+    <string id="bQkJSHCt" text="Zweihand-Bronze-Griff mit silberner Spirale"/>
+    <string id="bQzz8mc3" text="Einfacher Kiefernholz-Wurfaxtstiel"/>
+    <string id="BtXFrrVj" text="Dicker konkaver Schutz"/>
+    <string id="BXW4LeQT" text="Breite gewölbte kurze Klinge"/>
+    <string id="bZbW2UEE" text="Breite östliche Dolchgarde"/>
+    <string id="bzr1DEgS" text="Dolchwache des Südsterns"/>
+    <string id="c1YI2Nxt" text="Spartanische Eisen Klinge"/>
+    <string id="C2hTDlWq" text="Schwere Säbelklinge"/>
+    <string id="C89rbAz6" text="Ritterliche Bewaffnung Schwertklinge"/>
+    <string id="cag70E1F" text="Pernach Kopf"/>
+    <string id="cbHjFPEb" text="Feiner Hochland Lederschwertgriff"/>
+    <string id="CdBAvJdP" text="Kontos Leiter"/>
+    <string id="CE1IQiEU" text="Spiralförmiger Schwertgriff aus feinem Leder zur Bewaffnung"/>
+    <string id="cEU66ABf" text="Nördliches Schlachtbeilblatt"/>
+    <string id="cFTzptut" text="Mahagoni Griff"/>
+    <string id="CiZRwdet" text="Östliche Leibgarde"/>
+    <string id="cK6D7cyn" text="Großer Franziska-Kopf"/>
+    <string id="CKKaarrY" text="Lederüberzogene Drahtbindegriffe"/>
+    <string id="CODGBskg" text="Lange Säbelklinge"/>
+    <string id="cuxuEx40" text="Facettierte Ovalgarde"/>
+    <string id="czhTpYo8" text="Eisen Säbelklinge"/>
+    <string id="d2kOHsY7" text="Geschmückter Breitschwertgriff"/>
+    <string id="d4aLa7tz" text="Oberer Knauf"/>
+    <string id="d4bVwnK8" text="Zweihandgriff aus zerquetschtem Leder"/>
+    <string id="dafrn0mR" text="Thamaskene-Stahlspatha-Klinge Thamaskene Steel Spatha Blade"/>
+    <string id="dbmuyJcf" text="Südfacettierter Knauf"/>
+    <string id="dBVMNui8" text="Eisenverstärkter Horn-Zweihandgriff"/>
+    <string id="dCco8dRt" text="Scheiben-Dolchschutz"/>
+    <string id="Dd7fJ9aL" text="Langer Schwertgriff aus geteiltem Rauhleder"/>
+    <string id="DEpwMMql" text="Durchgestochene südliche Dolchgarde"/>
+    <string id="dgjXkbuA" text="Eulenaugen-Knopf"/>
+    <string id="DiAHIRxm" text="Gravierte Säbelgarde"/>
+    <string id="DID87A6l" text="Geflochtener Ledergriff"/>
+    <string id="Dix4EYD8" text="Hammerkopf"/>
+    <string id="DkhuNoTH" text="Hölzerner Einhandgriff"/>
+    <string id="dlnciENS" text="Hölzerne Garde"/>
+    <string id="DLvSnz8U" text="Geätzte Hochland-Garde"/>
+    <string id="dnd2hafw" text="Grob gewickelter einfacher Griff"/>
+    <string id="do4vZhh4" text="Konischer Dünner Wächter"/>
+    <string id="dpft1I1B" text="Dünne Westwache"/>
+    <string id="Dsf9JE8N" text="Holzhaken"/>
+    <string id="dTkiV4i6" text="Fischerboot Knauf"/>
+    <string id="dtSrK9bs" text="Breite Sax Klinge"/>
+    <string id="DVe5SkQA" text="Doppelter geflügelter Wetterhan"/>
+    <string id="dvm8sTr9" text="Holzknauf"/>
+    <string id="DXLlcbf9" text="Esche Speerschaft"/>
+    <string id="dXRt8jY4" text="Menavlion Kopf"/>
+    <string id="DzncFcGk" text="Kheshigs Knauf"/>
+    <string id="e1DF7wbz" text="Gehärteter Eschenstab"/>
+    <string id="E7cNp0rF" text="Genieteter Speerknauf"/>
+    <string id="eapPaDKi" text="Dicker versilberter Kriegsschwertschutz "/>
+    <string id="EBlx3VId" text="Hochländische Grobe Eisenklinge"/>
+    <string id="EbucFMZq" text="Breiter Konkaven Dolchschutz"/>
+    <string id="eBxzZ1SW" text="Juwelierter verstärkter Einhandgriff"/>
+    <string id="edg8bnXX" text="Nördliche Dolchwache mit Zackenackenacken"/>
+    <string id="eeFrva8L" text="Gelochter Knauf"/>
+    <string id="ELpWa0K5" text="Trockener Eichen Pikenschaft"/>
+    <string id="eLrbkvTV" text="Nördlicher Großschwertschutz"/>
+    <string id="emryrbYV" text="Geflochtener Knauf"/>
+    <string id="emUoygLE" text="Harpunenkopf"/>
+    <string id="euI3vluL" text="Breiter Säbelschutz"/>
+    <string id="f0syWNR7" text="Poniardklinge"/>
+    <string id="f4GSe3UB" text="Schaufelkopf"/>
+    <string id="faZasq1G" text="Östlicher Ringknauf"/>
+    <string id="fd6Lnv1l" text="Goldener Gladiusschutz"/>
+    <string id="fdR6zYiP" text="Franziska Kopf"/>
+    <string id="fEkKXof4" text="Durchgeschraubter Flügel"/>
+    <string id="fhbGCsdC" text="Östlicher schwerer Streitkolbenkopf"/>
+    <string id="fHKHwvsW" text="Bronze Band Knauf"/>
+    <string id="fnz6wUVy" text="Stachelrunder Speer-Knauf"/>
+    <string id="fo040lyg" text="Einfacher gewickelter Griff"/>
+    <string id="fOrRdtNK" text="Kleiner Stirnaxtkopf"/>
+    <string id="fRVQzcoY" text="Grobes, dickes, lederumwickeltes Einhandgriff"/>
+    <string id="Ft5A2Eb4" text="Östlicher lederbezogener, verstärkter Zweihandgriff"/>
+    <string id="ftwNaFZh" text="Doppelhaken Flügel"/>
+    <string id="fuIxmJ2g" text="Schwere hölzerne Klinge"/>
+    <string id="FxCfO3zN" text="Eisenverstärkter Streitkolbengriff"/>
+    <string id="FyaygeEx" text="Geknöpfte Keule"/>
+    <string id="g2r3QKOB" text="Südlicher schmaler Axtkopf"/>
+    <string id="g5Va1lfk" text="Gekürzter Wüstenschutz"/>
+    <string id="g60SQjOR" text="Lederumwickelter Horn-Langschwertgriff"/>
+    <string id="G8Fb2RPa" text="Spitzes Falchion Klinge"/>
+    <string id="G9cBw5sV" text="Hochland-Knauf"/>
+    <string id="GA4AaQQk" text="Verstärkter Einhandhandgriff aus Holz"/>
+    <string id="Gewh8Bzr" text="Zweihandhandgriff mit gebundenem Pelz"/>
+    <string id="GI6XD77j" text="Imperialer geschmückter Knauf"/>
+    <string id="gIm5Lnh8" text="Mahagoni Speerschaft"/>
+    <string id="GLnI8ozz" text="Rotholz-Stiel"/>
+    <string id="GMwWb6SE" text="Hölzerner Speerkopf"/>
+    <string id="gPXRnvas" text="Scheibenschutz"/>
+    <string id="GQ9JwKBt" text="Rauhleder Cleaver Zweihandgriff"/>
+    <string id="GqwD99cu" text="Verzierter Knauf"/>
+    <string id="GsBQCQEF" text="Langer verstärkerter Kiefernschaft"/>
+    <string id="gSdybwMN" text="Großer gedrillter Kopf mit nordischem Bart"/>
+    <string id="gTMThdRJ" text="Vornehmer Knauf"/>
+    <string id="gTzMtKYu" text="Sternenhimmelklinge Kopf"/>
+    <string id="GWJV4Vll" text="Bastard-Schwertgriff aus Leder mit Messingringen "/>
+    <string id="gwkR6TZL" text="Geschmückte Kaskara-Klinge"/>
+    <string id="GXhZ8NKv" text="Breites gewölbtes Nordblatt"/>
+    <string id="gXUXjtuL" text="Kama Klinge"/>
+    <string id="GyOxvJpB" text="Gepolsterter Knauf"/>
+    <string id="gZzEkk5t" text="Zweihandgriff aus feinem Hochlandleder"/>
+    <string id="H2xibh6p" text="Besetzter kaiserlicher Griff"/>
+    <string id="h4DmfRfb" text="Ritterlicher Knauf"/>
+    <string id="H6hlPsgV" text="Einhandgriff ausblenden"/>
+    <string id="HaNPlFBt" text="Ummantelter Hartholz Langschaft"/>
+    <string id="hD5LzC6b" text="Eisengebundener, schräger Einhandgriff"/>
+    <string id="he3725oa" text="Konischer Speerknauf"/>
+    <string id="HF2WJagx" text="Geschmückter lederumwickelter Kriegsschwertgriff"/>
+    <string id="HHVH0IoH" text="Gehärteter Rotholzgriff mit Pelzgriff"/>
+    <string id="Hj151a5b" text="Konische Halbmond-Garde"/>
+    <string id="hk3d4d35" text="Rotholz Streitkolben Griff"/>
+    <string id="hKKIijPr" text="Dolchschutz mit konkaver Scheibe"/>
+    <string id="HmsEarnz" text="Tropfen-Knopf"/>
+    <string id="hN0kTfhB" text="Eisenverstärkter Crushed Leather-Griff"/>
+    <string id="hRfqLq4V" text="Falchion Klinge"/>
+    <string id="hRtzRR6C" text="Imperialer leichter Streitkolbenkopf"/>
+    <string id="hSSk6tTn" text="Wurfaxt Kopf"/>
+    <string id="huaGi2zw" text="Konkave nördliche Dolchgarde"/>
+    <string id="HuYwPEmh" text="Zierknauf"/>
+    <string id="hVBKOOY1" text="Winkel Zweihandgriff mit Messingnägeln"/>
+    <string id="hvCj5TID" text="Spitzer Halbmond-Guard"/>
+    <string id="HwCYBWq2" text="Scharf gespitzte Spatha-Klinge"/>
+    <string id="hWTFaw0E" text="Stahlkippe"/>
+    <string id="hyNitMsQ" text="Hochland Feinstahlklinge"/>
+    <string id="HysmKS5a" text="Gezackte breite Dolchklinge"/>
+    <string id="i7d3En7L" text="Haken Falchion Klinge"/>
+    <string id="i9Ja7Uib" text="Dicker Dolchschutz mit Gravuren"/>
+    <string id="I9yrLqPc" text="Östlich geflanschter Stahlkeule Kopf"/>
+    <string id="IAltuLvf" text="Verjüngter nördlicher Einhandgriff"/>
+    <string id="Ibaju3oe" text="Adlerkopf-Knauf"/>
+    <string id="ibU7mZKx" text="Asche-Großbeilschaft"/>
+    <string id="iFhr5nGq" text="Imperialer Axtkopf"/>
+    <string id="IftwekS7" text="Bronze-Kriegsschwertwache mit Gravuren"/>
+    <string id="il1M66Z8" text="Mit Leder umwickelter Einhandgriff"/>
+    <string id="iMbT3L4I" text="Sensenblatt"/>
+    <string id="In69b7aL" text="Einhandgriff mit Halblederbezug und Metallverzierung"/>
+    <string id="indl9fEW" text="Hochländischer Einhandgriff aus feinem Leder"/>
+    <string id="IR8UeIRp" text="Kataphrakt Streitkolben Kopf"/>
+    <string id="ittUjlRb" text="Diamantenschutz"/>
+    <string id="IUlApNGp" text="Falx Langschwert"/>
+    <string id="iuQE1xwL" text="Schmale, Hohlkehle Spatha-Klinge"/>
+    <string id="IvUO8nJc" text="Breiter konkaver Dolchschutz"/>
+    <string id="IWrTsX3V" text="Einhandgriff aus rotem Leder"/>
+    <string id="IxCaIvUk" text="Großer nördlicher breiter Kopf mit verziertem Hals"/>
+    <string id="iznpu0ih" text="Einhändig gedrückter Kaskara-Griff aus Leder"/>
+    <string id="Izstbt9y" text="Hochland-dekorierte Klinge"/>
+    <string id="IZw8FnwW" text="Großer Ascia-Kopf"/>
+    <string id="j2pkA2Yr" text="Südliche Kronenwache"/>
+    <string id="J3ADekEw" text="Große Axtwelle aus Eichenholz"/>
+    <string id="J5Tu73Mb" text="Gehärteter Kiefer-Langspeerstab"/>
+    <string id="JabA2SWF" text="Verstärkter Aschestiel"/>
+    <string id="JanWod6k" text="Enge Kriegsschwertschutz"/>
+    <string id="JbP7zdes" text="Gekrönte Südstaaten-schutz"/>
+    <string id="JCYmlrKF" text="Stahlverstärkter Streitkolbengriff"/>
+    <string id="JdboLXbG" text="Hammerkopf"/>
+    <string id="JfRydy7M" text="Gezackter Cleaver Schutz"/>
+    <string id="jfyCVJya" text="Zweihand-Griff aus verdunkeltem Stahl"/>
+    <string id="JIj91e96" text="Gebundener Zweihandgriff ausblenden"/>
+    <string id="jMRMazLr" text="Geschmückter Kiefernholzgriff Zweihandgriff"/>
+    <string id="jN4PPWjp" text="Noppenhalbmondförmige Schutzvorrichtung"/>
+    <string id="joN8ZeJ6" text="Rad Knauf"/>
+    <string id="jqiXcEyD" text="Lang gebundener Griff"/>
+    <string id="jre8aFdB" text="Westliche Spitzendolchschutz"/>
+    <string id="Js1FKwrL" text="Wurfspeer Kopf"/>
+    <string id="JSba9OCN" text="Knopfeisen-Dolchschützer"/>
+    <string id="jupH2NfE" text="Goldeingelegter winkelförmiger Bastard-Schwertgriff"/>
+    <string id="jZnVKvJN" text="Dreizweigiger Knauf"/>
+    <string id="jZTWkSDw" text="Messinggebundener Bastard-Schwertgriff"/>
+    <string id="jzzZDEw7" text="Langdraht-Griff"/>
+    <string id="k2MQ9kL0" text="Stahl-Streitkolben-Griff"/>
+    <string id="k66YIIWR" text="Schmale Kaskara-Klinge aus Feinstahl"/>
+    <string id="kaoSz0Cx" text="Abgeschrägter Zweihand-Ledergriff"/>
+    <string id="kbh6i0M7" text="Feiner Gladius-Knauf"/>
+    <string id="Kcm4b7Qb" text="Geflügelte Messingschutz"/>
+    <string id="KeTioaJE" text="Lederumwickelter Axtstiel aus Mahagoni"/>
+    <string id="KFqa2uF1" text="Breites Zweihand-Blatt"/>
+    <string id="Kh7AB6a4" text="Nördlicher Einhand-Hourglass-Griff"/>
+    <string id="KhHXgQJb" text="Gemeinsamer schmiedeeiserner Axtkopf"/>
+    <string id="khO8Li1D" text="Extra langer Griff für das Fell"/>
+    <string id="kIbtwQRF" text="Spartanische Feinstahl Klinge"/>
+    <string id="kiEZmxjT" text="Flaschenhals-Zweihandgriff aus Feinstahl"/>
+    <string id="kjw9c4M2" text="Stahl-Winkelkeilgriff für Streitkolben"/>
+    <string id="kNhcSC6i" text="Nördlicher Bartkopf"/>
+    <string id="KNisROi1" text="Skaenklinge"/>
+    <string id="Knv8oS4x" text="Dicker, lederumwickelter Einhandgriff"/>
+    <string id="koX9okuG" text="Keine"/>
+    <string id="kp8hUsXA" text="Verwickelte rechteckige Nordwache"/>
+    <string id="kuROzU1J" text="Einfache Kriegsschwert Klinge"/>
+    <string id="KyKh5jCE" text="Bambus-Griff"/>
+    <string id="l13RibeF" text="Stahlverstärkter Großaxtstiel"/>
+    <string id="l1YxVZil" text="Geknöpfter Dolchschützer aus Bronze"/>
+    <string id="L3vLdPJT" text="Verbesserter Stachelkopf des Knüppel"/>
+    <string id="L4PDF4MY" text="Kriegsschwertschutz mit goldenen Gravuren"/>
+    <string id="L9wMZ9HB" text="Morgenstern-Speerschutz"/>
+    <string id="lcjkq4bA" text="Verzierter Südlicher Knauf"/>
+    <string id="Ld1nfdj4" text="Feiner Stahl-Säbel-Klinge"/>
+    <string id="LddmrrGM" text="Großer östlicher Zweihandgriff"/>
+    <string id="Ldq6AOrb" text="Zweihändiger Griff aus rohem Leder mit Eisenring"/>
+    <string id="LDRnfLRh" text="Geschmückter nördlicher Knauf"/>
+    <string id="ldvppRXj" text="Gemusterter Knauf"/>
+    <string id="LEdJzFrZ" text="Abgeschrägter, abgewinkelter Einhandgriff"/>
+    <string id="lF10mZnb" text="Drahtumwickelter Einhandgriff"/>
+    <string id="LFfUtZrT" text="Hammmerkopf"/>
+    <string id="Lh1E9EsS" text="Imperialer stahlverstärkter Zweihandgriff"/>
+    <string id="lLZfWq7i" text="Flaschenhals Wüstengriff"/>
+    <string id="lmxaWsmn" text="Gewickelter langer Zweihandgriff aus Leder"/>
+    <string id="LNDbMUK0" text="Voulge-Kopf"/>
+    <string id="lOiyLjqK" text="Kaiserliche Halbmond-Schutz"/>
+    <string id="lpqDjWsL" text="Hochländischer Einhandgriff aus feinem Leder"/>
+    <string id="lpVGz11R" text="Nördlicher Pelz Einhandgriff"/>
+    <string id="LryUJnu7" text="Glatter Knauf"/>
+    <string id="LSOXMCAW" text="Kiefernschacht"/>
+    <string id="LSrJljDL" text="Adze Kopf"/>
+    <string id="ltbHzq5B" text="Vernietete Speerspitzenverstärkung"/>
+    <string id="lv9oJyKJ" text="Östlicher Flachknauf"/>
+    <string id="LwM5byQG" text="Einfacher Eisen-Speer-Knauf"/>
+    <string id="lYEaqL9y" text="Einhandgriff mit gebundenem Fell"/>
+    <string id="LYSMiV6V" text="Langer Griff zum Verstecken"/>
+    <string id="LzHkkphU" text="Einhandgriff aus rauhem Leder mit Noppen"/>
+    <string id="lZoqaYmx" text="Stachelkopf eines Knüppels"/>
+    <string id="M08i7S6M" text="Spitz zulaufender Wüsten-Dolchschutz"/>
+    <string id="m0uOH4el" text="Gebogene kaiserliche Dolchschutz"/>
+    <string id="m2Xz2K5v" text="Nördlicher Fell-Zweihandgriff"/>
+    <string id="m6CVEgTU" text="Kampfbeilklinge mit Stachel"/>
+    <string id="m8eUrnVj" text="Dünne westliche Dolchschutz"/>
+    <string id="mak3naEe" text="Breites gewölbtes, breites Zweihänderblatt"/>
+    <string id="MCRppfbZ" text="Wurfspeershaft aus Kiefer"/>
+    <string id="mcYSvJfA" text="Baumzweig"/>
+    <string id="MDL2CcCH" text="Gewichtete Langdorne"/>
+    <string id="MGD7zTLf" text="Facettierter Radknauf"/>
+    <string id="Mh5MDpsk" text="Zweihandgriff aus zerquetschtem Leder für den Süden"/>
+    <string id="MJRzaazz" text="Stahlgebundener Zweihandgriff"/>
+    <string id="MKtMbBJD" text="Großer östlicher Einhandgriff"/>
+    <string id="mm24JNyb" text="Nördlicher Sanduhr-Griff"/>
+    <string id="mm6b54ZD" text="Breites konkaves Schutzblech"/>
+    <string id="MpVC0RXl" text="Nördlicher dreieckiger Speer"/>
+    <string id="mQCQF6TL" text="Schmale nördliche Dolchschutz"/>
+    <string id="MRqIJXqv" text="Südliche Diamant-Dolchschutz"/>
+    <string id="mrTkURKV" text="Gezackter Gabelkopf"/>
+    <string id="mSNaSLiC" text="Thamaskene Stahl-Kriegsschwertklinge"/>
+    <string id="mSplbvgI" text="Doppelte Haken"/>
+    <string id="mTDuVvVN" text="Hoher plattierter Griff"/>
+    <string id="mU8oVsFW" text="Morgenstern-Kopf"/>
+    <string id="muv8N0Wo" text="Bronzener Dolchschützer mit Gravuren"/>
+    <string id="mVjshtzg" text="Kegelhut-Knauf"/>
+    <string id="mYP1ovEy" text="Durchgestochene Wüstenwache"/>
+    <string id="N1qLYlxF" text="Kaskara-Klinge aus Feinstahl"/>
+    <string id="N3VXsh2z" text="Stahl-Paramerion-Klinge"/>
+    <string id="NAHHwS3G" text="Breitblättrige Speerspitze"/>
+    <string id="nazL7Z3e" text="Geschraubter Südstaaten-Griff mit zwei Händen"/>
+    <string id="NfPgejKk" text="Gebohrte Sparth-Klinge"/>
+    <string id="nGP3FlHm" text="Langer Mahagoni-Schaft"/>
+    <string id="Nhhmj7bz" text="Hart-Ahorn-Spießschaft"/>
+    <string id="Nk924YlG" text="Verzierter Einhandgriff aus Feinstahl"/>
+    <string id="nKb9goqQ" text="Thin Schutz"/>
+    <string id="NLs9M1D6" text="Östliche einfache Ovalschutz"/>
+    <string id="NmkDgmWW" text="Stahl-Pferdestreifen-Griff"/>
+    <string id="NO6FhjbJ" text="Griff aus Mandarinenleder"/>
+    <string id="NQb8boHt" text="Gehärteter Ascheschaft"/>
+    <string id="nr3K4od2" text="Pilum-Kopf"/>
+    <string id="nRKOX66b" text="Zackiger Speerkopf aus Feinstahl"/>
+    <string id="NS83CCvb" text="Zackiger Speerkopf aus Feinstahl"/>
+    <string id="ntIEIQ0N" text="Leichter Shishpar-Kopf"/>
+    <string id="Num2tkFb" text="Plattierter langer Griff"/>
+    <string id="NuXH8rip" text="Schichtbronze-Schutz"/>
+    <string id="nVrg9Uda" text="Lederumwickelter Horn-Schwertgriff zur Bewaffnung"/>
+    <string id="Nz4mg7JT" text="Goldene Krummsäbelschutz"/>
+    <string id="nZ5e678J" text="Einfacher Radknauf"/>
+    <string id="NzjHzhwC" text="Geknöpfter Diamantschutz"/>
+    <string id="o2kFafbu" text="Östlicher Streitkolben Kopf"/>
+    <string id="O2kPKeuK" text="Bewaffnete Schwertklinge mit Goldgravur"/>
+    <string id="OBeOZ27b" text="Gleven Kopf"/>
+    <string id="oGPHQt1J" text="Großer Cleaver-Griff mit zwei Händen"/>
+    <string id="OHHpwD0F" text="Gerades Säbelblatt"/>
+    <string id="OHl66gsX" text="Dolchschützer aus Bronze"/>
+    <string id="OJ7iPw5M" text="Verstärkter Axtstiel aus gehärteter Esche"/>
+    <string id="OlnvawN6" text="Große Schwertschutz aus Bronze"/>
+    <string id="OlUuoUBe" text="Östliche Eisenbindung fein Ledergriff"/>
+    <string id="ooBWHpxP" text="Lederüberzogener schräger Ost-Griff"/>
+    <string id="OPfm5y7W" text="Goldene Ritterliche Löwenköpfe schutz"/>
+    <string id="OphcYYyN" text="Vernieteter Speerknauf aus Feinstahl"/>
+    <string id="opUK4WmL" text="Abgerundeter Flachdolchschutz"/>
+    <string id="orwoyDlX" text="Großer Sparth-Axtkopf"/>
+    <string id="OryiZr9d" text="Kontarion"/>
+    <string id="OTtMvvJK" text="Zackig bestückte Ritterschwertklinge"/>
+    <string id="ow1aK4DJ" text="Ummantelter Hartholz Langschaft"/>
+    <string id="oW5N04JL" text="Hochland Feinstahlklinge"/>
+    <string id="OW7w3Mth" text="Fians Knauf"/>
+    <string id="Oxew9WCe" text="Kurzer einfacher Speerkopf"/>
+    <string id="Oz6xANFb" text="Hochland-Zierknauf"/>
+    <string id="p1Uz3dqs" text="Vernieteter dekorierter roter Kaskara-Griff"/>
+    <string id="p2aqirUu" text="Flyssa-Griff aus feinem Leder"/>
+    <string id="p2xjr5Bp" text="Hölzerne Klinge"/>
+    <string id="p3jlcHNo" text="Langer, flacher Speerknauf"/>
+    <string id="pb4zUxzA" text="Makhaira-Klinge"/>
+    <string id="PbxZzhZx" text="Schmaler Sechsenschutz"/>
+    <string id="PjMeZcwO" text="Geschnittener Dolchschützer"/>
+    <string id="pkmy6zB2" text="Südliche Sternenwache"/>
+    <string id="pocRP9dq" text="Langer Aschenstab"/>
+    <string id="PQ8rR13R" text="Lange Feinstahl-Säbelklinge"/>
+    <string id="PqoJ1ZeB" text="Geschmückte Säbelklinge"/>
+    <string id="PQThPvP6" text="Geschmückte kurze Spatha-Klinge"/>
+    <string id="PsKP5j6A" text="Noppenschoner"/>
+    <string id="pT5C12yT" text="Zweihändiger Axtstiel aus Esche mit Nieten"/>
+    <string id="PUAi75mb" text="Kaiserlicher Ringknauf"/>
+    <string id="PuRJZS03" text="Zweihandgriff im südlichen Stil"/>
+    <string id="PvB0pW1Q" text="Breite Hohlkehle stumpfe Klinge"/>
+    <string id="pX4nTZOI" text="Feinstahl Breit Kaskara"/>
+    <string id="pXxv7YJv" text="Langer Mahagoni-Griff mit Lederumwicklung"/>
+    <string id="PZYq0hBO" text="Geschichteter Dolchschutz aus Bronze"/>
+    <string id="Q6kGQNzP" text="Segmentierter Zweihand-Eisengriff "/>
+    <string id="q7jHkLam" text="Schmales Kampfschwert mit Hohlkehle"/>
+    <string id="Q9Gfv68h" text="Zweihändiger Säbelgriff"/>
+    <string id="qbYoAvs6" text="Gebundener Einhandgriff ausblenden"/>
+    <string id="QCE1sAu3" text="Breitschwertklinge"/>
+    <string id="QH0oIiIz" text="Lange, breite Dolchklinge"/>
+    <string id="QIo60ZKh" text="Lange Kriegsschwert Klinge mit Hohlkehle"/>
+    <string id="qjxXq3P5" text="Geätzte Hochland-Dolchschützer"/>
+    <string id="QNe7mQlZ" text="Harlekin-Kopf"/>
+    <string id="Qqb0VZ1a" text="Mit Leder umwickelter zweihändiger Ascheschaft"/>
+    <string id="qQrmuHQ9" text="Schwerer Reiter Morgen Stern"/>
+    <string id="qQtLUC7Q" text="Bronze Falx Wache"/>
+    <string id="qSV6C2tp" text="Schwertkopf"/>
+    <string id="qtZNUUqG" text="Nördlicher hölzerner Einhandgriff"/>
+    <string id="Qw9HWSY7" text="Eiserne Flyssa-Klinge"/>
+    <string id="QwfDN06p" text="Ritterlicher Lanzenkopf"/>
+    <string id="QXqd6MLV" text="Zweihändiger Schwertgriff mit Messingbindung und Feinlederbezug"/>
+    <string id="qYxzdFAa" text="Langer Eichengriff mit Lederumwicklung"/>
+    <string id="qZYeu55z" text="Langer Streitkolbengriff mit eisernem Boden"/>
+    <string id="r1U1w2zp" text="Schwertgriff aus messinggebundenem Feinleder zur Bewaffnung"/>
+    <string id="r3R6RM9G" text="Kurzer einfacher Spießkopf"/>
+    <string id="R62maL2H" text="Hippen Kopf"/>
+    <string id="R7OBSozV" text="Kurze dicke Ild Klinge"/>
+    <string id="R8hEAwUZ" text="Grob umwickelter Griff"/>
+    <string id="r8KoZCBy" text="Facettierter ovaler Dolchschützer"/>
+    <string id="RB3oxhaV" text="Lang-bewaffnete Wache"/>
+    <string id="RBoqow67" text="Eierknauf"/>
+    <string id="RdVX1jC0" text="Gravierte Kaskara-Klinge"/>
+    <string id="reHxxC6K" text="Schmiedehammer-Griff"/>
+    <string id="Rh3h5NIg" text="Gehärteter kurzer Hartholz-Wurfaxtstiel"/>
+    <string id="rkEbLbYf" text="Östlich verstärkter Leder-Langgriff"/>
+    <string id="rKnBJPfp" text="Feinstahl-Breitschwertklinge der Kavallerie"/>
+    <string id="rL2zMQ2l" text="Breitarmige Garde"/>
+    <string id="rn6tttI2" text="Südlicher Zierknauf"/>
+    <string id="rSs1M2EJ" text="Spiralförmiger Streitkolbenkopf"/>
+    <string id="RWljioj5" text="Einhandgriff aus Eisen und Leder gebundenes Horn"/>
+    <string id="RWm1h40B" text="Hochland-Knauf"/>
+    <string id="RXjhTS9s" text="Langer gewickelter Eichenschaft"/>
+    <string id="S2MYKoII" text="Hoher östlicher Knauf"/>
+    <string id="s50O60ed" text="Gekrümmte kaiserliche Garde"/>
+    <string id="S75vUGzK" text="Feiner Stahl Hauenspeerkopf"/>
+    <string id="S9zZO7qJ" text="Spießkopf aus Feinstahl"/>
+    <string id="SaPaeTr4" text="Hölzerner Zweihandgriff "/>
+    <string id="saYgR9C6" text="Hochqualitäts-Hochland-Zweihandgriff"/>
+    <string id="SEsx3kZz" text="Schwerer Bardiche-Kopf"/>
+    <string id="SgJH5KtP" text="Sica Klinge"/>
+    <string id="SgknWcu2" text="Einhandgriff ausblenden"/>
+    <string id="sHwhgRzK" text="Halbmond Knauf"/>
+    <string id="SJiam61q" text="Kurzer knorriger Griff"/>
+    <string id="SJssgxmf" text="Geschmückte Ild Klinge"/>
+    <string id="sNJNDDKN" text="Kleiner Axtkopf"/>
+    <string id="sq7G99xP" text="Kronenschutz"/>
+    <string id="SqR5K74b" text="Feiner Hochlandgriff"/>
+    <string id="SR7a3qlO" text="Rundmeißel-Schlachtaxt-Kopf"/>
+    <string id="SraI0yxb" text="Gehärteter Lang-Eichen-Griff"/>
+    <string id="sUlksgjL" text="Festgenagelte und eingewickelte Speerwache"/>
+    <string id="SVBYn9KW" text="Eiserne Gabel"/>
+    <string id="sw5rAz73" text="Leichter Südlicher Streitkolbenkopf"/>
+    <string id="swb45HVS" text="Bergklinge"/>
+    <string id="T1aiDuOp" text="Schmaler Menavlon-Kopf"/>
+    <string id="T1xFTaOf" text="Verziertes langes Krummsäbelblatt"/>
+    <string id="T62Cmrrh" text="Facettenreicher Knauf"/>
+    <string id="tgJ3dSOx" text="Eichen-Langspeerstab"/>
+    <string id="TKQl9boE" text="Goldverzierter Schwertgriff mit feiner Bewaffnung"/>
+    <string id="TKVxb6QD" text="Thamaskene Stahl-Blatt-Form-Speerkopf"/>
+    <string id="tLa3nYAQ" text="Facettierter Kelchknauf"/>
+    <string id="TLtaGEcB" text="Breite Makhaira-Klinge"/>
+    <string id="tnaGywrE" text="Zweihandgriff aus rohem Leder für Sanduhr"/>
+    <string id="tNtulHAv" text="Großer nordischer Kopf"/>
+    <string id="tq0eDwck" text="Schüssel-Dolchschutz"/>
+    <string id="trGnmFsh" text="Calradic-Streitkolben Kopf"/>
+    <string id="tRJC72Qh" text="Einhändig gekreuztes Leder"/>
+    <string id="tSaAzzYe" text="Gezackte schmale Klinge"/>
+    <string id="tSgZoxsu" text="Eisenverstärkter hölzerner Einhandgriff"/>
+    <string id="tSQbGb4m" text="Extra langer Mahagoni-Schaft"/>
+    <string id="TUbTwW9U" text="Spatha-Klinge mit flachem Zacken"/>
+    <string id="Tui9qvOZ" text="Tzikurion Kopf"/>
+    <string id="U30HpvtI" text="Dreieckiger eiserner nördlicher Speerkopf"/>
+    <string id="u89rP5qY" text="Breitkrempen-Knauf"/>
+    <string id="uAfTaa3p" text="Eastern Fine Leather Einhandgriff"/>
+    <string id="Udo97SZC" text="Westlich geschmückter Knauf"/>
+    <string id="ueCf3sde" text="Dünner, lederumwickelter Einhandgriff"/>
+    <string id="ugQrq53t" text="Fächerknauf"/>
+    <string id="Uhc0KIdz" text="Kiefernholz-Speerstab"/>
+    <string id="uIciSK8t" text="Geschmückter runder Southern edel griff"/>
+    <string id="uKu7rTrW" text="Eng umwickelter schmaler Einhandgriff"/>
+    <string id="UKWwPPkx" text="Bewaffnete Schwertklinge mit goldenen Blütenblättern verzierung"/>
+    <string id="ukYW8FVm" text="Bulbus-Säbelknauf"/>
+    <string id="uLqEw8LB" text="Besetzter kaiserlich-langer Greifling-Säbelknauf"/>
+    <string id="uQsJQLJH" text="Kurzer nördlicher Fellgriff"/>
+    <string id="usVYZYYD" text="Nördlicher Herrgottsknauf"/>
+    <string id="USWfzbuW" text="Nördlicher breiter Axtkopf"/>
+    <string id="uuover9F" text="Kurze Kampfschwert Klinge"/>
+    <string id="uvmvs2SP" text="Großer Cleaver-Griff"/>
+    <string id="uwG8iwBc" text="Langer Grasland-Speer"/>
+    <string id="V0khEGns" text="Flacher Knauf"/>
+    <string id="v22onVb2" text="Leicht gezackte Flyssa-Klinge"/>
+    <string id="V3JMuFEg" text="Gebundener Streitkolbengriff"/>
+    <string id="V6YQykoc" text="Dolchschützer mit spitzem Halbmond"/>
+    <string id="V9Kbq6vj" text="Stumpfer Praxistipp"/>
+    <string id="VbpiYB68" text="Geschmückte breite Hohlkehle kurze Klinge"/>
+    <string id="VccYBtB0" text="Nördlicher Beilenkopf"/>
+    <string id="VeHazKzb" text="Hartholzgriff mit Lederwickelgriff"/>
+    <string id="Vf2wKojF" text="Stumpfe Flügel"/>
+    <string id="VfzFTGd8" text="Kleiner runder Meißelkopf"/>
+    <string id="vGda3CNV" text="Goldverzierter Bastard-Schwertgriff aus Leder"/>
+    <string id="VgMDYLje" text="Zweihändiger Griff aus grobem Leder mit Noppen"/>
+    <string id="vJieQpnH" text="Geschraubter südlicher Einhandgriff"/>
+    <string id="VJmu4Yag" text="Dekorative Speerspange"/>
+    <string id="vJtBlaeS" text="Extra langer, lederumwickelter Zweihand-Schwertgriff"/>
+    <string id="VL00fQvj" text="Verstärkter Axtstiel"/>
+    <string id="vPMsDf85" text="Eichenholzgriff mit Lederumwicklung"/>
+    <string id="vx2VIbmb" text="Verzierte lange Kriegsschwertklinge"/>
+    <string id="vxqrW5GN" text="Sichelklinge"/>
+    <string id="W5tvNbjY" text="Östlicher Zierknauf"/>
+    <string id="wait0O6m" text="Kriegsrasiermesser Kopf"/>
+    <string id="WAtAGKhV" text="Doppelte Dornflügel"/>
+    <string id="Wd3bU57P" text="Bronze-Halbmondknauf"/>
+    <string id="we4ykbNe" text="Einhandgriff aus eisengebundenem Leder mit einer Wulst"/>
+    <string id="weIT4gUP" text="Schmales Hohlkehlkriegschwert Klinge"/>
+    <string id="wfK63ZQn" text="Säbelknauf"/>
+    <string id="wgWSJzGD" text="Abgeschrägter Ledergriff zweihändig"/>
+    <string id="wHMdRIl6" text="Einhandgriff aus rauhem Leder mit Noppen"/>
+    <string id="Wkhv9ESv" text="Gehärteter Eichen-Wurfaxtstiel"/>
+    <string id="wKJM541b" text="Kantige Spitzenschutz"/>
+    <string id="WkLj6xAo" text="Trapez-Knauf"/>
+    <string id="WkTkxQfw" text="Rechteckige Meißelklinge"/>
+    <string id="Wl1m0LbL" text="Verstärkter Griff mit gravierter Silbereinlage"/>
+    <string id="WNch6azL" text="Eisen-Säbelsägeblatt"/>
+    <string id="wQGWxeCc" text="Dickes Säbelblatt"/>
+    <string id="wsVbMK6L" text="Breite Turnierklinge"/>
+    <string id="wVcrqv4p" text="Holzgriff"/>
+    <string id="wvLoXrFV" text="Westlicher Großer Knauf"/>
+    <string id="WXBkfAbb" text="Verwickelte rechteckige nördliche Dolchgarde"/>
+    <string id="WxnqOG8s" text="Breite Konkavschutz"/>
+    <string id="wXUjru6o" text="Geknöpfter breiter Säbelschutz"/>
+    <string id="X7OrRebK" text="Schmale Sparth-Klinge"/>
+    <string id="xb6e2YaV" text="Östliche einfache ovale Dolchwache"/>
+    <string id="XbaFle0M" text="Östliche Doppelspeer-Flügel"/>
+    <string id="xbazdytG" text="Stahlgebundener südlicher Zweihandgriff"/>
+    <string id="xbB9Ga5X" text="Verjüngte nördliche Klinge"/>
+    <string id="XetKl5yO" text="Goldene Säbelschutz"/>
+    <string id="XI5QgznO" text="Verjüngter Cleaver schutz"/>
+    <string id="xJaVK4D0" text="Keilflügel"/>
+    <string id="xKGpbQjJ" text="Langer Mahagoni-Schaft mit Lederummantelung"/>
+    <string id="Xo7l8eae" text="Stumpfe Klinge"/>
+    <string id="xoSaQWhX" text="Westliche Halbmond-Garde"/>
+    <string id="XSabsFbx" text="Gewichteter Spießkopf der Pfrieme"/>
+    <string id="XtneitaD" text="Kriegsschwertklinge aus Feinstahl"/>
+    <string id="xVHbBpb9" text="Segmentierter Stahl-Säbelgriff"/>
+    <string id="xWZuE1aE" text="Dicker konkaver Dolchschutz"/>
+    <string id="XxhFx0yw" text="Kurzer lederumwickelter Großaxtstiel"/>
+    <string id="xYgJN0Ja" text="Verziertes Krummsäbelblatt"/>
+    <string id="xZ70rbRt" text="Hölzerne Pommelimitar-Rundklinge"/>
+    <string id="Y0gbKTgZ" text="Sturgianischer Militär-Gabelkopf"/>
+    <string id="Y4tIQnS4" text="Kurzer einfacher Speerkopf"/>
+    <string id="y5A3HGua" text="Paramerion-Klinge aus Feinstahl"/>
+    <string id="ybjDbw8p" text="Langer Eichenholzstiel"/>
+    <string id="ybk4YYeV" text="Einhändig gebohrter Axtkopf"/>
+    <string id="yD9v5GS0" text="Geschmückter Kiefernschacht"/>
+    <string id="YDG2spCf" text="Östlicher Leder-Nobelgriff"/>
+    <string id="yFm0f44p" text="Gespitzte Westliche schutz"/>
+    <string id="YFy0t1NY" text="Voller westlicher Streitkolbenkopf"/>
+    <string id="Yi2PlMln" text="Vernieteter Langspeer-Knüppelkopf"/>
+    <string id="yilLfxCc" text="Lippenschutz"/>
+    <string id="ykTYTbek" text="Wurfmesserklinge"/>
+    <string id="YkWqmDEK" text="Breiter Falchion-Klingenkopf"/>
+    <string id="YKXNxxvY" text="Nördlicher Zweihandgriff Nord"/>
+    <string id="ylUAAsQt" text="Einhandgriff aus rauhem Leder umwickelt"/>
+    <string id="yMWzpgjz" text="Gewindeumwickelter Winkel-Zweihandgriff"/>
+    <string id="YQLEkXb7" text="Einzigartiger Haken-Flügel"/>
+    <string id="ysby6FNF" text="Vernieteter Speerknauf aus Thamaskene-Stahl"/>
+    <string id="YTZblGJ0" text="Mit Leder überzogener, verstärkter Zweihandhorngriff"/>
+    <string id="YUDKID1R" text="Verstärkter langer Eschenholzstiel"/>
+    <string id="yUyJ39ot" text="Stahlgebundener Spatha-Griff"/>
+    <string id="YwKrIR6s" text="Doppelte riesige Haken mit Pelzbespannung"/>
+    <string id="yWvSjlnb" text="Östlicher Feinstahl-Streitkolbenkopf"/>
+    <string id="YxoUpPRb" text="Vernietete Hakenflügel"/>
+    <string id="yzsneaL6" text="Rimmrad Pommel"/>
+    <string id="zAdloN6Y" text="Breites gezacktes Kurzschwert Klinge"/>
+    <string id="ZAoWK9Gt" text="Runder Kaiserlicher Speerkopf"/>
+    <string id="ZbSKazZG" text="Kurze Sax Klinge"/>
+    <string id="Zc2Mb991" text="Shestopyor-Kopf"/>
+    <string id="ZCJ0aNYt" text="Schlangenkopfhandschutz"/>
+    <string id="ZcUNAfKT" text="Extra langer Edelstahl Speerkopf"/>
+    <string id="zCYuj3yr" text="Zackig bestückte Ritterschwertklinge"/>
+    <string id="ZfEiEOsK" text="Südlicher gekrönter Dolchhandschutz"/>
+    <string id="ZgCUNieQ" text="Gabelkopf"/>
+    <string id="Zgy40Qc4" text="Langer Mahagoni Griff"/>
+    <string id="zIbAD527" text="Keil Pommel"/>
+    <string id="ZJrqEfBF" text="Verjüngte Kaskara-Klinge"/>
+    <string id="ZJwQmyQR" text="Leder bedeckter Bastardschwert Griff mit Messingbolzen"/>
+    <string id="zKaNmT8r" text="Halbmond Dolchhandschutz"/>
+    <string id="ZKrpvDu6" text="Verstärkter Bastardschwert aus halbgewickeltem Stahl"/>
+    <string id="ZKsIpbg6" text="Bedeckter Halbleder Drahtgriff für Zweihänder"/>
+    <string id="ZmFx0XvN" text="Nordische überlaufener Einhandgriff"/>
+    <string id="Zmtfwmh1" text="Spitz zulaufender dünner Dolchhandschutz"/>
+    <string id="zoQhOBku" text="Rund gestachelter Pommel"/>
+    <string id="zoxF4ikz" text="Langer Aschengriff mit Lederumwicklung"/>
+    <string id="Zp625kEP" text="Nordischer Holzgriff für Zweihänder"/>
+    <string id="ZUp9mm79" text="Gezackter Speerkopf"/>
+    <string id="ZxZ7AJ1r" text="Südliche Streitaxtklinge"/>
+  </strings>
+</base>

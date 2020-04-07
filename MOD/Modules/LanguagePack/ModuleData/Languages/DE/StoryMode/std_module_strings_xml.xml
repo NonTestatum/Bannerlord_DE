@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="(" text="Baldimos"/>
+    <string id="3nilwlcM" text="Du bist bei {TUTORIAL_SETTLEMENT_NAME} angekommen. Um den Ort zu erkunden, kannst du die Siedlung betreten, indem du die markierte Schaltfläche auf der linken Seite drückst."/>
+    <string id="3RqEmB15" text="Navigieren in Calradia"/>
+    <string id="3Y5dudW9" text="Alda"/>
+    <string id="3YkpC9Nf" text="Du kannst Elemente über die Schaltflächen oben filtern. Filter jetzt nach Diverses."/>
+    <string id="4IZnbvlD" text="Baudein"/>
+    <string id="5bYwdRFs" text="Schwerttraining"/>
+    <string id="5M48atXU" text="Du hast eine aktive Quest! Du kannst mehr darüber erfahren, indem du auf das Quest-Protokoll am unteren linken Bildschirmrand klickst."/>
+    <string id="7xHMIZEP" text="Übungsziel"/>
+    <string id="8UUV94Lq" text="Fernkampf Training"/>
+    <string id="8YvBapxl" text="Varic"/>
+    <string id="9YqwNQPO" text="Berittenes Fernkampf Training"/>
+    <string id="ajo9KQpr" text="Schlage den Anfänger-Trainer"/>
+    <string id="at4MdVBJ" text="Vetter"/>
+    <string id="atWs6mkm" text="Schwert- und Schildtraining"/>
+    <string id="axnDLcDA" text="Spreche mit dem Hauptmann"/>
+    <string id="B7WlM3CU" text="Sie sollten im Kaufmenü auf der linken Seite Vorräte kaufen können."/>
+    <string id="C8NDynaB" text="Niasen"/>
+    <string id="CaCfbRJq" text="Nozhon"/>
+    <string id="CONYULU6" text="Phasos"/>
+    <string id="CpKLau15" text="Dein Bruder empfiehlt dir, 2 Säcke Getreide zu kaufen.{newline}{newline} Du kannst dies tun, indem du sie mit dem kleinen Pfeil auf der linken Seite in dein Inventar überführst"/>
+    <string id="cZsPNpCs" text="Nahrungsmittel kaufen"/>
+    <string id="d0LpBfis" text="Armbrust Training"/>
+    <string id="D0SoDPcr" text="Erweitertes Nahkampftraining"/>
+    <string id="ddoD208G" text="Adlige helfen dir, um an mehr und bessere (höherrangige) Truppen entsprechend Ihrer Beziehung zu dir zu rekrutieren.{newline}{newline}Klicke auf einige Truppen, um sie in deine Gruppe zu bewegen."/>
+    <string id="DELVwiEM" text="Tira"/>
+    <string id="dFpNRB1g" text="Nogand"/>
+    <string id="eFc6YuzQ" text="Um ein Gebiet zu verlassen, kannst du die Taste &quot;Tab&quot;key.{newline}{newline} gedrückt halten. Damit kehrst du zum Übersichtsmenü zurück, wo du Vorräte kaufen und Rekruten einstellen kannst."/>
+    <string id="EhELIf65" text="Teruin"/>
+    <string id="elRQHiLR" text="Ausbildung mit dem berittenen Schwert"/>
+    <string id="f6xYa3c4" text="Willkommen in Calradia!{newline}{newline}Du kannst die Weltkarte erkunden, indem du die Kamera mit WASD bewegst, die Ansicht durch Rechtsklick und Ziehen der Maus schwenken und mit dem Mausrad rein- und rauszoomen.{newline}{newline}Probiere es aus."/>
+    <string id="FFP17aSl" text="Zu Beginn einer Schlacht werden deine Soldaten ihre Position halten. Du kannst ihnen sagen, dass sie angreifen sollen, indem du die Bewegungsbefehle mit &quot;F1&quot; öffnen und &quot;Follow Me&quot; mit &quot;F2&quot; wählst."/>
+    <string id="fpdXZ0fl" text="Rekrutieren"/>
+    <string id="GCqWwDWg" text="Baladir"/>
+    <string id="GjGF4xbn" text="Schild Training"/>
+    <string id="gUvxp8mf" text="Bogentraining"/>
+    <string id="IcBq2jSZ" text="Aitheen"/>
+    <string id="Il7C9LQG" text="Du kannst deinen Charakter bewegen:{newline}- Vorwärts mit [W]{newline}- Rückwärts mit [S]{newline}- Links mit [A]{newline}- Rechts mit [D]{newline}{newline}- Probiere jetzt alle aus!"/>
+    <string id="JDtbzwB0" text="Nusun"/>
+    <string id="jLWPSiOR" text="Rede mit dem Anführer"/>
+    <string id="jWvle1tC" text="Beende die Strecke und treffe so viele Ziele, wie du kannst ({HIT} / {ALL}))"/>
+    <string id="K0f6WLjV" text="Um eine Mission zu verlassen, kannst du die Tabulatortaste gedrückt halten.{newline}{newline}Damit kehrst du zum Übersichtsmenü zurück, wo du Vorräte kaufen und Rekruten einstellen kannst."/>
+    <string id="KiJd6Xik" text="Bewegung"/>
+    <string id="KUEHAD4U" text="Aufträge"/>
+    <string id="kwW6v202" text="Gehe zur Schießposition."/>
+    <string id="L0tOoWpV" text="Gehe zum normalen Ausbilder"/>
+    <string id="L24eYhaX" text="Steig auf das Pferd"/>
+    <string id="LGuJctoZ" text="Angriff auf Ausbilder ({HIT} / {ALL})"/>
+    <string id="lN1RQ260" text="Schieße auf die Ziele ({HIT} / {ALL})"/>
+    <string id="LS1whiyj" text="Das Menü oben rechts zeigt die wichtigen Personen an deinen aktuellen Standort. {newline}{newline}Klicke auf das Porträt des Dorfältesten, um mit ihm zu sprechen."/>
+    <string id="m2uEbrkh" text="Najun"/>
+    <string id="mfugkRoz" text="Hideouts &amp; Aufträge"/>
+    <string id="MgBazeaE" text="Alte"/>
+    <string id="MqeQco4z" text="Berittenes Speer Training"/>
+    <string id="MUEaqlix" text="Schlag den Veteran Ausbilder"/>
+    <string id="NWxC3CbS" text="Fodor"/>
+    <string id="OA9bQ8QJ" text="Alea"/>
+    <string id="odbkXZkz" text="Das Bewegen deiner Gruppe erfolgt durch Klicken auf die Karte. Dies hinterlässt eine Markierung auf dem Zielort - es sei denn, du hast auf unzugängliche Gebiete wie Berge oder Meer geklickt.{newline}{newline}Lass uns zu {TUTORIAL_SETTLEMENT_NAME} aufbrechen!"/>
+    <string id="OFNEE8Xr" text="Sie können Ihren Männern sagen, dass sie angreifen sollen, indem Sie die Bewegungsaufträge mit &quot;F1&quot; öffnen und mit &quot;F3&quot; angreifen."/>
+    <string id="oj7B1GOT" text="Siedlung betreten"/>
+    <string id="OJmYUcaU" text="Mit Schwert"/>
+    <string id="okM9QUFA" text="Wurfspeer Training"/>
+    <string id="opUBnFym" text="Terte"/>
+    <string id="P7KbSBvr" text="Berittenes Training"/>
+    <string id="pAf5Mt3X" text="Alishka"/>
+    <string id="q65JaEBW" text="Alya"/>
+    <string id="q71nXdD4" text="Gehe zum Trainer"/>
+    <string id="QHhdmvLj" text="Kampftraining"/>
+    <string id="qNrWU4Or" text="Nahkampftraining"/>
+    <string id="qXv3BY5v" text="Du kannst &quot;Links Alt&quot; drücken, um den Standort des Dorfältesten zu sehen.{newline}{newline} Wenn du dich in der Nähe des Dorfältesten befindest, drücke F, um mit ihm zu sprechen."/>
+    <string id="QZHSvGrD" text="Baldrim"/>
+    <string id="rLEIuqZO" text="Nach einem harten Kampf hast du vielleicht die Wahl, einige Gefangene zu nehmen oder diejenigen zu rekrutieren, die du von ihrem Feind befreit hast.{newline}{newline} Beides geschieht, indem du die Truppen mit der kleinen Pfeilschaltfläche auf der linken Seite zu deiner Gruppe bringst."/>
+    <string id="Rvn8tGB0" text="Dein Bruder hat dich gebeten, mindestens 4 Männer anzuheuern, bevor du dich auf den Weg zu den Räubern machst.{newline}{newline} Du kannst Truppen aus Dörfern und Städten anheuern, indem du auf die Schaltfläche &quot;Truppen rekrutieren&quot; klickst."/>
+    <string id="Sfd3aqia" text="Bandan"/>
+    <string id="tZtrK3cs" text="Ausbildung im Pferdebogenschießen"/>
+    <string id="uW4htMut" text="Mit Schwert und Schild"/>
+    <string id="w4Ajm40u" text="Faroc"/>
+    <string id="WjuwOavt" text="Versteckte Einsätze beginnen mit dem Feind, der sich deiner Annäherung nicht bewusst ist.{newline}{newline} Befehle deinen Truppen, dir mit den Abkürzungen &quot;F1&quot; und &quot;F2&quot; zu folgen und versuche, sie dir in kleinen Gruppen zu vorzunehmen."/>
+    <string id="wq9sNkMc" text="Eine Mission verlassen"/>
+    <string id="WTF4ZIe7" text="Jatu"/>
+    <string id="x4xx1Zd6" text="Schlachtbefehle"/>
+    <string id="X7Xp9xGe" text="Tertha"/>
+    <string id="xCHBC7S9" text="Klicke auf die Schaltfläche &quot;Talk&quot; um zum Adligen zurückzukehren und mehr über die bevorstehende Aufgabe zu erfahren."/>
+    <string id="Xr50xGhr" text=" ({TIME_SCORE} Sekunden)"/>
+    <string id="XsIq2RFs" text="Baldim"/>
+    <string id="yCEMiKjB" text="Wähle deine {SELECTION}"/>
+    <string id="yvdQ9MD6" text="Terea"/>
+    <string id="Z33uQl2f" text="Tarya"/>
+    <string id="z9eC5hjv" text="Mit Speer und Schild"/>
+    <string id="ZozwfwVl" text="Verteidige dich selbst ({HIT} / {ALL})"/>
+    <string id="ZW9OGfEt" text="Rettung &amp; Gefangennahme von Gefangenen"/>
+  </strings>
+</base>

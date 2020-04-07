@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="35IHscBa" text="FEINDE"/>
+    <string id="4gOGGbeQ" text="Individuelle Schlacht"/>
+    <string id="BC7n6qxk" text="Spieler"/>
+    <string id="fXhblsky" text="Map"/>
+    <string id="MVOWsP48" text="Wähle eine Nahkampfmaschine"/>
+    <string id="mxbq3InD" text="{ARMY_SIZE} Mann"/>
+    <string id="SLZzfNPr" text="Wählen Sie eine Distanzmaschine"/>
+  </strings>
+</base>

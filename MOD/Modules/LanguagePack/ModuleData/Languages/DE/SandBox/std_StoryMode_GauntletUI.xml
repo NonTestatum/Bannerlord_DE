@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="75nwCTEn" text="Der Clan-Bildschirm ist während des Tutorials deaktiviert."/>
+    <string id="lBQXP6Wj" text="Starte Spiel"/>
+    <string id="Rvr1bcu8" text="Weiter"/>
+    <string id="UjERCi2F" text="Diese Funktion ist deaktiviert."/>
+  </strings>
+</base>

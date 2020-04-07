@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+  </tags>
+  <strings>
+    <string id="1CCSLaXG" text="ehrenvoll"/>
+    <string id="2LhoHBb4" text="fern und distanziert"/>
+    <string id="2oLzxPGu" text="aggressiv und verlangt viel von den Menschen"/>
+    <string id="3ojhI49j" text="eisig"/>
+    <string id="4Kb43rdf" text="treu"/>
+    <string id="5L4ox55u" text="{?NOTABLE.GENDER}Er ist immer der Erste, der seinen Hals für die Sache aufs Spiel setzt."/>
+    <string id="5ogR7oUW" text="edel und großzügig"/>
+    <string id="6okDQlyn" text="vorsicht"/>
+    <string id="6tOrCXWu" text="{?NOTABLE.GENDER}Kümmert sich um diejenigen, die ihr gut gedient haben."/>
+    <string id="8aAbnMIo" text="unnahbar"/>
+    <string id="8D5Lx2LY" text="weichherzig"/>
+    <string id="9bUlUrVI" text="heftig und grausam"/>
+    <string id="A27HuUiz" text="gewagt"/>
+    <string id="aDkmS7iN" text="der Typ, der handelt, ohne zu denken"/>
+    <string id="AgE2Wffg" text="ein guter Freund sein kann, aber auch ein gefährlicher Feind"/>
+    <string id="bSQF8nac" text="ehrgeizige"/>
+    <string id="bYa051Bs" text="hinterhältig, aggressiv und ehrgeizig"/>
+    <string id="CaSahkj4" text="in jeder Hinsicht unehrenhaft"/>
+    <string id="CUR5ZZtd" text="gerecht, aber unbarmherzig"/>
+    <string id="Dkmja15D" text="Man kann ihm nicht trauen."/>
+    <string id="Dz3kGpkM" text="verrückt, schlecht und gefährlich zu wissen"/>
+    <string id="dZ7OtsDv" text="vorsichtig, aber vertrauenswürdig"/>
+    <string id="etdkWOLn" text="hinterhältig"/>
+    <string id="euinlzab" text="zaghaft"/>
+    <string id="fgkQSbUE" text="ein bisschen wie ein Schurke, aber ein Herz aus Gold"/>
+    <string id="FNzGHbvb" text="anfällig für gefährliche Wutanfälle"/>
+    <string id="GMMg8AwD" text="erbarmungslos"/>
+    <string id="gZMm5J4u" text="Handelt nie in Eile... Hat immer einen Plan."/>
+    <string id="hFtm7jZT" text="durch und durch konventionell"/>
+    <string id="HNoD0Xcw" text="mutig, aber leicht zornig und unversöhnlich"/>
+    <string id="HTBQ3E3Q" text="großzügig zu Freunden"/>
+    <string id="isnEHNXl" text="Steht für was {?NOTABLE.GENDER}Sie{?}Er{\?} glaubt."/>
+    <string id="jFLPNGdH" text="mutig und ehrenhaft"/>
+    <string id="jqiKsw34" text="hinterhältig, aber weichherzig"/>
+    <string id="JWTKNySw" text="knauserig"/>
+    <string id="KFvms0sR" text="ein Mann, der gerne kalkulierte Risiken eingeht."/>
+    <string id="kKFLfWbJ" text="moralistische"/>
+    <string id="Ks88a8lp" text="eine Art Drückeberger"/>
+    <string id="KxjSILpL" text="der Typ, der jeden Vorteil nutzt"/>
+    <string id="L3b9ZsLs" text="wüstling"/>
+    <string id="LCs7NMyz" text="Sie werden nicht finden, dass man sich in Gefahr begibt."/>
+    <string id="LfmWyPEk" text="konventionell"/>
+    <string id="LtBwSe0J" text="freundlich und rücksichtsvoll - auch wenn manche sagen könnten, dass sie weichherzig sind"/>
+    <string id="mH8FHX9r" text="vorsichtig, aber gefährlich"/>
+    <string id="MoQbaOOk" text="grausam und hinterhältig"/>
+    <string id="MVnA7tkN" text="ehrenhaft, wütend und grausam, unfähig, einen Eid zu brechen oder eine Beleidigung zu vergeben"/>
+    <string id="mWkCWB6j" text="freundlich, aber zurückhaltend"/>
+    <string id="nnDG8Ryc" text="mutig, aber eigensinnig"/>
+    <string id="NOEYSbeR" text="ehrenhaft, aber halsstarrig und grausam"/>
+    <string id="nYHM3bmc" text="mutig, aber barmherzig"/>
+    <string id="OuXZbyeS" text="aufmerksam, darauf bedacht, loyale Anhänger zu belohnen"/>
+    <string id="OwOdbwc5" text="Stürmt manchmal ohne nachzudenken herein."/>
+    <string id="peI78GmJ" text="Ich weiß nicht, was ich davon halten soll..."/>
+    <string id="ppTLY8tm" text="gerecht und ehrlich, aber undankbar"/>
+    <string id="PW3Ya1AQ" text="übellaunig"/>
+    <string id="Q3TaYO39" text="der Typ, der sich bemüht, gerecht und fair zu sein"/>
+    <string id="QtcN7aEk" text="mutig und ehrgeizig"/>
+    <string id="qXwYcJHa" text="anständig und freundlich"/>
+    <string id="QzNHs8Ch" text="leidenschaftlich und mutig, wenn auch manchmal, ohne die Dinge durchzudenken."/>
+    <string id="RaecCLdK" text="mutig und großzügig, ein guter Freund zu haben"/>
+    <string id="Raq3TcUa" text="rücksichtnahme auf andere"/>
+    <string id="raQIsPly" text="verschonen von Feinden, aber rücksichtslos von Freunden"/>
+    <string id="rarG5Bqa" text="hilfreich"/>
+    <string id="S6XcP7Wz" text="kein besserer Freund, kein schlechterer Feind"/>
+    <string id="tc1PuNa8" text="loyal gegenüber Freunden, aber auch grausam und manipulativ"/>
+    <string id="TGQD4r5Z" text="galant"/>
+    <string id="UoYPTOPV" text="tückisch, aber zumindest nicht grausam"/>
+    <string id="URWSOAfG" text="sadistisch"/>
+    <string id="Vis2eo0Y" text="Sie haben eine grausame Ader, das lässt sich nicht leugnen."/>
+    <string id="VnaT2Ipq" text="freundlich"/>
+    <string id="VujjcI1C" text="Dass man ein gutes Herz hat, lässt sich nicht leugnen."/>
+    <string id="WAzdB4DL" text="schlau und schalkhaft"/>
+    <string id="WbyybDP6" text="Erinnert sich nicht immer an diejenigen, die ihm einen guten Dienst erwiesen haben."/>
+    <string id="wVfZh5eN" text="besitzt ein heftiges und gefährliches Temperament"/>
+    <string id="XPU5mqSi" text="listig"/>
+    <string id="xSbcea2l" text="unzuverlässig"/>
+    <string id="Y8WpovVO" text="anständig, aber zurückhaltend"/>
+    <string id="YeK2rAWJ" text="grausam"/>
+    <string id="Yyw81AGG" text="freundlich aber manipulativ"/>
+    <string id="znOeRtlb" text="ein Intrigant"/>
+  </strings>
+</base>
